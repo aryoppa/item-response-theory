@@ -1,0 +1,8 @@
+@startuml
+class AuthService {
+    login()
+        teacher_repo
+    student_repo
+    __init__()
+}
+@enduml

@@ -1,0 +1,49 @@
+@startuml
+class NLGCore {
+    generate_text()
+        nlg
+    __init__()
+}
+class TreeNode {
+        name
+    count
+    parent
+    link
+    __init__()
+}
+class FpGrowth {
+    build_tree()
+    update_tree()
+    update_header()
+    projecting_tree()
+    ascend_tree()
+    pruning_tree()
+    fp_growth()
+        __init__()
+}
+class Apriori {
+    subsets()
+    is_valid_candidate()
+    generate_candidates()
+    apriori()
+        transactions
+    min_support
+    __init__()
+}
+class DataPreProcessing {
+    recommend_materials()
+    transform_result_to_biner()
+    mapping_student_competency()
+    generate_final_dataset()
+    data_transformation()
+        obj_nlg
+    __init__()
+}
+class RecommendationService {
+    get_recommendations()
+    generate_recommendations()
+        recommendation_repo
+    student_repo
+    __init__()
+}
+@enduml
