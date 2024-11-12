@@ -39,12 +39,44 @@ def extract_features_v2(data, filename, nlp, word_freq):
         level3['con2'] = opt_deps['con2']
         level3['scon1'] = opt_deps['scon1']
         level3['scon2'] = opt_deps['scon2']
+        level3['v1_options'] = opt_deps['v1_options']
+        level3['v2_options'] = opt_deps['v2_options']
+        level3['v3_options'] = opt_deps['v3_options']
+        level3['v4_options'] = opt_deps['v4_options']
+        level3['v5_options'] = opt_deps['v5_options']
+        level3['v6_options'] = opt_deps['v6_options']
+        level3['v7_options'] = opt_deps['v7_options']
+        level3['v8_options'] = opt_deps['v8_options']
+        level3['v9_options'] = opt_deps['v9_options']
+        level3['v10_options'] = opt_deps['v10_options']
+        level3['pro1_options'] = opt_deps['pro1_options']
+        level3['pro2_options'] = opt_deps['pro2_options']
+        level3['pro3_options'] = opt_deps['pro3_options']
+        level3['n1_options'] = opt_deps['n1_options']
+        level3['n2_options'] = opt_deps['n2_options']
+        level3['n3_options'] = opt_deps['n3_options']
+        level3['a1_options'] = opt_deps['a1_options']
+        level3['a2_options'] = opt_deps['a2_options']
+        level3['a3_options'] = opt_deps['a3_options']
+        level3['a4_options'] = opt_deps['a4_options']
+        level3['a5_options'] = opt_deps['a5_options']
+        level3['a6_options'] = opt_deps['a6_options']
+        level3['pre1_options'] = opt_deps['pre1_options']
+        level3['pre2_options'] = opt_deps['pre2_options']
+        level3['pre3_options'] = opt_deps['pre3_options']
+        level3['con1_options'] = opt_deps['con1_options']
+        level3['con2_options'] = opt_deps['con2_options']
+        level3['scon1_options'] = opt_deps['scon1_options']
+        level3['scon2_options'] = opt_deps['scon2_options']
+        level3['sva'] = opt_deps['sva']
+        level3['sva_options'] = opt_deps['sva_options']
         level3['c_count'] = opt_deps['c_count']
         level3['s_count'] = opt_deps['s_count']
         level3['u_word'] = opt_deps['u_word']
-        level3['sva'] = opt_deps['sva']
         response['level3'] = level3
-        response['level2'] = check_level2(level3)
+        temp = check_level2(level3)
+        response['level2'] = temp[0]
+        response['level2_with_options'] = temp[1]
         response['levels'] = check_levels(level3)
         extracted_features.append(response)
     set_training_data(f'{filename}_features_v2', extracted_features)
@@ -52,6 +84,7 @@ def extract_features_v2(data, filename, nlp, word_freq):
     return extracted_features
 
 def check_level2(data):
+    
     level2 = {
         "main_verbs": data.get("v1", False) or data.get("v2", False) or data.get("v3", False),
         "tense": data.get("v4", False) or data.get("v5", False),
@@ -67,7 +100,25 @@ def check_level2(data):
         "conjunctions": data.get("con1", False) or data.get("con2", False) or data.get("scon1", False) or data.get("scon2", False),
         "subject_verb_agreement": data.get("sva", False),
     }
-    return level2
+
+    level2_with_opt = {
+        "main_verbs": data.get("v1_options", "") or data.get("v2_options", "") or data.get("v3_options", ""),
+        "tense": data.get("v4_options", "") or data.get("v5_options", ""),
+        "infinitives": data.get("v6_options", ""),
+        "passives": data.get("v7_options", "") or data.get("v8_options", ""),
+        "have_+_participle": data.get("v9_options", ""),
+        "auxiliary_verbs": data.get("v10_options", ""),
+        "pronouns": data.get("pro1_options", "") or data.get("pro2_options", "") or data.get("pro3_options", ""),
+        "nouns": data.get("n1_options", "") or data.get("n2_options", "") or data.get("n3_options", ""),
+        "determiners": data.get("a1_options", "") or data.get("a2_options", "") or data.get("a5_options", ""),
+        "other_adjectives": data.get("a3_options", "") or data.get("a4_options", ""),
+        "prepositions": data.get("pre1_options", "") or data.get("pre2_options", "") or data.get("pre3_options", ""),
+        "conjunctions": data.get("con1_options", "") or data.get("con2_options", "") or data.get("scon1_options", "") or data.get("scon2_options", ""),
+        "subject_verb_agreement": data.get("sva_options", ""),
+    }
+
+
+    return [level2, level2_with_opt]
 
 def check_levels(data):
     
