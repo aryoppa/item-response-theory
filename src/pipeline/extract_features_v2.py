@@ -6,8 +6,12 @@ def extract_features_v2(data, filename, nlp, word_freq):
     for item in data:
         response = {}
         level3 = {}
-
         response['question_text'] = item['question_text']
+        response['answer'] = item['answer']
+        response['option_A'] = item['options_A']
+        response['option_B'] = item['options_B']
+        response['option_C'] = item['options_C']
+        response['option_D'] = item['options_D']
         featex_v2 = FeatureExtractionV2(item, nlp, word_freq)
         opt_deps = featex_v2.option_deps()
         level3['v1'] = opt_deps['v1']
@@ -78,6 +82,7 @@ def extract_features_v2(data, filename, nlp, word_freq):
         response['level2'] = temp[0]
         response['level2_with_options'] = temp[1]
         response['levels'] = check_levels(level3)
+        response['options_comp'] = check_comp(response['level2_with_options'], response['option_A'], response['option_B'], response['option_C'], response['option_D'])
         extracted_features.append(response)
     set_training_data(f'{filename}_features_v2', extracted_features)
 
@@ -100,7 +105,7 @@ def check_level2(data):
         "conjunctions": data.get("con1", False) or data.get("con2", False) or data.get("scon1", False) or data.get("scon2", False),
         "subject_verb_agreement": data.get("sva", False),
     }
-
+    
     level2_with_opt = {
         "main_verbs": data.get("v1_options", "") or data.get("v2_options", "") or data.get("v3_options", ""),
         "tense": data.get("v4_options", "") or data.get("v5_options", ""),
@@ -116,9 +121,34 @@ def check_level2(data):
         "conjunctions": data.get("con1_options", "") or data.get("con2_options", "") or data.get("scon1_options", "") or data.get("scon2_options", ""),
         "subject_verb_agreement": data.get("sva_options", ""),
     }
+    
+    level2_with_opt_list = [[key, value] for key, value in level2_with_opt.items()]
 
+    return [level2, level2_with_opt_list]
 
-    return [level2, level2_with_opt]
+def check_comp(opt, A, B, C, D):
+    
+    cek = opt[0]
+    Another = []
+    Bnother = []
+    Cnother = []
+    Dnother = []
+    Another.append(A[0])
+    Bnother.append(B[0])
+    Cnother.append(C[0])
+    Dnother.append(D[0])
+    for item in opt:
+        if item[1] != "":
+            if(item[1] in A[0]):
+                Another.append(item[0])
+            if(item[1] in B[0]):
+                Bnother.append(item[0])
+            if(item[1] in C[0]):
+                Cnother.append(item[0])
+            if(item[1] in D[0]):
+                Dnother.append(item[0])
+
+    return Another, Bnother, Cnother, Dnother
 
 def check_levels(data):
     

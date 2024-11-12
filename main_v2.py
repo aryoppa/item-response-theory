@@ -58,6 +58,9 @@ questions_by_level = {
 for item in json_data:
     # Create a new dictionary for each item with `question_text` and `level2` values
     row_data = {'question_text': item['question_text']}
+    row_data.update({'answer': item['answer']})
+    row_data.update({'options_comp': item['options_comp']})
+    # row_data.update(item['options_comp'])
     row_data.update(item['level2'])
     output.append(row_data)
     if(item['levels']['Level_1'] == True):

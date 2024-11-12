@@ -1,0 +1,2402 @@
+[
+    {
+        "question_text": "While attempting to fly hers plane around the world in 1937, Amelia Earhart mysteriously disappeared.",
+        "A": "While",
+        "B": "hers",
+        "C": "around",
+        "D": "mysteriously",
+        "key_answer": "B"
+    },
+    {
+        "question_text": "Richard Wright's Uncle Tom's Children, a collection of short stories, were a critical success when it appeared in 1938.",
+        "A": "short",
+        "B": "were",
+        "C": "success",
+        "D": "appeared",
+        "key_answer": "B"
+    },
+    {
+        "question_text": "The principle on which the boat called a hydrofoil is designed is identically to that demonstrated by an airplane wing moving through air.",
+        "A": "is identically",
+        "B": "demonstrated by",
+        "C": "moving",
+        "D": "air",
+        "key_answer": "A"
+    },
+    {
+        "question_text": "Migrating butterflies can travel long distant over water.",
+        "A": "butterflies",
+        "B": "travel",
+        "C": "distant",
+        "D": "over",
+        "key_answer": "C"
+    },
+    {
+        "question_text": "During a early period in the settlement of the western United States, pioneers claimed parts of the wilderness by marking trees to establish a boundary.",
+        "A": "a early",
+        "B": "parts",
+        "C": "marking",
+        "D": "to establish",
+        "key_answer": "A"
+    },
+    {
+        "question_text": "All digital computers use binary, or two-valued, digits instead than decimal, or ten-valued, digits to represent and store data.",
+        "A": "All",
+        "B": "use",
+        "C": "instead",
+        "D": "to represent",
+        "key_answer": "C"
+    },
+    {
+        "question_text": "An ambassador serves as a nation's highest-ranking diplomacy in another country.",
+        "A": "An",
+        "B": "as a",
+        "C": "diplomacy",
+        "D": "country",
+        "key_answer": "C"
+    },
+    {
+        "question_text": "Early adolescence is a developmental phase consisting of rapid changes in behavior, psychological, and hormones.",
+        "A": "Early",
+        "B": "developmental",
+        "C": "rapid",
+        "D": "psychological",
+        "key_answer": "D"
+    },
+    {
+        "question_text": "Knowledge from the frontiers of research genetic will increasingly pose difficult problems for policy makers and for society in general.",
+        "A": "Knowledge",
+        "B": "research genetic",
+        "C": "difficult",
+        "D": "in general",
+        "key_answer": "B"
+    },
+    {
+        "question_text": "Pictures called glass mosaics are made by setting small pieces of colors glass into fresh plaster.",
+        "A": "called glass mosaics",
+        "B": "by setting",
+        "C": "of colors",
+        "D": "into",
+        "key_answer": "C"
+    },
+    {
+        "question_text": "Approximately every nineteen month Venus and the Sun reach their greatest angular separation in the solar system.",
+        "A": "every nineteen month",
+        "B": "their",
+        "C": "separation",
+        "D": "the",
+        "key_answer": "A"
+    },
+    {
+        "question_text": "Anthropologists recently have found evidence that, centuries ago, Inuits used to entering their subterranean homes through tunners, which helped keep the cold out and the heat in.",
+        "A": "found evidence",
+        "B": "used to entering",
+        "C": "helped keep",
+        "D": "the heat in",
+        "key_answer": "B"
+    },
+    {
+        "question_text": "The tree porcupine is found in wooded areas thoughout most from North America.",
+        "A": "The",
+        "B": "found",
+        "C": "areas",
+        "D": "from",
+        "key_answer": "D"
+    },
+    {
+        "question_text": "To date, only a small percentage of all glass manufactured in the United States is recycled, but markets for recycled glass that are growing steadily.",
+        "A": "glass manufactured",
+        "B": "is",
+        "C": "that are",
+        "D": "steadily",
+        "key_answer": "C"
+    },
+    {
+        "question_text": "The oceans are the major source of the atmospheric moisture that is obtained through evaporator.",
+        "A": "The oceans",
+        "B": "major source",
+        "C": "atmospheric",
+        "D": "evaporator",
+        "key_answer": "D"
+    },
+    {
+        "question_text": "Only those insects with high developed, multilensed eyes have good color vision",
+        "A": "Only",
+        "B": "high",
+        "C": "have",
+        "D": "color",
+        "key_answer": "B"
+    },
+    {
+        "question_text": "The Earth's atmosphere functions much like a giant greenhouse, admitting sunlight between outer space but preventing heat from escaping.",
+        "A": "functions",
+        "B": "between",
+        "C": "but",
+        "D": "escaping",
+        "key_answer": "B"
+    },
+    {
+        "question_text": "The almond tree which produces the oldest species of nut and is the most widely grown of all nut trees.",
+        "A": "which produces",
+        "B": "oldest",
+        "C": "widely grown",
+        "D": "nut",
+        "key_answer": "A"
+    },
+    {
+        "question_text": "Fran Tannenbaum, a paleontology student doing summer fieldwork, found a completely seventy-five-million-year-old fossil eggi near Chateau, Montana.",
+        "A": "doing",
+        "B": "fieldwork",
+        "C": "found",
+        "D": "completely",
+        "key_answer": "D"
+    },
+    {
+        "question_text": "Fencing, originally developed as a sport in fourteenth century, was included in the first modern Olympic Games of 1896.",
+        "A": "in fourteenth century",
+        "B": "included in",
+        "C": "first modern",
+        "D": "of",
+        "key_answer": "A"
+    },
+    {
+        "question_text": "Depth within ancient tombs, 3000-year-old peanuts have been found alongside mummies.",
+        "A": "Depth",
+        "B": "ancient",
+        "C": "have",
+        "D": "alongside",
+        "key_answer": "A"
+    },
+    {
+        "question_text": "Art Nouveau developed in the 1890's when artists did a conscious effort to break with what they regarded as worn-out formulas of the past.",
+        "A": "in",
+        "B": "did",
+        "C": "conscious",
+        "D": "the past",
+        "key_answer": "B"
+    },
+    {
+        "question_text": "The most widely cultivated all of fruit trees, the apple is second only to the grape in its importance as a temperate-zone fruit.",
+        "A": "all of",
+        "B": "only to",
+        "C": "importance",
+        "D": "as",
+        "key_answer": "A"
+    },
+    {
+        "question_text": "Pawnbroking, or making loans to customers who pledge personal or household goods as security, is one of the oldest trade known.",
+        "A": "or making loans",
+        "B": "who",
+        "C": "personal",
+        "D": "the oldest trade",
+        "key_answer": "D"
+    },
+    {
+        "question_text": "Of 1901 to 1914, acclaimed actor Douglas Fairbanks appeared on stage in a series of light comedies.",
+        "A": "Of",
+        "B": "stage",
+        "C": "a series",
+        "D": "comedies",
+        "key_answer": "A"
+    },
+    {
+        "question_text": "Patients they suffer from common arthritis can be treated using heat, physical therapy, and aspirin.",
+        "A": "they",
+        "B": "from",
+        "C": "can",
+        "D": "heat",
+        "key_answer": "A"
+    },
+    {
+        "question_text": "Forests contain more that merely tree; they also include smaller plants, such as mosses, shrubs, and wild flowers.",
+        "A": "tree",
+        "B": "also",
+        "C": "such as",
+        "D": "flowers",
+        "key_answer": "A"
+    },
+    {
+        "question_text": "The game of marbles, which originated in prehistoric times, is still played today in much lands.",
+        "A": "game of",
+        "B": "which",
+        "C": "is",
+        "D": "much",
+        "key_answer": "D"
+    },
+    {
+        "question_text": "The modern racing bicycle is carefully engineered for safety, lightness, and reliable.",
+        "A": "modern",
+        "B": "carefully",
+        "C": "for",
+        "D": "reliable",
+        "key_answer": "D"
+    },
+    {
+        "question_text": "Only 1954 the United States Supreme Court ruled on the case of Brown v. Board of Education, declaring segregated education uncostitutional.",
+        "A": "Only",
+        "B": "the case",
+        "C": "declaring",
+        "D": "education",
+        "key_answer": "A"
+    },
+    {
+        "question_text": "Because glass objects are fragile, least have survived from ancient civilizations.",
+        "A": "glass",
+        "B": "least",
+        "C": "from",
+        "D": "civilizations",
+        "key_answer": "B"
+    },
+    {
+        "question_text": "An important effect that criticism can have on contemporary poets is the assurance that there is a growing interest their work.",
+        "A": "effect",
+        "B": "can have",
+        "C": "there is a",
+        "D": "interest their",
+        "key_answer": "D"
+    },
+    {
+        "question_text": "Music festivals, which date back as far as the mid-seventeenth century; have increased significantly in popular within the past few decades.",
+        "A": "far as",
+        "B": "significantly",
+        "C": "popular",
+        "D": "past",
+        "key_answer": "C"
+    },
+    {
+        "question_text": "Human skin is a complex, sensitive organ that serves many functions necessary for the maintain of life.",
+        "A": "a complex",
+        "B": "that",
+        "C": "functions",
+        "D": "maintain",
+        "key_answer": "D"
+    },
+    {
+        "question_text": "Space photography and advanced measurement technology, including a laser reflector places on the Moon, have possible made extremely precise measurements of the surfaces of the Earth.",
+        "A": "Space",
+        "B": "including",
+        "C": "have possible made",
+        "D": "extremely",
+        "key_answer": "C"
+    },
+    {
+        "question_text": "The scale of the demographic change that are now occuring and that are projected for the near future is unprecendented in human history.",
+        "A": "change",
+        "B": "projected",
+        "C": "future",
+        "D": "human",
+        "key_answer": "A"
+    },
+    {
+        "question_text": "The paintings of artist Abraham Rattner are noted for their brilliant color, rich texture, and symbolic.",
+        "A": "The paintings",
+        "B": "noted for",
+        "C": "color",
+        "D": "symbolic",
+        "key_answer": "D"
+    },
+    {
+        "question_text": "Between the high and low tidemarks of marine coassts existing abundant and varied plant and animal life.",
+        "A": "Between",
+        "B": "existing",
+        "C": "varied",
+        "D": "and",
+        "key_answer": "B"
+    },
+    {
+        "question_text": "The total amount of water in the world's ecological system has remained the same that throughout the ages.",
+        "A": "amount of water",
+        "B": "ecological system",
+        "C": "same that",
+        "D": "ages",
+        "key_answer": "C"
+    },
+    {
+        "question_text": "Butterfiles and moths comprise the Lepidoptera order of insects find throughout most of the world.",
+        "A": "comprise",
+        "B": "find",
+        "C": "throughout",
+        "D": "most of",
+        "key_answer": "B"
+    },
+    {
+        "question_text": "The planet Neptune has two known satellites: one about the size with Earth's Moon, the other much smaller.",
+        "A": "planet",
+        "B": "known",
+        "C": "about",
+        "D": "with",
+        "key_answer": "D"
+    },
+    {
+        "question_text": "Harry Truman's victory over Thomas Dewey was one of the biggest surprise in the political history of the United States.",
+        "A": "over",
+        "B": "of",
+        "C": "surprise",
+        "D": "political",
+        "key_answer": "C"
+    },
+    {
+        "question_text": "The narwhal resembles like other whales, but it has a long, spiral tush growing from its head.",
+        "A": "resembles like",
+        "B": "a long",
+        "C": "growing",
+        "D": "its",
+        "key_answer": "A"
+    },
+    {
+        "question_text": "In exchange for requiring them to disclose the workings of their inventions, patents give inventors temporary, legally monopolies.",
+        "A": "for",
+        "B": "to disclose",
+        "C": "inventors",
+        "D": "legally",
+        "key_answer": "D"
+    },
+    {
+        "question_text": "Lillian Gish is best known for her roles in such silently films as The Birth of a Nation and Broken Blossoms.",
+        "A": "best",
+        "B": "roles",
+        "C": "silently",
+        "D": "as",
+        "key_answer": "C"
+    },
+    {
+        "question_text": "Oraibi, Arizona, built by the Hopi Indians during 1100's, is probably the oldest continuous inhabited settlement in the United States.",
+        "A": "built by",
+        "B": "probably the",
+        "C": "continuous",
+        "D": "settlement",
+        "key_answer": "C"
+    },
+    {
+        "question_text": "It may take several hundred years to build inch of topsoil.",
+        "A": "It",
+        "B": "may take",
+        "C": "hundred years",
+        "D": "build inch",
+        "key_answer": "D"
+    },
+    {
+        "question_text": "Known for power, speed, and, maneuverability, the goshawk has short wings and a long tail, enabling them to dodge branches in pursuit of prey.",
+        "A": "speed",
+        "B": "a",
+        "C": "enabling",
+        "D": "them",
+        "key_answer": "D"
+    },
+    {
+        "question_text": "Lubrication is essential in machinery because if the moving part of a machine come into direct contact with each other, friction interferes with motion.",
+        "A": "if",
+        "B": "moving part",
+        "C": "direct contact",
+        "D": "each other",
+        "key_answer": "B"
+    },
+    {
+        "question_text": "One basic principle of international air law recognize a country's complete sovereignty over the airspace above its territory.",
+        "A": "international",
+        "B": "recognize",
+        "C": "over",
+        "D": "territory",
+        "key_answer": "B"
+    },
+    {
+        "question_text": "If biennials were planted this year, they will be likely to bloom next year",
+        "A": "will be",
+        "B": "likely",
+        "C": "to bloom",
+        "D": "next year",
+        "key_answer": "A"
+    },
+    {
+        "question_text": "The value of the dollar declines as the rate of inflation raises.",
+        "A": "of the dollar",
+        "B": "declines",
+        "C": "as",
+        "D": "raises",
+        "key_answer": "D"
+    },
+    {
+        "question_text": "I want to go to the beach, but I can neither swim nor I don't like the sun.",
+        "A": "but I can",
+        "B": "neither swim",
+        "C": "nor I don't like the sun",
+        "D": "sun",
+        "key_answer": "C"
+    },
+    {
+        "question_text": "Although she was tired, but she decided to finish her homework before going to bed.",
+        "A": "Although she was tired",
+        "B": "but she decided",
+        "C": "to finish",
+        "D": "going to bed",
+        "key_answer": "B"
+    },
+    {
+        "question_text": "I enjoy studying geography at school and now I have enrolled at the Economics Faculty.",
+        "A": "enjoy",
+        "B": "studying",
+        "C": "enrolled",
+        "D": "Economics",
+        "key_answer": "A"
+    },
+    {
+        "question_text": "The teachers are expecting to calling a meeting tomorrow in order to review the disciplinary problems",
+        "A": "expecting",
+        "B": "calling",
+        "C": "meeting",
+        "D": "the",
+        "key_answer": "B"
+    },
+    {
+        "question_text": "I want some meet your sister when she comes to see you she sounds very nice.",
+        "A": "I",
+        "B": "some",
+        "C": "when",
+        "D": "very",
+        "key_answer": "B"
+    },
+    {
+        "question_text": "My friends tell mine the English exam is quite difficult but I am not worried.",
+        "A": "mine",
+        "B": "exam",
+        "C": "quite",
+        "D": "not",
+        "key_answer": "A"
+    },
+    {
+        "question_text": "The tickets, which are extremely good value, can be buy from large supermarkets.",
+        "A": "tickets",
+        "B": "which",
+        "C": "good",
+        "D": "buy",
+        "key_answer": "D"
+    },
+    {
+        "question_text": "The number of people who asked for the discount been low but grew during the summer period.",
+        "A": "who",
+        "B": "asked",
+        "C": "been",
+        "D": "grew",
+        "key_answer": "C"
+    },
+    {
+        "question_text": "He wanted always to be a doctor and after doing medicine he now works in a hospital.",
+        "A": "wanted",
+        "B": "a",
+        "C": "after",
+        "D": "works",
+        "key_answer": "A"
+    },
+    {
+        "question_text": "The informations they give us was not very helpful so I consulted the website instead.",
+        "A": "informations",
+        "B": "give",
+        "C": "helpful",
+        "D": "so",
+        "key_answer": "B"
+    },
+    {
+        "question_text": "There isn\u2019t much time, do you think we should get a taxi beneath the exhibition centre?.",
+        "A": "much",
+        "B": "do",
+        "C": "think",
+        "D": "beneath",
+        "key_answer": "D"
+    },
+    {
+        "question_text": "He graduated in languages in June and is now thinking of do a second degree in psychology.",
+        "A": "in",
+        "B": "is",
+        "C": "thinking",
+        "D": "do",
+        "key_answer": "D"
+    },
+    {
+        "question_text": "The policeman show us an identical picture of the man who stole the car.",
+        "A": "show",
+        "B": "identical",
+        "C": "stole",
+        "D": "the",
+        "key_answer": "A"
+    },
+    {
+        "question_text": "How long does it take to get of the station on foot from your house?",
+        "A": "does",
+        "B": "of",
+        "C": "from",
+        "D": "your",
+        "key_answer": "B"
+    },
+    {
+        "question_text": "I was so angry that I took the broken watch to the jewellers to got my money back.",
+        "A": "was",
+        "B": "so",
+        "C": "to",
+        "D": "got",
+        "key_answer": "D"
+    },
+    {
+        "question_text": "He rang me this morning along tell me that he had passed his driving test.",
+        "A": "rang",
+        "B": "along",
+        "C": "had",
+        "D": "driving",
+        "key_answer": "B"
+    },
+    {
+        "question_text": "I will not be able to go in holiday this year unless I will get a part-time job.",
+        "A": "be",
+        "B": "in",
+        "C": "this",
+        "D": "unless",
+        "key_answer": "B"
+    },
+    {
+        "question_text": "It being such a nice day that they decided to have a picnic in the field.",
+        "A": "being",
+        "B": "such",
+        "C": "that",
+        "D": "in",
+        "key_answer": "A"
+    },
+    {
+        "question_text": "I haven't never seen anybody who rides a horse so well before.",
+        "A": "haven't",
+        "B": "anybody",
+        "C": "rides",
+        "D": "so well",
+        "key_answer": "A"
+    },
+    {
+        "question_text": "My boyfriend always taking me to see horror films, but I do not like them.",
+        "A": "My",
+        "B": "boyfriend",
+        "C": "taking",
+        "D": "do",
+        "key_answer": "C"
+    },
+    {
+        "question_text": "We went to Guatemala last year of we were tired of the usual beach holiday.",
+        "A": "went",
+        "B": "of",
+        "C": "tired",
+        "D": "the",
+        "key_answer": "B"
+    },
+    {
+        "question_text": "After quartz, calcite is the most abundant mineral aboard the crust of the Earth.",
+        "A": "After",
+        "B": "most",
+        "C": "aboard",
+        "D": "of",
+        "key_answer": "C"
+    },
+    {
+        "question_text": "Regards as the world\u2019s foremost linguistic theorist, Noam Chomsky continues to create new theories about language and language learning.",
+        "A": "Regards",
+        "B": "the",
+        "C": "Chomsky",
+        "D": "to",
+        "key_answer": "A"
+    },
+    {
+        "question_text": "Whenever any area receives more water than the ground can absorb, the excess water flows to the lowest level, carried loose mineral.",
+        "A": "Whenever",
+        "B": "than",
+        "C": "to",
+        "D": "carried",
+        "key_answer": "D"
+    },
+    {
+        "question_text": "In 1935 seismologist Charles F Richter devise a numerical scale for rating the strength of earthquakes.",
+        "A": "In",
+        "B": "devise",
+        "C": "for",
+        "D": "of",
+        "key_answer": "B"
+    },
+    {
+        "question_text": "After a Second World War the woman wage earner became a standard part of middle-class life in the United States.",
+        "A": "After",
+        "B": "a",
+        "C": "Second",
+        "D": "became",
+        "key_answer": "B"
+    },
+    {
+        "question_text": "Celluloid and plastics have largely replaced genuine ivory in the manufacture like such things as buttons, billiard balls, and piano keys.",
+        "A": "have",
+        "B": "replaced",
+        "C": "in",
+        "D": "like",
+        "key_answer": "D"
+    },
+    {
+        "question_text": "One of the tenets during New Criticism is that a critic need not tell readers what to think about a story.",
+        "A": "the",
+        "B": "during",
+        "C": "is",
+        "D": "what",
+        "key_answer": "B"
+    },
+    {
+        "question_text": "The outer ear, which included the fleshy pinna and the auditory canal, picks up and funnels sound waves toward the eardrum.",
+        "A": "The",
+        "B": "included",
+        "C": "picks",
+        "D": "toward",
+        "key_answer": "B"
+    },
+    {
+        "question_text": "An chair may be the oldest type of furniture, although its importance has varied from time to time and from country to country.",
+        "A": "An",
+        "B": "of",
+        "C": "although",
+        "D": "varied",
+        "key_answer": "A"
+    },
+    {
+        "question_text": "When wood, natural gas, oil, or any other fuel burns, substances in the fuel was combined with oxygen in the air to produce heat.",
+        "A": "in",
+        "B": "was",
+        "C": "with",
+        "D": "produce",
+        "key_answer": "B"
+    },
+    {
+        "question_text": "Deserts are arid land areas where more water was lost through evaporation than is gained through precipitation.",
+        "A": "are",
+        "B": "land",
+        "C": "was",
+        "D": "lost",
+        "key_answer": "C"
+    },
+    {
+        "question_text": "When goshawk chicks are young, both parents had shared in the hunting duties and in guarding the nest.",
+        "A": "goshawk",
+        "B": "are",
+        "C": "had shared",
+        "D": "the",
+        "key_answer": "C"
+    },
+    {
+        "question_text": "Not only is whales among the largest animals that ever lived, but they are also among the most intelligent.",
+        "A": "is",
+        "B": "that",
+        "C": "are",
+        "D": "the",
+        "key_answer": "A"
+    },
+    {
+        "question_text": "Fish are the most ancient form of vertebrate life, and from them have evolved all other vertebrates.",
+        "A": "are",
+        "B": "ancient",
+        "C": "of",
+        "D": "have evolved",
+        "key_answer": "D"
+    },
+    {
+        "question_text": "There is about 350 species of sharks, and although they are all carnivorous, only a few species will attack people.",
+        "A": "is",
+        "B": "about",
+        "C": "are",
+        "D": "all",
+        "key_answer": "A"
+    },
+    {
+        "question_text": "In the United States, there are many holidays throughout a year.",
+        "A": "the",
+        "B": "there",
+        "C": "many",
+        "D": "a",
+        "key_answer": "D"
+    },
+    {
+        "question_text": "Tomatoes growing all year long in Florida.",
+        "A": "Tomatoes",
+        "B": "growing",
+        "C": "all",
+        "D": "in",
+        "key_answer": "B"
+    },
+    {
+        "question_text": "Even thinks my aunt lost the beauty contest she is still the prettiest of all the other contestants.",
+        "A": "thinks",
+        "B": "lost",
+        "C": "is",
+        "D": "prettiest",
+        "key_answer": "A"
+    },
+    {
+        "question_text": "The thief who stole my watch was compelling to restore it again.",
+        "A": "who",
+        "B": "compelling",
+        "C": "to",
+        "D": "it",
+        "key_answer": "B"
+    },
+    {
+        "question_text": "I try to figuring out the answer of what the function of the organization is.",
+        "A": "figuring",
+        "B": "of",
+        "C": "what",
+        "D": "is",
+        "key_answer": "A"
+    },
+    {
+        "question_text": "The huge have increased in popularity of specialty coffees has contributed to the success of Starbucks, Barney\u2019s and other coffee purveyors.",
+        "A": "huge",
+        "B": "have increased",
+        "C": "contributed",
+        "D": "and",
+        "key_answer": "B"
+    },
+    {
+        "question_text": "When the silkworm gets through to lay its eggs, it dies.",
+        "A": "the silkworm",
+        "B": "to lay",
+        "C": "its",
+        "D": "it dies",
+        "key_answer": "B"
+    },
+    {
+        "question_text": "A barometer is a device with a sealed metal chamber designed to reading the changes in the pressure of air in the atmosphere.",
+        "A": "A barometer",
+        "B": "sealed",
+        "C": "to reading",
+        "D": "air",
+        "key_answer": "C"
+    },
+    {
+        "question_text": "Since lightning was probably significant in the formation of life, understanding it might help us to understanding life itself.",
+        "A": "it",
+        "B": "might help",
+        "C": "to understanding",
+        "D": "itself",
+        "key_answer": "C"
+    },
+    {
+        "question_text": "If the oxygen supply in the atmosphere was not replenished by plants, it would soon be exhausted.",
+        "A": "in the atmosphere",
+        "B": "was",
+        "C": "by plants",
+        "D": "exhausted",
+        "key_answer": "B"
+    },
+    {
+        "question_text": "The Girl Scouts, which was found by Juliette Gordon Low in 1912, has grown to a current membership of more than three million girls.",
+        "A": "found",
+        "B": "in 1912",
+        "C": "has grown",
+        "D": "more than",
+        "key_answer": "A"
+    },
+    {
+        "question_text": "It is generally believed that Thomas Jefferson was the one who had researched and wrote the Declaration of Independence during the months prior to its signing in July 1776.",
+        "A": "It is generally believed",
+        "B": "wrote",
+        "C": "its signing",
+        "D": "in July 1776",
+        "key_answer": "B"
+    },
+    {
+        "question_text": "Although some higher structures have been build in New York City, none characterizes the skyline better than the Empire State Building.",
+        "A": "some higher structures",
+        "B": "have been build",
+        "C": "characterizes",
+        "D": "better than",
+        "key_answer": "B"
+    },
+    {
+        "question_text": "Research in genetics and DNA having had a profound influence on the direction of treatment for a large number of diseases.",
+        "A": "having",
+        "B": "profound",
+        "C": "on",
+        "D": "a large number",
+        "key_answer": "A"
+    },
+    {
+        "question_text": "Bones composed chiefly of calcium, phosphorous, and a fibrous substance known as collagen.",
+        "A": "Bones",
+        "B": "composed",
+        "C": "chiefly",
+        "D": "known as",
+        "key_answer": "B"
+    },
+    {
+        "question_text": "During the past decade, twenty million college graduates spended more than fifty billion dollars in ten-year student loans.",
+        "A": "During",
+        "B": "spended",
+        "C": "more than",
+        "D": "ten-year",
+        "key_answer": "B"
+    },
+    {
+        "question_text": "There is no limit to the diversity to be finding in the cultures of people throughout the world.",
+        "A": "no",
+        "B": "finding",
+        "C": "cultures",
+        "D": "people",
+        "key_answer": "B"
+    },
+    {
+        "question_text": "The government requires that a census taken every ten years so that accurate statistics may be compiled.",
+        "A": "taken",
+        "B": "every ten years",
+        "C": "statistics",
+        "D": "may be compiled",
+        "key_answer": "A"
+    },
+    {
+        "question_text": "It is important that cancer is diagnosed and treated as early as possible in order to assure a successful cure.",
+        "A": "is",
+        "B": "diagnosed",
+        "C": "as early as possible",
+        "D": "to assure",
+        "key_answer": "A"
+    },
+    {
+        "question_text": "Before railroad lines were extended from Missouri to New Mexico, millions of dollars in trade was used to be carried over the Santa Fe Trail by wheeled wagons.",
+        "A": "railroad lines",
+        "B": "extended",
+        "C": "was used to be carried",
+        "D": "by wheeled wagons",
+        "key_answer": "C"
+    },
+    {
+        "question_text": "Based on a decline in vehicular deaths during the past decade, seat belts, air bags, baby seats, and other safety features in newer automobiles must be save lives.",
+        "A": "baby seats",
+        "B": "newer",
+        "C": "save",
+        "D": "lives",
+        "key_answer": "C"
+    },
+    {
+        "question_text": "The gold used in jewelry is not strong enough unless it be alloyed",
+        "A": "The gold",
+        "B": "strong enough",
+        "C": "it",
+        "D": "be",
+        "key_answer": "D"
+    },
+    {
+        "question_text": "General damage that been caused by aphids or pollution is sometimes known as blight.",
+        "A": "been caused",
+        "B": "by aphids or pollution",
+        "C": "sometimes",
+        "D": "known as",
+        "key_answer": "A"
+    },
+    {
+        "question_text": "Fred Astaire is said to had been the most popular dancer of his time, but he was also a talented actor, singer, and choreographer.",
+        "A": "is said",
+        "B": "had been",
+        "C": "the most popular dancer",
+        "D": "talented",
+        "key_answer": "B"
+    },
+    {
+        "question_text": "The understanding electricity depends on a knowledge of atoms and the subatomic particles of which they are composed.",
+        "A": "The understanding",
+        "B": "electricity",
+        "C": "depends on",
+        "D": "are composed",
+        "key_answer": "A"
+    },
+    {
+        "question_text": "The U.S. Postal Service delivers more mails in one day than Federal Express does in one year.",
+        "A": "more",
+        "B": "mails",
+        "C": "than",
+        "D": "does",
+        "key_answer": "B"
+    },
+    {
+        "question_text": "One of the most distinctive plant found in the desert is the Saguaro cactus.",
+        "A": "most",
+        "B": "plant",
+        "C": "found",
+        "D": "the",
+        "key_answer": "B"
+    },
+    {
+        "question_text": "A thunder usually follows by lightning by five seconds for every mile between the flash and the observer.",
+        "A": "A thunder",
+        "B": "usually",
+        "C": "for every mile",
+        "D": "between",
+        "key_answer": "A"
+    },
+    {
+        "question_text": "The stories of Dr. Seuss have been enjoyed by millions of childrens.",
+        "A": "The stories",
+        "B": "have been enjoyed",
+        "C": "by millions",
+        "D": "childrens",
+        "key_answer": "D"
+    },
+    {
+        "question_text": "Collections of the simple and functional Shaker furniture can be seen in museum throughout the United States.",
+        "A": "Collections",
+        "B": "furniture",
+        "C": "can be seen",
+        "D": "in museum",
+        "key_answer": "D"
+    },
+    {
+        "question_text": "The decathlon is a two-day athletic competition which consists of ten types track and field events.",
+        "A": "two-day",
+        "B": "athletic competition",
+        "C": "which",
+        "D": "ten types",
+        "key_answer": "D"
+    },
+    {
+        "question_text": "Provide pensions for retired persons is the primary function of the social security system.",
+        "A": "Provide",
+        "B": "pensions",
+        "C": "is",
+        "D": "the primary function",
+        "key_answer": "A"
+    },
+    {
+        "question_text": "New equipments for medical diagnosis have made many formerly unpleasant procedures quite painless.",
+        "A": "equipments",
+        "B": "have made",
+        "C": "formerly",
+        "D": "procedures",
+        "key_answer": "A"
+    },
+    {
+        "question_text": "Sloths spend most of its time hanging upside down from trees and feeding on leaves and fruit.",
+        "A": "most",
+        "B": "its",
+        "C": "feeding",
+        "D": "fruit",
+        "key_answer": "B"
+    },
+    {
+        "question_text": "When the European settlers came in the seventeenth century, the newcomers began a systematic effort to push the Native Americans into the wilderness and to take their land from their.",
+        "A": "in the seventeenth century",
+        "B": "to push",
+        "C": "their land",
+        "D": "from their",
+        "key_answer": "D"
+    },
+    {
+        "question_text": "After Dr. Werner Arber discovered restriction enzymes, Drs. Daniel Nathan, Hamilton Smith, and him were awarded the Nobel Prize for their research in that field.",
+        "A": "discovered",
+        "B": "him",
+        "C": "were awarded",
+        "D": "their",
+        "key_answer": "B"
+    },
+    {
+        "question_text": "There are not many people which adapt to a new culture without feeling some disorientation at first.",
+        "A": "are",
+        "B": "many",
+        "C": "which",
+        "D": "feeling",
+        "key_answer": "C"
+    },
+    {
+        "question_text": "Those of us who have a family history of heart disease should make yearly appointments with their doctors.",
+        "A": "who",
+        "B": "should make",
+        "C": "yearly",
+        "D": "their",
+        "key_answer": "D"
+    },
+    {
+        "question_text": "George Herman Ruth, which was better known as Babe Ruth, began his baseball career in 1914 with the Baltimore Orioles.",
+        "A": "which",
+        "B": "better",
+        "C": "as",
+        "D": "began",
+        "key_answer": "A"
+    },
+    {
+        "question_text": "The first full-length animated movie, Snow White, was produced by Walt Disney whom creative genius also inspired such animated classics as Bambi and Cinderella.",
+        "A": "The first",
+        "B": "was produced",
+        "C": "whom",
+        "D": "such",
+        "key_answer": "C"
+    },
+    {
+        "question_text": "In advanced stages of anorexia, the patient is unable to feed themself.",
+        "A": "advanced",
+        "B": "the patient",
+        "C": "to feed",
+        "D": "themself",
+        "key_answer": "D"
+    },
+    {
+        "question_text": "It is documented that Custer led his troops into a ravine near the Little Big Horn, where a huge army of Sioux Indians was waiting for they.",
+        "A": "It is documented",
+        "B": "led",
+        "C": "was waiting",
+        "D": "they",
+        "key_answer": "D"
+    },
+    {
+        "question_text": "The sea horse is unique among fish because the female deposits their eggs in a pouch that the male carries until the small sea horses are hatched.",
+        "A": "among",
+        "B": "because",
+        "C": "their eggs",
+        "D": "are hatched",
+        "key_answer": "C"
+    },
+    {
+        "question_text": "There are more potatoes cultivated than any the other vegetable crop worldwide.",
+        "A": "There are",
+        "B": "cultivated",
+        "C": "the other",
+        "D": "vegetable crop",
+        "key_answer": "C"
+    },
+    {
+        "question_text": "Marian Anderson, recognized both in the U.S. and in Europe as a real great vocalist, was the first black singer to appear with the Metropolitan Opera Company.",
+        "A": "and",
+        "B": "real great",
+        "C": "was",
+        "D": "the first",
+        "key_answer": "B"
+    },
+    {
+        "question_text": "At the core of a star, temperatures and pressures are so great as particles collide and connect in a process called fusion.",
+        "A": "At the core",
+        "B": "so great as",
+        "C": "in a process",
+        "D": "called",
+        "key_answer": "B"
+    },
+    {
+        "question_text": "The Cartwheel Galaxy is 500 million light year away from Earth.",
+        "A": "is",
+        "B": "light year",
+        "C": "from",
+        "D": "Earth",
+        "key_answer": "B"
+    },
+    {
+        "question_text": "Because none of food is as nutritious for a baby as its mother's milk, many women are returning to the practice of breast feeding.",
+        "A": "none of food",
+        "B": "as nutritious",
+        "C": "its",
+        "D": "many women",
+        "key_answer": "A"
+    },
+    {
+        "question_text": "Euthanasia, the practice of assisting the death of a person suffering from an incurable disease, is such a controversial issue as it is illegal in most countries.",
+        "A": "suffering",
+        "B": "as",
+        "C": "it is",
+        "D": "in most countries",
+        "key_answer": "B"
+    },
+    {
+        "question_text": "The conversations on the TOEFL will be spoken just one time; therfore, you must listen very careful in order to understand what the speakers have said.",
+        "A": "will be spoken",
+        "B": "very careful",
+        "C": "to understand",
+        "D": "what",
+        "key_answer": "B"
+    },
+    {
+        "question_text": "Gold, silver, and copper coins are often alloyed with harder metals to make them hard as enough to withstand wear.",
+        "A": "harder",
+        "B": "make",
+        "C": "them",
+        "D": "hard as enough",
+        "key_answer": "D"
+    },
+    {
+        "question_text": "Alligators are about the same color than crocodiles, although the adults may be slightly darker with broader heads and blunter noses.",
+        "A": "about",
+        "B": "than",
+        "C": "may be",
+        "D": "blunter",
+        "key_answer": "B"
+    },
+    {
+        "question_text": "Laser discs provide images of best quality than those of either television signals or video tapes.",
+        "A": "provide",
+        "B": "best quality",
+        "C": "those",
+        "D": "either",
+        "key_answer": "B"
+    },
+    {
+        "question_text": "The New York City subway system is the most longest underground railroad operating in the world.",
+        "A": "subway system",
+        "B": "the most longest",
+        "C": "underground railroad",
+        "D": "operating",
+        "key_answer": "B"
+    },
+    {
+        "question_text": "School children in the same grade in American schools are usually the same old as their classmates.",
+        "A": "the same grade",
+        "B": "are",
+        "C": "usually",
+        "D": "the same old",
+        "key_answer": "D"
+    },
+    {
+        "question_text": "Benjamin Franklin was the editor of the larger newspaper in the colonies, a diplomatic representative to France and later to England, and the inventor of many useful devices.",
+        "A": "was",
+        "B": "the larger",
+        "C": "the inventor",
+        "D": "many",
+        "key_answer": "B"
+    },
+    {
+        "question_text": "The standard for cleanliness in the area where a microchip is manufactured is same that of an operating room in a hospital.",
+        "A": "where",
+        "B": "a microchip",
+        "C": "is manufactured",
+        "D": "same",
+        "key_answer": "D"
+    },
+    {
+        "question_text": "Mountain bikes differ ordinary bicycles in that they have ten or more gears, a more rugged frame, and wider treads on the tires.",
+        "A": "differ",
+        "B": "they",
+        "C": "more rugged",
+        "D": "wider",
+        "key_answer": "A"
+    },
+    {
+        "question_text": "As a rule, the more rapid the heart rate, faster the pulse.",
+        "A": "As a rule",
+        "B": "the more",
+        "C": "heart rate",
+        "D": "faster",
+        "key_answer": "D"
+    },
+    {
+        "question_text": "Alike her friend and fellow impressionist artist, Edgar Degas, Mary Cassatt used brush strokes and colors in new and different ways.",
+        "A": "Alike",
+        "B": "artist",
+        "C": "used",
+        "D": "different ways",
+        "key_answer": "A"
+    },
+    {
+        "question_text": "Some metals such gold, silver, copper, and tin occur naturally, and are easy to work.",
+        "A": "Some",
+        "B": "such",
+        "C": "naturally",
+        "D": "to work",
+        "key_answer": "B"
+    },
+    {
+        "question_text": "Because the expense of traditional fuels and the concern that they might run out, many countries have been investigating alternative sources of power.",
+        "A": "Because",
+        "B": "they",
+        "C": "might run out",
+        "D": "have been investigating",
+        "key_answer": "A"
+    },
+    {
+        "question_text": "Only seventeen on one hundred business calls get through to the correct person on the first attempt.",
+        "A": "on",
+        "B": "business calls",
+        "C": "get through to",
+        "D": "the first",
+        "key_answer": "A"
+    },
+    {
+        "question_text": "The concept of lift in aerodynamics refers to the relationship among the increased speed of air over the top of a wing and the higher pressure of the slower air underneath.",
+        "A": "refers to",
+        "B": "among",
+        "C": "increased",
+        "D": "the slower air",
+        "key_answer": "B"
+    },
+    {
+        "question_text": "A prism is used to refract light so as it spreads out in a continuous spectrum of colors.",
+        "A": "to refract",
+        "B": "so as",
+        "C": "it",
+        "D": "of colors",
+        "key_answer": "B"
+    },
+    {
+        "question_text": "Nuclear power plants are still supported by the society of Professional Engineers in spite unfortunate accidents like the one at Three Mile Island.",
+        "A": "still",
+        "B": "by",
+        "C": "in spite",
+        "D": "at",
+        "key_answer": "C"
+    },
+    {
+        "question_text": "National parks include not only the most scenic places in the nation but places distinguished for their historic or scientific interest.",
+        "A": "include",
+        "B": "the most scenic",
+        "C": "but",
+        "D": "distinguished",
+        "key_answer": "C"
+    },
+    {
+        "question_text": "The plastic arts, mainly sculpture and ceramics, that are produced by modeling or molding the materials into interesting shapes.",
+        "A": "The",
+        "B": "mainly",
+        "C": "that are",
+        "D": "by modeling or molding",
+        "key_answer": "C"
+    },
+    {
+        "question_text": "Ocean currents that help transfer heat from the equator to the poles, thereby creating a more balanced global environment.",
+        "A": "that",
+        "B": "heat",
+        "C": "creating",
+        "D": "more balanced",
+        "key_answer": "A"
+    },
+    {
+        "question_text": "Gas and dust that stream away from a comet forming one or more tails that may extend for millions of miles.",
+        "A": "Gas and dust",
+        "B": "stream",
+        "C": "forming",
+        "D": "that may extend",
+        "key_answer": "C"
+    },
+    {
+        "question_text": "The Northwest Ordinances which regulated the sale and settlement of land between the Great Lakes and the Mississippi River, territories still occupied by American Indian nations.",
+        "A": "which",
+        "B": "between",
+        "C": "occupied",
+        "D": "by American Indian nations",
+        "key_answer": "A"
+    },
+    {
+        "question_text": "The larva of the boll weevil, which it feeds on the immature pods of the cotton plant, often destroying an entire crop.",
+        "A": "The larva",
+        "B": "which it feeds",
+        "C": "cotton plant",
+        "D": "destroying",
+        "key_answer": "B"
+    },
+    {
+        "question_text": "By studying the fossils of pollen, which extremely resistant to decay, researchers can gain useful information about the vegetation of the past.",
+        "A": "By studying",
+        "B": "which",
+        "C": "can gain",
+        "D": "information",
+        "key_answer": "B"
+    },
+    {
+        "question_text": "The attribution of human characteristics to animals or inanimate objects appears in the mythologies of many cultures is a literary device called anthropomorphism.",
+        "A": "The attribution",
+        "B": "appears",
+        "C": "many cultures",
+        "D": "called",
+        "key_answer": "B"
+    },
+    {
+        "question_text": "Although there are approximately 120 intensive language institutes in the United States in 1970, there are more than four times as many now.",
+        "A": "are",
+        "B": "approximately",
+        "C": "in",
+        "D": "four times as many",
+        "key_answer": "A"
+    },
+    {
+        "question_text": "Cartographers cannot make an accurate map because the political situation in many areas changes so rapidly that they were not able to draw the boundaries correctly.",
+        "A": "so",
+        "B": "were",
+        "C": "to draw",
+        "D": "correctly",
+        "key_answer": "B"
+    },
+    {
+        "question_text": "Although Emily Dickinson publishes only three of her verses before she died, today there are more than one thousand of her poems printed in many important collections.",
+        "A": "publishes",
+        "B": "only",
+        "C": "are",
+        "D": "more than",
+        "key_answer": "A"
+    },
+    {
+        "question_text": "Dew usually disappeared by seven o'clock in the morning when the sun comes up.",
+        "A": "usually",
+        "B": "disappeared",
+        "C": "by",
+        "D": "in the morning",
+        "key_answer": "B"
+    },
+    {
+        "question_text": "Seven months before the stock market crashed in 1929, President Hoover said that the economy of the nation is secure.",
+        "A": "stock",
+        "B": "in",
+        "C": "is",
+        "D": "secure",
+        "key_answer": "C"
+    },
+    {
+        "question_text": "Most archaeologists agree that humans are living in the area around Philadelphia for about twelve thousand years.",
+        "A": "Most",
+        "B": "are living",
+        "C": "for",
+        "D": "about",
+        "key_answer": "B"
+    },
+    {
+        "question_text": "Although we once thought that Saturn has only seven rings, we now know that it has hundreds of rings extending for thousands of miles.",
+        "A": "has",
+        "B": "it",
+        "C": "extending",
+        "D": "miles",
+        "key_answer": "A"
+    },
+    {
+        "question_text": "In 1975, according to the National Center for Health Statistics, the average life expectancy for people born during that year is 72.4 years.",
+        "A": "according",
+        "B": "born",
+        "C": "during",
+        "D": "is",
+        "key_answer": "D"
+    },
+    {
+        "question_text": "Champlain founded a base at Port Royal in 1605, and builds a fort at Quebec three years later.",
+        "A": "founded",
+        "B": "in 1605",
+        "C": "builds",
+        "D": "Quebec",
+        "key_answer": "C"
+    },
+    {
+        "question_text": "According to the Congressional Record, almost one third of all new laws in 1991 are passed to celebrate some day, week, or month for a special interest group's purposes, such as Music Week.",
+        "A": "According to",
+        "B": "all new laws",
+        "C": "are passed",
+        "D": "to celebrate",
+        "key_answer": "C"
+    },
+    {
+        "question_text": "The first significant engagement of the American Revolution occurs on June 17, 1775, and has been referred to as the Battle of Bunker Hill.",
+        "A": "The first",
+        "B": "occurs",
+        "C": "on June 17",
+        "D": "has been referred to",
+        "key_answer": "B"
+    },
+    {
+        "question_text": "Originally, the purpose of a sampler is to record complex stitches so that they could be duplicated later.",
+        "A": "Originally",
+        "B": "is",
+        "C": "to record",
+        "D": "they",
+        "key_answer": "B"
+    },
+    {
+        "question_text": "Many ancient cultures begin their spiritual life by worshipping the Sun.",
+        "A": "Many",
+        "B": "begin",
+        "C": "their",
+        "D": "by worshipping",
+        "key_answer": "B"
+    },
+    {
+        "question_text": "Both a term paper and a final exam is often required for a college class.",
+        "A": "and",
+        "B": "is",
+        "C": "required",
+        "D": "for",
+        "key_answer": "B"
+    },
+    {
+        "question_text": "The popularity of soccer in the United States were increased significantly by the playing of the World Cup in cities throughout the country in 1994.",
+        "A": "were increased",
+        "B": "significantly",
+        "C": "the playing",
+        "D": "in 1994",
+        "key_answer": "A"
+    },
+    {
+        "question_text": "Not one in a hundred seeds develop into a healthy plant, even under laboratory conditions.",
+        "A": "in a hundred",
+        "B": "develop",
+        "C": "into",
+        "D": "even",
+        "key_answer": "B"
+    },
+    {
+        "question_text": "Benjamin Franklin strongly objected to the eagle's being chosen as the national bird because of their predatory nature.",
+        "A": "strongly",
+        "B": "to",
+        "C": "because of",
+        "D": "their",
+        "key_answer": "D"
+    },
+    {
+        "question_text": "In order to grow well, the Blue Spruce, like other pine trees, require a temperate climate.",
+        "A": "well",
+        "B": "like",
+        "C": "other",
+        "D": "require",
+        "key_answer": "D"
+    },
+    {
+        "question_text": "Few airports in the United States is as modern as that of Atlanta.",
+        "A": "is",
+        "B": "as",
+        "C": "that",
+        "D": "of",
+        "key_answer": "A"
+    },
+    {
+        "question_text": "Work on improving industrial disposal methods were begun in the early 1970s, shortly after the Clean Air bill was passed by Congress.",
+        "A": "on improving",
+        "B": "were",
+        "C": "shortly",
+        "D": "by Congress",
+        "key_answer": "B"
+    },
+    {
+        "question_text": "The officials of the Board of Elections asked that each voter present their registration card and a valid Texas driver's license before receiving a ballot.",
+        "A": "present",
+        "B": "their",
+        "C": "driver's",
+        "D": "receiving",
+        "key_answer": "B"
+    },
+    {
+        "question_text": "If one has a special medical condition such as diabetes, epilepsy, or allergy, it is advisable that they carry some kind of identification in order to avoid being given improper medication in an emergency.",
+        "A": "has",
+        "B": "they",
+        "C": "carry",
+        "D": "being",
+        "key_answer": "B"
+    },
+    {
+        "question_text": "A large percentage of federal employees are participating in an experimental four-day work week aimed at curbing gasoline consumption and pollution, two of the most urgent problems facing cities today.",
+        "A": "are participating",
+        "B": "four-day",
+        "C": "work week",
+        "D": "the most urgent problems",
+        "key_answer": "A"
+    },
+    {
+        "question_text": "One-cent coins issued in the United States since 1982 is 96 percent zinc.",
+        "A": "One-cent",
+        "B": "issued",
+        "C": "since 1982",
+        "D": "is",
+        "key_answer": "D"
+    },
+    {
+        "question_text": "According to a team of scientists, there are evidence that Mount Everest is still rising.",
+        "A": "According to",
+        "B": "a team of scientists",
+        "C": "there are",
+        "D": "rising",
+        "key_answer": "C"
+    },
+    {
+        "question_text": "The urinary system, including both the bladder and the kidneys, are contained in the cavities of the trunk.",
+        "A": "The urinary system",
+        "B": "including",
+        "C": "and",
+        "D": "are contained",
+        "key_answer": "D"
+    },
+    {
+        "question_text": "In the 1920s, Art Deco, known for plastic and chrome-plated objects, were very popular.",
+        "A": "In the 1920s",
+        "B": "known",
+        "C": "chrome-plated",
+        "D": "were",
+        "key_answer": "D"
+    },
+    {
+        "question_text": "After finishing Roots, the one-hundred-year history of an African-American family, the Nobel Prize committee awarded author Alex Haley a special citation for literary excellence.",
+        "A": "After finishing",
+        "B": "the one-hundred-year",
+        "C": "awarded",
+        "D": "for",
+        "key_answer": "A"
+    },
+    {
+        "question_text": "A competitive sport, gymnasts perform before officials who must use their judgment along with their knowledge of the rules to determine the relative skill of each participant.",
+        "A": "A competitive sport",
+        "B": "who",
+        "C": "along with",
+        "D": "to determine",
+        "key_answer": "A"
+    },
+    {
+        "question_text": "To remove stains from permanent press clothing, carefully soaking in cold water before washing with a regular detergent.",
+        "A": "from",
+        "B": "carefully soaking",
+        "C": "before washing",
+        "D": "a",
+        "key_answer": "B"
+    },
+    {
+        "question_text": "Found in Tanzania by Mary Leakey, some archeologists estimated that the three-million-year-old fossils were the oldest human remains to be discovered.",
+        "A": "Found in Tanzania by Mary Leakey",
+        "B": "three-million-year-old",
+        "C": "the oldest",
+        "D": "to be discovered",
+        "key_answer": "A"
+    },
+    {
+        "question_text": "Originally having been buried in Spain, and later moved to Santo Domingo in the Dominican Republic, Columbus's final resting place is in",
+        "A": "Originally",
+        "B": "been",
+        "C": "in Spain",
+        "D": "Columbus's final resting place is",
+        "key_answer": "D"
+    },
+    {
+        "question_text": "Written by Neil Simon, New York audiences received the new play enthusiastically at the world premiere Saturday evening.",
+        "A": "by",
+        "B": "New York audiences received the new play",
+        "C": "enthusiastically",
+        "D": "Saturday evening",
+        "key_answer": "B"
+    },
+    {
+        "question_text": "To prevent cavities, dental floss should be used daily after brushing one's teeth.",
+        "A": "dental floss should be used",
+        "B": "daily",
+        "C": "brushing",
+        "D": "one's",
+        "key_answer": "A"
+    },
+    {
+        "question_text": "While researching the problem of violent crime, the Senate committee's discovery that handguns were used to commit 64 percent of all murders in the United States.",
+        "A": "the Senate committee's discovery",
+        "B": "were used",
+        "C": "to commit",
+        "D": "all murders",
+        "key_answer": "A"
+    },
+    {
+        "question_text": "After reviewing the curriculum, several significant changes were made by the faculty in traditional business programs at Harvard University.",
+        "A": "After reviewing the curriculum",
+        "B": "several",
+        "C": "were",
+        "D": "in",
+        "key_answer": "A"
+    },
+    {
+        "question_text": "Having hit more home runs in one season than any other player in the history of baseball, Mark McGwire's record is famous.",
+        "A": "hit",
+        "B": "than",
+        "C": "any other player",
+        "D": "Mark McGwire's record",
+        "key_answer": "D"
+    },
+    {
+        "question_text": "Banned in the U.S., the effect of fluorocarbons continues at a level that could eventually damage the ozone layer, and bring about such serious results as high risk of skin cancer and global climate changes.",
+        "A": "Banned in the U.S.",
+        "B": "continues",
+        "C": "eventually",
+        "D": "such",
+        "key_answer": "A"
+    },
+    {
+        "question_text": "To avoid jet lag, many doctors recommend that their patients begin adjusting one week before departure time by shifting one hour each day toward the new time schedule.",
+        "A": "To avoid jet lag",
+        "B": "begin",
+        "C": "by shifting",
+        "D": "time schedule",
+        "key_answer": "A"
+    },
+    {
+        "question_text": "Traditionally named for women, Bob was chosen as the first male name for a hurricane.",
+        "A": "Traditionally",
+        "B": "named for women",
+        "C": "was chosen",
+        "D": "the first",
+        "key_answer": "B"
+    },
+    {
+        "question_text": "Founded in 1919, students and teachers who are interested in spending several months abroad may benefit from educational programs administered by the Institute for International Education.",
+        "A": "Founded in 1919",
+        "B": "who",
+        "C": "may benefit",
+        "D": "administered by",
+        "key_answer": "A"
+    },
+    {
+        "question_text": "Rock music is not only popular in the United States but also abroad.",
+        "A": "is",
+        "B": "not only popular",
+        "C": "in",
+        "D": "the",
+        "key_answer": "B"
+    },
+    {
+        "question_text": "To control quality and making decisions about production are among the many responsibilities of an industrial engineer.",
+        "A": "making",
+        "B": "about",
+        "C": "are",
+        "D": "among",
+        "key_answer": "A"
+    },
+    {
+        "question_text": "The six main parts of a business letter are the address, the inside address, the salutation, the body, the closing, and signing your name.",
+        "A": "six main parts",
+        "B": "business letter",
+        "C": "are",
+        "D": "signing your name",
+        "key_answer": "D"
+    },
+    {
+        "question_text": "To read literature and being introduced to a different culture are two excellent reasons for studying a foreign language.",
+        "A": "being introduced",
+        "B": "to",
+        "C": "are",
+        "D": "for studying",
+        "key_answer": "A"
+    },
+    {
+        "question_text": "Ice skating and to go skiing are popular winter sports in the northern United States.",
+        "A": "Ice skating",
+        "B": "are",
+        "C": "winter sports",
+        "D": "in",
+        "key_answer": "A"
+    },
+    {
+        "question_text": "To treat minor diarrhea, drink plenty of liquids, especially tea, water, and carbonated beverages, eat soup, yogurt, salty crackers, and bananas, and avoiding milk, butter, eggs, and meat for twenty-four hours.",
+        "A": "To treat",
+        "B": "eat",
+        "C": "avoiding",
+        "D": "for",
+        "key_answer": "C"
+    },
+    {
+        "question_text": "The Smithsonian Institute is famous because it contains such interesting exhibits as the flag that was raised over Fort McHenry in 1812, the airplane that the Wright brothers built for their first flight at Kitty Hawk, and there are the gowns worn by every firs t lady since Martha Washington.",
+        "A": "was raised",
+        "B": "in 1812",
+        "C": "built",
+        "D": "there are",
+        "key_answer": "D"
+    },
+    {
+        "question_text": "In order to become a law, a bill must be passed not only by the Senate but also the House of Representatives.",
+        "A": "In order",
+        "B": "must be passed",
+        "C": "only",
+        "D": "the House of Representatives",
+        "key_answer": "D"
+    },
+    {
+        "question_text": "The cloverleaf is a common engineering design for expressways that permits traffic between two intersecting highways to move more safely, efficiently, and with ease.",
+        "A": "permits",
+        "B": "between",
+        "C": "to move",
+        "D": "with ease",
+        "key_answer": "D"
+    },
+    {
+        "question_text": "A new product should be judged not by the prontises made in commercials and advertisements, but also by the results demonstrated in actual use.",
+        "A": "should be judged",
+        "B": "and",
+        "C": "but also",
+        "D": "demonstrated",
+        "key_answer": "C"
+    },
+    {
+        "question_text": "Snakes stick out their tongues, move them around, and also they retract them quickly to pick up odor molecules that aid in detecting direction.",
+        "A": "Snakes",
+        "B": "their",
+        "C": "also they",
+        "D": "to pick up",
+        "key_answer": "C"
+    },
+    {
+        "question_text": "Thought by some to be the first labor party, the Workingman's Party struggled not only for better working conditions also for public schools for all children.",
+        "A": "Thought",
+        "B": "labor",
+        "C": "also",
+        "D": "all children",
+        "key_answer": "C"
+    },
+    {
+        "question_text": "The cerebellum's main functions are the maintenance of posture and move the body.",
+        "A": "main functions",
+        "B": "are",
+        "C": "the maintenance",
+        "D": "move",
+        "key_answer": "D"
+    },
+    {
+        "question_text": "Increasing involvement in agriculture by large corporations has resulted in what is known as agribusiness-that is, agriculture with business techniques, including heavy capitalization, specialization of production, and to control all stages of the operation.",
+        "A": "by large corporations",
+        "B": "has resulted in",
+        "C": "is known as",
+        "D": "to control",
+        "key_answer": "D"
+    },
+    {
+        "question_text": "Some international students use a cassette recorder to make tapes of their classes so that they can repeat the lectures again.",
+        "A": "use",
+        "B": "to make",
+        "C": "so that",
+        "D": "again",
+        "key_answer": "D"
+    },
+    {
+        "question_text": "Blood plasma it is the transportation system for all of the widely separated organs in the human body.",
+        "A": "it",
+        "B": "all",
+        "C": "widely",
+        "D": "human body",
+        "key_answer": "A"
+    },
+    {
+        "question_text": "Appointed by the General Assembly for five years, the Secretary-General of the United Nations must act in an impartial manner toward all members.",
+        "A": "Appointed",
+        "B": "for",
+        "C": "must act",
+        "D": "in an impartial manner",
+        "key_answer": "D"
+    },
+    {
+        "question_text": "Humans who lived thousands of years ago, long before alphabets were devised, they used pictures to record events and to communicate ideas.",
+        "A": "who",
+        "B": "ago",
+        "C": "they",
+        "D": "to communicate",
+        "key_answer": "C"
+    },
+    {
+        "question_text": "If one does not pick up the dry cleaning within thirty days, the management is not obligated to return it back.",
+        "A": "the",
+        "B": "within",
+        "C": "obligated",
+        "D": "back",
+        "key_answer": "D"
+    },
+    {
+        "question_text": "The southern part of the United States has ideal conditions for raising cotton because the climate is sufficiently warm enough to allow a six-month growing period.",
+        "A": "for raising",
+        "B": "enough",
+        "C": "to allow",
+        "D": "a six-month growing period",
+        "key_answer": "B"
+    },
+    {
+        "question_text": "People who are competitive in nature are more likely to suffer from the effects of stress on their health.",
+        "A": "who",
+        "B": "in nature",
+        "C": "to suffer",
+        "D": "on",
+        "key_answer": "B"
+    },
+    {
+        "question_text": "International law is made up of the rules and customs that they deal with the relationships between different nations and the citizens of different nations.",
+        "A": "is",
+        "B": "that",
+        "C": "they",
+        "D": "between",
+        "key_answer": "C"
+    },
+    {
+        "question_text": "It was Isadora Duncan who was responsible for many of the new innovations that have made modern dance different from classical ballet.",
+        "A": "It",
+        "B": "who",
+        "C": "new innovations",
+        "D": "different from",
+        "key_answer": "C"
+    },
+    {
+        "question_text": "Little House on the Prairie, a successful television program, was adapted from a series of books by a young pioneer woman whose life was similar to that of the character called by name Laura.",
+        "A": "series",
+        "B": "whose",
+        "C": "that of",
+        "D": "by name",
+        "key_answer": "D"
+    },
+    {
+        "question_text": "In recent years great advances forward have been made in the field of genetic research.",
+        "A": "In recent years",
+        "B": "forward",
+        "C": "have",
+        "D": "genetic research",
+        "key_answer": "B"
+    },
+    {
+        "question_text": "Today the United States is one of the few countries in the Western Hemisphere that it has laws providing for the death penalty.",
+        "A": "is",
+        "B": "it",
+        "C": "has",
+        "D": "providing for",
+        "key_answer": "B"
+    },
+    {
+        "question_text": "According to recent geological research, the climate of the states along the Canadian border is changing with rapidity.",
+        "A": "According to",
+        "B": "the climate",
+        "C": "is",
+        "D": "with rapidity",
+        "key_answer": "D"
+    },
+    {
+        "question_text": "World hunger it is one of the most urgent problems that we face today.",
+        "A": "it",
+        "B": "is",
+        "C": "most urgent",
+        "D": "we face",
+        "key_answer": "A"
+    },
+    {
+        "question_text": "According to the Pythagorean theorem, the sum of the squares of the two sides of a triangle is equal as the square of the hypotenuse.",
+        "A": "According",
+        "B": "of a triangle",
+        "C": "is",
+        "D": "as",
+        "key_answer": "D"
+    },
+    {
+        "question_text": "The flag over the White House is risen at dawn every day by a color guard from the United States armed forces.",
+        "A": "over the White House",
+        "B": "is risen",
+        "C": "at dawn",
+        "D": "by",
+        "key_answer": "B"
+    },
+    {
+        "question_text": "Commercials on the educational television network are generally shorter comparing those on other networks.",
+        "A": "are",
+        "B": "generally",
+        "C": "comparing",
+        "D": "on",
+        "key_answer": "C"
+    },
+    {
+        "question_text": "The Food and Drug Administration does not declare a drug a carcinogen until it has been proven conclusively that the effects in rats can be generalized for human beings.",
+        "A": "it",
+        "B": "conclusively",
+        "C": "in",
+        "D": "be",
+        "key_answer": "C"
+    },
+    {
+        "question_text": "In some states, the law allows drivers to turn right at a red light, but in other states, the law does not leave them do it.",
+        "A": "to turn",
+        "B": "other",
+        "C": "leave",
+        "D": "them",
+        "key_answer": "C"
+    },
+    {
+        "question_text": "The effective of a project on the general population is difficult to measure unless a statistician is employed to tabulate the variables.",
+        "A": "effective",
+        "B": "to measure",
+        "C": "is employed",
+        "D": "to tabulate",
+        "key_answer": "A"
+    },
+    {
+        "question_text": "When a person is arrested, the cops must let him make one telephone call.",
+        "A": "the cops",
+        "B": "let",
+        "C": "him",
+        "D": "telephone call",
+        "key_answer": "A"
+    },
+    {
+        "question_text": "If the owner of a bar suspicions that someone's identification is not valid, he can refuse to serve the order.",
+        "A": "suspicions",
+        "B": "is",
+        "C": "to serve",
+        "D": "the order",
+        "key_answer": "A"
+    },
+    {
+        "question_text": "The condition of menkind has been improved by recent technological advances.",
+        "A": "menkind",
+        "B": "has",
+        "C": "by",
+        "D": "technological",
+        "key_answer": "A"
+    },
+    {
+        "question_text": "The classify of plants begins with those having the simplest structure, and progresses to include the most highly organized forms in four divisions called phylums.",
+        "A": "classify",
+        "B": "those",
+        "C": "most highly organized",
+        "D": "called",
+        "key_answer": "A"
+    },
+    {
+        "question_text": "With the develop of a cheap process for desalination, 97 percent of the Earth's water will become available for freshwater purposes.",
+        "A": "develop",
+        "B": "for desalination",
+        "C": "the Earth's water",
+        "D": "will become available",
+        "key_answer": "A"
+    },
+    {
+        "question_text": "An understand of calculus is essential to the study of engineering.",
+        "A": "An understand",
+        "B": "is",
+        "C": "to the study",
+        "D": "engineering",
+        "key_answer": "A"
+    },
+    {
+        "question_text": "Henry Wadsworth Longfellow not only wrote poems and stories but also presided the modem language department at Harvard University for more than eighteen years.",
+        "A": "also",
+        "B": "presided",
+        "C": "for",
+        "D": "more than",
+        "key_answer": "B"
+    },
+    {
+        "question_text": "Almost alI life depends to chemical reactions with oxygen to produce energy.",
+        "A": "Almost",
+        "B": "depends",
+        "C": "to produce",
+        "D": "energy",
+        "key_answer": "B"
+    },
+    {
+        "question_text": "A swarm of locusts is responsible the consumption of enough plant material to feed a million and a half people.",
+        "A": "is responsible",
+        "B": "enough plant material",
+        "C": "to feed",
+        "D": "and a half",
+        "key_answer": "A"
+    },
+    {
+        "question_text": "Oyster farming has been practice in most parts of the world for many years.",
+        "A": "farming",
+        "B": "practice",
+        "C": "most",
+        "D": "for",
+        "key_answer": "B"
+    },
+    {
+        "question_text": "Those of us who smoke should have their lungs x-rayed regularly.",
+        "A": "Those",
+        "B": "who",
+        "C": "their",
+        "D": "regularly",
+        "key_answer": "C"
+    },
+    {
+        "question_text": "After the team of geologists had drawn diagrams in their notebooks and wrote explanations of the formations which they had observed, they returned to their campsite to compare notes.",
+        "A": "their",
+        "B": "wrote",
+        "C": "which",
+        "D": "to compare",
+        "key_answer": "B"
+    },
+    {
+        "question_text": "If Robert Kennedy would have lived a little longer, he probably would have won the election.",
+        "A": "would have lived",
+        "B": "a little longer",
+        "C": "probably",
+        "D": "won",
+        "key_answer": "A"
+    },
+    {
+        "question_text": "It was Shirley Temple Black which represented her country in the United Nations and later became an ambassador.",
+        "A": "It",
+        "B": "which",
+        "C": "represented",
+        "D": "later",
+        "key_answer": "B"
+    },
+    {
+        "question_text": "The prices at chain stores are as reasonable, if not more reasonable, as those at discount stores.",
+        "A": "at",
+        "B": "are",
+        "C": "if not more",
+        "D": "as",
+        "key_answer": "D"
+    },
+    {
+        "question_text": "It is extremely important for an engineer to know to use a computer.",
+        "A": "It is",
+        "B": "extremely",
+        "C": "for",
+        "D": "to know",
+        "key_answer": "D"
+    },
+    {
+        "question_text": "Historically there has been only two major factions in the Republican Party-the liberals and the conservatives.",
+        "A": "Historically",
+        "B": "there",
+        "C": "has been",
+        "D": "only",
+        "key_answer": "C"
+    },
+    {
+        "question_text": "Whitman wrote Leaves of Grass as a tribute to the Civil War soldiers who had laid on the battlefields and whom he had seen while serving as an army nurse.",
+        "A": "had laid",
+        "B": "whom",
+        "C": "had seen",
+        "D": "while serving",
+        "key_answer": "A"
+    },
+    {
+        "question_text": "One of the first and ultimately the most important purposeful of a reservoir is to control flooding.",
+        "A": "ultimately",
+        "B": "purposeful",
+        "C": "to control",
+        "D": "flooding",
+        "key_answer": "B"
+    },
+    {
+        "question_text": "The Chinese were the first and large ethnic group to work on the construction of the transcontinental railroad system.",
+        "A": "The Chinese",
+        "B": "large",
+        "C": "to work",
+        "D": "of",
+        "key_answer": "B"
+    },
+    {
+        "question_text": "The range of plant life on a mountainside is a results of differences in temperature and precipitation at varying altitudes.",
+        "A": "is",
+        "B": "results",
+        "C": "differences",
+        "D": "varying",
+        "key_answer": "B"
+    },
+    {
+        "question_text": "Even a professional psychologist may have difficulty talking calm and logically about his own problems.",
+        "A": "Even",
+        "B": "calm",
+        "C": "about",
+        "D": "his own",
+        "key_answer": "B"
+    },
+    {
+        "question_text": "The more the relative humidity reading rises, the worst the heat affects us.",
+        "A": "rises",
+        "B": "the worst",
+        "C": "affects",
+        "D": "us",
+        "key_answer": "B"
+    },
+    {
+        "question_text": "Because correlations are not causes, statistical data which are extremely easy to misuse",
+        "A": "causes",
+        "B": "which are",
+        "C": "extremely",
+        "D": "to misuse",
+        "key_answer": "B"
+    },
+    {
+        "question_text": "Lectures for the week of March 22-26 will include the following: The Causes of the Civil War, The Economy of the South, Battle Strategies, and The Assassinate Lincoln.",
+        "A": "for",
+        "B": "will include",
+        "C": "following",
+        "D": "The Assassinate",
+        "key_answer": "D"
+    },
+    {
+        "question_text": "Despite of many attempts to introduce a universal language, notably Esperanto and Idiom Neutral, the effort has met with very little success.",
+        "A": "Despite of",
+        "B": "many",
+        "C": "to introduce",
+        "D": "little",
+        "key_answer": "A"
+    },
+    {
+        "question_text": "As every other nation, the United States used to define its unit of currency, the dollar, in terms of the gold standard.",
+        "A": "As",
+        "B": "other",
+        "C": "used to define",
+        "D": "its",
+        "key_answer": "A"
+    },
+    {
+        "question_text": "It is necessary that one met with a judge before signing the final papers for a divorce.",
+        "A": "met",
+        "B": "before signing",
+        "C": "the final papers",
+        "D": "for a divorce",
+        "key_answer": "A"
+    },
+    {
+        "question_text": "Until recently, women were forbidden by law from owning property.",
+        "A": "Until recently",
+        "B": "were",
+        "C": "by law",
+        "D": "from owning",
+        "key_answer": "D"
+    },
+    {
+        "question_text": "According to the graduate catalog, student housing is more cheaper than housing off campus.",
+        "A": "According",
+        "B": "is",
+        "C": "more cheaper",
+        "D": "than",
+        "key_answer": "C"
+    },
+    {
+        "question_text": "John Dewey thought that children will learn better through participating in experiences rather than through listening to lectures.",
+        "A": "will learn",
+        "B": "better",
+        "C": "rather than",
+        "D": "listening to",
+        "key_answer": "A"
+    },
+    {
+        "question_text": "In England as early as the twelfth century, young boys enjoyed to play football.",
+        "A": "In England",
+        "B": "as early as",
+        "C": "twelfth century",
+        "D": "to play",
+        "key_answer": "D"
+    },
+    {
+        "question_text": "Some methods to prevent soil erosion are plowing parallel with the slopes of hills, to plant trees on unproductive land, and rotating crops.",
+        "A": "Some",
+        "B": "to prevent",
+        "C": "are",
+        "D": "to plant",
+        "key_answer": "D"
+    },
+    {
+        "question_text": "Mosquitoes will accepts the malaria parasite at only one stage of the parasite's complex life cycle.",
+        "A": "accepts",
+        "B": "malaria",
+        "C": "only one",
+        "D": "complex",
+        "key_answer": "A"
+    },
+    {
+        "question_text": "The counterpart of a negative electrons is the positive proton.",
+        "A": "counterpart",
+        "B": "of",
+        "C": "electrons",
+        "D": "positive",
+        "key_answer": "C"
+    },
+    {
+        "question_text": "The ankle joint occur where the lower ends of the tibia and fibula slot neatly around the talus.",
+        "A": "occur",
+        "B": "lower",
+        "C": "neatly",
+        "D": "around",
+        "key_answer": "A"
+    },
+    {
+        "question_text": "In the United States and Canada, motor vehicle laws affect the operate of motorcylces as well as automobiles.",
+        "A": "motor vehicle",
+        "B": "affect",
+        "C": "operate",
+        "D": "as well as",
+        "key_answer": "C"
+    },
+    {
+        "question_text": "The neocortex is, in evolutionary terms, most recent layer of the brain.",
+        "A": "is",
+        "B": "terms",
+        "C": "most",
+        "D": "layer",
+        "key_answer": "C"
+    },
+    {
+        "question_text": "There are more than eighty-four million specimens in the National Museum of Natural History's collection of biological, geological, archeological, and anthropology treasures.",
+        "A": "are",
+        "B": "specimens",
+        "C": "collection",
+        "D": "anthropology",
+        "key_answer": "D"
+    },
+    {
+        "question_text": "After George Washington married widow Martha Custis, the couple came to resides at Mount Vernon.",
+        "A": "After",
+        "B": "widow",
+        "C": "came",
+        "D": "resides",
+        "key_answer": "D"
+    },
+    {
+        "question_text": "At this stage in their development, rubberized asphalt can hardly be classified as cutting edge.",
+        "A": "their",
+        "B": "rubberized",
+        "C": "hardly",
+        "D": "as",
+        "key_answer": "A"
+    },
+    {
+        "question_text": "Rhesus monkeys exhibit patterns of shy similar to those in humans.",
+        "A": "exhibit",
+        "B": "shy",
+        "C": "to",
+        "D": "those",
+        "key_answer": "B"
+    },
+    {
+        "question_text": "In space, with no gravity for muscles to work against, the body becomes weakly.",
+        "A": "no",
+        "B": "against",
+        "C": "the body",
+        "D": "weakly",
+        "key_answer": "D"
+    },
+    {
+        "question_text": "Fort Jefferson, in the Dry Tortugas off the southern tip of Florida, can be reach only by boat or plane.",
+        "A": "off",
+        "B": "tip",
+        "C": "reach",
+        "D": "only by",
+        "key_answer": "C"
+    },
+    {
+        "question_text": "A zoom lens produces an inverted real image, either on the film in a camera and on the light-sensitive tube of a television camera.",
+        "A": "A",
+        "B": "produces",
+        "C": "inverted",
+        "D": "and",
+        "key_answer": "D"
+    },
+    {
+        "question_text": "Supersonic flight is flight that is faster the speed of sound.",
+        "A": "Supersonic",
+        "B": "that",
+        "C": "faster",
+        "D": "speed of sound",
+        "key_answer": "C"
+    },
+    {
+        "question_text": "The Betataken House Ruins at Navajo National Monument is among the largest and most elaborate cliff dwellings in the country.",
+        "A": "is",
+        "B": "largest",
+        "C": "elaborate",
+        "D": "country",
+        "key_answer": "A"
+    },
+    {
+        "question_text": "It is a common observation that liquids will soak through some materials but not through other.",
+        "A": "a common",
+        "B": "will soak",
+        "C": "but not",
+        "D": "other",
+        "key_answer": "D"
+    },
+    {
+        "question_text": "The number of wild horses on Assateague are increasing lately, resulting in overgrazed marsh and dune grasses.",
+        "A": "wild horses",
+        "B": "are",
+        "C": "resulting",
+        "D": "overgrazed",
+        "key_answer": "B"
+    },
+    {
+        "question_text": "The newsreel of Hearst Metronome News, which formed part of every moviegoer's experience in the era before television, offer an unique record of the events of the 1930s.",
+        "A": "every",
+        "B": "before television",
+        "C": "an",
+        "D": "events",
+        "key_answer": "C"
+    },
+    {
+        "question_text": "Unlikely gas sport balloons, hot air balloons do not have nets.",
+        "A": "Unlikely",
+        "B": "sport",
+        "C": "have",
+        "D": "nets",
+        "key_answer": "A"
+    },
+    {
+        "question_text": "Born in Massachusetts in 1852, Albert Farbanks has begun making banjos in Boston in the late 1870s.",
+        "A": "Born",
+        "B": "has begun",
+        "C": "making",
+        "D": "the late",
+        "key_answer": "B"
+    },
+    {
+        "question_text": "Dwight David Eisenhower, military officer and thirty-fourth president of the United States, lived in the White House and of least thirty-seven other residences.",
+        "A": "officer",
+        "B": "lived",
+        "C": "of least",
+        "D": "other",
+        "key_answer": "C"
+    },
+    {
+        "question_text": "Methane in wetlands comes from soil bacteria that consumes organic plant matter.",
+        "A": "comes",
+        "B": "from",
+        "C": "consumes",
+        "D": "matter",
+        "key_answer": "C"
+    },
+    {
+        "question_text": "Alois Alzheimer made the first observers of the telltale signs of the disease that today bears his name.",
+        "A": "observers",
+        "B": "telltale signs",
+        "C": "bears",
+        "D": "his name",
+        "key_answer": "A"
+    },
+    {
+        "question_text": "Edward MacDowell remembers as the composer of such perennial favorites as \"To a Wild Rose\" and \"To a water Lily\".",
+        "A": "remembers",
+        "B": "composer",
+        "C": "perennial",
+        "D": "favorites",
+        "key_answer": "A"
+    },
+    {
+        "question_text": "Animism is the belief that objects and natural phenomena such as rivers, rocks, and wind are live and have feelings.",
+        "A": "belief",
+        "B": "phenomena",
+        "C": "live",
+        "D": "feelings",
+        "key_answer": "C"
+    },
+    {
+        "question_text": "Newtonian physics accounts for the observing orbits of the planets and the moons.",
+        "A": "accounts",
+        "B": "for",
+        "C": "observing",
+        "D": "orbits",
+        "key_answer": "C"
+    },
+    {
+        "question_text": "The high demand for resources such as oil has led to an increase in global conflicts over supply.",
+        "A": "The high demand",
+        "B": "such as oil",
+        "C": "to an increase",
+        "D": "global conflicts over supply",
+        "key_answer": "C"
+    },
+    {
+        "question_text": "Space exploration has advanced significantly in the past few decades, allowing humans to send robots to explore distant planets and moons.",
+        "A": "Space exploration has advanced",
+        "B": "the past few decades",
+        "C": "to send robots",
+        "D": "planets and moons",
+        "key_answer": "C"
+    },
+    {
+        "question_text": "The telescope allows astronomers to observe distant objects in space, including stars, planets, and galaxies, that would otherwise be invisible to the naked eye.",
+        "A": "The telescope allows astronomers",
+        "B": "distant objects in space",
+        "C": "planets, and galaxies",
+        "D": "be invisible to the naked eye",
+        "key_answer": "C"
+    },
+    {
+        "question_text": "The human brain is capable of remarkable feats of memory, creativity, and problem-solving skills, which continue to fascinate scientists.",
+        "A": "The human brain",
+        "B": "feats of memory",
+        "C": "and problem-solving skills",
+        "D": "to fascinate scientists",
+        "key_answer": "C"
+    },
+    {
+        "question_text": "The Amazon rainforest, often referred to as the lungs of the Earth, is home to an incredible diversity of species and plays a vital role in regulating the planet's climate.",
+        "A": "The Amazon rainforest, often",
+        "B": "as the lungs of the Earth",
+        "C": "to an incredible diversity",
+        "D": "plays a vital role",
+        "key_answer": "D"
+    }
+]
