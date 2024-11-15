@@ -79,21 +79,6 @@
             "s_count": 2,
             "u_word": 2
         },
-        "level2": {
-            "main_verbs": false,
-            "tense": false,
-            "infinitives": false,
-            "passives": false,
-            "have_+_participle": false,
-            "auxiliary_verbs": false,
-            "pronouns": true,
-            "nouns": false,
-            "determiners": true,
-            "other_adjectives": false,
-            "prepositions": true,
-            "conjunctions": true,
-            "subject_verb_agreement": false
-        },
         "level2_with_options": [
             [
                 "main_verbs",
@@ -251,21 +236,6 @@
             "c_count": 0,
             "s_count": 0,
             "u_word": 1
-        },
-        "level2": {
-            "main_verbs": true,
-            "tense": true,
-            "infinitives": false,
-            "passives": false,
-            "have_+_participle": false,
-            "auxiliary_verbs": false,
-            "pronouns": false,
-            "nouns": true,
-            "determiners": false,
-            "other_adjectives": false,
-            "prepositions": false,
-            "conjunctions": true,
-            "subject_verb_agreement": true
         },
         "level2_with_options": [
             [
@@ -425,21 +395,6 @@
             "c_count": 0,
             "s_count": 1,
             "u_word": 2
-        },
-        "level2": {
-            "main_verbs": false,
-            "tense": true,
-            "infinitives": false,
-            "passives": true,
-            "have_+_participle": false,
-            "auxiliary_verbs": false,
-            "pronouns": false,
-            "nouns": true,
-            "determiners": true,
-            "other_adjectives": false,
-            "prepositions": true,
-            "conjunctions": true,
-            "subject_verb_agreement": true
         },
         "level2_with_options": [
             [
@@ -602,21 +557,6 @@
             "s_count": 1,
             "u_word": 1
         },
-        "level2": {
-            "main_verbs": true,
-            "tense": false,
-            "infinitives": false,
-            "passives": false,
-            "have_+_participle": false,
-            "auxiliary_verbs": true,
-            "pronouns": false,
-            "nouns": true,
-            "determiners": true,
-            "other_adjectives": true,
-            "prepositions": true,
-            "conjunctions": true,
-            "subject_verb_agreement": true
-        },
         "level2_with_options": [
             [
                 "main_verbs",
@@ -778,21 +718,6 @@
             "c_count": 0,
             "s_count": 0,
             "u_word": 2
-        },
-        "level2": {
-            "main_verbs": false,
-            "tense": true,
-            "infinitives": true,
-            "passives": false,
-            "have_+_participle": false,
-            "auxiliary_verbs": true,
-            "pronouns": false,
-            "nouns": true,
-            "determiners": true,
-            "other_adjectives": false,
-            "prepositions": true,
-            "conjunctions": false,
-            "subject_verb_agreement": false
         },
         "level2_with_options": [
             [
@@ -957,21 +882,6 @@
             "s_count": 0,
             "u_word": 1
         },
-        "level2": {
-            "main_verbs": true,
-            "tense": true,
-            "infinitives": true,
-            "passives": false,
-            "have_+_participle": false,
-            "auxiliary_verbs": true,
-            "pronouns": false,
-            "nouns": false,
-            "determiners": true,
-            "other_adjectives": false,
-            "prepositions": true,
-            "conjunctions": false,
-            "subject_verb_agreement": true
-        },
         "level2_with_options": [
             [
                 "main_verbs",
@@ -1133,21 +1043,6 @@
             "s_count": 1,
             "u_word": 0
         },
-        "level2": {
-            "main_verbs": false,
-            "tense": false,
-            "infinitives": false,
-            "passives": false,
-            "have_+_participle": false,
-            "auxiliary_verbs": false,
-            "pronouns": false,
-            "nouns": true,
-            "determiners": true,
-            "other_adjectives": false,
-            "prepositions": true,
-            "conjunctions": true,
-            "subject_verb_agreement": false
-        },
         "level2_with_options": [
             [
                 "main_verbs",
@@ -1306,21 +1201,6 @@
             "s_count": 0,
             "u_word": 3
         },
-        "level2": {
-            "main_verbs": false,
-            "tense": false,
-            "infinitives": false,
-            "passives": false,
-            "have_+_participle": false,
-            "auxiliary_verbs": false,
-            "pronouns": false,
-            "nouns": false,
-            "determiners": false,
-            "other_adjectives": false,
-            "prepositions": false,
-            "conjunctions": false,
-            "subject_verb_agreement": false
-        },
         "level2_with_options": [
             [
                 "main_verbs",
@@ -1474,21 +1354,6 @@
             "c_count": 0,
             "s_count": 1,
             "u_word": 1
-        },
-        "level2": {
-            "main_verbs": false,
-            "tense": false,
-            "infinitives": false,
-            "passives": false,
-            "have_+_participle": false,
-            "auxiliary_verbs": false,
-            "pronouns": false,
-            "nouns": true,
-            "determiners": true,
-            "other_adjectives": false,
-            "prepositions": true,
-            "conjunctions": true,
-            "subject_verb_agreement": false
         },
         "level2_with_options": [
             [
@@ -1647,21 +1512,6 @@
             "c_count": 0,
             "s_count": 3,
             "u_word": 2
-        },
-        "level2": {
-            "main_verbs": false,
-            "tense": true,
-            "infinitives": false,
-            "passives": true,
-            "have_+_participle": false,
-            "auxiliary_verbs": false,
-            "pronouns": false,
-            "nouns": true,
-            "determiners": true,
-            "other_adjectives": true,
-            "prepositions": true,
-            "conjunctions": true,
-            "subject_verb_agreement": false
         },
         "level2_with_options": [
             [
@@ -1824,21 +1674,6 @@
             "s_count": 0,
             "u_word": 1
         },
-        "level2": {
-            "main_verbs": false,
-            "tense": false,
-            "infinitives": false,
-            "passives": false,
-            "have_+_participle": false,
-            "auxiliary_verbs": false,
-            "pronouns": true,
-            "nouns": true,
-            "determiners": true,
-            "other_adjectives": false,
-            "prepositions": false,
-            "conjunctions": false,
-            "subject_verb_agreement": false
-        },
         "level2_with_options": [
             [
                 "main_verbs",
@@ -1995,21 +1830,6 @@
             "c_count": 0,
             "s_count": 1,
             "u_word": 2
-        },
-        "level2": {
-            "main_verbs": true,
-            "tense": true,
-            "infinitives": false,
-            "passives": false,
-            "have_+_participle": true,
-            "auxiliary_verbs": true,
-            "pronouns": false,
-            "nouns": true,
-            "determiners": true,
-            "other_adjectives": false,
-            "prepositions": true,
-            "conjunctions": true,
-            "subject_verb_agreement": true
         },
         "level2_with_options": [
             [
@@ -2175,21 +1995,6 @@
             "s_count": 1,
             "u_word": 0
         },
-        "level2": {
-            "main_verbs": true,
-            "tense": true,
-            "infinitives": false,
-            "passives": true,
-            "have_+_participle": false,
-            "auxiliary_verbs": false,
-            "pronouns": false,
-            "nouns": true,
-            "determiners": true,
-            "other_adjectives": false,
-            "prepositions": true,
-            "conjunctions": true,
-            "subject_verb_agreement": false
-        },
         "level2_with_options": [
             [
                 "main_verbs",
@@ -2350,21 +2155,6 @@
             "c_count": 0,
             "s_count": 0,
             "u_word": 2
-        },
-        "level2": {
-            "main_verbs": false,
-            "tense": true,
-            "infinitives": false,
-            "passives": true,
-            "have_+_participle": false,
-            "auxiliary_verbs": true,
-            "pronouns": true,
-            "nouns": true,
-            "determiners": true,
-            "other_adjectives": false,
-            "prepositions": false,
-            "conjunctions": false,
-            "subject_verb_agreement": true
         },
         "level2_with_options": [
             [
@@ -2527,21 +2317,6 @@
             "s_count": 0,
             "u_word": 1
         },
-        "level2": {
-            "main_verbs": false,
-            "tense": false,
-            "infinitives": false,
-            "passives": true,
-            "have_+_participle": false,
-            "auxiliary_verbs": false,
-            "pronouns": false,
-            "nouns": true,
-            "determiners": true,
-            "other_adjectives": false,
-            "prepositions": false,
-            "conjunctions": false,
-            "subject_verb_agreement": false
-        },
         "level2_with_options": [
             [
                 "main_verbs",
@@ -2698,21 +2473,6 @@
             "c_count": 0,
             "s_count": 0,
             "u_word": 0
-        },
-        "level2": {
-            "main_verbs": true,
-            "tense": true,
-            "infinitives": false,
-            "passives": false,
-            "have_+_participle": false,
-            "auxiliary_verbs": false,
-            "pronouns": false,
-            "nouns": true,
-            "determiners": false,
-            "other_adjectives": true,
-            "prepositions": false,
-            "conjunctions": false,
-            "subject_verb_agreement": true
         },
         "level2_with_options": [
             [
@@ -2873,21 +2633,6 @@
             "s_count": 1,
             "u_word": 1
         },
-        "level2": {
-            "main_verbs": false,
-            "tense": true,
-            "infinitives": false,
-            "passives": false,
-            "have_+_participle": false,
-            "auxiliary_verbs": false,
-            "pronouns": false,
-            "nouns": true,
-            "determiners": true,
-            "other_adjectives": false,
-            "prepositions": true,
-            "conjunctions": true,
-            "subject_verb_agreement": false
-        },
         "level2_with_options": [
             [
                 "main_verbs",
@@ -3046,21 +2791,6 @@
             "c_count": 0,
             "s_count": 0,
             "u_word": 4
-        },
-        "level2": {
-            "main_verbs": false,
-            "tense": true,
-            "infinitives": false,
-            "passives": false,
-            "have_+_participle": false,
-            "auxiliary_verbs": false,
-            "pronouns": true,
-            "nouns": true,
-            "determiners": false,
-            "other_adjectives": true,
-            "prepositions": false,
-            "conjunctions": false,
-            "subject_verb_agreement": true
         },
         "level2_with_options": [
             [
@@ -3221,21 +2951,6 @@
             "s_count": 0,
             "u_word": 0
         },
-        "level2": {
-            "main_verbs": true,
-            "tense": true,
-            "infinitives": false,
-            "passives": false,
-            "have_+_participle": false,
-            "auxiliary_verbs": false,
-            "pronouns": false,
-            "nouns": true,
-            "determiners": false,
-            "other_adjectives": true,
-            "prepositions": false,
-            "conjunctions": false,
-            "subject_verb_agreement": true
-        },
         "level2_with_options": [
             [
                 "main_verbs",
@@ -3394,21 +3109,6 @@
             "c_count": 0,
             "s_count": 5,
             "u_word": 1
-        },
-        "level2": {
-            "main_verbs": true,
-            "tense": true,
-            "infinitives": false,
-            "passives": true,
-            "have_+_participle": false,
-            "auxiliary_verbs": false,
-            "pronouns": false,
-            "nouns": true,
-            "determiners": true,
-            "other_adjectives": false,
-            "prepositions": true,
-            "conjunctions": true,
-            "subject_verb_agreement": false
         },
         "level2_with_options": [
             [
@@ -3575,21 +3275,6 @@
             "s_count": 1,
             "u_word": 2
         },
-        "level2": {
-            "main_verbs": false,
-            "tense": true,
-            "infinitives": false,
-            "passives": true,
-            "have_+_participle": false,
-            "auxiliary_verbs": true,
-            "pronouns": false,
-            "nouns": true,
-            "determiners": true,
-            "other_adjectives": false,
-            "prepositions": true,
-            "conjunctions": true,
-            "subject_verb_agreement": false
-        },
         "level2_with_options": [
             [
                 "main_verbs",
@@ -3751,21 +3436,6 @@
             "s_count": 1,
             "u_word": 1
         },
-        "level2": {
-            "main_verbs": false,
-            "tense": true,
-            "infinitives": false,
-            "passives": false,
-            "have_+_participle": false,
-            "auxiliary_verbs": false,
-            "pronouns": false,
-            "nouns": true,
-            "determiners": true,
-            "other_adjectives": false,
-            "prepositions": true,
-            "conjunctions": true,
-            "subject_verb_agreement": true
-        },
         "level2_with_options": [
             [
                 "main_verbs",
@@ -3926,21 +3596,6 @@
             "s_count": 3,
             "u_word": 0
         },
-        "level2": {
-            "main_verbs": false,
-            "tense": false,
-            "infinitives": false,
-            "passives": false,
-            "have_+_participle": false,
-            "auxiliary_verbs": false,
-            "pronouns": false,
-            "nouns": true,
-            "determiners": true,
-            "other_adjectives": false,
-            "prepositions": true,
-            "conjunctions": true,
-            "subject_verb_agreement": false
-        },
         "level2_with_options": [
             [
                 "main_verbs",
@@ -4098,21 +3753,6 @@
             "c_count": 2,
             "s_count": 0,
             "u_word": 1
-        },
-        "level2": {
-            "main_verbs": false,
-            "tense": true,
-            "infinitives": false,
-            "passives": false,
-            "have_+_participle": false,
-            "auxiliary_verbs": false,
-            "pronouns": true,
-            "nouns": true,
-            "determiners": true,
-            "other_adjectives": false,
-            "prepositions": false,
-            "conjunctions": true,
-            "subject_verb_agreement": true
         },
         "level2_with_options": [
             [
@@ -4274,21 +3914,6 @@
             "s_count": 1,
             "u_word": 0
         },
-        "level2": {
-            "main_verbs": false,
-            "tense": false,
-            "infinitives": false,
-            "passives": false,
-            "have_+_participle": false,
-            "auxiliary_verbs": false,
-            "pronouns": false,
-            "nouns": true,
-            "determiners": true,
-            "other_adjectives": false,
-            "prepositions": true,
-            "conjunctions": true,
-            "subject_verb_agreement": false
-        },
         "level2_with_options": [
             [
                 "main_verbs",
@@ -4446,21 +4071,6 @@
             "c_count": 0,
             "s_count": 1,
             "u_word": 0
-        },
-        "level2": {
-            "main_verbs": false,
-            "tense": false,
-            "infinitives": false,
-            "passives": true,
-            "have_+_participle": false,
-            "auxiliary_verbs": true,
-            "pronouns": true,
-            "nouns": true,
-            "determiners": true,
-            "other_adjectives": false,
-            "prepositions": true,
-            "conjunctions": true,
-            "subject_verb_agreement": true
         },
         "level2_with_options": [
             [
@@ -4624,21 +4234,6 @@
             "s_count": 1,
             "u_word": 0
         },
-        "level2": {
-            "main_verbs": false,
-            "tense": false,
-            "infinitives": false,
-            "passives": false,
-            "have_+_participle": false,
-            "auxiliary_verbs": false,
-            "pronouns": false,
-            "nouns": true,
-            "determiners": true,
-            "other_adjectives": false,
-            "prepositions": true,
-            "conjunctions": true,
-            "subject_verb_agreement": false
-        },
         "level2_with_options": [
             [
                 "main_verbs",
@@ -4796,21 +4391,6 @@
             "c_count": 0,
             "s_count": 1,
             "u_word": 0
-        },
-        "level2": {
-            "main_verbs": false,
-            "tense": true,
-            "infinitives": false,
-            "passives": true,
-            "have_+_participle": false,
-            "auxiliary_verbs": false,
-            "pronouns": true,
-            "nouns": true,
-            "determiners": true,
-            "other_adjectives": false,
-            "prepositions": true,
-            "conjunctions": true,
-            "subject_verb_agreement": true
         },
         "level2_with_options": [
             [
@@ -4974,21 +4554,6 @@
             "s_count": 1,
             "u_word": 2
         },
-        "level2": {
-            "main_verbs": false,
-            "tense": false,
-            "infinitives": false,
-            "passives": true,
-            "have_+_participle": false,
-            "auxiliary_verbs": false,
-            "pronouns": false,
-            "nouns": false,
-            "determiners": true,
-            "other_adjectives": false,
-            "prepositions": true,
-            "conjunctions": true,
-            "subject_verb_agreement": false
-        },
         "level2_with_options": [
             [
                 "main_verbs",
@@ -5146,21 +4711,6 @@
             "c_count": 0,
             "s_count": 0,
             "u_word": 1
-        },
-        "level2": {
-            "main_verbs": false,
-            "tense": true,
-            "infinitives": false,
-            "passives": false,
-            "have_+_participle": false,
-            "auxiliary_verbs": false,
-            "pronouns": false,
-            "nouns": true,
-            "determiners": true,
-            "other_adjectives": true,
-            "prepositions": false,
-            "conjunctions": false,
-            "subject_verb_agreement": false
         },
         "level2_with_options": [
             [
@@ -5320,21 +4870,6 @@
             "s_count": 1,
             "u_word": 0
         },
-        "level2": {
-            "main_verbs": false,
-            "tense": false,
-            "infinitives": false,
-            "passives": false,
-            "have_+_participle": false,
-            "auxiliary_verbs": false,
-            "pronouns": false,
-            "nouns": true,
-            "determiners": true,
-            "other_adjectives": true,
-            "prepositions": true,
-            "conjunctions": true,
-            "subject_verb_agreement": false
-        },
         "level2_with_options": [
             [
                 "main_verbs",
@@ -5493,21 +5028,6 @@
             "c_count": 0,
             "s_count": 0,
             "u_word": 0
-        },
-        "level2": {
-            "main_verbs": true,
-            "tense": true,
-            "infinitives": false,
-            "passives": false,
-            "have_+_participle": false,
-            "auxiliary_verbs": true,
-            "pronouns": true,
-            "nouns": true,
-            "determiners": true,
-            "other_adjectives": false,
-            "prepositions": false,
-            "conjunctions": false,
-            "subject_verb_agreement": true
         },
         "level2_with_options": [
             [
@@ -5671,21 +5191,6 @@
             "s_count": 1,
             "u_word": 1
         },
-        "level2": {
-            "main_verbs": false,
-            "tense": false,
-            "infinitives": false,
-            "passives": false,
-            "have_+_participle": false,
-            "auxiliary_verbs": false,
-            "pronouns": false,
-            "nouns": false,
-            "determiners": true,
-            "other_adjectives": false,
-            "prepositions": true,
-            "conjunctions": true,
-            "subject_verb_agreement": false
-        },
         "level2_with_options": [
             [
                 "main_verbs",
@@ -5846,21 +5351,6 @@
             "s_count": 0,
             "u_word": 1
         },
-        "level2": {
-            "main_verbs": false,
-            "tense": false,
-            "infinitives": false,
-            "passives": false,
-            "have_+_participle": false,
-            "auxiliary_verbs": false,
-            "pronouns": true,
-            "nouns": true,
-            "determiners": true,
-            "other_adjectives": false,
-            "prepositions": false,
-            "conjunctions": false,
-            "subject_verb_agreement": false
-        },
         "level2_with_options": [
             [
                 "main_verbs",
@@ -6017,21 +5507,6 @@
             "c_count": 0,
             "s_count": 0,
             "u_word": 1
-        },
-        "level2": {
-            "main_verbs": true,
-            "tense": true,
-            "infinitives": false,
-            "passives": false,
-            "have_+_participle": false,
-            "auxiliary_verbs": false,
-            "pronouns": false,
-            "nouns": true,
-            "determiners": false,
-            "other_adjectives": true,
-            "prepositions": false,
-            "conjunctions": false,
-            "subject_verb_agreement": true
         },
         "level2_with_options": [
             [
@@ -6192,21 +5667,6 @@
             "s_count": 0,
             "u_word": 1
         },
-        "level2": {
-            "main_verbs": false,
-            "tense": true,
-            "infinitives": false,
-            "passives": true,
-            "have_+_participle": false,
-            "auxiliary_verbs": false,
-            "pronouns": false,
-            "nouns": true,
-            "determiners": true,
-            "other_adjectives": false,
-            "prepositions": false,
-            "conjunctions": false,
-            "subject_verb_agreement": false
-        },
         "level2_with_options": [
             [
                 "main_verbs",
@@ -6364,21 +5824,6 @@
             "c_count": 0,
             "s_count": 1,
             "u_word": 2
-        },
-        "level2": {
-            "main_verbs": true,
-            "tense": true,
-            "infinitives": false,
-            "passives": true,
-            "have_+_participle": false,
-            "auxiliary_verbs": false,
-            "pronouns": false,
-            "nouns": true,
-            "determiners": true,
-            "other_adjectives": false,
-            "prepositions": true,
-            "conjunctions": true,
-            "subject_verb_agreement": false
         },
         "level2_with_options": [
             [
@@ -6541,21 +5986,6 @@
             "s_count": 1,
             "u_word": 2
         },
-        "level2": {
-            "main_verbs": false,
-            "tense": true,
-            "infinitives": false,
-            "passives": false,
-            "have_+_participle": false,
-            "auxiliary_verbs": false,
-            "pronouns": false,
-            "nouns": false,
-            "determiners": true,
-            "other_adjectives": false,
-            "prepositions": true,
-            "conjunctions": true,
-            "subject_verb_agreement": false
-        },
         "level2_with_options": [
             [
                 "main_verbs",
@@ -6714,21 +6144,6 @@
             "s_count": 2,
             "u_word": 1
         },
-        "level2": {
-            "main_verbs": false,
-            "tense": false,
-            "infinitives": false,
-            "passives": false,
-            "have_+_participle": false,
-            "auxiliary_verbs": false,
-            "pronouns": false,
-            "nouns": true,
-            "determiners": true,
-            "other_adjectives": false,
-            "prepositions": true,
-            "conjunctions": true,
-            "subject_verb_agreement": false
-        },
         "level2_with_options": [
             [
                 "main_verbs",
@@ -6886,21 +6301,6 @@
             "c_count": 0,
             "s_count": 3,
             "u_word": 1
-        },
-        "level2": {
-            "main_verbs": true,
-            "tense": true,
-            "infinitives": false,
-            "passives": false,
-            "have_+_participle": false,
-            "auxiliary_verbs": false,
-            "pronouns": false,
-            "nouns": false,
-            "determiners": true,
-            "other_adjectives": false,
-            "prepositions": true,
-            "conjunctions": true,
-            "subject_verb_agreement": true
         },
         "level2_with_options": [
             [
@@ -7062,21 +6462,6 @@
             "s_count": 2,
             "u_word": 0
         },
-        "level2": {
-            "main_verbs": false,
-            "tense": true,
-            "infinitives": false,
-            "passives": false,
-            "have_+_participle": false,
-            "auxiliary_verbs": false,
-            "pronouns": false,
-            "nouns": true,
-            "determiners": true,
-            "other_adjectives": false,
-            "prepositions": true,
-            "conjunctions": true,
-            "subject_verb_agreement": false
-        },
         "level2_with_options": [
             [
                 "main_verbs",
@@ -7236,21 +6621,6 @@
             "s_count": 3,
             "u_word": 0
         },
-        "level2": {
-            "main_verbs": false,
-            "tense": false,
-            "infinitives": false,
-            "passives": false,
-            "have_+_participle": false,
-            "auxiliary_verbs": false,
-            "pronouns": false,
-            "nouns": true,
-            "determiners": true,
-            "other_adjectives": false,
-            "prepositions": true,
-            "conjunctions": true,
-            "subject_verb_agreement": false
-        },
         "level2_with_options": [
             [
                 "main_verbs",
@@ -7408,21 +6778,6 @@
             "c_count": 0,
             "s_count": 1,
             "u_word": 1
-        },
-        "level2": {
-            "main_verbs": false,
-            "tense": true,
-            "infinitives": false,
-            "passives": false,
-            "have_+_participle": false,
-            "auxiliary_verbs": false,
-            "pronouns": true,
-            "nouns": true,
-            "determiners": true,
-            "other_adjectives": false,
-            "prepositions": true,
-            "conjunctions": true,
-            "subject_verb_agreement": false
         },
         "level2_with_options": [
             [
@@ -7583,21 +6938,6 @@
             "c_count": 0,
             "s_count": 1,
             "u_word": 2
-        },
-        "level2": {
-            "main_verbs": false,
-            "tense": false,
-            "infinitives": true,
-            "passives": false,
-            "have_+_participle": false,
-            "auxiliary_verbs": true,
-            "pronouns": false,
-            "nouns": true,
-            "determiners": true,
-            "other_adjectives": false,
-            "prepositions": true,
-            "conjunctions": true,
-            "subject_verb_agreement": false
         },
         "level2_with_options": [
             [
@@ -7761,21 +7101,6 @@
             "s_count": 1,
             "u_word": 1
         },
-        "level2": {
-            "main_verbs": false,
-            "tense": false,
-            "infinitives": false,
-            "passives": true,
-            "have_+_participle": false,
-            "auxiliary_verbs": false,
-            "pronouns": false,
-            "nouns": true,
-            "determiners": true,
-            "other_adjectives": false,
-            "prepositions": true,
-            "conjunctions": true,
-            "subject_verb_agreement": false
-        },
         "level2_with_options": [
             [
                 "main_verbs",
@@ -7935,21 +7260,6 @@
             "s_count": 1,
             "u_word": 1
         },
-        "level2": {
-            "main_verbs": false,
-            "tense": true,
-            "infinitives": false,
-            "passives": false,
-            "have_+_participle": false,
-            "auxiliary_verbs": false,
-            "pronouns": false,
-            "nouns": true,
-            "determiners": true,
-            "other_adjectives": false,
-            "prepositions": true,
-            "conjunctions": true,
-            "subject_verb_agreement": false
-        },
         "level2_with_options": [
             [
                 "main_verbs",
@@ -8108,21 +7418,6 @@
             "c_count": 0,
             "s_count": 0,
             "u_word": 1
-        },
-        "level2": {
-            "main_verbs": true,
-            "tense": false,
-            "infinitives": true,
-            "passives": false,
-            "have_+_participle": false,
-            "auxiliary_verbs": true,
-            "pronouns": true,
-            "nouns": true,
-            "determiners": false,
-            "other_adjectives": false,
-            "prepositions": false,
-            "conjunctions": false,
-            "subject_verb_agreement": true
         },
         "level2_with_options": [
             [
@@ -8284,21 +7579,6 @@
             "s_count": 0,
             "u_word": 1
         },
-        "level2": {
-            "main_verbs": false,
-            "tense": true,
-            "infinitives": false,
-            "passives": false,
-            "have_+_participle": false,
-            "auxiliary_verbs": false,
-            "pronouns": true,
-            "nouns": true,
-            "determiners": true,
-            "other_adjectives": false,
-            "prepositions": false,
-            "conjunctions": false,
-            "subject_verb_agreement": false
-        },
         "level2_with_options": [
             [
                 "main_verbs",
@@ -8458,21 +7738,6 @@
             "s_count": 1,
             "u_word": 1
         },
-        "level2": {
-            "main_verbs": false,
-            "tense": true,
-            "infinitives": false,
-            "passives": false,
-            "have_+_participle": false,
-            "auxiliary_verbs": false,
-            "pronouns": false,
-            "nouns": true,
-            "determiners": true,
-            "other_adjectives": false,
-            "prepositions": true,
-            "conjunctions": true,
-            "subject_verb_agreement": false
-        },
         "level2_with_options": [
             [
                 "main_verbs",
@@ -8631,21 +7896,6 @@
             "c_count": 0,
             "s_count": 1,
             "u_word": 1
-        },
-        "level2": {
-            "main_verbs": true,
-            "tense": true,
-            "infinitives": false,
-            "passives": false,
-            "have_+_participle": false,
-            "auxiliary_verbs": false,
-            "pronouns": false,
-            "nouns": true,
-            "determiners": true,
-            "other_adjectives": false,
-            "prepositions": true,
-            "conjunctions": true,
-            "subject_verb_agreement": true
         },
         "level2_with_options": [
             [
@@ -8808,21 +8058,6 @@
             "s_count": 0,
             "u_word": 1
         },
-        "level2": {
-            "main_verbs": true,
-            "tense": false,
-            "infinitives": true,
-            "passives": true,
-            "have_+_participle": false,
-            "auxiliary_verbs": true,
-            "pronouns": false,
-            "nouns": true,
-            "determiners": false,
-            "other_adjectives": false,
-            "prepositions": true,
-            "conjunctions": false,
-            "subject_verb_agreement": false
-        },
         "level2_with_options": [
             [
                 "main_verbs",
@@ -8982,21 +8217,6 @@
             "c_count": 0,
             "s_count": 3,
             "u_word": 2
-        },
-        "level2": {
-            "main_verbs": true,
-            "tense": true,
-            "infinitives": false,
-            "passives": false,
-            "have_+_participle": false,
-            "auxiliary_verbs": false,
-            "pronouns": false,
-            "nouns": true,
-            "determiners": true,
-            "other_adjectives": false,
-            "prepositions": true,
-            "conjunctions": true,
-            "subject_verb_agreement": true
         },
         "level2_with_options": [
             [
@@ -9158,21 +8378,6 @@
             "c_count": 3,
             "s_count": 0,
             "u_word": 4
-        },
-        "level2": {
-            "main_verbs": false,
-            "tense": true,
-            "infinitives": false,
-            "passives": false,
-            "have_+_participle": false,
-            "auxiliary_verbs": true,
-            "pronouns": true,
-            "nouns": true,
-            "determiners": true,
-            "other_adjectives": false,
-            "prepositions": false,
-            "conjunctions": true,
-            "subject_verb_agreement": true
         },
         "level2_with_options": [
             [
@@ -9338,21 +8543,6 @@
             "c_count": 1,
             "s_count": 3,
             "u_word": 2
-        },
-        "level2": {
-            "main_verbs": true,
-            "tense": true,
-            "infinitives": true,
-            "passives": false,
-            "have_+_participle": false,
-            "auxiliary_verbs": true,
-            "pronouns": true,
-            "nouns": true,
-            "determiners": true,
-            "other_adjectives": false,
-            "prepositions": true,
-            "conjunctions": true,
-            "subject_verb_agreement": true
         },
         "level2_with_options": [
             [
@@ -9521,21 +8711,6 @@
             "s_count": 0,
             "u_word": 3
         },
-        "level2": {
-            "main_verbs": true,
-            "tense": true,
-            "infinitives": false,
-            "passives": false,
-            "have_+_participle": true,
-            "auxiliary_verbs": true,
-            "pronouns": false,
-            "nouns": false,
-            "determiners": false,
-            "other_adjectives": false,
-            "prepositions": false,
-            "conjunctions": false,
-            "subject_verb_agreement": true
-        },
         "level2_with_options": [
             [
                 "main_verbs",
@@ -9694,21 +8869,6 @@
             "c_count": 0,
             "s_count": 0,
             "u_word": 1
-        },
-        "level2": {
-            "main_verbs": true,
-            "tense": true,
-            "infinitives": false,
-            "passives": false,
-            "have_+_participle": false,
-            "auxiliary_verbs": true,
-            "pronouns": false,
-            "nouns": true,
-            "determiners": true,
-            "other_adjectives": false,
-            "prepositions": false,
-            "conjunctions": false,
-            "subject_verb_agreement": true
         },
         "level2_with_options": [
             [
@@ -9870,21 +9030,6 @@
             "s_count": 0,
             "u_word": 0
         },
-        "level2": {
-            "main_verbs": false,
-            "tense": false,
-            "infinitives": false,
-            "passives": false,
-            "have_+_participle": false,
-            "auxiliary_verbs": false,
-            "pronouns": true,
-            "nouns": false,
-            "determiners": true,
-            "other_adjectives": false,
-            "prepositions": false,
-            "conjunctions": true,
-            "subject_verb_agreement": false
-        },
         "level2_with_options": [
             [
                 "main_verbs",
@@ -10042,21 +9187,6 @@
             "s_count": 0,
             "u_word": 0
         },
-        "level2": {
-            "main_verbs": false,
-            "tense": false,
-            "infinitives": false,
-            "passives": false,
-            "have_+_participle": false,
-            "auxiliary_verbs": false,
-            "pronouns": true,
-            "nouns": true,
-            "determiners": true,
-            "other_adjectives": false,
-            "prepositions": false,
-            "conjunctions": false,
-            "subject_verb_agreement": false
-        },
         "level2_with_options": [
             [
                 "main_verbs",
@@ -10213,21 +9343,6 @@
             "c_count": 0,
             "s_count": 0,
             "u_word": 0
-        },
-        "level2": {
-            "main_verbs": true,
-            "tense": false,
-            "infinitives": false,
-            "passives": true,
-            "have_+_participle": false,
-            "auxiliary_verbs": true,
-            "pronouns": true,
-            "nouns": true,
-            "determiners": false,
-            "other_adjectives": false,
-            "prepositions": false,
-            "conjunctions": false,
-            "subject_verb_agreement": true
         },
         "level2_with_options": [
             [
@@ -10389,21 +9504,6 @@
             "s_count": 0,
             "u_word": 1
         },
-        "level2": {
-            "main_verbs": true,
-            "tense": true,
-            "infinitives": false,
-            "passives": false,
-            "have_+_participle": false,
-            "auxiliary_verbs": false,
-            "pronouns": true,
-            "nouns": false,
-            "determiners": false,
-            "other_adjectives": false,
-            "prepositions": false,
-            "conjunctions": false,
-            "subject_verb_agreement": true
-        },
         "level2_with_options": [
             [
                 "main_verbs",
@@ -10561,21 +9661,6 @@
             "c_count": 0,
             "s_count": 1,
             "u_word": 0
-        },
-        "level2": {
-            "main_verbs": true,
-            "tense": true,
-            "infinitives": false,
-            "passives": false,
-            "have_+_participle": false,
-            "auxiliary_verbs": false,
-            "pronouns": false,
-            "nouns": false,
-            "determiners": true,
-            "other_adjectives": false,
-            "prepositions": true,
-            "conjunctions": true,
-            "subject_verb_agreement": true
         },
         "level2_with_options": [
             [
@@ -10739,21 +9824,6 @@
             "s_count": 0,
             "u_word": 1
         },
-        "level2": {
-            "main_verbs": false,
-            "tense": true,
-            "infinitives": false,
-            "passives": false,
-            "have_+_participle": false,
-            "auxiliary_verbs": false,
-            "pronouns": false,
-            "nouns": true,
-            "determiners": false,
-            "other_adjectives": true,
-            "prepositions": false,
-            "conjunctions": false,
-            "subject_verb_agreement": true
-        },
         "level2_with_options": [
             [
                 "main_verbs",
@@ -10911,21 +9981,6 @@
             "c_count": 0,
             "s_count": 1,
             "u_word": 1
-        },
-        "level2": {
-            "main_verbs": true,
-            "tense": true,
-            "infinitives": false,
-            "passives": false,
-            "have_+_participle": false,
-            "auxiliary_verbs": true,
-            "pronouns": false,
-            "nouns": false,
-            "determiners": true,
-            "other_adjectives": false,
-            "prepositions": true,
-            "conjunctions": true,
-            "subject_verb_agreement": true
         },
         "level2_with_options": [
             [
@@ -11087,21 +10142,6 @@
             "c_count": 0,
             "s_count": 3,
             "u_word": 0
-        },
-        "level2": {
-            "main_verbs": false,
-            "tense": true,
-            "infinitives": false,
-            "passives": false,
-            "have_+_participle": false,
-            "auxiliary_verbs": true,
-            "pronouns": false,
-            "nouns": false,
-            "determiners": true,
-            "other_adjectives": false,
-            "prepositions": true,
-            "conjunctions": true,
-            "subject_verb_agreement": false
         },
         "level2_with_options": [
             [
@@ -11265,21 +10305,6 @@
             "s_count": 0,
             "u_word": 2
         },
-        "level2": {
-            "main_verbs": true,
-            "tense": true,
-            "infinitives": false,
-            "passives": false,
-            "have_+_participle": false,
-            "auxiliary_verbs": false,
-            "pronouns": false,
-            "nouns": false,
-            "determiners": true,
-            "other_adjectives": false,
-            "prepositions": false,
-            "conjunctions": false,
-            "subject_verb_agreement": true
-        },
         "level2_with_options": [
             [
                 "main_verbs",
@@ -11437,21 +10462,6 @@
             "c_count": 0,
             "s_count": 2,
             "u_word": 0
-        },
-        "level2": {
-            "main_verbs": false,
-            "tense": true,
-            "infinitives": false,
-            "passives": false,
-            "have_+_participle": false,
-            "auxiliary_verbs": true,
-            "pronouns": true,
-            "nouns": false,
-            "determiners": true,
-            "other_adjectives": false,
-            "prepositions": true,
-            "conjunctions": true,
-            "subject_verb_agreement": true
         },
         "level2_with_options": [
             [
@@ -11613,21 +10623,6 @@
             "c_count": 0,
             "s_count": 1,
             "u_word": 0
-        },
-        "level2": {
-            "main_verbs": true,
-            "tense": true,
-            "infinitives": true,
-            "passives": false,
-            "have_+_participle": false,
-            "auxiliary_verbs": true,
-            "pronouns": false,
-            "nouns": false,
-            "determiners": true,
-            "other_adjectives": true,
-            "prepositions": true,
-            "conjunctions": true,
-            "subject_verb_agreement": false
         },
         "level2_with_options": [
             [
@@ -11791,21 +10786,6 @@
             "s_count": 0,
             "u_word": 1
         },
-        "level2": {
-            "main_verbs": true,
-            "tense": true,
-            "infinitives": false,
-            "passives": false,
-            "have_+_participle": false,
-            "auxiliary_verbs": true,
-            "pronouns": false,
-            "nouns": true,
-            "determiners": false,
-            "other_adjectives": false,
-            "prepositions": false,
-            "conjunctions": false,
-            "subject_verb_agreement": true
-        },
         "level2_with_options": [
             [
                 "main_verbs",
@@ -11965,21 +10945,6 @@
             "s_count": 2,
             "u_word": 0
         },
-        "level2": {
-            "main_verbs": true,
-            "tense": false,
-            "infinitives": false,
-            "passives": false,
-            "have_+_participle": false,
-            "auxiliary_verbs": false,
-            "pronouns": false,
-            "nouns": false,
-            "determiners": true,
-            "other_adjectives": false,
-            "prepositions": true,
-            "conjunctions": true,
-            "subject_verb_agreement": false
-        },
         "level2_with_options": [
             [
                 "main_verbs",
@@ -12137,21 +11102,6 @@
             "c_count": 0,
             "s_count": 1,
             "u_word": 0
-        },
-        "level2": {
-            "main_verbs": true,
-            "tense": true,
-            "infinitives": false,
-            "passives": false,
-            "have_+_participle": false,
-            "auxiliary_verbs": false,
-            "pronouns": false,
-            "nouns": false,
-            "determiners": true,
-            "other_adjectives": false,
-            "prepositions": true,
-            "conjunctions": true,
-            "subject_verb_agreement": false
         },
         "level2_with_options": [
             [
@@ -12315,21 +11265,6 @@
             "s_count": 0,
             "u_word": 3
         },
-        "level2": {
-            "main_verbs": false,
-            "tense": true,
-            "infinitives": false,
-            "passives": false,
-            "have_+_participle": false,
-            "auxiliary_verbs": true,
-            "pronouns": false,
-            "nouns": false,
-            "determiners": false,
-            "other_adjectives": true,
-            "prepositions": false,
-            "conjunctions": false,
-            "subject_verb_agreement": true
-        },
         "level2_with_options": [
             [
                 "main_verbs",
@@ -12487,21 +11422,6 @@
             "c_count": 0,
             "s_count": 0,
             "u_word": 0
-        },
-        "level2": {
-            "main_verbs": true,
-            "tense": true,
-            "infinitives": false,
-            "passives": false,
-            "have_+_participle": false,
-            "auxiliary_verbs": true,
-            "pronouns": true,
-            "nouns": true,
-            "determiners": false,
-            "other_adjectives": false,
-            "prepositions": false,
-            "conjunctions": false,
-            "subject_verb_agreement": true
         },
         "level2_with_options": [
             [
@@ -12663,21 +11583,6 @@
             "s_count": 2,
             "u_word": 1
         },
-        "level2": {
-            "main_verbs": true,
-            "tense": true,
-            "infinitives": false,
-            "passives": false,
-            "have_+_participle": false,
-            "auxiliary_verbs": false,
-            "pronouns": false,
-            "nouns": false,
-            "determiners": true,
-            "other_adjectives": false,
-            "prepositions": true,
-            "conjunctions": true,
-            "subject_verb_agreement": true
-        },
         "level2_with_options": [
             [
                 "main_verbs",
@@ -12838,21 +11743,6 @@
             "s_count": 3,
             "u_word": 1
         },
-        "level2": {
-            "main_verbs": false,
-            "tense": false,
-            "infinitives": false,
-            "passives": false,
-            "have_+_participle": false,
-            "auxiliary_verbs": false,
-            "pronouns": false,
-            "nouns": false,
-            "determiners": true,
-            "other_adjectives": false,
-            "prepositions": true,
-            "conjunctions": true,
-            "subject_verb_agreement": false
-        },
         "level2_with_options": [
             [
                 "main_verbs",
@@ -13009,21 +11899,6 @@
             "c_count": 0,
             "s_count": 0,
             "u_word": 1
-        },
-        "level2": {
-            "main_verbs": false,
-            "tense": false,
-            "infinitives": true,
-            "passives": false,
-            "have_+_participle": false,
-            "auxiliary_verbs": true,
-            "pronouns": false,
-            "nouns": true,
-            "determiners": true,
-            "other_adjectives": false,
-            "prepositions": true,
-            "conjunctions": false,
-            "subject_verb_agreement": false
         },
         "level2_with_options": [
             [
@@ -13184,21 +12059,6 @@
             "s_count": 2,
             "u_word": 2
         },
-        "level2": {
-            "main_verbs": false,
-            "tense": true,
-            "infinitives": false,
-            "passives": false,
-            "have_+_participle": false,
-            "auxiliary_verbs": false,
-            "pronouns": false,
-            "nouns": false,
-            "determiners": true,
-            "other_adjectives": false,
-            "prepositions": true,
-            "conjunctions": true,
-            "subject_verb_agreement": false
-        },
         "level2_with_options": [
             [
                 "main_verbs",
@@ -13356,21 +12216,6 @@
             "c_count": 0,
             "s_count": 3,
             "u_word": 1
-        },
-        "level2": {
-            "main_verbs": true,
-            "tense": true,
-            "infinitives": false,
-            "passives": false,
-            "have_+_participle": false,
-            "auxiliary_verbs": false,
-            "pronouns": false,
-            "nouns": false,
-            "determiners": true,
-            "other_adjectives": false,
-            "prepositions": true,
-            "conjunctions": true,
-            "subject_verb_agreement": false
         },
         "level2_with_options": [
             [
@@ -13531,21 +12376,6 @@
             "s_count": 1,
             "u_word": 0
         },
-        "level2": {
-            "main_verbs": true,
-            "tense": true,
-            "infinitives": false,
-            "passives": false,
-            "have_+_participle": false,
-            "auxiliary_verbs": false,
-            "pronouns": false,
-            "nouns": false,
-            "determiners": true,
-            "other_adjectives": false,
-            "prepositions": true,
-            "conjunctions": true,
-            "subject_verb_agreement": true
-        },
         "level2_with_options": [
             [
                 "main_verbs",
@@ -13705,21 +12535,6 @@
             "c_count": 0,
             "s_count": 2,
             "u_word": 1
-        },
-        "level2": {
-            "main_verbs": true,
-            "tense": true,
-            "infinitives": false,
-            "passives": false,
-            "have_+_participle": true,
-            "auxiliary_verbs": true,
-            "pronouns": false,
-            "nouns": false,
-            "determiners": true,
-            "other_adjectives": false,
-            "prepositions": true,
-            "conjunctions": true,
-            "subject_verb_agreement": true
         },
         "level2_with_options": [
             [
@@ -13883,21 +12698,6 @@
             "s_count": 1,
             "u_word": 0
         },
-        "level2": {
-            "main_verbs": true,
-            "tense": true,
-            "infinitives": false,
-            "passives": false,
-            "have_+_participle": false,
-            "auxiliary_verbs": false,
-            "pronouns": false,
-            "nouns": false,
-            "determiners": true,
-            "other_adjectives": false,
-            "prepositions": true,
-            "conjunctions": true,
-            "subject_verb_agreement": false
-        },
         "level2_with_options": [
             [
                 "main_verbs",
@@ -14056,21 +12856,6 @@
             "c_count": 0,
             "s_count": 1,
             "u_word": 2
-        },
-        "level2": {
-            "main_verbs": true,
-            "tense": true,
-            "infinitives": false,
-            "passives": false,
-            "have_+_participle": false,
-            "auxiliary_verbs": false,
-            "pronouns": false,
-            "nouns": false,
-            "determiners": true,
-            "other_adjectives": false,
-            "prepositions": true,
-            "conjunctions": true,
-            "subject_verb_agreement": true
         },
         "level2_with_options": [
             [
@@ -14232,21 +13017,6 @@
             "s_count": 2,
             "u_word": 1
         },
-        "level2": {
-            "main_verbs": false,
-            "tense": true,
-            "infinitives": false,
-            "passives": false,
-            "have_+_participle": false,
-            "auxiliary_verbs": true,
-            "pronouns": false,
-            "nouns": false,
-            "determiners": true,
-            "other_adjectives": false,
-            "prepositions": true,
-            "conjunctions": true,
-            "subject_verb_agreement": true
-        },
         "level2_with_options": [
             [
                 "main_verbs",
@@ -14406,21 +13176,6 @@
             "c_count": 0,
             "s_count": 3,
             "u_word": 1
-        },
-        "level2": {
-            "main_verbs": false,
-            "tense": true,
-            "infinitives": true,
-            "passives": true,
-            "have_+_participle": false,
-            "auxiliary_verbs": true,
-            "pronouns": false,
-            "nouns": false,
-            "determiners": true,
-            "other_adjectives": false,
-            "prepositions": true,
-            "conjunctions": true,
-            "subject_verb_agreement": false
         },
         "level2_with_options": [
             [
@@ -14583,21 +13338,6 @@
             "s_count": 0,
             "u_word": 0
         },
-        "level2": {
-            "main_verbs": true,
-            "tense": true,
-            "infinitives": false,
-            "passives": true,
-            "have_+_participle": false,
-            "auxiliary_verbs": false,
-            "pronouns": false,
-            "nouns": true,
-            "determiners": false,
-            "other_adjectives": true,
-            "prepositions": false,
-            "conjunctions": false,
-            "subject_verb_agreement": false
-        },
         "level2_with_options": [
             [
                 "main_verbs",
@@ -14756,21 +13496,6 @@
             "c_count": 0,
             "s_count": 0,
             "u_word": 2
-        },
-        "level2": {
-            "main_verbs": true,
-            "tense": true,
-            "infinitives": false,
-            "passives": false,
-            "have_+_participle": false,
-            "auxiliary_verbs": true,
-            "pronouns": false,
-            "nouns": false,
-            "determiners": true,
-            "other_adjectives": false,
-            "prepositions": false,
-            "conjunctions": true,
-            "subject_verb_agreement": true
         },
         "level2_with_options": [
             [
@@ -14934,21 +13659,6 @@
             "s_count": 0,
             "u_word": 0
         },
-        "level2": {
-            "main_verbs": true,
-            "tense": true,
-            "infinitives": false,
-            "passives": false,
-            "have_+_participle": false,
-            "auxiliary_verbs": false,
-            "pronouns": true,
-            "nouns": false,
-            "determiners": true,
-            "other_adjectives": false,
-            "prepositions": false,
-            "conjunctions": false,
-            "subject_verb_agreement": false
-        },
         "level2_with_options": [
             [
                 "main_verbs",
@@ -15106,21 +13816,6 @@
             "c_count": 0,
             "s_count": 1,
             "u_word": 2
-        },
-        "level2": {
-            "main_verbs": true,
-            "tense": true,
-            "infinitives": false,
-            "passives": false,
-            "have_+_participle": true,
-            "auxiliary_verbs": true,
-            "pronouns": false,
-            "nouns": false,
-            "determiners": true,
-            "other_adjectives": false,
-            "prepositions": true,
-            "conjunctions": true,
-            "subject_verb_agreement": false
         },
         "level2_with_options": [
             [
@@ -15283,21 +13978,6 @@
             "s_count": 0,
             "u_word": 0
         },
-        "level2": {
-            "main_verbs": true,
-            "tense": true,
-            "infinitives": false,
-            "passives": false,
-            "have_+_participle": false,
-            "auxiliary_verbs": false,
-            "pronouns": false,
-            "nouns": false,
-            "determiners": false,
-            "other_adjectives": false,
-            "prepositions": false,
-            "conjunctions": false,
-            "subject_verb_agreement": true
-        },
         "level2_with_options": [
             [
                 "main_verbs",
@@ -15455,21 +14135,6 @@
             "s_count": 0,
             "u_word": 0
         },
-        "level2": {
-            "main_verbs": false,
-            "tense": false,
-            "infinitives": false,
-            "passives": false,
-            "have_+_participle": false,
-            "auxiliary_verbs": false,
-            "pronouns": false,
-            "nouns": false,
-            "determiners": true,
-            "other_adjectives": false,
-            "prepositions": false,
-            "conjunctions": false,
-            "subject_verb_agreement": false
-        },
         "level2_with_options": [
             [
                 "main_verbs",
@@ -15625,21 +14290,6 @@
             "c_count": 0,
             "s_count": 1,
             "u_word": 1
-        },
-        "level2": {
-            "main_verbs": false,
-            "tense": true,
-            "infinitives": false,
-            "passives": false,
-            "have_+_participle": false,
-            "auxiliary_verbs": false,
-            "pronouns": false,
-            "nouns": true,
-            "determiners": true,
-            "other_adjectives": false,
-            "prepositions": true,
-            "conjunctions": true,
-            "subject_verb_agreement": false
         },
         "level2_with_options": [
             [
@@ -15802,21 +14452,6 @@
             "s_count": 0,
             "u_word": 1
         },
-        "level2": {
-            "main_verbs": true,
-            "tense": true,
-            "infinitives": false,
-            "passives": false,
-            "have_+_participle": false,
-            "auxiliary_verbs": false,
-            "pronouns": false,
-            "nouns": true,
-            "determiners": true,
-            "other_adjectives": false,
-            "prepositions": false,
-            "conjunctions": false,
-            "subject_verb_agreement": true
-        },
         "level2_with_options": [
             [
                 "main_verbs",
@@ -15976,21 +14611,6 @@
             "s_count": 0,
             "u_word": 1
         },
-        "level2": {
-            "main_verbs": false,
-            "tense": false,
-            "infinitives": true,
-            "passives": false,
-            "have_+_participle": false,
-            "auxiliary_verbs": true,
-            "pronouns": true,
-            "nouns": false,
-            "determiners": false,
-            "other_adjectives": false,
-            "prepositions": true,
-            "conjunctions": false,
-            "subject_verb_agreement": false
-        },
         "level2_with_options": [
             [
                 "main_verbs",
@@ -16148,21 +14768,6 @@
             "c_count": 0,
             "s_count": 2,
             "u_word": 1
-        },
-        "level2": {
-            "main_verbs": false,
-            "tense": true,
-            "infinitives": true,
-            "passives": false,
-            "have_+_participle": false,
-            "auxiliary_verbs": true,
-            "pronouns": false,
-            "nouns": false,
-            "determiners": true,
-            "other_adjectives": false,
-            "prepositions": true,
-            "conjunctions": true,
-            "subject_verb_agreement": true
         },
         "level2_with_options": [
             [
@@ -16325,21 +14930,6 @@
             "s_count": 0,
             "u_word": 2
         },
-        "level2": {
-            "main_verbs": true,
-            "tense": true,
-            "infinitives": false,
-            "passives": false,
-            "have_+_participle": true,
-            "auxiliary_verbs": true,
-            "pronouns": false,
-            "nouns": false,
-            "determiners": false,
-            "other_adjectives": false,
-            "prepositions": false,
-            "conjunctions": true,
-            "subject_verb_agreement": true
-        },
         "level2_with_options": [
             [
                 "main_verbs",
@@ -16499,21 +15089,6 @@
             "c_count": 0,
             "s_count": 0,
             "u_word": 2
-        },
-        "level2": {
-            "main_verbs": true,
-            "tense": true,
-            "infinitives": true,
-            "passives": false,
-            "have_+_participle": false,
-            "auxiliary_verbs": true,
-            "pronouns": true,
-            "nouns": true,
-            "determiners": true,
-            "other_adjectives": false,
-            "prepositions": true,
-            "conjunctions": true,
-            "subject_verb_agreement": true
         },
         "level2_with_options": [
             [
@@ -16679,21 +15254,6 @@
             "s_count": 0,
             "u_word": 1
         },
-        "level2": {
-            "main_verbs": false,
-            "tense": true,
-            "infinitives": true,
-            "passives": false,
-            "have_+_participle": false,
-            "auxiliary_verbs": true,
-            "pronouns": false,
-            "nouns": true,
-            "determiners": true,
-            "other_adjectives": false,
-            "prepositions": true,
-            "conjunctions": false,
-            "subject_verb_agreement": false
-        },
         "level2_with_options": [
             [
                 "main_verbs",
@@ -16853,21 +15413,6 @@
             "c_count": 0,
             "s_count": 1,
             "u_word": 2
-        },
-        "level2": {
-            "main_verbs": false,
-            "tense": true,
-            "infinitives": false,
-            "passives": false,
-            "have_+_participle": false,
-            "auxiliary_verbs": true,
-            "pronouns": true,
-            "nouns": false,
-            "determiners": true,
-            "other_adjectives": false,
-            "prepositions": true,
-            "conjunctions": true,
-            "subject_verb_agreement": true
         },
         "level2_with_options": [
             [
@@ -17031,21 +15576,6 @@
             "s_count": 2,
             "u_word": 1
         },
-        "level2": {
-            "main_verbs": true,
-            "tense": true,
-            "infinitives": false,
-            "passives": true,
-            "have_+_participle": false,
-            "auxiliary_verbs": true,
-            "pronouns": false,
-            "nouns": true,
-            "determiners": true,
-            "other_adjectives": false,
-            "prepositions": true,
-            "conjunctions": true,
-            "subject_verb_agreement": false
-        },
         "level2_with_options": [
             [
                 "main_verbs",
@@ -17208,21 +15738,6 @@
             "s_count": 2,
             "u_word": 2
         },
-        "level2": {
-            "main_verbs": true,
-            "tense": true,
-            "infinitives": false,
-            "passives": true,
-            "have_+_participle": false,
-            "auxiliary_verbs": true,
-            "pronouns": false,
-            "nouns": false,
-            "determiners": true,
-            "other_adjectives": false,
-            "prepositions": true,
-            "conjunctions": true,
-            "subject_verb_agreement": true
-        },
         "level2_with_options": [
             [
                 "main_verbs",
@@ -17384,21 +15899,6 @@
             "c_count": 0,
             "s_count": 1,
             "u_word": 3
-        },
-        "level2": {
-            "main_verbs": true,
-            "tense": true,
-            "infinitives": false,
-            "passives": true,
-            "have_+_participle": false,
-            "auxiliary_verbs": false,
-            "pronouns": true,
-            "nouns": true,
-            "determiners": true,
-            "other_adjectives": false,
-            "prepositions": true,
-            "conjunctions": true,
-            "subject_verb_agreement": true
         },
         "level2_with_options": [
             [
@@ -17566,21 +16066,6 @@
             "s_count": 1,
             "u_word": 1
         },
-        "level2": {
-            "main_verbs": true,
-            "tense": true,
-            "infinitives": false,
-            "passives": true,
-            "have_+_participle": true,
-            "auxiliary_verbs": true,
-            "pronouns": false,
-            "nouns": true,
-            "determiners": true,
-            "other_adjectives": false,
-            "prepositions": true,
-            "conjunctions": true,
-            "subject_verb_agreement": true
-        },
         "level2_with_options": [
             [
                 "main_verbs",
@@ -17745,21 +16230,6 @@
             "s_count": 1,
             "u_word": 1
         },
-        "level2": {
-            "main_verbs": false,
-            "tense": true,
-            "infinitives": false,
-            "passives": false,
-            "have_+_participle": false,
-            "auxiliary_verbs": true,
-            "pronouns": false,
-            "nouns": true,
-            "determiners": true,
-            "other_adjectives": false,
-            "prepositions": true,
-            "conjunctions": true,
-            "subject_verb_agreement": true
-        },
         "level2_with_options": [
             [
                 "main_verbs",
@@ -17922,21 +16392,6 @@
             "s_count": 1,
             "u_word": 2
         },
-        "level2": {
-            "main_verbs": true,
-            "tense": true,
-            "infinitives": false,
-            "passives": false,
-            "have_+_participle": false,
-            "auxiliary_verbs": false,
-            "pronouns": false,
-            "nouns": true,
-            "determiners": true,
-            "other_adjectives": false,
-            "prepositions": true,
-            "conjunctions": true,
-            "subject_verb_agreement": true
-        },
         "level2_with_options": [
             [
                 "main_verbs",
@@ -18097,21 +16552,6 @@
             "c_count": 0,
             "s_count": 2,
             "u_word": 2
-        },
-        "level2": {
-            "main_verbs": true,
-            "tense": true,
-            "infinitives": false,
-            "passives": false,
-            "have_+_participle": false,
-            "auxiliary_verbs": false,
-            "pronouns": false,
-            "nouns": true,
-            "determiners": true,
-            "other_adjectives": true,
-            "prepositions": true,
-            "conjunctions": true,
-            "subject_verb_agreement": true
         },
         "level2_with_options": [
             [
@@ -18275,21 +16715,6 @@
             "s_count": 0,
             "u_word": 1
         },
-        "level2": {
-            "main_verbs": false,
-            "tense": true,
-            "infinitives": true,
-            "passives": false,
-            "have_+_participle": false,
-            "auxiliary_verbs": true,
-            "pronouns": false,
-            "nouns": true,
-            "determiners": true,
-            "other_adjectives": false,
-            "prepositions": false,
-            "conjunctions": false,
-            "subject_verb_agreement": false
-        },
         "level2_with_options": [
             [
                 "main_verbs",
@@ -18448,21 +16873,6 @@
             "c_count": 0,
             "s_count": 0,
             "u_word": 1
-        },
-        "level2": {
-            "main_verbs": false,
-            "tense": true,
-            "infinitives": false,
-            "passives": true,
-            "have_+_participle": false,
-            "auxiliary_verbs": true,
-            "pronouns": false,
-            "nouns": true,
-            "determiners": true,
-            "other_adjectives": false,
-            "prepositions": false,
-            "conjunctions": false,
-            "subject_verb_agreement": true
         },
         "level2_with_options": [
             [
@@ -18623,21 +17033,6 @@
             "c_count": 0,
             "s_count": 2,
             "u_word": 2
-        },
-        "level2": {
-            "main_verbs": true,
-            "tense": true,
-            "infinitives": true,
-            "passives": true,
-            "have_+_participle": false,
-            "auxiliary_verbs": true,
-            "pronouns": false,
-            "nouns": false,
-            "determiners": true,
-            "other_adjectives": false,
-            "prepositions": true,
-            "conjunctions": true,
-            "subject_verb_agreement": false
         },
         "level2_with_options": [
             [
@@ -18804,21 +17199,6 @@
             "s_count": 2,
             "u_word": 3
         },
-        "level2": {
-            "main_verbs": true,
-            "tense": true,
-            "infinitives": true,
-            "passives": true,
-            "have_+_participle": false,
-            "auxiliary_verbs": true,
-            "pronouns": false,
-            "nouns": true,
-            "determiners": true,
-            "other_adjectives": true,
-            "prepositions": true,
-            "conjunctions": true,
-            "subject_verb_agreement": false
-        },
         "level2_with_options": [
             [
                 "main_verbs",
@@ -18983,21 +17363,6 @@
             "s_count": 0,
             "u_word": 1
         },
-        "level2": {
-            "main_verbs": true,
-            "tense": false,
-            "infinitives": false,
-            "passives": true,
-            "have_+_participle": false,
-            "auxiliary_verbs": true,
-            "pronouns": false,
-            "nouns": true,
-            "determiners": false,
-            "other_adjectives": true,
-            "prepositions": false,
-            "conjunctions": false,
-            "subject_verb_agreement": true
-        },
         "level2_with_options": [
             [
                 "main_verbs",
@@ -19158,21 +17523,6 @@
             "s_count": 0,
             "u_word": 0
         },
-        "level2": {
-            "main_verbs": false,
-            "tense": false,
-            "infinitives": false,
-            "passives": true,
-            "have_+_participle": false,
-            "auxiliary_verbs": false,
-            "pronouns": true,
-            "nouns": true,
-            "determiners": true,
-            "other_adjectives": false,
-            "prepositions": false,
-            "conjunctions": false,
-            "subject_verb_agreement": false
-        },
         "level2_with_options": [
             [
                 "main_verbs",
@@ -19330,21 +17680,6 @@
             "c_count": 1,
             "s_count": 2,
             "u_word": 1
-        },
-        "level2": {
-            "main_verbs": true,
-            "tense": true,
-            "infinitives": false,
-            "passives": true,
-            "have_+_participle": false,
-            "auxiliary_verbs": false,
-            "pronouns": false,
-            "nouns": true,
-            "determiners": true,
-            "other_adjectives": false,
-            "prepositions": true,
-            "conjunctions": true,
-            "subject_verb_agreement": false
         },
         "level2_with_options": [
             [
@@ -19507,21 +17842,6 @@
             "s_count": 0,
             "u_word": 1
         },
-        "level2": {
-            "main_verbs": true,
-            "tense": true,
-            "infinitives": false,
-            "passives": true,
-            "have_+_participle": false,
-            "auxiliary_verbs": false,
-            "pronouns": false,
-            "nouns": true,
-            "determiners": true,
-            "other_adjectives": false,
-            "prepositions": false,
-            "conjunctions": false,
-            "subject_verb_agreement": true
-        },
         "level2_with_options": [
             [
                 "main_verbs",
@@ -19681,21 +18001,6 @@
             "c_count": 0,
             "s_count": 1,
             "u_word": 2
-        },
-        "level2": {
-            "main_verbs": true,
-            "tense": true,
-            "infinitives": false,
-            "passives": true,
-            "have_+_participle": false,
-            "auxiliary_verbs": false,
-            "pronouns": false,
-            "nouns": true,
-            "determiners": true,
-            "other_adjectives": false,
-            "prepositions": true,
-            "conjunctions": true,
-            "subject_verb_agreement": true
         },
         "level2_with_options": [
             [
@@ -19859,21 +18164,6 @@
             "s_count": 1,
             "u_word": 0
         },
-        "level2": {
-            "main_verbs": false,
-            "tense": true,
-            "infinitives": false,
-            "passives": false,
-            "have_+_participle": false,
-            "auxiliary_verbs": false,
-            "pronouns": false,
-            "nouns": true,
-            "determiners": true,
-            "other_adjectives": false,
-            "prepositions": true,
-            "conjunctions": true,
-            "subject_verb_agreement": true
-        },
         "level2_with_options": [
             [
                 "main_verbs",
@@ -20034,21 +18324,6 @@
             "s_count": 0,
             "u_word": 0
         },
-        "level2": {
-            "main_verbs": false,
-            "tense": true,
-            "infinitives": false,
-            "passives": false,
-            "have_+_participle": false,
-            "auxiliary_verbs": false,
-            "pronouns": false,
-            "nouns": true,
-            "determiners": true,
-            "other_adjectives": false,
-            "prepositions": false,
-            "conjunctions": false,
-            "subject_verb_agreement": false
-        },
         "level2_with_options": [
             [
                 "main_verbs",
@@ -20205,21 +18480,6 @@
             "c_count": 0,
             "s_count": 2,
             "u_word": 0
-        },
-        "level2": {
-            "main_verbs": false,
-            "tense": false,
-            "infinitives": false,
-            "passives": false,
-            "have_+_participle": false,
-            "auxiliary_verbs": false,
-            "pronouns": false,
-            "nouns": true,
-            "determiners": true,
-            "other_adjectives": false,
-            "prepositions": true,
-            "conjunctions": true,
-            "subject_verb_agreement": false
         },
         "level2_with_options": [
             [
@@ -20378,21 +18638,6 @@
             "c_count": 0,
             "s_count": 1,
             "u_word": 1
-        },
-        "level2": {
-            "main_verbs": true,
-            "tense": true,
-            "infinitives": false,
-            "passives": true,
-            "have_+_participle": true,
-            "auxiliary_verbs": true,
-            "pronouns": false,
-            "nouns": true,
-            "determiners": true,
-            "other_adjectives": false,
-            "prepositions": true,
-            "conjunctions": true,
-            "subject_verb_agreement": false
         },
         "level2_with_options": [
             [
@@ -20557,21 +18802,6 @@
             "s_count": 1,
             "u_word": 0
         },
-        "level2": {
-            "main_verbs": true,
-            "tense": true,
-            "infinitives": false,
-            "passives": true,
-            "have_+_participle": false,
-            "auxiliary_verbs": true,
-            "pronouns": false,
-            "nouns": true,
-            "determiners": true,
-            "other_adjectives": false,
-            "prepositions": true,
-            "conjunctions": true,
-            "subject_verb_agreement": false
-        },
         "level2_with_options": [
             [
                 "main_verbs",
@@ -20734,21 +18964,6 @@
             "s_count": 0,
             "u_word": 2
         },
-        "level2": {
-            "main_verbs": false,
-            "tense": false,
-            "infinitives": false,
-            "passives": false,
-            "have_+_participle": false,
-            "auxiliary_verbs": false,
-            "pronouns": true,
-            "nouns": true,
-            "determiners": false,
-            "other_adjectives": false,
-            "prepositions": false,
-            "conjunctions": false,
-            "subject_verb_agreement": false
-        },
         "level2_with_options": [
             [
                 "main_verbs",
@@ -20904,21 +19119,6 @@
             "c_count": 0,
             "s_count": 0,
             "u_word": 1
-        },
-        "level2": {
-            "main_verbs": true,
-            "tense": true,
-            "infinitives": false,
-            "passives": false,
-            "have_+_participle": false,
-            "auxiliary_verbs": false,
-            "pronouns": false,
-            "nouns": true,
-            "determiners": true,
-            "other_adjectives": false,
-            "prepositions": false,
-            "conjunctions": false,
-            "subject_verb_agreement": false
         },
         "level2_with_options": [
             [
@@ -21077,21 +19277,6 @@
             "c_count": 0,
             "s_count": 0,
             "u_word": 1
-        },
-        "level2": {
-            "main_verbs": true,
-            "tense": true,
-            "infinitives": false,
-            "passives": false,
-            "have_+_participle": true,
-            "auxiliary_verbs": true,
-            "pronouns": false,
-            "nouns": true,
-            "determiners": false,
-            "other_adjectives": false,
-            "prepositions": false,
-            "conjunctions": false,
-            "subject_verb_agreement": true
         },
         "level2_with_options": [
             [
@@ -21253,21 +19438,6 @@
             "s_count": 0,
             "u_word": 1
         },
-        "level2": {
-            "main_verbs": false,
-            "tense": true,
-            "infinitives": false,
-            "passives": false,
-            "have_+_participle": false,
-            "auxiliary_verbs": false,
-            "pronouns": true,
-            "nouns": true,
-            "determiners": false,
-            "other_adjectives": false,
-            "prepositions": false,
-            "conjunctions": false,
-            "subject_verb_agreement": false
-        },
         "level2_with_options": [
             [
                 "main_verbs",
@@ -21424,21 +19594,6 @@
             "c_count": 0,
             "s_count": 2,
             "u_word": 2
-        },
-        "level2": {
-            "main_verbs": false,
-            "tense": false,
-            "infinitives": true,
-            "passives": false,
-            "have_+_participle": false,
-            "auxiliary_verbs": true,
-            "pronouns": true,
-            "nouns": true,
-            "determiners": true,
-            "other_adjectives": false,
-            "prepositions": true,
-            "conjunctions": true,
-            "subject_verb_agreement": false
         },
         "level2_with_options": [
             [
@@ -21602,21 +19757,6 @@
             "s_count": 0,
             "u_word": 2
         },
-        "level2": {
-            "main_verbs": true,
-            "tense": true,
-            "infinitives": false,
-            "passives": true,
-            "have_+_participle": false,
-            "auxiliary_verbs": false,
-            "pronouns": true,
-            "nouns": false,
-            "determiners": false,
-            "other_adjectives": false,
-            "prepositions": false,
-            "conjunctions": false,
-            "subject_verb_agreement": true
-        },
         "level2_with_options": [
             [
                 "main_verbs",
@@ -21776,21 +19916,6 @@
             "s_count": 0,
             "u_word": 0
         },
-        "level2": {
-            "main_verbs": true,
-            "tense": true,
-            "infinitives": false,
-            "passives": false,
-            "have_+_participle": false,
-            "auxiliary_verbs": false,
-            "pronouns": true,
-            "nouns": false,
-            "determiners": false,
-            "other_adjectives": false,
-            "prepositions": false,
-            "conjunctions": false,
-            "subject_verb_agreement": true
-        },
         "level2_with_options": [
             [
                 "main_verbs",
@@ -21949,21 +20074,6 @@
             "s_count": 0,
             "u_word": 1
         },
-        "level2": {
-            "main_verbs": true,
-            "tense": false,
-            "infinitives": false,
-            "passives": false,
-            "have_+_participle": false,
-            "auxiliary_verbs": true,
-            "pronouns": true,
-            "nouns": false,
-            "determiners": false,
-            "other_adjectives": false,
-            "prepositions": false,
-            "conjunctions": false,
-            "subject_verb_agreement": true
-        },
         "level2_with_options": [
             [
                 "main_verbs",
@@ -22121,21 +20231,6 @@
             "c_count": 0,
             "s_count": 1,
             "u_word": 0
-        },
-        "level2": {
-            "main_verbs": true,
-            "tense": true,
-            "infinitives": false,
-            "passives": true,
-            "have_+_participle": false,
-            "auxiliary_verbs": false,
-            "pronouns": true,
-            "nouns": false,
-            "determiners": true,
-            "other_adjectives": false,
-            "prepositions": true,
-            "conjunctions": true,
-            "subject_verb_agreement": true
         },
         "level2_with_options": [
             [
@@ -22299,21 +20394,6 @@
             "s_count": 0,
             "u_word": 2
         },
-        "level2": {
-            "main_verbs": true,
-            "tense": true,
-            "infinitives": false,
-            "passives": true,
-            "have_+_participle": false,
-            "auxiliary_verbs": false,
-            "pronouns": false,
-            "nouns": false,
-            "determiners": true,
-            "other_adjectives": false,
-            "prepositions": false,
-            "conjunctions": false,
-            "subject_verb_agreement": true
-        },
         "level2_with_options": [
             [
                 "main_verbs",
@@ -22472,21 +20552,6 @@
             "c_count": 0,
             "s_count": 0,
             "u_word": 2
-        },
-        "level2": {
-            "main_verbs": false,
-            "tense": false,
-            "infinitives": true,
-            "passives": false,
-            "have_+_participle": false,
-            "auxiliary_verbs": true,
-            "pronouns": false,
-            "nouns": true,
-            "determiners": true,
-            "other_adjectives": false,
-            "prepositions": true,
-            "conjunctions": false,
-            "subject_verb_agreement": false
         },
         "level2_with_options": [
             [
@@ -22647,21 +20712,6 @@
             "s_count": 0,
             "u_word": 1
         },
-        "level2": {
-            "main_verbs": true,
-            "tense": true,
-            "infinitives": false,
-            "passives": true,
-            "have_+_participle": false,
-            "auxiliary_verbs": true,
-            "pronouns": true,
-            "nouns": false,
-            "determiners": false,
-            "other_adjectives": false,
-            "prepositions": false,
-            "conjunctions": false,
-            "subject_verb_agreement": true
-        },
         "level2_with_options": [
             [
                 "main_verbs",
@@ -22821,21 +20871,6 @@
             "c_count": 0,
             "s_count": 2,
             "u_word": 1
-        },
-        "level2": {
-            "main_verbs": false,
-            "tense": true,
-            "infinitives": false,
-            "passives": true,
-            "have_+_participle": false,
-            "auxiliary_verbs": false,
-            "pronouns": true,
-            "nouns": true,
-            "determiners": true,
-            "other_adjectives": false,
-            "prepositions": true,
-            "conjunctions": true,
-            "subject_verb_agreement": false
         },
         "level2_with_options": [
             [
@@ -22998,21 +21033,6 @@
             "s_count": 0,
             "u_word": 1
         },
-        "level2": {
-            "main_verbs": true,
-            "tense": true,
-            "infinitives": false,
-            "passives": false,
-            "have_+_participle": false,
-            "auxiliary_verbs": false,
-            "pronouns": false,
-            "nouns": true,
-            "determiners": true,
-            "other_adjectives": true,
-            "prepositions": false,
-            "conjunctions": false,
-            "subject_verb_agreement": false
-        },
         "level2_with_options": [
             [
                 "main_verbs",
@@ -23172,21 +21192,6 @@
             "s_count": 0,
             "u_word": 0
         },
-        "level2": {
-            "main_verbs": false,
-            "tense": true,
-            "infinitives": false,
-            "passives": false,
-            "have_+_participle": false,
-            "auxiliary_verbs": false,
-            "pronouns": false,
-            "nouns": false,
-            "determiners": true,
-            "other_adjectives": false,
-            "prepositions": false,
-            "conjunctions": true,
-            "subject_verb_agreement": true
-        },
         "level2_with_options": [
             [
                 "main_verbs",
@@ -23344,21 +21349,6 @@
             "c_count": 0,
             "s_count": 3,
             "u_word": 0
-        },
-        "level2": {
-            "main_verbs": false,
-            "tense": true,
-            "infinitives": false,
-            "passives": false,
-            "have_+_participle": false,
-            "auxiliary_verbs": false,
-            "pronouns": false,
-            "nouns": true,
-            "determiners": true,
-            "other_adjectives": true,
-            "prepositions": true,
-            "conjunctions": true,
-            "subject_verb_agreement": false
         },
         "level2_with_options": [
             [
@@ -23520,21 +21510,6 @@
             "s_count": 1,
             "u_word": 0
         },
-        "level2": {
-            "main_verbs": true,
-            "tense": true,
-            "infinitives": false,
-            "passives": false,
-            "have_+_participle": false,
-            "auxiliary_verbs": false,
-            "pronouns": false,
-            "nouns": true,
-            "determiners": true,
-            "other_adjectives": false,
-            "prepositions": true,
-            "conjunctions": true,
-            "subject_verb_agreement": false
-        },
         "level2_with_options": [
             [
                 "main_verbs",
@@ -23695,21 +21670,6 @@
             "s_count": 3,
             "u_word": 1
         },
-        "level2": {
-            "main_verbs": false,
-            "tense": false,
-            "infinitives": false,
-            "passives": false,
-            "have_+_participle": false,
-            "auxiliary_verbs": false,
-            "pronouns": true,
-            "nouns": true,
-            "determiners": true,
-            "other_adjectives": false,
-            "prepositions": true,
-            "conjunctions": true,
-            "subject_verb_agreement": false
-        },
         "level2_with_options": [
             [
                 "main_verbs",
@@ -23868,21 +21828,6 @@
             "c_count": 0,
             "s_count": 2,
             "u_word": 1
-        },
-        "level2": {
-            "main_verbs": true,
-            "tense": true,
-            "infinitives": false,
-            "passives": false,
-            "have_+_participle": false,
-            "auxiliary_verbs": false,
-            "pronouns": true,
-            "nouns": true,
-            "determiners": true,
-            "other_adjectives": false,
-            "prepositions": true,
-            "conjunctions": true,
-            "subject_verb_agreement": false
         },
         "level2_with_options": [
             [
@@ -24045,21 +21990,6 @@
             "s_count": 0,
             "u_word": 2
         },
-        "level2": {
-            "main_verbs": false,
-            "tense": true,
-            "infinitives": true,
-            "passives": true,
-            "have_+_participle": false,
-            "auxiliary_verbs": true,
-            "pronouns": false,
-            "nouns": false,
-            "determiners": false,
-            "other_adjectives": false,
-            "prepositions": true,
-            "conjunctions": false,
-            "subject_verb_agreement": true
-        },
         "level2_with_options": [
             [
                 "main_verbs",
@@ -24219,21 +22149,6 @@
             "c_count": 0,
             "s_count": 1,
             "u_word": 1
-        },
-        "level2": {
-            "main_verbs": false,
-            "tense": false,
-            "infinitives": true,
-            "passives": true,
-            "have_+_participle": false,
-            "auxiliary_verbs": true,
-            "pronouns": true,
-            "nouns": false,
-            "determiners": true,
-            "other_adjectives": false,
-            "prepositions": true,
-            "conjunctions": true,
-            "subject_verb_agreement": true
         },
         "level2_with_options": [
             [
@@ -24397,21 +22312,6 @@
             "s_count": 1,
             "u_word": 0
         },
-        "level2": {
-            "main_verbs": false,
-            "tense": false,
-            "infinitives": false,
-            "passives": false,
-            "have_+_participle": false,
-            "auxiliary_verbs": false,
-            "pronouns": false,
-            "nouns": true,
-            "determiners": true,
-            "other_adjectives": true,
-            "prepositions": true,
-            "conjunctions": true,
-            "subject_verb_agreement": false
-        },
         "level2_with_options": [
             [
                 "main_verbs",
@@ -24570,21 +22470,6 @@
             "c_count": 1,
             "s_count": 0,
             "u_word": 0
-        },
-        "level2": {
-            "main_verbs": true,
-            "tense": true,
-            "infinitives": false,
-            "passives": false,
-            "have_+_participle": false,
-            "auxiliary_verbs": false,
-            "pronouns": false,
-            "nouns": true,
-            "determiners": true,
-            "other_adjectives": false,
-            "prepositions": false,
-            "conjunctions": true,
-            "subject_verb_agreement": true
         },
         "level2_with_options": [
             [
@@ -24746,21 +22631,6 @@
             "s_count": 0,
             "u_word": 3
         },
-        "level2": {
-            "main_verbs": false,
-            "tense": true,
-            "infinitives": false,
-            "passives": false,
-            "have_+_participle": false,
-            "auxiliary_verbs": false,
-            "pronouns": false,
-            "nouns": true,
-            "determiners": true,
-            "other_adjectives": true,
-            "prepositions": false,
-            "conjunctions": false,
-            "subject_verb_agreement": false
-        },
         "level2_with_options": [
             [
                 "main_verbs",
@@ -24918,21 +22788,6 @@
             "c_count": 0,
             "s_count": 0,
             "u_word": 0
-        },
-        "level2": {
-            "main_verbs": true,
-            "tense": true,
-            "infinitives": false,
-            "passives": false,
-            "have_+_participle": false,
-            "auxiliary_verbs": false,
-            "pronouns": false,
-            "nouns": true,
-            "determiners": true,
-            "other_adjectives": false,
-            "prepositions": false,
-            "conjunctions": false,
-            "subject_verb_agreement": false
         },
         "level2_with_options": [
             [
@@ -25092,21 +22947,6 @@
             "s_count": 0,
             "u_word": 1
         },
-        "level2": {
-            "main_verbs": true,
-            "tense": true,
-            "infinitives": false,
-            "passives": false,
-            "have_+_participle": false,
-            "auxiliary_verbs": false,
-            "pronouns": false,
-            "nouns": true,
-            "determiners": true,
-            "other_adjectives": false,
-            "prepositions": false,
-            "conjunctions": false,
-            "subject_verb_agreement": false
-        },
         "level2_with_options": [
             [
                 "main_verbs",
@@ -25264,21 +23104,6 @@
             "c_count": 0,
             "s_count": 0,
             "u_word": 1
-        },
-        "level2": {
-            "main_verbs": true,
-            "tense": true,
-            "infinitives": false,
-            "passives": true,
-            "have_+_participle": false,
-            "auxiliary_verbs": false,
-            "pronouns": true,
-            "nouns": true,
-            "determiners": true,
-            "other_adjectives": false,
-            "prepositions": false,
-            "conjunctions": false,
-            "subject_verb_agreement": false
         },
         "level2_with_options": [
             [
@@ -25442,21 +23267,6 @@
             "s_count": 0,
             "u_word": 3
         },
-        "level2": {
-            "main_verbs": true,
-            "tense": true,
-            "infinitives": false,
-            "passives": false,
-            "have_+_participle": true,
-            "auxiliary_verbs": false,
-            "pronouns": true,
-            "nouns": false,
-            "determiners": false,
-            "other_adjectives": false,
-            "prepositions": false,
-            "conjunctions": false,
-            "subject_verb_agreement": true
-        },
         "level2_with_options": [
             [
                 "main_verbs",
@@ -25615,21 +23425,6 @@
             "c_count": 0,
             "s_count": 1,
             "u_word": 1
-        },
-        "level2": {
-            "main_verbs": false,
-            "tense": false,
-            "infinitives": false,
-            "passives": false,
-            "have_+_participle": false,
-            "auxiliary_verbs": false,
-            "pronouns": false,
-            "nouns": true,
-            "determiners": true,
-            "other_adjectives": true,
-            "prepositions": true,
-            "conjunctions": true,
-            "subject_verb_agreement": false
         },
         "level2_with_options": [
             [
@@ -25790,21 +23585,6 @@
             "s_count": 0,
             "u_word": 1
         },
-        "level2": {
-            "main_verbs": true,
-            "tense": true,
-            "infinitives": false,
-            "passives": false,
-            "have_+_participle": false,
-            "auxiliary_verbs": false,
-            "pronouns": false,
-            "nouns": true,
-            "determiners": false,
-            "other_adjectives": true,
-            "prepositions": false,
-            "conjunctions": false,
-            "subject_verb_agreement": true
-        },
         "level2_with_options": [
             [
                 "main_verbs",
@@ -25964,21 +23744,6 @@
             "s_count": 0,
             "u_word": 1
         },
-        "level2": {
-            "main_verbs": false,
-            "tense": false,
-            "infinitives": true,
-            "passives": false,
-            "have_+_participle": false,
-            "auxiliary_verbs": true,
-            "pronouns": false,
-            "nouns": false,
-            "determiners": true,
-            "other_adjectives": false,
-            "prepositions": true,
-            "conjunctions": false,
-            "subject_verb_agreement": false
-        },
         "level2_with_options": [
             [
                 "main_verbs",
@@ -26136,21 +23901,6 @@
             "c_count": 0,
             "s_count": 1,
             "u_word": 1
-        },
-        "level2": {
-            "main_verbs": true,
-            "tense": true,
-            "infinitives": false,
-            "passives": false,
-            "have_+_participle": true,
-            "auxiliary_verbs": true,
-            "pronouns": true,
-            "nouns": false,
-            "determiners": true,
-            "other_adjectives": false,
-            "prepositions": true,
-            "conjunctions": true,
-            "subject_verb_agreement": true
         },
         "level2_with_options": [
             [
@@ -26315,21 +24065,6 @@
             "s_count": 3,
             "u_word": 0
         },
-        "level2": {
-            "main_verbs": true,
-            "tense": true,
-            "infinitives": false,
-            "passives": false,
-            "have_+_participle": false,
-            "auxiliary_verbs": false,
-            "pronouns": false,
-            "nouns": true,
-            "determiners": true,
-            "other_adjectives": true,
-            "prepositions": true,
-            "conjunctions": true,
-            "subject_verb_agreement": true
-        },
         "level2_with_options": [
             [
                 "main_verbs",
@@ -26492,21 +24227,6 @@
             "s_count": 2,
             "u_word": 3
         },
-        "level2": {
-            "main_verbs": true,
-            "tense": true,
-            "infinitives": false,
-            "passives": false,
-            "have_+_participle": false,
-            "auxiliary_verbs": false,
-            "pronouns": false,
-            "nouns": true,
-            "determiners": true,
-            "other_adjectives": false,
-            "prepositions": true,
-            "conjunctions": true,
-            "subject_verb_agreement": true
-        },
         "level2_with_options": [
             [
                 "main_verbs",
@@ -26667,21 +24387,6 @@
             "c_count": 0,
             "s_count": 2,
             "u_word": 1
-        },
-        "level2": {
-            "main_verbs": false,
-            "tense": false,
-            "infinitives": true,
-            "passives": true,
-            "have_+_participle": false,
-            "auxiliary_verbs": true,
-            "pronouns": true,
-            "nouns": true,
-            "determiners": true,
-            "other_adjectives": true,
-            "prepositions": true,
-            "conjunctions": true,
-            "subject_verb_agreement": false
         },
         "level2_with_options": [
             [
@@ -26846,21 +24551,6 @@
             "s_count": 3,
             "u_word": 1
         },
-        "level2": {
-            "main_verbs": false,
-            "tense": false,
-            "infinitives": false,
-            "passives": true,
-            "have_+_participle": false,
-            "auxiliary_verbs": false,
-            "pronouns": false,
-            "nouns": false,
-            "determiners": true,
-            "other_adjectives": false,
-            "prepositions": true,
-            "conjunctions": true,
-            "subject_verb_agreement": false
-        },
         "level2_with_options": [
             [
                 "main_verbs",
@@ -27018,21 +24708,6 @@
             "c_count": 1,
             "s_count": 0,
             "u_word": 2
-        },
-        "level2": {
-            "main_verbs": true,
-            "tense": true,
-            "infinitives": false,
-            "passives": false,
-            "have_+_participle": false,
-            "auxiliary_verbs": false,
-            "pronouns": false,
-            "nouns": false,
-            "determiners": true,
-            "other_adjectives": false,
-            "prepositions": false,
-            "conjunctions": true,
-            "subject_verb_agreement": true
         },
         "level2_with_options": [
             [
@@ -27192,21 +24867,6 @@
             "c_count": 1,
             "s_count": 1,
             "u_word": 2
-        },
-        "level2": {
-            "main_verbs": false,
-            "tense": true,
-            "infinitives": false,
-            "passives": true,
-            "have_+_participle": false,
-            "auxiliary_verbs": false,
-            "pronouns": true,
-            "nouns": true,
-            "determiners": true,
-            "other_adjectives": false,
-            "prepositions": true,
-            "conjunctions": true,
-            "subject_verb_agreement": false
         },
         "level2_with_options": [
             [
@@ -27369,21 +25029,6 @@
             "s_count": 0,
             "u_word": 2
         },
-        "level2": {
-            "main_verbs": false,
-            "tense": true,
-            "infinitives": false,
-            "passives": false,
-            "have_+_participle": false,
-            "auxiliary_verbs": false,
-            "pronouns": true,
-            "nouns": true,
-            "determiners": false,
-            "other_adjectives": false,
-            "prepositions": false,
-            "conjunctions": false,
-            "subject_verb_agreement": false
-        },
         "level2_with_options": [
             [
                 "main_verbs",
@@ -27540,21 +25185,6 @@
             "c_count": 1,
             "s_count": 0,
             "u_word": 3
-        },
-        "level2": {
-            "main_verbs": false,
-            "tense": true,
-            "infinitives": false,
-            "passives": false,
-            "have_+_participle": false,
-            "auxiliary_verbs": true,
-            "pronouns": true,
-            "nouns": true,
-            "determiners": false,
-            "other_adjectives": false,
-            "prepositions": false,
-            "conjunctions": true,
-            "subject_verb_agreement": true
         },
         "level2_with_options": [
             [
@@ -27716,21 +25346,6 @@
             "s_count": 2,
             "u_word": 2
         },
-        "level2": {
-            "main_verbs": false,
-            "tense": true,
-            "infinitives": false,
-            "passives": false,
-            "have_+_participle": false,
-            "auxiliary_verbs": false,
-            "pronouns": true,
-            "nouns": true,
-            "determiners": true,
-            "other_adjectives": false,
-            "prepositions": true,
-            "conjunctions": true,
-            "subject_verb_agreement": false
-        },
         "level2_with_options": [
             [
                 "main_verbs",
@@ -27891,21 +25506,6 @@
             "s_count": 0,
             "u_word": 2
         },
-        "level2": {
-            "main_verbs": false,
-            "tense": true,
-            "infinitives": false,
-            "passives": false,
-            "have_+_participle": false,
-            "auxiliary_verbs": false,
-            "pronouns": true,
-            "nouns": true,
-            "determiners": true,
-            "other_adjectives": true,
-            "prepositions": false,
-            "conjunctions": false,
-            "subject_verb_agreement": true
-        },
         "level2_with_options": [
             [
                 "main_verbs",
@@ -28065,21 +25665,6 @@
             "c_count": 0,
             "s_count": 1,
             "u_word": 2
-        },
-        "level2": {
-            "main_verbs": true,
-            "tense": true,
-            "infinitives": false,
-            "passives": false,
-            "have_+_participle": false,
-            "auxiliary_verbs": true,
-            "pronouns": true,
-            "nouns": true,
-            "determiners": true,
-            "other_adjectives": false,
-            "prepositions": true,
-            "conjunctions": true,
-            "subject_verb_agreement": true
         },
         "level2_with_options": [
             [
@@ -28244,21 +25829,6 @@
             "s_count": 0,
             "u_word": 1
         },
-        "level2": {
-            "main_verbs": true,
-            "tense": true,
-            "infinitives": false,
-            "passives": false,
-            "have_+_participle": false,
-            "auxiliary_verbs": false,
-            "pronouns": false,
-            "nouns": true,
-            "determiners": true,
-            "other_adjectives": false,
-            "prepositions": false,
-            "conjunctions": false,
-            "subject_verb_agreement": true
-        },
         "level2_with_options": [
             [
                 "main_verbs",
@@ -28417,21 +25987,6 @@
             "c_count": 0,
             "s_count": 2,
             "u_word": 1
-        },
-        "level2": {
-            "main_verbs": true,
-            "tense": true,
-            "infinitives": false,
-            "passives": false,
-            "have_+_participle": false,
-            "auxiliary_verbs": false,
-            "pronouns": false,
-            "nouns": true,
-            "determiners": true,
-            "other_adjectives": false,
-            "prepositions": true,
-            "conjunctions": true,
-            "subject_verb_agreement": false
         },
         "level2_with_options": [
             [
@@ -28593,21 +26148,6 @@
             "s_count": 0,
             "u_word": 2
         },
-        "level2": {
-            "main_verbs": false,
-            "tense": true,
-            "infinitives": true,
-            "passives": false,
-            "have_+_participle": false,
-            "auxiliary_verbs": true,
-            "pronouns": false,
-            "nouns": false,
-            "determiners": false,
-            "other_adjectives": true,
-            "prepositions": true,
-            "conjunctions": false,
-            "subject_verb_agreement": false
-        },
         "level2_with_options": [
             [
                 "main_verbs",
@@ -28766,21 +26306,6 @@
             "c_count": 0,
             "s_count": 1,
             "u_word": 1
-        },
-        "level2": {
-            "main_verbs": true,
-            "tense": true,
-            "infinitives": false,
-            "passives": false,
-            "have_+_participle": false,
-            "auxiliary_verbs": false,
-            "pronouns": false,
-            "nouns": false,
-            "determiners": true,
-            "other_adjectives": false,
-            "prepositions": true,
-            "conjunctions": true,
-            "subject_verb_agreement": true
         },
         "level2_with_options": [
             [
@@ -28941,21 +26466,6 @@
             "c_count": 0,
             "s_count": 2,
             "u_word": 1
-        },
-        "level2": {
-            "main_verbs": true,
-            "tense": true,
-            "infinitives": false,
-            "passives": false,
-            "have_+_participle": false,
-            "auxiliary_verbs": false,
-            "pronouns": false,
-            "nouns": true,
-            "determiners": true,
-            "other_adjectives": false,
-            "prepositions": true,
-            "conjunctions": true,
-            "subject_verb_agreement": true
         },
         "level2_with_options": [
             [
@@ -29118,21 +26628,6 @@
             "s_count": 1,
             "u_word": 1
         },
-        "level2": {
-            "main_verbs": false,
-            "tense": true,
-            "infinitives": false,
-            "passives": false,
-            "have_+_participle": false,
-            "auxiliary_verbs": false,
-            "pronouns": false,
-            "nouns": true,
-            "determiners": true,
-            "other_adjectives": true,
-            "prepositions": true,
-            "conjunctions": true,
-            "subject_verb_agreement": true
-        },
         "level2_with_options": [
             [
                 "main_verbs",
@@ -29294,21 +26789,6 @@
             "s_count": 1,
             "u_word": 0
         },
-        "level2": {
-            "main_verbs": false,
-            "tense": true,
-            "infinitives": false,
-            "passives": false,
-            "have_+_participle": false,
-            "auxiliary_verbs": true,
-            "pronouns": false,
-            "nouns": false,
-            "determiners": true,
-            "other_adjectives": false,
-            "prepositions": true,
-            "conjunctions": true,
-            "subject_verb_agreement": true
-        },
         "level2_with_options": [
             [
                 "main_verbs",
@@ -29469,21 +26949,6 @@
             "s_count": 0,
             "u_word": 1
         },
-        "level2": {
-            "main_verbs": false,
-            "tense": true,
-            "infinitives": false,
-            "passives": false,
-            "have_+_participle": false,
-            "auxiliary_verbs": false,
-            "pronouns": true,
-            "nouns": true,
-            "determiners": false,
-            "other_adjectives": false,
-            "prepositions": false,
-            "conjunctions": false,
-            "subject_verb_agreement": true
-        },
         "level2_with_options": [
             [
                 "main_verbs",
@@ -29641,21 +27106,6 @@
             "c_count": 0,
             "s_count": 1,
             "u_word": 0
-        },
-        "level2": {
-            "main_verbs": true,
-            "tense": true,
-            "infinitives": false,
-            "passives": false,
-            "have_+_participle": false,
-            "auxiliary_verbs": false,
-            "pronouns": false,
-            "nouns": false,
-            "determiners": true,
-            "other_adjectives": false,
-            "prepositions": true,
-            "conjunctions": true,
-            "subject_verb_agreement": false
         },
         "level2_with_options": [
             [
@@ -29816,21 +27266,6 @@
             "s_count": 1,
             "u_word": 4
         },
-        "level2": {
-            "main_verbs": true,
-            "tense": true,
-            "infinitives": false,
-            "passives": false,
-            "have_+_participle": false,
-            "auxiliary_verbs": false,
-            "pronouns": false,
-            "nouns": false,
-            "determiners": true,
-            "other_adjectives": false,
-            "prepositions": true,
-            "conjunctions": true,
-            "subject_verb_agreement": true
-        },
         "level2_with_options": [
             [
                 "main_verbs",
@@ -29990,21 +27425,6 @@
             "c_count": 0,
             "s_count": 2,
             "u_word": 2
-        },
-        "level2": {
-            "main_verbs": true,
-            "tense": true,
-            "infinitives": true,
-            "passives": true,
-            "have_+_participle": false,
-            "auxiliary_verbs": true,
-            "pronouns": false,
-            "nouns": true,
-            "determiners": true,
-            "other_adjectives": false,
-            "prepositions": true,
-            "conjunctions": true,
-            "subject_verb_agreement": false
         },
         "level2_with_options": [
             [
@@ -30174,21 +27594,6 @@
             "s_count": 2,
             "u_word": 2
         },
-        "level2": {
-            "main_verbs": true,
-            "tense": true,
-            "infinitives": false,
-            "passives": true,
-            "have_+_participle": false,
-            "auxiliary_verbs": true,
-            "pronouns": false,
-            "nouns": false,
-            "determiners": true,
-            "other_adjectives": false,
-            "prepositions": true,
-            "conjunctions": true,
-            "subject_verb_agreement": true
-        },
         "level2_with_options": [
             [
                 "main_verbs",
@@ -30351,21 +27756,6 @@
             "s_count": 0,
             "u_word": 1
         },
-        "level2": {
-            "main_verbs": true,
-            "tense": true,
-            "infinitives": true,
-            "passives": true,
-            "have_+_participle": false,
-            "auxiliary_verbs": true,
-            "pronouns": true,
-            "nouns": false,
-            "determiners": false,
-            "other_adjectives": false,
-            "prepositions": true,
-            "conjunctions": false,
-            "subject_verb_agreement": false
-        },
         "level2_with_options": [
             [
                 "main_verbs",
@@ -30526,21 +27916,6 @@
             "c_count": 0,
             "s_count": 1,
             "u_word": 2
-        },
-        "level2": {
-            "main_verbs": true,
-            "tense": true,
-            "infinitives": false,
-            "passives": false,
-            "have_+_participle": false,
-            "auxiliary_verbs": false,
-            "pronouns": true,
-            "nouns": false,
-            "determiners": true,
-            "other_adjectives": false,
-            "prepositions": true,
-            "conjunctions": true,
-            "subject_verb_agreement": true
         },
         "level2_with_options": [
             [
@@ -30703,21 +28078,6 @@
             "s_count": 1,
             "u_word": 0
         },
-        "level2": {
-            "main_verbs": true,
-            "tense": true,
-            "infinitives": false,
-            "passives": true,
-            "have_+_participle": false,
-            "auxiliary_verbs": false,
-            "pronouns": false,
-            "nouns": false,
-            "determiners": true,
-            "other_adjectives": false,
-            "prepositions": true,
-            "conjunctions": true,
-            "subject_verb_agreement": false
-        },
         "level2_with_options": [
             [
                 "main_verbs",
@@ -30877,21 +28237,6 @@
             "c_count": 0,
             "s_count": 3,
             "u_word": 3
-        },
-        "level2": {
-            "main_verbs": true,
-            "tense": true,
-            "infinitives": false,
-            "passives": true,
-            "have_+_participle": false,
-            "auxiliary_verbs": false,
-            "pronouns": false,
-            "nouns": true,
-            "determiners": true,
-            "other_adjectives": false,
-            "prepositions": true,
-            "conjunctions": true,
-            "subject_verb_agreement": false
         },
         "level2_with_options": [
             [
@@ -31058,21 +28403,6 @@
             "s_count": 2,
             "u_word": 2
         },
-        "level2": {
-            "main_verbs": true,
-            "tense": true,
-            "infinitives": false,
-            "passives": false,
-            "have_+_participle": false,
-            "auxiliary_verbs": false,
-            "pronouns": false,
-            "nouns": false,
-            "determiners": true,
-            "other_adjectives": false,
-            "prepositions": true,
-            "conjunctions": true,
-            "subject_verb_agreement": true
-        },
         "level2_with_options": [
             [
                 "main_verbs",
@@ -31236,21 +28566,6 @@
             "s_count": 3,
             "u_word": 1
         },
-        "level2": {
-            "main_verbs": false,
-            "tense": false,
-            "infinitives": false,
-            "passives": true,
-            "have_+_participle": false,
-            "auxiliary_verbs": false,
-            "pronouns": true,
-            "nouns": false,
-            "determiners": true,
-            "other_adjectives": false,
-            "prepositions": true,
-            "conjunctions": true,
-            "subject_verb_agreement": false
-        },
         "level2_with_options": [
             [
                 "main_verbs",
@@ -31409,21 +28724,6 @@
             "c_count": 0,
             "s_count": 1,
             "u_word": 1
-        },
-        "level2": {
-            "main_verbs": true,
-            "tense": true,
-            "infinitives": false,
-            "passives": false,
-            "have_+_participle": false,
-            "auxiliary_verbs": false,
-            "pronouns": false,
-            "nouns": false,
-            "determiners": true,
-            "other_adjectives": false,
-            "prepositions": true,
-            "conjunctions": true,
-            "subject_verb_agreement": true
         },
         "level2_with_options": [
             [
@@ -31585,21 +28885,6 @@
             "s_count": 2,
             "u_word": 0
         },
-        "level2": {
-            "main_verbs": true,
-            "tense": true,
-            "infinitives": false,
-            "passives": false,
-            "have_+_participle": false,
-            "auxiliary_verbs": false,
-            "pronouns": false,
-            "nouns": false,
-            "determiners": true,
-            "other_adjectives": false,
-            "prepositions": true,
-            "conjunctions": true,
-            "subject_verb_agreement": false
-        },
         "level2_with_options": [
             [
                 "main_verbs",
@@ -31758,21 +29043,6 @@
             "c_count": 0,
             "s_count": 2,
             "u_word": 3
-        },
-        "level2": {
-            "main_verbs": false,
-            "tense": true,
-            "infinitives": false,
-            "passives": true,
-            "have_+_participle": false,
-            "auxiliary_verbs": false,
-            "pronouns": false,
-            "nouns": false,
-            "determiners": true,
-            "other_adjectives": false,
-            "prepositions": true,
-            "conjunctions": true,
-            "subject_verb_agreement": false
         },
         "level2_with_options": [
             [
@@ -31937,21 +29207,6 @@
             "s_count": 0,
             "u_word": 1
         },
-        "level2": {
-            "main_verbs": false,
-            "tense": true,
-            "infinitives": false,
-            "passives": false,
-            "have_+_participle": false,
-            "auxiliary_verbs": false,
-            "pronouns": true,
-            "nouns": true,
-            "determiners": false,
-            "other_adjectives": false,
-            "prepositions": false,
-            "conjunctions": false,
-            "subject_verb_agreement": true
-        },
         "level2_with_options": [
             [
                 "main_verbs",
@@ -32110,21 +29365,6 @@
             "s_count": 0,
             "u_word": 1
         },
-        "level2": {
-            "main_verbs": false,
-            "tense": true,
-            "infinitives": false,
-            "passives": true,
-            "have_+_participle": false,
-            "auxiliary_verbs": false,
-            "pronouns": true,
-            "nouns": false,
-            "determiners": false,
-            "other_adjectives": false,
-            "prepositions": false,
-            "conjunctions": false,
-            "subject_verb_agreement": true
-        },
         "level2_with_options": [
             [
                 "main_verbs",
@@ -32282,21 +29522,6 @@
             "c_count": 0,
             "s_count": 0,
             "u_word": 3
-        },
-        "level2": {
-            "main_verbs": true,
-            "tense": true,
-            "infinitives": false,
-            "passives": false,
-            "have_+_participle": false,
-            "auxiliary_verbs": true,
-            "pronouns": false,
-            "nouns": true,
-            "determiners": true,
-            "other_adjectives": true,
-            "prepositions": false,
-            "conjunctions": false,
-            "subject_verb_agreement": true
         },
         "level2_with_options": [
             [
@@ -32458,21 +29683,6 @@
             "c_count": 0,
             "s_count": 1,
             "u_word": 3
-        },
-        "level2": {
-            "main_verbs": true,
-            "tense": true,
-            "infinitives": false,
-            "passives": false,
-            "have_+_participle": false,
-            "auxiliary_verbs": false,
-            "pronouns": false,
-            "nouns": true,
-            "determiners": true,
-            "other_adjectives": true,
-            "prepositions": true,
-            "conjunctions": true,
-            "subject_verb_agreement": false
         },
         "level2_with_options": [
             [
@@ -32636,21 +29846,6 @@
             "s_count": 2,
             "u_word": 1
         },
-        "level2": {
-            "main_verbs": true,
-            "tense": true,
-            "infinitives": false,
-            "passives": false,
-            "have_+_participle": false,
-            "auxiliary_verbs": true,
-            "pronouns": false,
-            "nouns": true,
-            "determiners": true,
-            "other_adjectives": false,
-            "prepositions": true,
-            "conjunctions": true,
-            "subject_verb_agreement": true
-        },
         "level2_with_options": [
             [
                 "main_verbs",
@@ -32813,21 +30008,6 @@
             "s_count": 0,
             "u_word": 2
         },
-        "level2": {
-            "main_verbs": true,
-            "tense": true,
-            "infinitives": false,
-            "passives": true,
-            "have_+_participle": false,
-            "auxiliary_verbs": false,
-            "pronouns": false,
-            "nouns": true,
-            "determiners": true,
-            "other_adjectives": false,
-            "prepositions": false,
-            "conjunctions": true,
-            "subject_verb_agreement": false
-        },
         "level2_with_options": [
             [
                 "main_verbs",
@@ -32988,21 +30168,6 @@
             "s_count": 1,
             "u_word": 3
         },
-        "level2": {
-            "main_verbs": true,
-            "tense": true,
-            "infinitives": false,
-            "passives": false,
-            "have_+_participle": false,
-            "auxiliary_verbs": false,
-            "pronouns": false,
-            "nouns": true,
-            "determiners": true,
-            "other_adjectives": false,
-            "prepositions": true,
-            "conjunctions": true,
-            "subject_verb_agreement": false
-        },
         "level2_with_options": [
             [
                 "main_verbs",
@@ -33162,21 +30327,6 @@
             "c_count": 0,
             "s_count": 2,
             "u_word": 9
-        },
-        "level2": {
-            "main_verbs": true,
-            "tense": true,
-            "infinitives": false,
-            "passives": false,
-            "have_+_participle": false,
-            "auxiliary_verbs": false,
-            "pronouns": false,
-            "nouns": true,
-            "determiners": true,
-            "other_adjectives": true,
-            "prepositions": true,
-            "conjunctions": true,
-            "subject_verb_agreement": true
         },
         "level2_with_options": [
             [
@@ -33340,21 +30490,6 @@
             "s_count": 2,
             "u_word": 2
         },
-        "level2": {
-            "main_verbs": false,
-            "tense": false,
-            "infinitives": true,
-            "passives": false,
-            "have_+_participle": false,
-            "auxiliary_verbs": true,
-            "pronouns": true,
-            "nouns": true,
-            "determiners": true,
-            "other_adjectives": false,
-            "prepositions": true,
-            "conjunctions": true,
-            "subject_verb_agreement": false
-        },
         "level2_with_options": [
             [
                 "main_verbs",
@@ -33516,21 +30651,6 @@
             "s_count": 2,
             "u_word": 3
         },
-        "level2": {
-            "main_verbs": false,
-            "tense": true,
-            "infinitives": false,
-            "passives": false,
-            "have_+_participle": false,
-            "auxiliary_verbs": false,
-            "pronouns": false,
-            "nouns": false,
-            "determiners": true,
-            "other_adjectives": false,
-            "prepositions": true,
-            "conjunctions": true,
-            "subject_verb_agreement": false
-        },
         "level2_with_options": [
             [
                 "main_verbs",
@@ -33688,21 +30808,6 @@
             "c_count": 0,
             "s_count": 2,
             "u_word": 14
-        },
-        "level2": {
-            "main_verbs": false,
-            "tense": true,
-            "infinitives": true,
-            "passives": true,
-            "have_+_participle": false,
-            "auxiliary_verbs": true,
-            "pronouns": false,
-            "nouns": true,
-            "determiners": true,
-            "other_adjectives": false,
-            "prepositions": true,
-            "conjunctions": true,
-            "subject_verb_agreement": false
         },
         "level2_with_options": [
             [
@@ -33865,21 +30970,6 @@
             "c_count": 0,
             "s_count": 3,
             "u_word": 3
-        },
-        "level2": {
-            "main_verbs": true,
-            "tense": true,
-            "infinitives": false,
-            "passives": true,
-            "have_+_participle": false,
-            "auxiliary_verbs": false,
-            "pronouns": false,
-            "nouns": true,
-            "determiners": true,
-            "other_adjectives": true,
-            "prepositions": true,
-            "conjunctions": true,
-            "subject_verb_agreement": false
         },
         "level2_with_options": [
             [
@@ -34049,21 +31139,6 @@
             "s_count": 1,
             "u_word": 2
         },
-        "level2": {
-            "main_verbs": true,
-            "tense": true,
-            "infinitives": false,
-            "passives": false,
-            "have_+_participle": false,
-            "auxiliary_verbs": false,
-            "pronouns": false,
-            "nouns": true,
-            "determiners": true,
-            "other_adjectives": false,
-            "prepositions": true,
-            "conjunctions": true,
-            "subject_verb_agreement": true
-        },
         "level2_with_options": [
             [
                 "main_verbs",
@@ -34225,21 +31300,6 @@
             "s_count": 0,
             "u_word": 2
         },
-        "level2": {
-            "main_verbs": true,
-            "tense": true,
-            "infinitives": false,
-            "passives": true,
-            "have_+_participle": false,
-            "auxiliary_verbs": true,
-            "pronouns": true,
-            "nouns": true,
-            "determiners": false,
-            "other_adjectives": false,
-            "prepositions": false,
-            "conjunctions": false,
-            "subject_verb_agreement": false
-        },
         "level2_with_options": [
             [
                 "main_verbs",
@@ -34399,21 +31459,6 @@
             "c_count": 0,
             "s_count": 0,
             "u_word": 2
-        },
-        "level2": {
-            "main_verbs": false,
-            "tense": true,
-            "infinitives": true,
-            "passives": true,
-            "have_+_participle": false,
-            "auxiliary_verbs": true,
-            "pronouns": false,
-            "nouns": true,
-            "determiners": true,
-            "other_adjectives": false,
-            "prepositions": true,
-            "conjunctions": false,
-            "subject_verb_agreement": false
         },
         "level2_with_options": [
             [
@@ -34576,21 +31621,6 @@
             "s_count": 2,
             "u_word": 1
         },
-        "level2": {
-            "main_verbs": false,
-            "tense": true,
-            "infinitives": false,
-            "passives": true,
-            "have_+_participle": false,
-            "auxiliary_verbs": false,
-            "pronouns": false,
-            "nouns": true,
-            "determiners": true,
-            "other_adjectives": false,
-            "prepositions": true,
-            "conjunctions": true,
-            "subject_verb_agreement": false
-        },
         "level2_with_options": [
             [
                 "main_verbs",
@@ -34751,21 +31781,6 @@
             "s_count": 1,
             "u_word": 1
         },
-        "level2": {
-            "main_verbs": false,
-            "tense": true,
-            "infinitives": false,
-            "passives": false,
-            "have_+_participle": false,
-            "auxiliary_verbs": true,
-            "pronouns": false,
-            "nouns": true,
-            "determiners": true,
-            "other_adjectives": false,
-            "prepositions": true,
-            "conjunctions": true,
-            "subject_verb_agreement": false
-        },
         "level2_with_options": [
             [
                 "main_verbs",
@@ -34925,21 +31940,6 @@
             "c_count": 0,
             "s_count": 1,
             "u_word": 3
-        },
-        "level2": {
-            "main_verbs": true,
-            "tense": true,
-            "infinitives": false,
-            "passives": false,
-            "have_+_participle": false,
-            "auxiliary_verbs": false,
-            "pronouns": false,
-            "nouns": false,
-            "determiners": true,
-            "other_adjectives": false,
-            "prepositions": true,
-            "conjunctions": true,
-            "subject_verb_agreement": true
         },
         "level2_with_options": [
             [
@@ -35104,21 +32104,6 @@
             "s_count": 1,
             "u_word": 3
         },
-        "level2": {
-            "main_verbs": false,
-            "tense": true,
-            "infinitives": true,
-            "passives": false,
-            "have_+_participle": false,
-            "auxiliary_verbs": true,
-            "pronouns": false,
-            "nouns": true,
-            "determiners": true,
-            "other_adjectives": true,
-            "prepositions": true,
-            "conjunctions": true,
-            "subject_verb_agreement": true
-        },
         "level2_with_options": [
             [
                 "main_verbs",
@@ -35282,21 +32267,6 @@
             "s_count": 2,
             "u_word": 3
         },
-        "level2": {
-            "main_verbs": true,
-            "tense": true,
-            "infinitives": false,
-            "passives": true,
-            "have_+_participle": false,
-            "auxiliary_verbs": false,
-            "pronouns": false,
-            "nouns": true,
-            "determiners": true,
-            "other_adjectives": false,
-            "prepositions": true,
-            "conjunctions": true,
-            "subject_verb_agreement": false
-        },
         "level2_with_options": [
             [
                 "main_verbs",
@@ -35457,21 +32427,6 @@
             "c_count": 0,
             "s_count": 3,
             "u_word": 4
-        },
-        "level2": {
-            "main_verbs": true,
-            "tense": true,
-            "infinitives": false,
-            "passives": false,
-            "have_+_participle": false,
-            "auxiliary_verbs": true,
-            "pronouns": true,
-            "nouns": false,
-            "determiners": true,
-            "other_adjectives": false,
-            "prepositions": true,
-            "conjunctions": true,
-            "subject_verb_agreement": true
         },
         "level2_with_options": [
             [
@@ -35638,21 +32593,6 @@
             "s_count": 1,
             "u_word": 0
         },
-        "level2": {
-            "main_verbs": true,
-            "tense": true,
-            "infinitives": false,
-            "passives": false,
-            "have_+_participle": false,
-            "auxiliary_verbs": false,
-            "pronouns": false,
-            "nouns": false,
-            "determiners": true,
-            "other_adjectives": false,
-            "prepositions": true,
-            "conjunctions": true,
-            "subject_verb_agreement": false
-        },
         "level2_with_options": [
             [
                 "main_verbs",
@@ -35811,21 +32751,6 @@
             "c_count": 0,
             "s_count": 2,
             "u_word": 0
-        },
-        "level2": {
-            "main_verbs": true,
-            "tense": true,
-            "infinitives": false,
-            "passives": false,
-            "have_+_participle": false,
-            "auxiliary_verbs": false,
-            "pronouns": false,
-            "nouns": false,
-            "determiners": true,
-            "other_adjectives": false,
-            "prepositions": true,
-            "conjunctions": true,
-            "subject_verb_agreement": false
         },
         "level2_with_options": [
             [
@@ -35986,21 +32911,6 @@
             "s_count": 0,
             "u_word": 1
         },
-        "level2": {
-            "main_verbs": true,
-            "tense": true,
-            "infinitives": false,
-            "passives": false,
-            "have_+_participle": false,
-            "auxiliary_verbs": false,
-            "pronouns": true,
-            "nouns": true,
-            "determiners": false,
-            "other_adjectives": true,
-            "prepositions": false,
-            "conjunctions": false,
-            "subject_verb_agreement": false
-        },
         "level2_with_options": [
             [
                 "main_verbs",
@@ -36159,21 +33069,6 @@
             "c_count": 0,
             "s_count": 2,
             "u_word": 2
-        },
-        "level2": {
-            "main_verbs": true,
-            "tense": true,
-            "infinitives": false,
-            "passives": true,
-            "have_+_participle": false,
-            "auxiliary_verbs": false,
-            "pronouns": false,
-            "nouns": false,
-            "determiners": true,
-            "other_adjectives": false,
-            "prepositions": true,
-            "conjunctions": true,
-            "subject_verb_agreement": false
         },
         "level2_with_options": [
             [
@@ -36334,21 +33229,6 @@
             "c_count": 0,
             "s_count": 1,
             "u_word": 0
-        },
-        "level2": {
-            "main_verbs": true,
-            "tense": true,
-            "infinitives": false,
-            "passives": false,
-            "have_+_participle": false,
-            "auxiliary_verbs": false,
-            "pronouns": false,
-            "nouns": true,
-            "determiners": true,
-            "other_adjectives": true,
-            "prepositions": true,
-            "conjunctions": true,
-            "subject_verb_agreement": false
         },
         "level2_with_options": [
             [
@@ -36517,21 +33397,6 @@
             "s_count": 1,
             "u_word": 2
         },
-        "level2": {
-            "main_verbs": false,
-            "tense": true,
-            "infinitives": true,
-            "passives": false,
-            "have_+_participle": false,
-            "auxiliary_verbs": true,
-            "pronouns": false,
-            "nouns": false,
-            "determiners": true,
-            "other_adjectives": false,
-            "prepositions": true,
-            "conjunctions": true,
-            "subject_verb_agreement": false
-        },
         "level2_with_options": [
             [
                 "main_verbs",
@@ -36692,21 +33557,6 @@
             "s_count": 1,
             "u_word": 2
         },
-        "level2": {
-            "main_verbs": false,
-            "tense": true,
-            "infinitives": false,
-            "passives": true,
-            "have_+_participle": false,
-            "auxiliary_verbs": false,
-            "pronouns": false,
-            "nouns": false,
-            "determiners": true,
-            "other_adjectives": false,
-            "prepositions": true,
-            "conjunctions": true,
-            "subject_verb_agreement": true
-        },
         "level2_with_options": [
             [
                 "main_verbs",
@@ -36866,21 +33716,6 @@
             "c_count": 0,
             "s_count": 2,
             "u_word": 2
-        },
-        "level2": {
-            "main_verbs": true,
-            "tense": true,
-            "infinitives": false,
-            "passives": true,
-            "have_+_participle": false,
-            "auxiliary_verbs": true,
-            "pronouns": false,
-            "nouns": true,
-            "determiners": true,
-            "other_adjectives": false,
-            "prepositions": true,
-            "conjunctions": true,
-            "subject_verb_agreement": false
         },
         "level2_with_options": [
             [
@@ -37044,21 +33879,6 @@
             "s_count": 2,
             "u_word": 1
         },
-        "level2": {
-            "main_verbs": false,
-            "tense": true,
-            "infinitives": true,
-            "passives": false,
-            "have_+_participle": false,
-            "auxiliary_verbs": true,
-            "pronouns": false,
-            "nouns": true,
-            "determiners": true,
-            "other_adjectives": false,
-            "prepositions": true,
-            "conjunctions": true,
-            "subject_verb_agreement": true
-        },
         "level2_with_options": [
             [
                 "main_verbs",
@@ -37221,21 +34041,6 @@
             "s_count": 0,
             "u_word": 2
         },
-        "level2": {
-            "main_verbs": true,
-            "tense": true,
-            "infinitives": false,
-            "passives": true,
-            "have_+_participle": false,
-            "auxiliary_verbs": true,
-            "pronouns": false,
-            "nouns": false,
-            "determiners": false,
-            "other_adjectives": false,
-            "prepositions": false,
-            "conjunctions": true,
-            "subject_verb_agreement": false
-        },
         "level2_with_options": [
             [
                 "main_verbs",
@@ -37394,21 +34199,6 @@
             "c_count": 0,
             "s_count": 0,
             "u_word": 0
-        },
-        "level2": {
-            "main_verbs": false,
-            "tense": false,
-            "infinitives": true,
-            "passives": false,
-            "have_+_participle": false,
-            "auxiliary_verbs": true,
-            "pronouns": true,
-            "nouns": true,
-            "determiners": false,
-            "other_adjectives": false,
-            "prepositions": true,
-            "conjunctions": false,
-            "subject_verb_agreement": true
         },
         "level2_with_options": [
             [
@@ -37570,21 +34360,6 @@
             "s_count": 0,
             "u_word": 0
         },
-        "level2": {
-            "main_verbs": false,
-            "tense": false,
-            "infinitives": false,
-            "passives": false,
-            "have_+_participle": false,
-            "auxiliary_verbs": false,
-            "pronouns": false,
-            "nouns": true,
-            "determiners": true,
-            "other_adjectives": true,
-            "prepositions": false,
-            "conjunctions": false,
-            "subject_verb_agreement": false
-        },
         "level2_with_options": [
             [
                 "main_verbs",
@@ -37741,21 +34516,6 @@
             "c_count": 0,
             "s_count": 0,
             "u_word": 0
-        },
-        "level2": {
-            "main_verbs": true,
-            "tense": true,
-            "infinitives": false,
-            "passives": false,
-            "have_+_participle": false,
-            "auxiliary_verbs": false,
-            "pronouns": false,
-            "nouns": true,
-            "determiners": true,
-            "other_adjectives": false,
-            "prepositions": false,
-            "conjunctions": false,
-            "subject_verb_agreement": false
         },
         "level2_with_options": [
             [
@@ -37914,21 +34674,6 @@
             "c_count": 0,
             "s_count": 4,
             "u_word": 1
-        },
-        "level2": {
-            "main_verbs": true,
-            "tense": true,
-            "infinitives": true,
-            "passives": true,
-            "have_+_participle": false,
-            "auxiliary_verbs": true,
-            "pronouns": false,
-            "nouns": true,
-            "determiners": true,
-            "other_adjectives": false,
-            "prepositions": true,
-            "conjunctions": true,
-            "subject_verb_agreement": true
         },
         "level2_with_options": [
             [
@@ -38094,21 +34839,6 @@
             "s_count": 2,
             "u_word": 0
         },
-        "level2": {
-            "main_verbs": true,
-            "tense": true,
-            "infinitives": true,
-            "passives": false,
-            "have_+_participle": false,
-            "auxiliary_verbs": true,
-            "pronouns": false,
-            "nouns": true,
-            "determiners": true,
-            "other_adjectives": false,
-            "prepositions": true,
-            "conjunctions": true,
-            "subject_verb_agreement": true
-        },
         "level2_with_options": [
             [
                 "main_verbs",
@@ -38272,21 +35002,6 @@
             "s_count": 0,
             "u_word": 1
         },
-        "level2": {
-            "main_verbs": false,
-            "tense": false,
-            "infinitives": false,
-            "passives": false,
-            "have_+_participle": false,
-            "auxiliary_verbs": false,
-            "pronouns": true,
-            "nouns": true,
-            "determiners": true,
-            "other_adjectives": false,
-            "prepositions": false,
-            "conjunctions": false,
-            "subject_verb_agreement": false
-        },
         "level2_with_options": [
             [
                 "main_verbs",
@@ -38443,21 +35158,6 @@
             "c_count": 0,
             "s_count": 2,
             "u_word": 2
-        },
-        "level2": {
-            "main_verbs": true,
-            "tense": true,
-            "infinitives": false,
-            "passives": false,
-            "have_+_participle": false,
-            "auxiliary_verbs": true,
-            "pronouns": false,
-            "nouns": true,
-            "determiners": true,
-            "other_adjectives": false,
-            "prepositions": true,
-            "conjunctions": true,
-            "subject_verb_agreement": true
         },
         "level2_with_options": [
             [
@@ -38621,21 +35321,6 @@
             "s_count": 0,
             "u_word": 1
         },
-        "level2": {
-            "main_verbs": false,
-            "tense": false,
-            "infinitives": true,
-            "passives": true,
-            "have_+_participle": false,
-            "auxiliary_verbs": true,
-            "pronouns": true,
-            "nouns": false,
-            "determiners": false,
-            "other_adjectives": false,
-            "prepositions": true,
-            "conjunctions": false,
-            "subject_verb_agreement": false
-        },
         "level2_with_options": [
             [
                 "main_verbs",
@@ -38794,21 +35479,6 @@
             "c_count": 0,
             "s_count": 1,
             "u_word": 1
-        },
-        "level2": {
-            "main_verbs": true,
-            "tense": true,
-            "infinitives": false,
-            "passives": true,
-            "have_+_participle": false,
-            "auxiliary_verbs": false,
-            "pronouns": false,
-            "nouns": false,
-            "determiners": true,
-            "other_adjectives": false,
-            "prepositions": true,
-            "conjunctions": true,
-            "subject_verb_agreement": true
         },
         "level2_with_options": [
             [
@@ -38971,21 +35641,6 @@
             "s_count": 1,
             "u_word": 3
         },
-        "level2": {
-            "main_verbs": false,
-            "tense": true,
-            "infinitives": true,
-            "passives": false,
-            "have_+_participle": false,
-            "auxiliary_verbs": true,
-            "pronouns": false,
-            "nouns": true,
-            "determiners": true,
-            "other_adjectives": false,
-            "prepositions": true,
-            "conjunctions": true,
-            "subject_verb_agreement": false
-        },
         "level2_with_options": [
             [
                 "main_verbs",
@@ -39146,21 +35801,6 @@
             "c_count": 0,
             "s_count": 2,
             "u_word": 1
-        },
-        "level2": {
-            "main_verbs": false,
-            "tense": false,
-            "infinitives": true,
-            "passives": false,
-            "have_+_participle": false,
-            "auxiliary_verbs": true,
-            "pronouns": true,
-            "nouns": true,
-            "determiners": true,
-            "other_adjectives": false,
-            "prepositions": true,
-            "conjunctions": true,
-            "subject_verb_agreement": false
         },
         "level2_with_options": [
             [
@@ -39323,21 +35963,6 @@
             "s_count": 2,
             "u_word": 0
         },
-        "level2": {
-            "main_verbs": false,
-            "tense": true,
-            "infinitives": false,
-            "passives": true,
-            "have_+_participle": false,
-            "auxiliary_verbs": false,
-            "pronouns": true,
-            "nouns": false,
-            "determiners": true,
-            "other_adjectives": false,
-            "prepositions": true,
-            "conjunctions": true,
-            "subject_verb_agreement": true
-        },
         "level2_with_options": [
             [
                 "main_verbs",
@@ -39499,21 +36124,6 @@
             "s_count": 1,
             "u_word": 0
         },
-        "level2": {
-            "main_verbs": false,
-            "tense": false,
-            "infinitives": false,
-            "passives": false,
-            "have_+_participle": false,
-            "auxiliary_verbs": false,
-            "pronouns": true,
-            "nouns": true,
-            "determiners": true,
-            "other_adjectives": false,
-            "prepositions": true,
-            "conjunctions": true,
-            "subject_verb_agreement": false
-        },
         "level2_with_options": [
             [
                 "main_verbs",
@@ -39672,21 +36282,6 @@
             "c_count": 0,
             "s_count": 4,
             "u_word": 0
-        },
-        "level2": {
-            "main_verbs": false,
-            "tense": false,
-            "infinitives": false,
-            "passives": true,
-            "have_+_participle": false,
-            "auxiliary_verbs": false,
-            "pronouns": true,
-            "nouns": true,
-            "determiners": true,
-            "other_adjectives": true,
-            "prepositions": true,
-            "conjunctions": true,
-            "subject_verb_agreement": false
         },
         "level2_with_options": [
             [
@@ -39849,21 +36444,6 @@
             "s_count": 1,
             "u_word": 1
         },
-        "level2": {
-            "main_verbs": false,
-            "tense": true,
-            "infinitives": false,
-            "passives": true,
-            "have_+_participle": false,
-            "auxiliary_verbs": true,
-            "pronouns": false,
-            "nouns": true,
-            "determiners": true,
-            "other_adjectives": false,
-            "prepositions": true,
-            "conjunctions": true,
-            "subject_verb_agreement": false
-        },
         "level2_with_options": [
             [
                 "main_verbs",
@@ -40024,21 +36604,6 @@
             "c_count": 0,
             "s_count": 1,
             "u_word": 1
-        },
-        "level2": {
-            "main_verbs": true,
-            "tense": true,
-            "infinitives": false,
-            "passives": false,
-            "have_+_participle": false,
-            "auxiliary_verbs": false,
-            "pronouns": true,
-            "nouns": false,
-            "determiners": true,
-            "other_adjectives": false,
-            "prepositions": true,
-            "conjunctions": true,
-            "subject_verb_agreement": true
         },
         "level2_with_options": [
             [
@@ -40201,21 +36766,6 @@
             "s_count": 2,
             "u_word": 0
         },
-        "level2": {
-            "main_verbs": false,
-            "tense": true,
-            "infinitives": false,
-            "passives": false,
-            "have_+_participle": false,
-            "auxiliary_verbs": true,
-            "pronouns": false,
-            "nouns": true,
-            "determiners": true,
-            "other_adjectives": false,
-            "prepositions": true,
-            "conjunctions": true,
-            "subject_verb_agreement": true
-        },
         "level2_with_options": [
             [
                 "main_verbs",
@@ -40377,21 +36927,6 @@
             "s_count": 0,
             "u_word": 1
         },
-        "level2": {
-            "main_verbs": true,
-            "tense": true,
-            "infinitives": false,
-            "passives": false,
-            "have_+_participle": false,
-            "auxiliary_verbs": false,
-            "pronouns": true,
-            "nouns": false,
-            "determiners": false,
-            "other_adjectives": false,
-            "prepositions": false,
-            "conjunctions": false,
-            "subject_verb_agreement": true
-        },
         "level2_with_options": [
             [
                 "main_verbs",
@@ -40549,21 +37084,6 @@
             "c_count": 0,
             "s_count": 5,
             "u_word": 0
-        },
-        "level2": {
-            "main_verbs": true,
-            "tense": true,
-            "infinitives": false,
-            "passives": false,
-            "have_+_participle": false,
-            "auxiliary_verbs": false,
-            "pronouns": false,
-            "nouns": true,
-            "determiners": true,
-            "other_adjectives": false,
-            "prepositions": true,
-            "conjunctions": true,
-            "subject_verb_agreement": false
         },
         "level2_with_options": [
             [
@@ -40724,21 +37244,6 @@
             "c_count": 0,
             "s_count": 3,
             "u_word": 1
-        },
-        "level2": {
-            "main_verbs": true,
-            "tense": true,
-            "infinitives": false,
-            "passives": true,
-            "have_+_participle": false,
-            "auxiliary_verbs": false,
-            "pronouns": false,
-            "nouns": true,
-            "determiners": true,
-            "other_adjectives": false,
-            "prepositions": true,
-            "conjunctions": true,
-            "subject_verb_agreement": false
         },
         "level2_with_options": [
             [
@@ -40901,21 +37406,6 @@
             "s_count": 2,
             "u_word": 2
         },
-        "level2": {
-            "main_verbs": true,
-            "tense": true,
-            "infinitives": false,
-            "passives": false,
-            "have_+_participle": false,
-            "auxiliary_verbs": true,
-            "pronouns": false,
-            "nouns": false,
-            "determiners": true,
-            "other_adjectives": false,
-            "prepositions": true,
-            "conjunctions": true,
-            "subject_verb_agreement": true
-        },
         "level2_with_options": [
             [
                 "main_verbs",
@@ -41077,21 +37567,6 @@
             "s_count": 1,
             "u_word": 1
         },
-        "level2": {
-            "main_verbs": false,
-            "tense": false,
-            "infinitives": false,
-            "passives": true,
-            "have_+_participle": false,
-            "auxiliary_verbs": false,
-            "pronouns": true,
-            "nouns": false,
-            "determiners": true,
-            "other_adjectives": false,
-            "prepositions": true,
-            "conjunctions": true,
-            "subject_verb_agreement": false
-        },
         "level2_with_options": [
             [
                 "main_verbs",
@@ -41251,21 +37726,6 @@
             "s_count": 0,
             "u_word": 0
         },
-        "level2": {
-            "main_verbs": false,
-            "tense": false,
-            "infinitives": true,
-            "passives": false,
-            "have_+_participle": false,
-            "auxiliary_verbs": true,
-            "pronouns": true,
-            "nouns": false,
-            "determiners": false,
-            "other_adjectives": false,
-            "prepositions": true,
-            "conjunctions": false,
-            "subject_verb_agreement": true
-        },
         "level2_with_options": [
             [
                 "main_verbs",
@@ -41424,21 +37884,6 @@
             "c_count": 0,
             "s_count": 0,
             "u_word": 3
-        },
-        "level2": {
-            "main_verbs": true,
-            "tense": true,
-            "infinitives": true,
-            "passives": true,
-            "have_+_participle": false,
-            "auxiliary_verbs": true,
-            "pronouns": false,
-            "nouns": true,
-            "determiners": true,
-            "other_adjectives": false,
-            "prepositions": true,
-            "conjunctions": false,
-            "subject_verb_agreement": false
         },
         "level2_with_options": [
             [
@@ -41605,21 +38050,6 @@
             "s_count": 0,
             "u_word": 0
         },
-        "level2": {
-            "main_verbs": true,
-            "tense": false,
-            "infinitives": false,
-            "passives": true,
-            "have_+_participle": false,
-            "auxiliary_verbs": true,
-            "pronouns": true,
-            "nouns": true,
-            "determiners": true,
-            "other_adjectives": true,
-            "prepositions": false,
-            "conjunctions": true,
-            "subject_verb_agreement": true
-        },
         "level2_with_options": [
             [
                 "main_verbs",
@@ -41783,21 +38213,6 @@
             "s_count": 0,
             "u_word": 1
         },
-        "level2": {
-            "main_verbs": false,
-            "tense": true,
-            "infinitives": true,
-            "passives": false,
-            "have_+_participle": false,
-            "auxiliary_verbs": true,
-            "pronouns": false,
-            "nouns": true,
-            "determiners": true,
-            "other_adjectives": true,
-            "prepositions": true,
-            "conjunctions": false,
-            "subject_verb_agreement": false
-        },
         "level2_with_options": [
             [
                 "main_verbs",
@@ -41958,21 +38373,6 @@
             "c_count": 0,
             "s_count": 1,
             "u_word": 1
-        },
-        "level2": {
-            "main_verbs": false,
-            "tense": true,
-            "infinitives": false,
-            "passives": true,
-            "have_+_participle": false,
-            "auxiliary_verbs": true,
-            "pronouns": false,
-            "nouns": true,
-            "determiners": true,
-            "other_adjectives": false,
-            "prepositions": true,
-            "conjunctions": true,
-            "subject_verb_agreement": false
         },
         "level2_with_options": [
             [
@@ -42135,21 +38535,6 @@
             "s_count": 0,
             "u_word": 2
         },
-        "level2": {
-            "main_verbs": false,
-            "tense": true,
-            "infinitives": false,
-            "passives": false,
-            "have_+_participle": false,
-            "auxiliary_verbs": false,
-            "pronouns": false,
-            "nouns": true,
-            "determiners": true,
-            "other_adjectives": false,
-            "prepositions": false,
-            "conjunctions": false,
-            "subject_verb_agreement": false
-        },
         "level2_with_options": [
             [
                 "main_verbs",
@@ -42306,21 +38691,6 @@
             "c_count": 0,
             "s_count": 2,
             "u_word": 0
-        },
-        "level2": {
-            "main_verbs": true,
-            "tense": false,
-            "infinitives": false,
-            "passives": false,
-            "have_+_participle": false,
-            "auxiliary_verbs": true,
-            "pronouns": false,
-            "nouns": true,
-            "determiners": true,
-            "other_adjectives": false,
-            "prepositions": true,
-            "conjunctions": true,
-            "subject_verb_agreement": true
         },
         "level2_with_options": [
             [
@@ -42483,21 +38853,6 @@
             "s_count": 1,
             "u_word": 0
         },
-        "level2": {
-            "main_verbs": true,
-            "tense": true,
-            "infinitives": false,
-            "passives": false,
-            "have_+_participle": false,
-            "auxiliary_verbs": false,
-            "pronouns": false,
-            "nouns": true,
-            "determiners": true,
-            "other_adjectives": false,
-            "prepositions": true,
-            "conjunctions": true,
-            "subject_verb_agreement": false
-        },
         "level2_with_options": [
             [
                 "main_verbs",
@@ -42658,21 +39013,6 @@
             "s_count": 2,
             "u_word": 1
         },
-        "level2": {
-            "main_verbs": false,
-            "tense": true,
-            "infinitives": false,
-            "passives": false,
-            "have_+_participle": false,
-            "auxiliary_verbs": false,
-            "pronouns": false,
-            "nouns": false,
-            "determiners": true,
-            "other_adjectives": false,
-            "prepositions": true,
-            "conjunctions": true,
-            "subject_verb_agreement": false
-        },
         "level2_with_options": [
             [
                 "main_verbs",
@@ -42830,21 +39170,6 @@
             "c_count": 0,
             "s_count": 1,
             "u_word": 2
-        },
-        "level2": {
-            "main_verbs": true,
-            "tense": true,
-            "infinitives": true,
-            "passives": false,
-            "have_+_participle": false,
-            "auxiliary_verbs": true,
-            "pronouns": false,
-            "nouns": true,
-            "determiners": true,
-            "other_adjectives": false,
-            "prepositions": true,
-            "conjunctions": true,
-            "subject_verb_agreement": true
         },
         "level2_with_options": [
             [
@@ -43008,21 +39333,6 @@
             "c_count": 1,
             "s_count": 0,
             "u_word": 2
-        },
-        "level2": {
-            "main_verbs": true,
-            "tense": true,
-            "infinitives": true,
-            "passives": false,
-            "have_+_participle": false,
-            "auxiliary_verbs": true,
-            "pronouns": false,
-            "nouns": true,
-            "determiners": true,
-            "other_adjectives": true,
-            "prepositions": true,
-            "conjunctions": true,
-            "subject_verb_agreement": false
         },
         "level2_with_options": [
             [
@@ -43188,21 +39498,6 @@
             "s_count": 1,
             "u_word": 0
         },
-        "level2": {
-            "main_verbs": false,
-            "tense": false,
-            "infinitives": false,
-            "passives": false,
-            "have_+_participle": false,
-            "auxiliary_verbs": false,
-            "pronouns": false,
-            "nouns": true,
-            "determiners": true,
-            "other_adjectives": true,
-            "prepositions": true,
-            "conjunctions": true,
-            "subject_verb_agreement": false
-        },
         "level2_with_options": [
             [
                 "main_verbs",
@@ -43362,21 +39657,6 @@
             "s_count": 0,
             "u_word": 1
         },
-        "level2": {
-            "main_verbs": false,
-            "tense": false,
-            "infinitives": false,
-            "passives": false,
-            "have_+_participle": false,
-            "auxiliary_verbs": false,
-            "pronouns": true,
-            "nouns": false,
-            "determiners": true,
-            "other_adjectives": false,
-            "prepositions": false,
-            "conjunctions": false,
-            "subject_verb_agreement": false
-        },
         "level2_with_options": [
             [
                 "main_verbs",
@@ -43532,21 +39812,6 @@
             "c_count": 0,
             "s_count": 1,
             "u_word": 1
-        },
-        "level2": {
-            "main_verbs": false,
-            "tense": true,
-            "infinitives": true,
-            "passives": false,
-            "have_+_participle": false,
-            "auxiliary_verbs": true,
-            "pronouns": true,
-            "nouns": false,
-            "determiners": true,
-            "other_adjectives": false,
-            "prepositions": true,
-            "conjunctions": true,
-            "subject_verb_agreement": true
         },
         "level2_with_options": [
             [
@@ -43710,21 +39975,6 @@
             "s_count": 0,
             "u_word": 1
         },
-        "level2": {
-            "main_verbs": true,
-            "tense": true,
-            "infinitives": false,
-            "passives": false,
-            "have_+_participle": true,
-            "auxiliary_verbs": true,
-            "pronouns": false,
-            "nouns": false,
-            "determiners": true,
-            "other_adjectives": false,
-            "prepositions": false,
-            "conjunctions": false,
-            "subject_verb_agreement": true
-        },
         "level2_with_options": [
             [
                 "main_verbs",
@@ -43887,21 +40137,6 @@
             "s_count": 0,
             "u_word": 1
         },
-        "level2": {
-            "main_verbs": false,
-            "tense": true,
-            "infinitives": false,
-            "passives": false,
-            "have_+_participle": false,
-            "auxiliary_verbs": false,
-            "pronouns": true,
-            "nouns": false,
-            "determiners": false,
-            "other_adjectives": false,
-            "prepositions": false,
-            "conjunctions": false,
-            "subject_verb_agreement": true
-        },
         "level2_with_options": [
             [
                 "main_verbs",
@@ -44058,21 +40293,6 @@
             "c_count": 0,
             "s_count": 4,
             "u_word": 0
-        },
-        "level2": {
-            "main_verbs": true,
-            "tense": true,
-            "infinitives": false,
-            "passives": false,
-            "have_+_participle": false,
-            "auxiliary_verbs": false,
-            "pronouns": false,
-            "nouns": false,
-            "determiners": true,
-            "other_adjectives": false,
-            "prepositions": true,
-            "conjunctions": true,
-            "subject_verb_agreement": false
         },
         "level2_with_options": [
             [
@@ -44232,21 +40452,6 @@
             "c_count": 0,
             "s_count": 1,
             "u_word": 1
-        },
-        "level2": {
-            "main_verbs": true,
-            "tense": true,
-            "infinitives": true,
-            "passives": false,
-            "have_+_participle": false,
-            "auxiliary_verbs": true,
-            "pronouns": true,
-            "nouns": false,
-            "determiners": true,
-            "other_adjectives": false,
-            "prepositions": true,
-            "conjunctions": true,
-            "subject_verb_agreement": true
         },
         "level2_with_options": [
             [
@@ -44411,21 +40616,6 @@
             "s_count": 0,
             "u_word": 1
         },
-        "level2": {
-            "main_verbs": true,
-            "tense": true,
-            "infinitives": false,
-            "passives": false,
-            "have_+_participle": false,
-            "auxiliary_verbs": false,
-            "pronouns": false,
-            "nouns": false,
-            "determiners": false,
-            "other_adjectives": false,
-            "prepositions": false,
-            "conjunctions": false,
-            "subject_verb_agreement": false
-        },
         "level2_with_options": [
             [
                 "main_verbs",
@@ -44581,21 +40771,6 @@
             "c_count": 0,
             "s_count": 1,
             "u_word": 3
-        },
-        "level2": {
-            "main_verbs": false,
-            "tense": true,
-            "infinitives": false,
-            "passives": false,
-            "have_+_participle": false,
-            "auxiliary_verbs": true,
-            "pronouns": true,
-            "nouns": false,
-            "determiners": true,
-            "other_adjectives": false,
-            "prepositions": true,
-            "conjunctions": true,
-            "subject_verb_agreement": true
         },
         "level2_with_options": [
             [
@@ -44760,21 +40935,6 @@
             "s_count": 0,
             "u_word": 1
         },
-        "level2": {
-            "main_verbs": false,
-            "tense": false,
-            "infinitives": true,
-            "passives": false,
-            "have_+_participle": false,
-            "auxiliary_verbs": true,
-            "pronouns": false,
-            "nouns": true,
-            "determiners": true,
-            "other_adjectives": false,
-            "prepositions": true,
-            "conjunctions": false,
-            "subject_verb_agreement": false
-        },
         "level2_with_options": [
             [
                 "main_verbs",
@@ -44933,21 +41093,6 @@
             "c_count": 0,
             "s_count": 1,
             "u_word": 0
-        },
-        "level2": {
-            "main_verbs": false,
-            "tense": false,
-            "infinitives": true,
-            "passives": false,
-            "have_+_participle": false,
-            "auxiliary_verbs": true,
-            "pronouns": false,
-            "nouns": false,
-            "determiners": true,
-            "other_adjectives": false,
-            "prepositions": true,
-            "conjunctions": true,
-            "subject_verb_agreement": false
         },
         "level2_with_options": [
             [
@@ -45108,21 +41253,6 @@
             "s_count": 0,
             "u_word": 1
         },
-        "level2": {
-            "main_verbs": true,
-            "tense": true,
-            "infinitives": false,
-            "passives": false,
-            "have_+_participle": false,
-            "auxiliary_verbs": false,
-            "pronouns": false,
-            "nouns": true,
-            "determiners": false,
-            "other_adjectives": false,
-            "prepositions": false,
-            "conjunctions": false,
-            "subject_verb_agreement": false
-        },
         "level2_with_options": [
             [
                 "main_verbs",
@@ -45279,21 +41409,6 @@
             "c_count": 0,
             "s_count": 1,
             "u_word": 1
-        },
-        "level2": {
-            "main_verbs": false,
-            "tense": false,
-            "infinitives": false,
-            "passives": false,
-            "have_+_participle": false,
-            "auxiliary_verbs": false,
-            "pronouns": true,
-            "nouns": false,
-            "determiners": true,
-            "other_adjectives": false,
-            "prepositions": true,
-            "conjunctions": true,
-            "subject_verb_agreement": false
         },
         "level2_with_options": [
             [
@@ -45452,21 +41567,6 @@
             "c_count": 0,
             "s_count": 0,
             "u_word": 2
-        },
-        "level2": {
-            "main_verbs": true,
-            "tense": true,
-            "infinitives": false,
-            "passives": false,
-            "have_+_participle": false,
-            "auxiliary_verbs": false,
-            "pronouns": true,
-            "nouns": true,
-            "determiners": true,
-            "other_adjectives": true,
-            "prepositions": false,
-            "conjunctions": false,
-            "subject_verb_agreement": true
         },
         "level2_with_options": [
             [
@@ -45629,21 +41729,6 @@
             "s_count": 0,
             "u_word": 2
         },
-        "level2": {
-            "main_verbs": true,
-            "tense": true,
-            "infinitives": true,
-            "passives": false,
-            "have_+_participle": false,
-            "auxiliary_verbs": true,
-            "pronouns": true,
-            "nouns": true,
-            "determiners": false,
-            "other_adjectives": false,
-            "prepositions": true,
-            "conjunctions": false,
-            "subject_verb_agreement": false
-        },
         "level2_with_options": [
             [
                 "main_verbs",
@@ -45804,21 +41889,6 @@
             "c_count": 0,
             "s_count": 1,
             "u_word": 1
-        },
-        "level2": {
-            "main_verbs": true,
-            "tense": false,
-            "infinitives": false,
-            "passives": false,
-            "have_+_participle": false,
-            "auxiliary_verbs": true,
-            "pronouns": false,
-            "nouns": true,
-            "determiners": true,
-            "other_adjectives": false,
-            "prepositions": true,
-            "conjunctions": true,
-            "subject_verb_agreement": true
         },
         "level2_with_options": [
             [
@@ -45981,21 +42051,6 @@
             "s_count": 2,
             "u_word": 1
         },
-        "level2": {
-            "main_verbs": false,
-            "tense": false,
-            "infinitives": true,
-            "passives": false,
-            "have_+_participle": false,
-            "auxiliary_verbs": true,
-            "pronouns": false,
-            "nouns": false,
-            "determiners": true,
-            "other_adjectives": false,
-            "prepositions": true,
-            "conjunctions": true,
-            "subject_verb_agreement": false
-        },
         "level2_with_options": [
             [
                 "main_verbs",
@@ -46154,21 +42209,6 @@
             "c_count": 0,
             "s_count": 1,
             "u_word": 1
-        },
-        "level2": {
-            "main_verbs": true,
-            "tense": true,
-            "infinitives": true,
-            "passives": false,
-            "have_+_participle": false,
-            "auxiliary_verbs": true,
-            "pronouns": true,
-            "nouns": false,
-            "determiners": true,
-            "other_adjectives": false,
-            "prepositions": true,
-            "conjunctions": true,
-            "subject_verb_agreement": true
         },
         "level2_with_options": [
             [
@@ -46333,21 +42373,6 @@
             "s_count": 2,
             "u_word": 1
         },
-        "level2": {
-            "main_verbs": false,
-            "tense": true,
-            "infinitives": false,
-            "passives": false,
-            "have_+_participle": false,
-            "auxiliary_verbs": false,
-            "pronouns": false,
-            "nouns": true,
-            "determiners": true,
-            "other_adjectives": false,
-            "prepositions": true,
-            "conjunctions": true,
-            "subject_verb_agreement": true
-        },
         "level2_with_options": [
             [
                 "main_verbs",
@@ -46509,21 +42534,6 @@
             "s_count": 3,
             "u_word": 1
         },
-        "level2": {
-            "main_verbs": false,
-            "tense": true,
-            "infinitives": false,
-            "passives": true,
-            "have_+_participle": false,
-            "auxiliary_verbs": false,
-            "pronouns": false,
-            "nouns": true,
-            "determiners": true,
-            "other_adjectives": false,
-            "prepositions": true,
-            "conjunctions": true,
-            "subject_verb_agreement": false
-        },
         "level2_with_options": [
             [
                 "main_verbs",
@@ -46684,21 +42694,6 @@
             "s_count": 1,
             "u_word": 1
         },
-        "level2": {
-            "main_verbs": true,
-            "tense": true,
-            "infinitives": false,
-            "passives": false,
-            "have_+_participle": false,
-            "auxiliary_verbs": false,
-            "pronouns": false,
-            "nouns": false,
-            "determiners": true,
-            "other_adjectives": false,
-            "prepositions": true,
-            "conjunctions": true,
-            "subject_verb_agreement": false
-        },
         "level2_with_options": [
             [
                 "main_verbs",
@@ -46857,21 +42852,6 @@
             "c_count": 0,
             "s_count": 2,
             "u_word": 1
-        },
-        "level2": {
-            "main_verbs": false,
-            "tense": true,
-            "infinitives": false,
-            "passives": false,
-            "have_+_participle": false,
-            "auxiliary_verbs": true,
-            "pronouns": false,
-            "nouns": false,
-            "determiners": true,
-            "other_adjectives": false,
-            "prepositions": true,
-            "conjunctions": true,
-            "subject_verb_agreement": true
         },
         "level2_with_options": [
             [
@@ -47033,21 +43013,6 @@
             "s_count": 3,
             "u_word": 1
         },
-        "level2": {
-            "main_verbs": false,
-            "tense": false,
-            "infinitives": true,
-            "passives": false,
-            "have_+_participle": false,
-            "auxiliary_verbs": true,
-            "pronouns": false,
-            "nouns": true,
-            "determiners": true,
-            "other_adjectives": false,
-            "prepositions": true,
-            "conjunctions": true,
-            "subject_verb_agreement": false
-        },
         "level2_with_options": [
             [
                 "main_verbs",
@@ -47207,21 +43172,6 @@
             "c_count": 0,
             "s_count": 0,
             "u_word": 2
-        },
-        "level2": {
-            "main_verbs": false,
-            "tense": true,
-            "infinitives": true,
-            "passives": false,
-            "have_+_participle": false,
-            "auxiliary_verbs": true,
-            "pronouns": false,
-            "nouns": false,
-            "determiners": true,
-            "other_adjectives": false,
-            "prepositions": true,
-            "conjunctions": false,
-            "subject_verb_agreement": true
         },
         "level2_with_options": [
             [
@@ -47386,21 +43336,6 @@
             "s_count": 0,
             "u_word": 2
         },
-        "level2": {
-            "main_verbs": true,
-            "tense": true,
-            "infinitives": false,
-            "passives": false,
-            "have_+_participle": false,
-            "auxiliary_verbs": true,
-            "pronouns": false,
-            "nouns": true,
-            "determiners": false,
-            "other_adjectives": true,
-            "prepositions": false,
-            "conjunctions": false,
-            "subject_verb_agreement": true
-        },
         "level2_with_options": [
             [
                 "main_verbs",
@@ -47561,21 +43496,6 @@
             "s_count": 1,
             "u_word": 0
         },
-        "level2": {
-            "main_verbs": false,
-            "tense": false,
-            "infinitives": false,
-            "passives": false,
-            "have_+_participle": false,
-            "auxiliary_verbs": false,
-            "pronouns": false,
-            "nouns": true,
-            "determiners": true,
-            "other_adjectives": false,
-            "prepositions": true,
-            "conjunctions": true,
-            "subject_verb_agreement": false
-        },
         "level2_with_options": [
             [
                 "main_verbs",
@@ -47733,21 +43653,6 @@
             "c_count": 0,
             "s_count": 1,
             "u_word": 2
-        },
-        "level2": {
-            "main_verbs": true,
-            "tense": true,
-            "infinitives": false,
-            "passives": false,
-            "have_+_participle": false,
-            "auxiliary_verbs": false,
-            "pronouns": false,
-            "nouns": false,
-            "determiners": true,
-            "other_adjectives": false,
-            "prepositions": true,
-            "conjunctions": true,
-            "subject_verb_agreement": true
         },
         "level2_with_options": [
             [
@@ -47908,21 +43813,6 @@
             "c_count": 0,
             "s_count": 2,
             "u_word": 1
-        },
-        "level2": {
-            "main_verbs": true,
-            "tense": true,
-            "infinitives": false,
-            "passives": false,
-            "have_+_participle": false,
-            "auxiliary_verbs": false,
-            "pronouns": false,
-            "nouns": true,
-            "determiners": true,
-            "other_adjectives": true,
-            "prepositions": true,
-            "conjunctions": true,
-            "subject_verb_agreement": true
         },
         "level2_with_options": [
             [
@@ -48086,21 +43976,6 @@
             "s_count": 0,
             "u_word": 0
         },
-        "level2": {
-            "main_verbs": true,
-            "tense": true,
-            "infinitives": false,
-            "passives": false,
-            "have_+_participle": false,
-            "auxiliary_verbs": false,
-            "pronouns": false,
-            "nouns": true,
-            "determiners": true,
-            "other_adjectives": false,
-            "prepositions": false,
-            "conjunctions": false,
-            "subject_verb_agreement": false
-        },
         "level2_with_options": [
             [
                 "main_verbs",
@@ -48259,21 +44134,6 @@
             "s_count": 0,
             "u_word": 0
         },
-        "level2": {
-            "main_verbs": true,
-            "tense": true,
-            "infinitives": false,
-            "passives": false,
-            "have_+_participle": false,
-            "auxiliary_verbs": false,
-            "pronouns": false,
-            "nouns": true,
-            "determiners": false,
-            "other_adjectives": false,
-            "prepositions": false,
-            "conjunctions": false,
-            "subject_verb_agreement": false
-        },
         "level2_with_options": [
             [
                 "main_verbs",
@@ -48430,21 +44290,6 @@
             "c_count": 0,
             "s_count": 1,
             "u_word": 0
-        },
-        "level2": {
-            "main_verbs": true,
-            "tense": true,
-            "infinitives": true,
-            "passives": false,
-            "have_+_participle": false,
-            "auxiliary_verbs": false,
-            "pronouns": false,
-            "nouns": true,
-            "determiners": true,
-            "other_adjectives": true,
-            "prepositions": true,
-            "conjunctions": true,
-            "subject_verb_agreement": true
         },
         "level2_with_options": [
             [
@@ -48609,21 +44454,6 @@
             "s_count": 1,
             "u_word": 2
         },
-        "level2": {
-            "main_verbs": false,
-            "tense": true,
-            "infinitives": false,
-            "passives": true,
-            "have_+_participle": false,
-            "auxiliary_verbs": false,
-            "pronouns": true,
-            "nouns": false,
-            "determiners": true,
-            "other_adjectives": false,
-            "prepositions": true,
-            "conjunctions": true,
-            "subject_verb_agreement": false
-        },
         "level2_with_options": [
             [
                 "main_verbs",
@@ -48783,21 +44613,6 @@
             "c_count": 0,
             "s_count": 1,
             "u_word": 2
-        },
-        "level2": {
-            "main_verbs": true,
-            "tense": true,
-            "infinitives": false,
-            "passives": false,
-            "have_+_participle": false,
-            "auxiliary_verbs": false,
-            "pronouns": false,
-            "nouns": false,
-            "determiners": true,
-            "other_adjectives": false,
-            "prepositions": true,
-            "conjunctions": true,
-            "subject_verb_agreement": true
         },
         "level2_with_options": [
             [
@@ -48959,21 +44774,6 @@
             "s_count": 1,
             "u_word": 1
         },
-        "level2": {
-            "main_verbs": false,
-            "tense": false,
-            "infinitives": false,
-            "passives": false,
-            "have_+_participle": false,
-            "auxiliary_verbs": false,
-            "pronouns": false,
-            "nouns": true,
-            "determiners": true,
-            "other_adjectives": false,
-            "prepositions": true,
-            "conjunctions": true,
-            "subject_verb_agreement": false
-        },
         "level2_with_options": [
             [
                 "main_verbs",
@@ -49131,21 +44931,6 @@
             "c_count": 0,
             "s_count": 2,
             "u_word": 1
-        },
-        "level2": {
-            "main_verbs": true,
-            "tense": false,
-            "infinitives": false,
-            "passives": true,
-            "have_+_participle": false,
-            "auxiliary_verbs": true,
-            "pronouns": false,
-            "nouns": true,
-            "determiners": true,
-            "other_adjectives": false,
-            "prepositions": true,
-            "conjunctions": true,
-            "subject_verb_agreement": true
         },
         "level2_with_options": [
             [
@@ -49309,21 +45094,6 @@
             "s_count": 0,
             "u_word": 2
         },
-        "level2": {
-            "main_verbs": true,
-            "tense": true,
-            "infinitives": false,
-            "passives": false,
-            "have_+_participle": false,
-            "auxiliary_verbs": false,
-            "pronouns": false,
-            "nouns": false,
-            "determiners": true,
-            "other_adjectives": false,
-            "prepositions": false,
-            "conjunctions": true,
-            "subject_verb_agreement": true
-        },
         "level2_with_options": [
             [
                 "main_verbs",
@@ -49482,21 +45252,6 @@
             "c_count": 0,
             "s_count": 1,
             "u_word": 2
-        },
-        "level2": {
-            "main_verbs": false,
-            "tense": false,
-            "infinitives": false,
-            "passives": false,
-            "have_+_participle": false,
-            "auxiliary_verbs": false,
-            "pronouns": true,
-            "nouns": true,
-            "determiners": true,
-            "other_adjectives": false,
-            "prepositions": true,
-            "conjunctions": true,
-            "subject_verb_agreement": false
         },
         "level2_with_options": [
             [
@@ -49657,21 +45412,6 @@
             "s_count": 0,
             "u_word": 2
         },
-        "level2": {
-            "main_verbs": true,
-            "tense": true,
-            "infinitives": false,
-            "passives": false,
-            "have_+_participle": false,
-            "auxiliary_verbs": false,
-            "pronouns": false,
-            "nouns": true,
-            "determiners": true,
-            "other_adjectives": false,
-            "prepositions": false,
-            "conjunctions": false,
-            "subject_verb_agreement": false
-        },
         "level2_with_options": [
             [
                 "main_verbs",
@@ -49829,21 +45569,6 @@
             "c_count": 1,
             "s_count": 0,
             "u_word": 1
-        },
-        "level2": {
-            "main_verbs": false,
-            "tense": false,
-            "infinitives": false,
-            "passives": false,
-            "have_+_participle": false,
-            "auxiliary_verbs": true,
-            "pronouns": false,
-            "nouns": false,
-            "determiners": true,
-            "other_adjectives": false,
-            "prepositions": false,
-            "conjunctions": true,
-            "subject_verb_agreement": true
         },
         "level2_with_options": [
             [
@@ -50004,21 +45729,6 @@
             "s_count": 0,
             "u_word": 3
         },
-        "level2": {
-            "main_verbs": false,
-            "tense": true,
-            "infinitives": false,
-            "passives": false,
-            "have_+_participle": false,
-            "auxiliary_verbs": true,
-            "pronouns": false,
-            "nouns": true,
-            "determiners": false,
-            "other_adjectives": false,
-            "prepositions": false,
-            "conjunctions": false,
-            "subject_verb_agreement": true
-        },
         "level2_with_options": [
             [
                 "main_verbs",
@@ -50177,21 +45887,6 @@
             "s_count": 1,
             "u_word": 0
         },
-        "level2": {
-            "main_verbs": false,
-            "tense": false,
-            "infinitives": false,
-            "passives": false,
-            "have_+_participle": false,
-            "auxiliary_verbs": false,
-            "pronouns": false,
-            "nouns": true,
-            "determiners": true,
-            "other_adjectives": false,
-            "prepositions": true,
-            "conjunctions": true,
-            "subject_verb_agreement": false
-        },
         "level2_with_options": [
             [
                 "main_verbs",
@@ -50349,21 +46044,6 @@
             "c_count": 0,
             "s_count": 0,
             "u_word": 1
-        },
-        "level2": {
-            "main_verbs": true,
-            "tense": false,
-            "infinitives": false,
-            "passives": false,
-            "have_+_participle": false,
-            "auxiliary_verbs": true,
-            "pronouns": false,
-            "nouns": true,
-            "determiners": false,
-            "other_adjectives": true,
-            "prepositions": false,
-            "conjunctions": false,
-            "subject_verb_agreement": true
         },
         "level2_with_options": [
             [
@@ -50524,21 +46204,6 @@
             "s_count": 0,
             "u_word": 1
         },
-        "level2": {
-            "main_verbs": true,
-            "tense": true,
-            "infinitives": false,
-            "passives": false,
-            "have_+_participle": false,
-            "auxiliary_verbs": true,
-            "pronouns": false,
-            "nouns": false,
-            "determiners": true,
-            "other_adjectives": false,
-            "prepositions": false,
-            "conjunctions": false,
-            "subject_verb_agreement": true
-        },
         "level2_with_options": [
             [
                 "main_verbs",
@@ -50697,21 +46362,6 @@
             "c_count": 0,
             "s_count": 2,
             "u_word": 1
-        },
-        "level2": {
-            "main_verbs": true,
-            "tense": true,
-            "infinitives": false,
-            "passives": false,
-            "have_+_participle": false,
-            "auxiliary_verbs": false,
-            "pronouns": false,
-            "nouns": true,
-            "determiners": true,
-            "other_adjectives": false,
-            "prepositions": true,
-            "conjunctions": true,
-            "subject_verb_agreement": true
         },
         "level2_with_options": [
             [
@@ -50876,21 +46526,6 @@
             "s_count": 1,
             "u_word": 1
         },
-        "level2": {
-            "main_verbs": true,
-            "tense": true,
-            "infinitives": false,
-            "passives": false,
-            "have_+_participle": false,
-            "auxiliary_verbs": false,
-            "pronouns": false,
-            "nouns": true,
-            "determiners": true,
-            "other_adjectives": true,
-            "prepositions": true,
-            "conjunctions": true,
-            "subject_verb_agreement": true
-        },
         "level2_with_options": [
             [
                 "main_verbs",
@@ -51053,21 +46688,6 @@
             "s_count": 0,
             "u_word": 2
         },
-        "level2": {
-            "main_verbs": false,
-            "tense": true,
-            "infinitives": false,
-            "passives": false,
-            "have_+_participle": false,
-            "auxiliary_verbs": false,
-            "pronouns": true,
-            "nouns": true,
-            "determiners": false,
-            "other_adjectives": false,
-            "prepositions": false,
-            "conjunctions": false,
-            "subject_verb_agreement": true
-        },
         "level2_with_options": [
             [
                 "main_verbs",
@@ -51225,21 +46845,6 @@
             "c_count": 0,
             "s_count": 0,
             "u_word": 2
-        },
-        "level2": {
-            "main_verbs": true,
-            "tense": true,
-            "infinitives": false,
-            "passives": false,
-            "have_+_participle": false,
-            "auxiliary_verbs": false,
-            "pronouns": false,
-            "nouns": true,
-            "determiners": true,
-            "other_adjectives": false,
-            "prepositions": false,
-            "conjunctions": false,
-            "subject_verb_agreement": true
         },
         "level2_with_options": [
             [
@@ -51400,21 +47005,6 @@
             "s_count": 0,
             "u_word": 0
         },
-        "level2": {
-            "main_verbs": false,
-            "tense": false,
-            "infinitives": false,
-            "passives": false,
-            "have_+_participle": false,
-            "auxiliary_verbs": false,
-            "pronouns": false,
-            "nouns": true,
-            "determiners": true,
-            "other_adjectives": false,
-            "prepositions": false,
-            "conjunctions": false,
-            "subject_verb_agreement": false
-        },
         "level2_with_options": [
             [
                 "main_verbs",
@@ -51570,21 +47160,6 @@
             "c_count": 0,
             "s_count": 1,
             "u_word": 2
-        },
-        "level2": {
-            "main_verbs": true,
-            "tense": true,
-            "infinitives": false,
-            "passives": false,
-            "have_+_participle": false,
-            "auxiliary_verbs": false,
-            "pronouns": false,
-            "nouns": true,
-            "determiners": true,
-            "other_adjectives": true,
-            "prepositions": true,
-            "conjunctions": true,
-            "subject_verb_agreement": false
         },
         "level2_with_options": [
             [
@@ -51747,21 +47322,6 @@
             "s_count": 3,
             "u_word": 1
         },
-        "level2": {
-            "main_verbs": false,
-            "tense": false,
-            "infinitives": false,
-            "passives": false,
-            "have_+_participle": false,
-            "auxiliary_verbs": false,
-            "pronouns": false,
-            "nouns": true,
-            "determiners": true,
-            "other_adjectives": false,
-            "prepositions": true,
-            "conjunctions": true,
-            "subject_verb_agreement": false
-        },
         "level2_with_options": [
             [
                 "main_verbs",
@@ -51921,21 +47481,6 @@
             "c_count": 1,
             "s_count": 0,
             "u_word": 1
-        },
-        "level2": {
-            "main_verbs": true,
-            "tense": true,
-            "infinitives": true,
-            "passives": false,
-            "have_+_participle": false,
-            "auxiliary_verbs": true,
-            "pronouns": false,
-            "nouns": true,
-            "determiners": true,
-            "other_adjectives": true,
-            "prepositions": true,
-            "conjunctions": true,
-            "subject_verb_agreement": true
         },
         "level2_with_options": [
             [
@@ -52101,21 +47646,6 @@
             "s_count": 2,
             "u_word": 8
         },
-        "level2": {
-            "main_verbs": true,
-            "tense": true,
-            "infinitives": true,
-            "passives": false,
-            "have_+_participle": false,
-            "auxiliary_verbs": true,
-            "pronouns": false,
-            "nouns": true,
-            "determiners": true,
-            "other_adjectives": false,
-            "prepositions": true,
-            "conjunctions": true,
-            "subject_verb_agreement": true
-        },
         "level2_with_options": [
             [
                 "main_verbs",
@@ -52279,21 +47809,6 @@
             "s_count": 2,
             "u_word": 3
         },
-        "level2": {
-            "main_verbs": false,
-            "tense": true,
-            "infinitives": true,
-            "passives": false,
-            "have_+_participle": false,
-            "auxiliary_verbs": true,
-            "pronouns": false,
-            "nouns": true,
-            "determiners": true,
-            "other_adjectives": false,
-            "prepositions": true,
-            "conjunctions": true,
-            "subject_verb_agreement": false
-        },
         "level2_with_options": [
             [
                 "main_verbs",
@@ -52455,21 +47970,6 @@
             "s_count": 5,
             "u_word": 6
         },
-        "level2": {
-            "main_verbs": false,
-            "tense": true,
-            "infinitives": false,
-            "passives": false,
-            "have_+_participle": false,
-            "auxiliary_verbs": false,
-            "pronouns": false,
-            "nouns": true,
-            "determiners": true,
-            "other_adjectives": false,
-            "prepositions": true,
-            "conjunctions": true,
-            "subject_verb_agreement": false
-        },
         "level2_with_options": [
             [
                 "main_verbs",
@@ -52629,21 +48129,6 @@
             "s_count": 2,
             "u_word": 2
         },
-        "level2": {
-            "main_verbs": false,
-            "tense": false,
-            "infinitives": false,
-            "passives": false,
-            "have_+_participle": false,
-            "auxiliary_verbs": false,
-            "pronouns": true,
-            "nouns": false,
-            "determiners": true,
-            "other_adjectives": false,
-            "prepositions": true,
-            "conjunctions": true,
-            "subject_verb_agreement": false
-        },
         "level2_with_options": [
             [
                 "main_verbs",
@@ -52801,21 +48286,6 @@
             "c_count": 0,
             "s_count": 0,
             "u_word": 1
-        },
-        "level2": {
-            "main_verbs": true,
-            "tense": true,
-            "infinitives": false,
-            "passives": false,
-            "have_+_participle": false,
-            "auxiliary_verbs": false,
-            "pronouns": false,
-            "nouns": true,
-            "determiners": false,
-            "other_adjectives": false,
-            "prepositions": false,
-            "conjunctions": true,
-            "subject_verb_agreement": true
         },
         "level2_with_options": [
             [

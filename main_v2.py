@@ -1,7 +1,7 @@
 from src.pipeline.extract_features_v2 import extract_features_v2
 from src.pipeline.mapping_features_v2 import json_to_csv_with_level2
 from src.utils.file_handling import set_training_data
-from src.data.preprocess import DataPreprocess
+from src.datas.preprocess import DataPreprocess
 from src.utils.file_handling import csv_to_json
 from wordfreq import word_frequency
 import spacy
@@ -61,7 +61,7 @@ for item in json_data:
     row_data.update({'answer': item['answer']})
     row_data.update({'options_comp': item['options_comp']})
     # row_data.update(item['options_comp'])
-    row_data.update(item['level2'])
+    # row_data.update(item['level2'])
     output.append(row_data)
     if(item['levels']['Level_1'] == True):
         questions_by_level['level_1'].append(row_data)
