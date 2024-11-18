@@ -79,8 +79,8 @@ def extract_features_v2(data, filename, nlp, word_freq):
         level3['u_word'] = opt_deps['u_word']
         response['level3'] = level3
         temp = check_level2(level3)
-        # response['level2'] = temp[0]
-        response['level2_with_options'] = temp
+        response['level2'] = temp[0]
+        response['level2_with_options'] = temp[1]
         response['levels'] = check_levels(level3)
         response['options_comp'] = check_comp(response['level2_with_options'], response['option_A'], response['option_B'], response['option_C'], response['option_D'])
         extracted_features.append(response)
@@ -90,21 +90,21 @@ def extract_features_v2(data, filename, nlp, word_freq):
 
 def check_level2(data):
     
-    # level2 = {
-    #     "main_verbs": data.get("v1", False) or data.get("v2", False) or data.get("v3", False),
-    #     "tense": data.get("v4", False) or data.get("v5", False),
-    #     "infinitives": data.get("v6", False),
-    #     "passives": data.get("v7", False) or data.get("v8", False),
-    #     "have_+_participle": data.get("v9", False),
-    #     "auxiliary_verbs": data.get("v10", False),
-    #     "pronouns": data.get("pro1", False) or data.get("pro2", False) or data.get("pro3", False),
-    #     "nouns": data.get("n1", False) or data.get("n2", False) or data.get("n3", False),
-    #     "determiners": data.get("a1", False) or data.get("a2", False) or data.get("a5", False),
-    #     "other_adjectives": data.get("a3", False) or data.get("a4", False),
-    #     "prepositions": data.get("pre1", False) or data.get("pre2", False) or data.get("pre3", False),
-    #     "conjunctions": data.get("con1", False) or data.get("con2", False) or data.get("scon1", False) or data.get("scon2", False),
-    #     "subject_verb_agreement": data.get("sva", False),
-    # }
+    level2 = {
+        "main_verbs": data.get("v1", False) or data.get("v2", False) or data.get("v3", False),
+        "tense": data.get("v4", False) or data.get("v5", False),
+        "infinitives": data.get("v6", False),
+        "passives": data.get("v7", False) or data.get("v8", False),
+        "have_+_participle": data.get("v9", False),
+        "auxiliary_verbs": data.get("v10", False),
+        "pronouns": data.get("pro1", False) or data.get("pro2", False) or data.get("pro3", False),
+        "nouns": data.get("n1", False) or data.get("n2", False) or data.get("n3", False),
+        "determiners": data.get("a1", False) or data.get("a2", False) or data.get("a5", False),
+        "other_adjectives": data.get("a3", False) or data.get("a4", False),
+        "prepositions": data.get("pre1", False) or data.get("pre2", False) or data.get("pre3", False),
+        "conjunctions": data.get("con1", False) or data.get("con2", False) or data.get("scon1", False) or data.get("scon2", False),
+        "subject_verb_agreement": data.get("sva", False),
+    }
     
     level2_with_opt = {
         "main_verbs": data.get("v1_options", "") or data.get("v2_options", "") or data.get("v3_options", ""),
@@ -124,8 +124,7 @@ def check_level2(data):
     
     level2_with_opt_list = [[key, value] for key, value in level2_with_opt.items()]
 
-    # return [level2, level2_with_opt_list]
-    return level2_with_opt_list
+    return [level2, level2_with_opt_list]
 
 def check_comp(opt, A, B, C, D):
     

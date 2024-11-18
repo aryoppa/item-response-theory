@@ -52,6 +52,7 @@ class DataPreprocess():
         counter = 0
         for data in self.data:
             data['id'] = counter
+            print(data['question_text'])
             data['pos_tag'] = self.pos_tag(data['question_text'])
             data['options_A'] = []
             data['options_B'] = []
@@ -66,7 +67,6 @@ class DataPreprocess():
                     data['options_C'].append(data[opt])
                 if opt == 'D':
                     data['options_D'].append(data[opt])
-                # data['options'].append([data[opt]])
                 data[opt] = self.pos_tag(data[opt])
             self.get_underlines(data)
             counter += 1

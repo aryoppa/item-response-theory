@@ -56,14 +56,6 @@
         "key_answer": "C"
     },
     {
-        "question_text": "Early adolescence is a developmental phase consisting of rapid changes in behavior, psychological, and hormones.",
-        "A": "Early",
-        "B": "developmental",
-        "C": "rapid",
-        "D": "psychological",
-        "key_answer": "D"
-    },
-    {
         "question_text": "Knowledge from the frontiers of research genetic will increasingly pose difficult problems for policy makers and for society in general.",
         "A": "Knowledge",
         "B": "research genetic",
@@ -2398,5 +2390,349 @@
         "C": "to an incredible diversity",
         "D": "plays a vital role",
         "key_answer": "D"
+    },
+    {
+        "question_text": "The teacher told the students to carefully to follow the instructions given on the board.",
+        "A": "The teacher told",
+        "B": "to carefully to follow",
+        "C": "the instructions given",
+        "D": "on the board",
+        "key_answer": "B"
+    },
+    {
+        "question_text": "He decided to help his brother fixing the bike before going to the market.",
+        "A": "He",
+        "B": "decided to help",
+        "C": "his brother fixing the bike",
+        "D": "before going to the market",
+        "key_answer": "C"
+    },
+    {
+        "question_text": "The goal of this exercise is to helps students understand the importance of teamwork.",
+        "A": "The goal of this exercise",
+        "B": "is",
+        "C": "to helps students understand",
+        "D": "the importance of teamwork",
+        "key_answer": "C"
+    },
+    {
+        "question_text": "By the time you arrived, we have already started eating dinner without you.",
+        "A": "By the time you arrived",
+        "B": "we have already",
+        "C": "started eating dinner",
+        "D": "without you",
+        "key_answer": "B"
+    },
+    {
+        "question_text": "He has forgot his homework at home again despite the repeated reminders from the teacher.",
+        "A": "He has forgot",
+        "B": "his homework at home",
+        "C": "despite the repeated reminders",
+        "D": "from the teacher",
+        "key_answer": "A"
+    },
+    {
+        "question_text": "They have finish the project well before the deadline, surprising everyone with their efficiency.",
+        "A": "They have finish the project",
+        "B": "well before the deadline",
+        "C": "surprising everyone with",
+        "D": "their efficiency",
+        "key_answer": "A"
+    },
+    {
+        "question_text": "The team claimed they have completed the task, but no evidence was provided to prove it.",
+        "A": "The team claimed they have",
+        "B": "completed the task",
+        "C": "but no evidence",
+        "D": "was provided to prove it",
+        "key_answer": "A"
+    },
+    {
+        "question_text": "If he has took the correct route, he would have reached his destination by now.",
+        "A": "If he has took",
+        "B": "the correct route",
+        "C": "he would have reached",
+        "D": "his destination by now",
+        "key_answer": "A"
+    },
+    {
+        "question_text": "To be successful, it is important to always keep practicing and to improving your skills regularly.",
+        "A": "To be successful",
+        "B": "to always keep practicing",
+        "C": "to improving your skills",
+        "D": "regularly",
+        "key_answer": "C"
+    },
+    {
+        "question_text": "They tried to persuade him to joining the workshop, but he refused their offer.",
+        "A": "They tried to persuade",
+        "B": "him to joining",
+        "C": "the workshop",
+        "D": "but he refused their offer",
+        "key_answer": "B"
+    },
+    {
+        "question_text": "It's difficult to understand the concept without to discuss it with someone else.",
+        "A": "It's difficult",
+        "B": "to understand the concept",
+        "C": "without to discuss it",
+        "D": "with someone else",
+        "key_answer": "C"
+    },
+    {
+        "question_text": "She has been preparing for months to ensures she passes the exam.",
+        "A": "She has",
+        "B": "been preparing",
+        "C": "for months to ensures",
+        "D": "she passes the exam",
+        "key_answer": "C"
+    },
+    {
+        "question_text": "The best way to stay healthy is to exercising daily and eat a balanced diet.",
+        "A": "The best way",
+        "B": "to stay healthy",
+        "C": "to exercising daily",
+        "D": "and eat a balanced diet",
+        "key_answer": "C"
+    },
+    {
+        "question_text": "He decided not to interfere but instead to observes the process quietly.",
+        "A": "He decided not",
+        "B": "to interfere",
+        "C": "but instead to observes",
+        "D": "the process quietly",
+        "key_answer": "C"
+    },
+    {
+        "question_text": "Her ambition is to becomes a renowned artist in the future.",
+        "A": "Her",
+        "B": "ambition is",
+        "C": "to becomes a renowned artist",
+        "D": "in the future",
+        "key_answer": "C"
+    },
+    {
+        "question_text": "He advised us to not taking shortcuts when learning complex topics.",
+        "A": "He advised",
+        "B": "us to not",
+        "C": "taking shortcuts",
+        "D": "when learning complex topics",
+        "key_answer": "C"
+    },
+    {
+        "question_text": "The government aims to reduce pollution and to promotes renewable energy sources.",
+        "A": "The government",
+        "B": "aims",
+        "C": "to reduce pollution",
+        "D": "to promotes renewable energy sources",
+        "key_answer": "D"
+    },
+    {
+        "question_text": "You should always strive to achieve your goals and to helping others along the way.",
+        "A": "You should always strive",
+        "B": "to achieve your goals",
+        "C": "and to helping others",
+        "D": "along the way",
+        "key_answer": "C"
+    },
+    {
+        "question_text": "She has not spoke to her friend since their argument last month.",
+        "A": "She has not spoke",
+        "B": "to her friend",
+        "C": "since their argument",
+        "D": "last month",
+        "key_answer": "A"
+    },
+    {
+        "question_text": "By the time we arrived, the organizers have already left the venue.",
+        "A": "By the time",
+        "B": "we arrived",
+        "C": "the organizers have",
+        "D": "already left the venue",
+        "key_answer": "C"
+    },
+    {
+        "question_text": "He has went to the library several times but still cannot find the book he needs.",
+        "A": "He has went to the library",
+        "B": "several times",
+        "C": "but still cannot find",
+        "D": "the book he needs",
+        "key_answer": "A"
+    },
+    {
+        "question_text": "I would have went to the party if I had known about it earlier.",
+        "A": "I would have went",
+        "B": "to the party",
+        "C": "if I had known",
+        "D": "about it earlier",
+        "key_answer": "A"
+    },
+    {
+        "question_text": "He claims to have completed the work, but the task remains unfinished.",
+        "A": "He claims to have",
+        "B": "completed the work",
+        "C": "but the task remains",
+        "D": "unfinished",
+        "key_answer": "C"
+    },
+    {
+        "question_text": "They had knew about the problem long before it was announced.",
+        "A": "They had knew",
+        "B": "about the problem",
+        "C": "long before",
+        "D": "it was announced",
+        "key_answer": "A"
+    },
+    {
+        "question_text": "We have not spoke about this issue since the last meeting.",
+        "A": "We have not spoke",
+        "B": "about this issue",
+        "C": "since the",
+        "D": "last meeting",
+        "key_answer": "A"
+    },
+    {
+        "question_text": "She has wrote many books, but only a few have been published.",
+        "A": "She has wrote",
+        "B": "many books",
+        "C": "but only a few",
+        "D": "have been published",
+        "key_answer": "A"
+    },
+    {
+        "question_text": "Had you knew about the plan, you could have avoided the issue.",
+        "A": "Had you knew about",
+        "B": "the plan, you",
+        "C": "could have avoided",
+        "D": "the issue",
+        "key_answer": "A"
+    },
+    {
+        "question_text": "If he has ate breakfast, he wouldn\u2019t be feeling hungry now.",
+        "A": "If he has ate",
+        "B": "breakfast, he",
+        "C": "wouldn\u2019t be feeling",
+        "D": "hungry now",
+        "key_answer": "A"
+    },
+    {
+        "question_text": "She plans to quickly finish her work so that to attend the meeting on time.",
+        "A": "She plans to quickly",
+        "B": "finish her work",
+        "C": "to attend the meeting",
+        "D": "on time",
+        "key_answer": "C"
+    },
+    {
+        "question_text": "It is important to not waste your time on activities that are not productive.",
+        "A": "It is important",
+        "B": "to not waste your time",
+        "C": "on activities that",
+        "D": "are not productive",
+        "key_answer": "B"
+    },
+    {
+        "question_text": "The teacher told the students to carefully to follow the instructions given on the board.",
+        "A": "The teacher told",
+        "B": "to carefully to follow",
+        "C": "the instructions given",
+        "D": "on the board",
+        "key_answer": "B"
+    },
+    {
+        "question_text": "She has went to the market early in the morning to buy fresh vegetables.",
+        "A": "She has went",
+        "B": "to the market early",
+        "C": "in the morning",
+        "D": "to buy fresh vegetables",
+        "key_answer": "A"
+    },
+    {
+        "question_text": "The students have finish their assignments before the deadline to earn extra points.",
+        "A": "The students have finish",
+        "B": "their assignments",
+        "C": "before the deadline",
+        "D": "to earn extra points",
+        "key_answer": "A"
+    },
+    {
+        "question_text": "By the time the teacher arrived, the class have already started their presentation.",
+        "A": "By the time",
+        "B": "the teacher arrived",
+        "C": "the class have already",
+        "D": "started their presentation",
+        "key_answer": "C"
+    },
+    {
+        "question_text": "If he has ate breakfast, he would not feel so hungry right now.",
+        "A": "If he has ate",
+        "B": "breakfast, he",
+        "C": "would not feel so hungry",
+        "D": "right now",
+        "key_answer": "A"
+    },
+    {
+        "question_text": "I would have went to the meeting if I had known about it earlier.",
+        "A": "I would have went",
+        "B": "to the meeting",
+        "C": "if I had known",
+        "D": "about it earlier",
+        "key_answer": "A"
+    },
+    {
+        "question_text": "The new car is more faster than the older model, making it a popular choice.",
+        "A": "The new car is more faster",
+        "B": "than the older model",
+        "C": "making it",
+        "D": "a popular choice",
+        "key_answer": "A"
+    },
+    {
+        "question_text": "This is the most happiest day of my life because of the surprise party.",
+        "A": "This is the most happiest day",
+        "B": "of my life",
+        "C": "because of",
+        "D": "the surprise party",
+        "key_answer": "A"
+    },
+    {
+        "question_text": "Among all the contestants, she was the most smarter and confident.",
+        "A": "Among all the contestants",
+        "B": "she was",
+        "C": "the most smarter",
+        "D": "and confident",
+        "key_answer": "C"
+    },
+    {
+        "question_text": "The painting looks more beautifuler when it is viewed under natural light.",
+        "A": "The painting looks",
+        "B": "more beautifuler",
+        "C": "when it is viewed",
+        "D": "under natural light",
+        "key_answer": "B"
+    },
+    {
+        "question_text": "The weather is becoming more colder as winter approaches the region.",
+        "A": "The weather is becoming more colder",
+        "B": "as winter",
+        "C": "approaches",
+        "D": "the region",
+        "key_answer": "A"
+    },
+    {
+        "question_text": "By the time the guests arrived, the host have already prepared everything for the dinner party.",
+        "A": "By the time the guests arrived",
+        "B": "the host have already",
+        "C": "prepared everything",
+        "D": "for the dinner party",
+        "key_answer": "B"
+    },
+    {
+        "question_text": "The more prettier flowers in the garden are often admired by visitors during spring.",
+        "A": "The more prettier flowers",
+        "B": "in the garden are",
+        "C": "often admired",
+        "D": "by visitors",
+        "key_answer": "A"
     }
 ]

@@ -4,10 +4,7 @@
         "answer": "hers",
         "options_comp": [
             [
-                "While",
-                "determiners",
-                "prepositions",
-                "conjunctions"
+                "While"
             ],
             [
                 "hers",
@@ -35,12 +32,10 @@
                 "conjunctions"
             ],
             [
-                "success",
-                "nouns"
+                "success"
             ],
             [
-                "appeared",
-                "subject_verb_agreement"
+                "appeared"
             ]
         ]
     },
@@ -54,18 +49,13 @@
                 "passives"
             ],
             [
-                "demonstrated by",
-                "determiners",
-                "prepositions",
-                "conjunctions"
+                "demonstrated by"
             ],
             [
                 "moving"
             ],
             [
-                "air",
-                "nouns",
-                "subject_verb_agreement"
+                "air"
             ]
         ]
     },
@@ -74,24 +64,16 @@
         "answer": "distant",
         "options_comp": [
             [
-                "butterflies",
-                "nouns",
-                "other_adjectives"
+                "butterflies"
             ],
             [
-                "travel",
-                "main_verbs",
-                "auxiliary_verbs"
+                "travel"
             ],
             [
                 "distant"
             ],
             [
-                "over",
-                "determiners",
-                "prepositions",
-                "conjunctions",
-                "subject_verb_agreement"
+                "over"
             ]
         ]
     },
@@ -105,20 +87,15 @@
             ],
             [
                 "parts",
-                "nouns",
                 "determiners"
             ],
             [
                 "marking",
-                "tense",
                 "determiners"
             ],
             [
                 "to establish",
-                "infinitives",
-                "auxiliary_verbs",
-                "determiners",
-                "prepositions"
+                "determiners"
             ]
         ]
     },
@@ -127,23 +104,16 @@
         "answer": "instead",
         "options_comp": [
             [
-                "All",
-                "determiners"
+                "All"
             ],
             [
-                "use",
-                "main_verbs",
-                "tense"
+                "use"
             ],
             [
                 "instead"
             ],
             [
-                "to represent",
-                "infinitives",
-                "auxiliary_verbs",
-                "prepositions",
-                "subject_verb_agreement"
+                "to represent"
             ]
         ]
     },
@@ -152,13 +122,10 @@
         "answer": "diplomacy",
         "options_comp": [
             [
-                "An",
-                "determiners"
+                "An"
             ],
             [
-                "as a",
-                "prepositions",
-                "conjunctions"
+                "as a"
             ],
             [
                 "diplomacy",
@@ -170,42 +137,21 @@
         ]
     },
     {
-        "question_text": "Early adolescence is a developmental phase consisting of rapid changes in behavior, psychological, and hormones.",
-        "answer": "psychological",
-        "options_comp": [
-            [
-                "Early"
-            ],
-            [
-                "developmental"
-            ],
-            [
-                "rapid"
-            ],
-            [
-                "psychological"
-            ]
-        ]
-    },
-    {
         "question_text": "Knowledge from the frontiers of research genetic will increasingly pose difficult problems for policy makers and for society in general.",
         "answer": "research genetic",
         "options_comp": [
             [
-                "Knowledge",
-                "nouns",
-                "determiners"
+                "Knowledge"
             ],
             [
-                "research genetic"
+                "research genetic",
+                "nouns"
             ],
             [
                 "difficult"
             ],
             [
-                "in general",
-                "prepositions",
-                "conjunctions"
+                "in general"
             ]
         ]
     },
@@ -214,20 +160,18 @@
         "answer": "of colors",
         "options_comp": [
             [
-                "called glass mosaics",
-                "tense",
-                "passives",
-                "nouns",
-                "other_adjectives"
+                "called glass mosaics"
             ],
             [
-                "by setting",
+                "by setting"
+            ],
+            [
+                "of colors",
+                "passives",
+                "nouns",
                 "determiners",
                 "prepositions",
                 "conjunctions"
-            ],
-            [
-                "of colors"
             ],
             [
                 "into"
@@ -244,8 +188,7 @@
                 "determiners"
             ],
             [
-                "their",
-                "pronouns"
+                "their"
             ],
             [
                 "separation"
@@ -260,26 +203,20 @@
         "answer": "used to entering",
         "options_comp": [
             [
-                "found evidence",
-                "main_verbs",
-                "tense",
-                "have_+_participle",
-                "auxiliary_verbs",
-                "nouns"
+                "found evidence"
             ],
             [
                 "used to entering",
+                "tense",
+                "determiners",
                 "prepositions",
-                "conjunctions",
-                "subject_verb_agreement"
+                "conjunctions"
             ],
             [
                 "helped keep"
             ],
             [
-                "the heat in",
-                "determiners",
-                "subject_verb_agreement"
+                "the heat in"
             ]
         ]
     },
@@ -288,21 +225,18 @@
         "answer": "from",
         "options_comp": [
             [
-                "The",
-                "passives",
-                "determiners"
+                "The"
             ],
             [
-                "found",
-                "main_verbs",
-                "tense"
+                "found"
             ],
             [
-                "areas",
-                "nouns"
+                "areas"
             ],
             [
                 "from",
+                "passives",
+                "determiners",
                 "prepositions",
                 "conjunctions"
             ]
@@ -313,23 +247,20 @@
         "answer": "that are",
         "options_comp": [
             [
-                "glass manufactured",
-                "tense",
-                "passives",
-                "nouns",
-                "determiners"
+                "glass manufactured"
             ],
             [
                 "is"
             ],
             [
                 "that are",
+                "tense",
+                "passives",
                 "auxiliary_verbs",
                 "pronouns"
             ],
             [
-                "steadily",
-                "subject_verb_agreement"
+                "steadily"
             ]
         ]
     },
@@ -338,19 +269,18 @@
         "answer": "evaporator",
         "options_comp": [
             [
-                "The oceans",
-                "passives",
-                "nouns"
+                "The oceans"
             ],
             [
-                "major source",
-                "determiners"
+                "major source"
             ],
             [
                 "atmospheric"
             ],
             [
-                "evaporator"
+                "evaporator",
+                "passives",
+                "nouns"
             ]
         ]
     },
@@ -365,15 +295,10 @@
                 "high"
             ],
             [
-                "have",
-                "main_verbs",
-                "tense"
+                "have"
             ],
             [
-                "color",
-                "nouns",
-                "other_adjectives",
-                "subject_verb_agreement"
+                "color"
             ]
         ]
     },
@@ -382,21 +307,19 @@
         "answer": "between",
         "options_comp": [
             [
-                "functions",
-                "nouns"
+                "functions"
             ],
             [
                 "between",
                 "determiners",
-                "prepositions"
-            ],
-            [
-                "but",
+                "prepositions",
                 "conjunctions"
             ],
             [
-                "escaping",
-                "tense"
+                "but"
+            ],
+            [
+                "escaping"
             ]
         ]
     },
@@ -416,10 +339,7 @@
                 "widely grown"
             ],
             [
-                "nut",
-                "nouns",
-                "other_adjectives",
-                "subject_verb_agreement"
+                "nut"
             ]
         ]
     },
@@ -428,21 +348,16 @@
         "answer": "completely",
         "options_comp": [
             [
-                "doing",
-                "tense"
+                "doing"
             ],
             [
-                "fieldwork",
-                "nouns",
-                "other_adjectives"
+                "fieldwork"
             ],
             [
-                "found",
-                "main_verbs"
+                "found"
             ],
             [
-                "completely",
-                "subject_verb_agreement"
+                "completely"
             ]
         ]
     },
@@ -460,8 +375,6 @@
             ],
             [
                 "included in",
-                "main_verbs",
-                "tense",
                 "passives",
                 "determiners",
                 "prepositions",
@@ -488,15 +401,10 @@
                 "ancient"
             ],
             [
-                "have",
-                "tense",
-                "auxiliary_verbs"
+                "have"
             ],
             [
-                "alongside",
-                "determiners",
-                "prepositions",
-                "conjunctions"
+                "alongside"
             ]
         ]
     },
@@ -505,8 +413,7 @@
         "answer": "did",
         "options_comp": [
             [
-                "in",
-                "prepositions"
+                "in"
             ],
             [
                 "did",
@@ -518,8 +425,6 @@
             ],
             [
                 "the past",
-                "nouns",
-                "determiners",
                 "subject_verb_agreement"
             ]
         ]
@@ -538,8 +443,7 @@
                 "only to"
             ],
             [
-                "importance",
-                "nouns"
+                "importance"
             ],
             [
                 "as"
@@ -551,22 +455,18 @@
         "answer": "the oldest trade",
         "options_comp": [
             [
-                "or making loans",
-                "tense",
-                "nouns",
-                "conjunctions"
+                "or making loans"
             ],
             [
-                "who",
-                "pronouns"
+                "who"
             ],
             [
                 "personal"
             ],
             [
                 "the oldest trade",
-                "determiners",
-                "subject_verb_agreement"
+                "nouns",
+                "determiners"
             ]
         ]
     },
@@ -581,8 +481,7 @@
                 "conjunctions"
             ],
             [
-                "stage",
-                "nouns"
+                "stage"
             ],
             [
                 "a series"
@@ -602,19 +501,13 @@
                 "pronouns"
             ],
             [
-                "from",
-                "determiners",
-                "prepositions",
-                "conjunctions"
+                "from"
             ],
             [
-                "can",
-                "auxiliary_verbs"
+                "can"
             ],
             [
-                "heat",
-                "nouns",
-                "subject_verb_agreement"
+                "heat"
             ]
         ]
     },
@@ -630,10 +523,7 @@
                 "also"
             ],
             [
-                "such as",
-                "determiners",
-                "prepositions",
-                "conjunctions"
+                "such as"
             ],
             [
                 "flowers"
@@ -645,24 +535,17 @@
         "answer": "much",
         "options_comp": [
             [
-                "game of",
-                "passives",
-                "nouns",
-                "determiners",
-                "prepositions",
-                "conjunctions"
+                "game of"
             ],
             [
-                "which",
-                "pronouns"
+                "which"
             ],
             [
-                "is",
-                "tense"
+                "is"
             ],
             [
                 "much",
-                "subject_verb_agreement"
+                "passives"
             ]
         ]
     },
@@ -671,20 +554,17 @@
         "answer": "reliable",
         "options_comp": [
             [
-                "modern",
-                "passives"
+                "modern"
             ],
             [
                 "carefully"
             ],
             [
-                "for",
-                "determiners",
-                "prepositions",
-                "conjunctions"
+                "for"
             ],
             [
-                "reliable"
+                "reliable",
+                "passives"
             ]
         ]
     },
@@ -696,17 +576,13 @@
                 "Only"
             ],
             [
-                "the case",
-                "nouns",
-                "determiners"
+                "the case"
             ],
             [
-                "declaring",
-                "tense"
+                "declaring"
             ],
             [
-                "education",
-                "other_adjectives"
+                "education"
             ]
         ]
     },
@@ -715,18 +591,13 @@
         "answer": "least",
         "options_comp": [
             [
-                "glass",
-                "nouns",
-                "other_adjectives"
+                "glass"
             ],
             [
                 "least"
             ],
             [
-                "from",
-                "determiners",
-                "prepositions",
-                "conjunctions"
+                "from"
             ],
             [
                 "civilizations"
@@ -738,24 +609,18 @@
         "answer": "interest their",
         "options_comp": [
             [
-                "effect",
-                "nouns"
+                "effect"
             ],
             [
-                "can have",
-                "auxiliary_verbs",
-                "determiners"
+                "can have"
             ],
             [
-                "there is a",
-                "main_verbs",
-                "tense",
-                "determiners"
+                "there is a"
             ],
             [
                 "interest their",
                 "pronouns",
-                "subject_verb_agreement"
+                "nouns"
             ]
         ]
     },
@@ -764,10 +629,7 @@
         "answer": "popular",
         "options_comp": [
             [
-                "far as",
-                "determiners",
-                "prepositions",
-                "conjunctions"
+                "far as"
             ],
             [
                 "significantly"
@@ -776,10 +638,7 @@
                 "popular"
             ],
             [
-                "past",
-                "determiners",
-                "prepositions",
-                "conjunctions"
+                "past"
             ]
         ]
     },
@@ -791,15 +650,14 @@
                 "a complex"
             ],
             [
-                "that",
-                "pronouns"
+                "that"
             ],
             [
-                "functions",
-                "nouns"
+                "functions"
             ],
             [
                 "maintain",
+                "nouns",
                 "determiners"
             ]
         ]
@@ -809,21 +667,18 @@
         "answer": "have possible made",
         "options_comp": [
             [
-                "Space",
-                "nouns",
-                "other_adjectives"
+                "Space"
             ],
             [
-                "including",
-                "tense"
+                "including"
             ],
             [
                 "have possible made",
-                "main_verbs"
+                "main_verbs",
+                "tense"
             ],
             [
-                "extremely",
-                "subject_verb_agreement"
+                "extremely"
             ]
         ]
     },
@@ -838,8 +693,7 @@
                 "determiners"
             ],
             [
-                "projected",
-                "tense"
+                "projected"
             ],
             [
                 "future"
@@ -854,23 +708,17 @@
         "answer": "symbolic",
         "options_comp": [
             [
-                "The paintings",
-                "passives",
-                "nouns",
-                "determiners"
+                "The paintings"
             ],
             [
-                "noted for",
-                "main_verbs",
-                "tense",
-                "prepositions",
-                "conjunctions"
+                "noted for"
             ],
             [
                 "color"
             ],
             [
-                "symbolic"
+                "symbolic",
+                "passives"
             ]
         ]
     },
@@ -879,9 +727,7 @@
         "answer": "existing",
         "options_comp": [
             [
-                "Between",
-                "determiners",
-                "prepositions"
+                "Between"
             ],
             [
                 "existing",
@@ -891,8 +737,7 @@
                 "varied"
             ],
             [
-                "and",
-                "conjunctions"
+                "and"
             ]
         ]
     },
@@ -901,17 +746,17 @@
         "answer": "same that",
         "options_comp": [
             [
-                "amount of water",
-                "nouns",
-                "determiners",
-                "prepositions",
-                "conjunctions"
+                "amount of water"
             ],
             [
                 "ecological system"
             ],
             [
-                "same that"
+                "same that",
+                "nouns",
+                "determiners",
+                "prepositions",
+                "conjunctions"
             ],
             [
                 "ages"
@@ -923,9 +768,7 @@
         "answer": "find",
         "options_comp": [
             [
-                "comprise",
-                "main_verbs",
-                "tense"
+                "comprise"
             ],
             [
                 "find"
@@ -935,9 +778,6 @@
             ],
             [
                 "most of",
-                "determiners",
-                "prepositions",
-                "conjunctions",
                 "subject_verb_agreement"
             ]
         ]
@@ -947,21 +787,19 @@
         "answer": "with",
         "options_comp": [
             [
-                "planet",
-                "nouns",
-                "determiners"
+                "planet"
             ],
             [
-                "known",
-                "tense"
+                "known"
             ],
             [
-                "about",
+                "about"
+            ],
+            [
+                "with",
+                "determiners",
                 "prepositions",
                 "conjunctions"
-            ],
-            [
-                "with"
             ]
         ]
     },
@@ -970,9 +808,7 @@
         "answer": "surprise",
         "options_comp": [
             [
-                "over",
-                "prepositions",
-                "conjunctions"
+                "over"
             ],
             [
                 "of"
@@ -1002,12 +838,10 @@
                 "a long"
             ],
             [
-                "growing",
-                "tense"
+                "growing"
             ],
             [
-                "its",
-                "pronouns"
+                "its"
             ]
         ]
     },
@@ -1016,21 +850,13 @@
         "answer": "legally",
         "options_comp": [
             [
-                "for",
-                "determiners",
-                "prepositions",
-                "conjunctions"
+                "for"
             ],
             [
-                "to disclose",
-                "infinitives",
-                "auxiliary_verbs"
+                "to disclose"
             ],
             [
-                "inventors",
-                "infinitives",
-                "auxiliary_verbs",
-                "nouns"
+                "inventors"
             ],
             [
                 "legally"
@@ -1042,21 +868,17 @@
         "answer": "silently",
         "options_comp": [
             [
-                "best",
+                "best"
+            ],
+            [
+                "roles"
+            ],
+            [
+                "silently",
                 "passives"
             ],
             [
-                "roles",
-                "nouns"
-            ],
-            [
-                "silently"
-            ],
-            [
-                "as",
-                "determiners",
-                "prepositions",
-                "conjunctions"
+                "as"
             ]
         ]
     },
@@ -1065,10 +887,7 @@
         "answer": "continuous",
         "options_comp": [
             [
-                "built by",
-                "tense",
-                "prepositions",
-                "conjunctions"
+                "built by"
             ],
             [
                 "probably the"
@@ -1077,9 +896,7 @@
                 "continuous"
             ],
             [
-                "settlement",
-                "nouns",
-                "determiners"
+                "settlement"
             ]
         ]
     },
@@ -1088,22 +905,19 @@
         "answer": "build inch",
         "options_comp": [
             [
-                "It",
-                "pronouns"
+                "It"
             ],
             [
-                "may take",
-                "main_verbs",
-                "auxiliary_verbs"
+                "may take"
             ],
             [
-                "hundred years",
-                "nouns"
+                "hundred years"
             ],
             [
                 "build inch",
                 "infinitives",
-                "subject_verb_agreement"
+                "auxiliary_verbs",
+                "nouns"
             ]
         ]
     },
@@ -1112,17 +926,13 @@
         "answer": "them",
         "options_comp": [
             [
-                "speed",
-                "nouns"
+                "speed"
             ],
             [
-                "a",
-                "determiners"
+                "a"
             ],
             [
-                "enabling",
-                "tense",
-                "determiners"
+                "enabling"
             ],
             [
                 "them",
@@ -1135,9 +945,7 @@
         "answer": "moving part",
         "options_comp": [
             [
-                "if",
-                "prepositions",
-                "conjunctions"
+                "if"
             ],
             [
                 "moving part",
@@ -1166,14 +974,10 @@
                 "tense"
             ],
             [
-                "over",
-                "determiners",
-                "prepositions",
-                "conjunctions"
+                "over"
             ],
             [
                 "territory",
-                "nouns",
                 "subject_verb_agreement"
             ]
         ]
@@ -1191,14 +995,10 @@
                 "likely"
             ],
             [
-                "to bloom",
-                "infinitives",
-                "auxiliary_verbs",
-                "prepositions"
+                "to bloom"
             ],
             [
-                "next year",
-                "nouns"
+                "next year"
             ]
         ]
     },
@@ -1207,22 +1007,17 @@
         "answer": "raises",
         "options_comp": [
             [
-                "of the dollar",
-                "nouns",
-                "determiners",
-                "prepositions",
-                "conjunctions"
+                "of the dollar"
             ],
             [
-                "declines",
-                "main_verbs",
-                "tense"
+                "declines"
             ],
             [
                 "as"
             ],
             [
                 "raises",
+                "tense",
                 "subject_verb_agreement"
             ]
         ]
@@ -1233,9 +1028,7 @@
         "options_comp": [
             [
                 "but I can",
-                "auxiliary_verbs",
-                "pronouns",
-                "conjunctions"
+                "pronouns"
             ],
             [
                 "neither swim"
@@ -1243,16 +1036,16 @@
             [
                 "nor I don't like the sun",
                 "tense",
+                "auxiliary_verbs",
                 "pronouns",
                 "nouns",
                 "determiners",
-                "subject_verb_agreement"
+                "conjunctions"
             ],
             [
                 "sun",
                 "nouns",
-                "determiners",
-                "subject_verb_agreement"
+                "determiners"
             ]
         ]
     },
@@ -1262,28 +1055,19 @@
         "options_comp": [
             [
                 "Although she was tired",
-                "main_verbs",
-                "tense",
-                "pronouns",
-                "determiners",
-                "prepositions"
+                "pronouns"
             ],
             [
                 "but she decided",
+                "tense",
                 "pronouns",
                 "conjunctions"
             ],
             [
-                "to finish",
-                "infinitives",
-                "auxiliary_verbs"
+                "to finish"
             ],
             [
-                "going to bed",
-                "infinitives",
-                "auxiliary_verbs",
-                "nouns",
-                "subject_verb_agreement"
+                "going to bed"
             ]
         ]
     },
@@ -1300,9 +1084,7 @@
                 "studying"
             ],
             [
-                "enrolled",
-                "have_+_participle",
-                "auxiliary_verbs"
+                "enrolled"
             ],
             [
                 "Economics",
@@ -1315,22 +1097,17 @@
         "answer": "calling",
         "options_comp": [
             [
-                "expecting",
-                "main_verbs",
-                "tense",
-                "auxiliary_verbs"
+                "expecting"
             ],
             [
-                "calling"
+                "calling",
+                "tense"
             ],
             [
-                "meeting",
-                "nouns"
+                "meeting"
             ],
             [
-                "the",
-                "determiners",
-                "subject_verb_agreement"
+                "the"
             ]
         ]
     },
@@ -1339,16 +1116,14 @@
         "answer": "some",
         "options_comp": [
             [
-                "I",
-                "pronouns"
+                "I"
             ],
             [
                 "some",
                 "determiners"
             ],
             [
-                "when",
-                "conjunctions"
+                "when"
             ],
             [
                 "very"
@@ -1364,9 +1139,7 @@
                 "pronouns"
             ],
             [
-                "exam",
-                "nouns",
-                "determiners"
+                "exam"
             ],
             [
                 "quite"
@@ -1381,13 +1154,10 @@
         "answer": "buy",
         "options_comp": [
             [
-                "tickets",
-                "passives",
-                "nouns"
+                "tickets"
             ],
             [
-                "which",
-                "pronouns"
+                "which"
             ],
             [
                 "good"
@@ -1395,6 +1165,7 @@
             [
                 "buy",
                 "main_verbs",
+                "passives",
                 "auxiliary_verbs",
                 "subject_verb_agreement"
             ]
@@ -1405,20 +1176,18 @@
         "answer": "been",
         "options_comp": [
             [
-                "who",
-                "pronouns"
+                "who"
             ],
             [
-                "asked",
-                "tense"
+                "asked"
             ],
             [
                 "been",
-                "main_verbs"
+                "main_verbs",
+                "tense"
             ],
             [
-                "grew",
-                "subject_verb_agreement"
+                "grew"
             ]
         ]
     },
@@ -1429,18 +1198,13 @@
             [
                 "wanted",
                 "main_verbs",
-                "tense",
-                "determiners"
+                "tense"
             ],
             [
-                "a",
-                "determiners"
+                "a"
             ],
             [
-                "after",
-                "determiners",
-                "prepositions",
-                "conjunctions"
+                "after"
             ],
             [
                 "works",
@@ -1453,8 +1217,7 @@
         "answer": "give",
         "options_comp": [
             [
-                "informations",
-                "nouns"
+                "informations"
             ],
             [
                 "give",
@@ -1465,7 +1228,6 @@
             ],
             [
                 "so",
-                "other_adjectives",
                 "subject_verb_agreement"
             ]
         ]
@@ -1478,20 +1240,16 @@
                 "much"
             ],
             [
-                "do",
-                "tense",
-                "auxiliary_verbs"
+                "do"
             ],
             [
-                "think",
-                "main_verbs"
+                "think"
             ],
             [
                 "beneath",
                 "determiners",
                 "prepositions",
-                "conjunctions",
-                "subject_verb_agreement"
+                "conjunctions"
             ]
         ]
     },
@@ -1500,21 +1258,13 @@
         "answer": "do",
         "options_comp": [
             [
-                "in",
-                "determiners",
-                "prepositions",
-                "conjunctions"
+                "in"
             ],
             [
-                "is",
-                "tense",
-                "auxiliary_verbs"
+                "is"
             ],
             [
-                "thinking",
-                "determiners",
-                "prepositions",
-                "conjunctions"
+                "thinking"
             ],
             [
                 "do"
@@ -1538,7 +1288,6 @@
             ],
             [
                 "the",
-                "determiners",
                 "subject_verb_agreement"
             ]
         ]
@@ -1548,9 +1297,7 @@
         "answer": "of",
         "options_comp": [
             [
-                "does",
-                "tense",
-                "auxiliary_verbs"
+                "does"
             ],
             [
                 "of",
@@ -1562,9 +1309,7 @@
                 "from"
             ],
             [
-                "your",
-                "pronouns",
-                "subject_verb_agreement"
+                "your"
             ]
         ]
     },
@@ -1573,24 +1318,18 @@
         "answer": "got",
         "options_comp": [
             [
-                "was",
-                "main_verbs",
-                "tense"
+                "was"
             ],
             [
-                "so",
-                "other_adjectives"
+                "so"
             ],
             [
-                "to",
+                "to"
+            ],
+            [
+                "got",
                 "infinitives",
-                "auxiliary_verbs",
-                "determiners",
-                "prepositions",
-                "conjunctions"
-            ],
-            [
-                "got"
+                "auxiliary_verbs"
             ]
         ]
     },
@@ -1599,21 +1338,16 @@
         "answer": "along",
         "options_comp": [
             [
-                "rang",
-                "main_verbs",
-                "tense"
+                "rang"
             ],
             [
                 "along"
             ],
             [
-                "had",
-                "auxiliary_verbs"
+                "had"
             ],
             [
-                "driving",
-                "nouns",
-                "subject_verb_agreement"
+                "driving"
             ]
         ]
     },
@@ -1622,8 +1356,7 @@
         "answer": "in",
         "options_comp": [
             [
-                "be",
-                "main_verbs"
+                "be"
             ],
             [
                 "in",
@@ -1646,10 +1379,7 @@
             [
                 "being",
                 "main_verbs",
-                "tense",
-                "determiners",
-                "prepositions",
-                "conjunctions"
+                "tense"
             ],
             [
                 "such"
@@ -1658,10 +1388,7 @@
                 "that"
             ],
             [
-                "in",
-                "determiners",
-                "prepositions",
-                "conjunctions"
+                "in"
             ]
         ]
     },
@@ -1681,9 +1408,7 @@
                 "rides"
             ],
             [
-                "so well",
-                "other_adjectives",
-                "subject_verb_agreement"
+                "so well"
             ]
         ]
     },
@@ -1692,12 +1417,10 @@
         "answer": "taking",
         "options_comp": [
             [
-                "My",
-                "pronouns"
+                "My"
             ],
             [
-                "boyfriend",
-                "nouns"
+                "boyfriend"
             ],
             [
                 "taking",
@@ -1706,7 +1429,6 @@
             ],
             [
                 "do",
-                "auxiliary_verbs",
                 "subject_verb_agreement"
             ]
         ]
@@ -1716,9 +1438,7 @@
         "answer": "of",
         "options_comp": [
             [
-                "went",
-                "main_verbs",
-                "tense"
+                "went"
             ],
             [
                 "of",
@@ -1730,8 +1450,7 @@
                 "tired"
             ],
             [
-                "the",
-                "subject_verb_agreement"
+                "the"
             ]
         ]
     },
@@ -1740,16 +1459,16 @@
         "answer": "aboard",
         "options_comp": [
             [
-                "After",
-                "determiners",
-                "prepositions",
-                "conjunctions"
+                "After"
             ],
             [
                 "most"
             ],
             [
-                "aboard"
+                "aboard",
+                "determiners",
+                "prepositions",
+                "conjunctions"
             ],
             [
                 "of"
@@ -1765,17 +1484,13 @@
                 "nouns"
             ],
             [
-                "the",
-                "determiners"
+                "the"
             ],
             [
                 "Chomsky"
             ],
             [
-                "to",
-                "infinitives",
-                "auxiliary_verbs",
-                "prepositions"
+                "to"
             ]
         ]
     },
@@ -1787,10 +1502,7 @@
                 "Whenever"
             ],
             [
-                "than",
-                "determiners",
-                "prepositions",
-                "conjunctions"
+                "than"
             ],
             [
                 "to"
@@ -1806,10 +1518,7 @@
         "answer": "devise",
         "options_comp": [
             [
-                "In",
-                "determiners",
-                "prepositions",
-                "conjunctions"
+                "In"
             ],
             [
                 "devise",
@@ -1829,22 +1538,18 @@
         "answer": "a",
         "options_comp": [
             [
-                "After",
-                "determiners",
-                "prepositions",
-                "conjunctions"
+                "After"
             ],
             [
-                "a"
+                "a",
+                "determiners"
             ],
             [
                 "Second"
             ],
             [
                 "became",
-                "main_verbs",
-                "tense",
-                "subject_verb_agreement"
+                "determiners"
             ]
         ]
     },
@@ -1853,24 +1558,19 @@
         "answer": "like",
         "options_comp": [
             [
-                "have",
-                "tense",
-                "auxiliary_verbs"
+                "have"
             ],
             [
-                "replaced",
-                "main_verbs",
-                "have_+_participle"
+                "replaced"
             ],
             [
-                "in",
-                "determiners",
-                "prepositions",
-                "conjunctions"
+                "in"
             ],
             [
                 "like",
-                "subject_verb_agreement"
+                "determiners",
+                "prepositions",
+                "conjunctions"
             ]
         ]
     },
@@ -1879,18 +1579,16 @@
         "answer": "during",
         "options_comp": [
             [
-                "the",
-                "determiners"
+                "the"
             ],
             [
                 "during",
+                "determiners",
                 "prepositions",
                 "conjunctions"
             ],
             [
-                "is",
-                "main_verbs",
-                "tense"
+                "is"
             ],
             [
                 "what"
@@ -1902,21 +1600,17 @@
         "answer": "included",
         "options_comp": [
             [
-                "The",
-                "determiners"
+                "The"
             ],
             [
                 "included",
                 "tense"
             ],
             [
-                "picks",
-                "main_verbs"
+                "picks"
             ],
             [
                 "toward",
-                "prepositions",
-                "conjunctions",
                 "subject_verb_agreement"
             ]
         ]
@@ -1930,18 +1624,13 @@
                 "determiners"
             ],
             [
-                "of",
-                "prepositions",
-                "conjunctions"
+                "of"
             ],
             [
                 "although"
             ],
             [
-                "varied",
-                "tense",
-                "auxiliary_verbs",
-                "subject_verb_agreement"
+                "varied"
             ]
         ]
     },
@@ -1950,23 +1639,18 @@
         "answer": "was",
         "options_comp": [
             [
-                "in",
-                "passives",
-                "determiners",
-                "prepositions",
-                "conjunctions"
+                "in"
             ],
             [
                 "was",
-                "tense"
+                "tense",
+                "passives"
             ],
             [
                 "with"
             ],
             [
-                "produce",
-                "infinitives",
-                "auxiliary_verbs"
+                "produce"
             ]
         ]
     },
@@ -1975,18 +1659,15 @@
         "answer": "was",
         "options_comp": [
             [
-                "are",
-                "main_verbs",
+                "are"
+            ],
+            [
+                "land"
+            ],
+            [
+                "was",
                 "tense",
                 "passives"
-            ],
-            [
-                "land",
-                "nouns",
-                "other_adjectives"
-            ],
-            [
-                "was"
             ],
             [
                 "lost"
@@ -2001,9 +1682,7 @@
                 "goshawk"
             ],
             [
-                "are",
-                "tense",
-                "conjunctions"
+                "are"
             ],
             [
                 "had shared",
@@ -2013,9 +1692,7 @@
                 "conjunctions"
             ],
             [
-                "the",
-                "determiners",
-                "subject_verb_agreement"
+                "the"
             ]
         ]
     },
@@ -2029,15 +1706,13 @@
                 "tense"
             ],
             [
-                "that",
-                "pronouns"
+                "that"
             ],
             [
                 "are"
             ],
             [
-                "the",
-                "determiners"
+                "the"
             ]
         ]
     },
@@ -2046,21 +1721,17 @@
         "answer": "have evolved",
         "options_comp": [
             [
-                "are",
-                "main_verbs",
-                "tense"
+                "are"
             ],
             [
                 "ancient"
             ],
             [
-                "of",
-                "determiners",
-                "prepositions",
-                "conjunctions"
+                "of"
             ],
             [
                 "have evolved",
+                "tense",
                 "have_+_participle",
                 "auxiliary_verbs"
             ]
@@ -2092,18 +1763,18 @@
         "answer": "a",
         "options_comp": [
             [
-                "the",
+                "the"
+            ],
+            [
+                "there"
+            ],
+            [
+                "many",
                 "determiners"
             ],
             [
-                "there",
+                "a",
                 "determiners"
-            ],
-            [
-                "many"
-            ],
-            [
-                "a"
             ]
         ]
     },
@@ -2112,23 +1783,17 @@
         "answer": "growing",
         "options_comp": [
             [
-                "Tomatoes",
-                "nouns"
+                "Tomatoes"
             ],
             [
                 "growing",
-                "tense",
-                "prepositions",
-                "conjunctions"
+                "tense"
             ],
             [
-                "all",
-                "determiners"
+                "all"
             ],
             [
-                "in",
-                "prepositions",
-                "conjunctions"
+                "in"
             ]
         ]
     },
@@ -2149,8 +1814,6 @@
             ],
             [
                 "prettiest",
-                "nouns",
-                "determiners",
                 "subject_verb_agreement"
             ]
         ]
@@ -2166,14 +1829,10 @@
                 "compelling"
             ],
             [
-                "to",
-                "infinitives",
-                "auxiliary_verbs",
-                "prepositions"
+                "to"
             ],
             [
-                "it",
-                "pronouns"
+                "it"
             ]
         ]
     },
@@ -2188,10 +1847,7 @@
                 "auxiliary_verbs"
             ],
             [
-                "of",
-                "determiners",
-                "prepositions",
-                "conjunctions"
+                "of"
             ],
             [
                 "what"
@@ -2220,9 +1876,7 @@
                 "contributed"
             ],
             [
-                "and",
-                "conjunctions",
-                "subject_verb_agreement"
+                "and"
             ]
         ]
     },
@@ -2231,9 +1885,7 @@
         "answer": "to lay",
         "options_comp": [
             [
-                "the silkworm",
-                "nouns",
-                "determiners"
+                "the silkworm"
             ],
             [
                 "to lay",
@@ -2242,15 +1894,10 @@
                 "prepositions"
             ],
             [
-                "its",
-                "pronouns"
+                "its"
             ],
             [
-                "it dies",
-                "main_verbs",
-                "tense",
-                "conjunctions",
-                "subject_verb_agreement"
+                "it dies"
             ]
         ]
     },
@@ -2259,16 +1906,14 @@
         "answer": "to reading",
         "options_comp": [
             [
-                "A barometer",
-                "nouns",
-                "determiners"
+                "A barometer"
             ],
             [
-                "sealed",
-                "tense"
+                "sealed"
             ],
             [
                 "to reading",
+                "tense",
                 "infinitives",
                 "auxiliary_verbs",
                 "prepositions"
@@ -2283,12 +1928,10 @@
         "answer": "to understanding",
         "options_comp": [
             [
-                "it",
-                "pronouns"
+                "it"
             ],
             [
-                "might help",
-                "auxiliary_verbs"
+                "might help"
             ],
             [
                 "to understanding",
@@ -2298,9 +1941,7 @@
                 "conjunctions"
             ],
             [
-                "itself",
-                "pronouns",
-                "subject_verb_agreement"
+                "itself"
             ]
         ]
     },
@@ -2309,24 +1950,18 @@
         "answer": "was",
         "options_comp": [
             [
-                "in the atmosphere",
-                "passives",
-                "nouns",
-                "determiners",
-                "prepositions",
-                "conjunctions"
+                "in the atmosphere"
             ],
             [
                 "was",
-                "tense"
+                "tense",
+                "passives"
             ],
             [
                 "by plants"
             ],
             [
-                "exhausted",
-                "main_verbs",
-                "auxiliary_verbs"
+                "exhausted"
             ]
         ]
     },
@@ -2340,19 +1975,13 @@
                 "passives"
             ],
             [
-                "in 1912",
-                "determiners",
-                "prepositions",
-                "conjunctions"
+                "in 1912"
             ],
             [
-                "has grown",
-                "main_verbs",
-                "auxiliary_verbs"
+                "has grown"
             ],
             [
-                "more than",
-                "subject_verb_agreement"
+                "more than"
             ]
         ]
     },
@@ -2361,28 +1990,18 @@
         "answer": "wrote",
         "options_comp": [
             [
-                "It is generally believed",
-                "main_verbs",
+                "It is generally believed"
+            ],
+            [
+                "wrote",
                 "tense",
-                "passives",
-                "pronouns"
+                "passives"
             ],
             [
-                "wrote"
+                "its signing"
             ],
             [
-                "its signing",
-                "nouns",
-                "determiners",
-                "prepositions",
-                "conjunctions"
-            ],
-            [
-                "in July 1776",
-                "determiners",
-                "prepositions",
-                "conjunctions",
-                "subject_verb_agreement"
+                "in July 1776"
             ]
         ]
     },
@@ -2391,26 +2010,20 @@
         "answer": "have been build",
         "options_comp": [
             [
-                "some higher structures",
-                "passives",
-                "nouns",
-                "determiners"
+                "some higher structures"
             ],
             [
                 "have been build",
                 "tense",
+                "passives",
                 "have_+_participle",
                 "auxiliary_verbs"
             ],
             [
-                "characterizes",
-                "main_verbs"
+                "characterizes"
             ],
             [
-                "better than",
-                "prepositions",
-                "conjunctions",
-                "subject_verb_agreement"
+                "better than"
             ]
         ]
     },
@@ -2421,21 +2034,16 @@
             [
                 "having",
                 "tense",
-                "auxiliary_verbs",
-                "determiners"
+                "auxiliary_verbs"
             ],
             [
                 "profound"
             ],
             [
-                "on",
-                "prepositions",
-                "conjunctions"
+                "on"
             ],
             [
                 "a large number",
-                "nouns",
-                "determiners",
                 "subject_verb_agreement"
             ]
         ]
@@ -2445,8 +2053,7 @@
         "answer": "composed",
         "options_comp": [
             [
-                "Bones",
-                "nouns"
+                "Bones"
             ],
             [
                 "composed",
@@ -2458,9 +2065,6 @@
             ],
             [
                 "known as",
-                "determiners",
-                "prepositions",
-                "conjunctions",
                 "subject_verb_agreement"
             ]
         ]
@@ -2470,10 +2074,7 @@
         "answer": "spended",
         "options_comp": [
             [
-                "During",
-                "determiners",
-                "prepositions",
-                "conjunctions"
+                "During"
             ],
             [
                 "spended",
@@ -2485,8 +2086,6 @@
             ],
             [
                 "ten-year",
-                "nouns",
-                "other_adjectives",
                 "subject_verb_agreement"
             ]
         ]
@@ -2496,8 +2095,7 @@
         "answer": "finding",
         "options_comp": [
             [
-                "no",
-                "determiners"
+                "no"
             ],
             [
                 "finding",
@@ -2506,8 +2104,7 @@
                 "auxiliary_verbs"
             ],
             [
-                "cultures",
-                "nouns"
+                "cultures"
             ],
             [
                 "people"
@@ -2524,16 +2121,13 @@
                 "passives"
             ],
             [
-                "every ten years",
-                "nouns",
-                "determiners"
+                "every ten years"
             ],
             [
                 "statistics"
             ],
             [
                 "may be compiled",
-                "auxiliary_verbs",
                 "subject_verb_agreement"
             ]
         ]
@@ -2552,18 +2146,10 @@
                 "diagnosed"
             ],
             [
-                "as early as possible",
-                "determiners",
-                "prepositions",
-                "conjunctions"
+                "as early as possible"
             ],
             [
-                "to assure",
-                "infinitives",
-                "auxiliary_verbs",
-                "determiners",
-                "prepositions",
-                "conjunctions"
+                "to assure"
             ]
         ]
     },
@@ -2572,19 +2158,17 @@
         "answer": "was used to be carried",
         "options_comp": [
             [
-                "railroad lines",
-                "passives",
-                "nouns",
-                "other_adjectives"
+                "railroad lines"
             ],
             [
-                "extended",
-                "tense"
+                "extended"
             ],
             [
                 "was used to be carried",
                 "main_verbs",
+                "tense",
                 "infinitives",
+                "passives",
                 "auxiliary_verbs",
                 "determiners",
                 "prepositions",
@@ -2600,10 +2184,7 @@
         "answer": "save",
         "options_comp": [
             [
-                "baby seats",
-                "passives",
-                "nouns",
-                "other_adjectives"
+                "baby seats"
             ],
             [
                 "newer"
@@ -2611,6 +2192,7 @@
             [
                 "save",
                 "main_verbs",
+                "passives",
                 "auxiliary_verbs"
             ],
             [
@@ -2624,20 +2206,17 @@
         "answer": "be",
         "options_comp": [
             [
-                "The gold",
-                "passives",
-                "nouns",
-                "determiners"
+                "The gold"
             ],
             [
                 "strong enough"
             ],
             [
-                "it",
-                "pronouns"
+                "it"
             ],
             [
-                "be"
+                "be",
+                "passives"
             ]
         ]
     },
@@ -2651,18 +2230,13 @@
                 "passives"
             ],
             [
-                "by aphids or pollution",
-                "nouns",
-                "determiners",
-                "prepositions",
-                "conjunctions"
+                "by aphids or pollution"
             ],
             [
                 "sometimes"
             ],
             [
-                "known as",
-                "main_verbs"
+                "known as"
             ]
         ]
     },
@@ -2671,22 +2245,18 @@
         "answer": "had been",
         "options_comp": [
             [
-                "is said",
-                "main_verbs",
+                "is said"
+            ],
+            [
+                "had been",
                 "tense",
                 "passives"
             ],
             [
-                "had been"
+                "the most popular dancer"
             ],
             [
-                "the most popular dancer",
-                "nouns",
-                "determiners"
-            ],
-            [
-                "talented",
-                "subject_verb_agreement"
+                "talented"
             ]
         ]
     },
@@ -2697,22 +2267,17 @@
             [
                 "The understanding",
                 "passives",
-                "nouns"
-            ],
-            [
-                "electricity",
+                "nouns",
                 "determiners"
             ],
             [
-                "depends on",
-                "main_verbs",
-                "tense",
-                "prepositions",
-                "conjunctions"
+                "electricity"
             ],
             [
-                "are composed",
-                "subject_verb_agreement"
+                "depends on"
+            ],
+            [
+                "are composed"
             ]
         ]
     },
@@ -2728,15 +2293,10 @@
                 "nouns"
             ],
             [
-                "than",
-                "determiners",
-                "prepositions",
-                "conjunctions"
+                "than"
             ],
             [
-                "does",
-                "tense",
-                "subject_verb_agreement"
+                "does"
             ]
         ]
     },
@@ -2753,8 +2313,7 @@
                 "determiners"
             ],
             [
-                "found",
-                "tense"
+                "found"
             ],
             [
                 "the"
@@ -2767,16 +2326,14 @@
         "options_comp": [
             [
                 "A thunder",
-                "nouns"
+                "nouns",
+                "determiners"
             ],
             [
                 "usually"
             ],
             [
-                "for every mile",
-                "determiners",
-                "prepositions",
-                "conjunctions"
+                "for every mile"
             ],
             [
                 "between"
@@ -2788,25 +2345,18 @@
         "answer": "childrens",
         "options_comp": [
             [
-                "The stories",
+                "The stories"
+            ],
+            [
+                "have been enjoyed"
+            ],
+            [
+                "by millions"
+            ],
+            [
+                "childrens",
                 "passives",
-                "nouns",
-                "determiners"
-            ],
-            [
-                "have been enjoyed",
-                "main_verbs",
-                "tense",
-                "have_+_participle",
-                "auxiliary_verbs"
-            ],
-            [
-                "by millions",
-                "prepositions",
-                "conjunctions"
-            ],
-            [
-                "childrens"
+                "nouns"
             ]
         ]
     },
@@ -2815,22 +2365,19 @@
         "answer": "in museum",
         "options_comp": [
             [
-                "Collections",
-                "passives",
-                "nouns"
+                "Collections"
             ],
             [
-                "furniture",
-                "determiners"
+                "furniture"
             ],
             [
-                "can be seen",
-                "main_verbs",
-                "tense",
-                "auxiliary_verbs"
+                "can be seen"
             ],
             [
                 "in museum",
+                "passives",
+                "nouns",
+                "determiners",
                 "prepositions",
                 "conjunctions"
             ]
@@ -2841,18 +2388,17 @@
         "answer": "ten types",
         "options_comp": [
             [
-                "two-day",
-                "nouns"
+                "two-day"
             ],
             [
                 "athletic competition"
             ],
             [
-                "which",
-                "pronouns"
+                "which"
             ],
             [
-                "ten types"
+                "ten types",
+                "nouns"
             ]
         ]
     },
@@ -2861,20 +2407,17 @@
         "answer": "Provide",
         "options_comp": [
             [
-                "Provide"
-            ],
-            [
-                "pensions",
+                "Provide",
                 "nouns"
             ],
             [
-                "is",
-                "main_verbs",
-                "tense"
+                "pensions"
             ],
             [
-                "the primary function",
-                "determiners"
+                "is"
+            ],
+            [
+                "the primary function"
             ]
         ]
     },
@@ -2887,18 +2430,13 @@
                 "nouns"
             ],
             [
-                "have made",
-                "main_verbs",
-                "tense",
-                "have_+_participle",
-                "auxiliary_verbs"
+                "have made"
             ],
             [
                 "formerly"
             ],
             [
-                "procedures",
-                "subject_verb_agreement"
+                "procedures"
             ]
         ]
     },
@@ -2914,12 +2452,10 @@
                 "pronouns"
             ],
             [
-                "feeding",
-                "tense"
+                "feeding"
             ],
             [
-                "fruit",
-                "nouns"
+                "fruit"
             ]
         ]
     },
@@ -2928,16 +2464,10 @@
         "answer": "from their",
         "options_comp": [
             [
-                "in the seventeenth century",
-                "nouns",
-                "determiners",
-                "prepositions",
-                "conjunctions"
+                "in the seventeenth century"
             ],
             [
-                "to push",
-                "infinitives",
-                "auxiliary_verbs"
+                "to push"
             ],
             [
                 "their land",
@@ -2945,7 +2475,10 @@
             ],
             [
                 "from their",
-                "pronouns"
+                "pronouns",
+                "determiners",
+                "prepositions",
+                "conjunctions"
             ]
         ]
     },
@@ -2954,21 +2487,18 @@
         "answer": "him",
         "options_comp": [
             [
-                "discovered",
-                "main_verbs",
-                "tense",
-                "passives"
+                "discovered"
             ],
             [
                 "him",
+                "passives",
                 "pronouns"
             ],
             [
                 "were awarded"
             ],
             [
-                "their",
-                "subject_verb_agreement"
+                "their"
             ]
         ]
     },
@@ -2977,9 +2507,7 @@
         "answer": "which",
         "options_comp": [
             [
-                "are",
-                "main_verbs",
-                "tense"
+                "are"
             ],
             [
                 "many"
@@ -2989,8 +2517,7 @@
                 "pronouns"
             ],
             [
-                "feeling",
-                "subject_verb_agreement"
+                "feeling"
             ]
         ]
     },
@@ -3002,17 +2529,14 @@
                 "who"
             ],
             [
-                "should make",
-                "main_verbs",
-                "auxiliary_verbs"
+                "should make"
             ],
             [
                 "yearly"
             ],
             [
                 "their",
-                "pronouns",
-                "subject_verb_agreement"
+                "pronouns"
             ]
         ]
     },
@@ -3029,16 +2553,10 @@
                 "better"
             ],
             [
-                "as",
-                "determiners",
-                "prepositions",
-                "conjunctions"
+                "as"
             ],
             [
-                "began",
-                "main_verbs",
-                "tense",
-                "subject_verb_agreement"
+                "began"
             ]
         ]
     },
@@ -3047,21 +2565,17 @@
         "answer": "whom",
         "options_comp": [
             [
-                "The first",
-                "passives",
-                "determiners"
+                "The first"
             ],
             [
-                "was produced",
-                "main_verbs",
-                "tense"
+                "was produced"
             ],
             [
-                "whom"
+                "whom",
+                "passives"
             ],
             [
-                "such",
-                "subject_verb_agreement"
+                "such"
             ]
         ]
     },
@@ -3073,18 +2587,14 @@
                 "advanced"
             ],
             [
-                "the patient",
-                "nouns",
-                "determiners"
+                "the patient"
             ],
             [
-                "to feed",
-                "infinitives",
-                "auxiliary_verbs",
-                "prepositions"
+                "to feed"
             ],
             [
-                "themself"
+                "themself",
+                "nouns"
             ]
         ]
     },
@@ -3093,22 +2603,18 @@
         "answer": "they",
         "options_comp": [
             [
-                "It is documented",
-                "main_verbs",
-                "tense",
-                "passives",
-                "pronouns"
+                "It is documented"
             ],
             [
                 "led"
             ],
             [
-                "was waiting",
-                "auxiliary_verbs"
+                "was waiting"
             ],
             [
                 "they",
-                "subject_verb_agreement"
+                "passives",
+                "pronouns"
             ]
         ]
     },
@@ -3117,23 +2623,20 @@
         "answer": "their eggs",
         "options_comp": [
             [
-                "among",
-                "passives",
-                "determiners",
-                "conjunctions"
+                "among"
             ],
             [
-                "because",
-                "prepositions"
+                "because"
             ],
             [
                 "their eggs",
+                "passives",
                 "pronouns",
-                "nouns"
+                "nouns",
+                "prepositions"
             ],
             [
-                "are hatched",
-                "tense"
+                "are hatched"
             ]
         ]
     },
@@ -3142,21 +2645,17 @@
         "answer": "the other",
         "options_comp": [
             [
-                "There are",
-                "main_verbs",
-                "tense"
+                "There are"
             ],
             [
                 "cultivated"
             ],
             [
-                "the other"
+                "the other",
+                "determiners"
             ],
             [
-                "vegetable crop",
-                "nouns",
-                "determiners",
-                "other_adjectives"
+                "vegetable crop"
             ]
         ]
     },
@@ -3165,20 +2664,16 @@
         "answer": "real great",
         "options_comp": [
             [
-                "and",
-                "conjunctions"
+                "and"
             ],
             [
                 "real great"
             ],
             [
-                "was",
-                "tense"
+                "was"
             ],
             [
-                "the first",
-                "determiners",
-                "subject_verb_agreement"
+                "the first"
             ]
         ]
     },
@@ -3187,22 +2682,20 @@
         "answer": "so great as",
         "options_comp": [
             [
-                "At the core",
-                "nouns",
-                "determiners",
-                "prepositions",
-                "conjunctions"
+                "At the core"
             ],
             [
                 "so great as",
-                "other_adjectives"
+                "determiners",
+                "other_adjectives",
+                "prepositions",
+                "conjunctions"
             ],
             [
                 "in a process"
             ],
             [
-                "called",
-                "tense"
+                "called"
             ]
         ]
     },
@@ -3211,19 +2704,14 @@
         "answer": "light year",
         "options_comp": [
             [
-                "is",
-                "main_verbs",
-                "tense"
+                "is"
             ],
             [
                 "light year",
                 "nouns"
             ],
             [
-                "from",
-                "determiners",
-                "prepositions",
-                "conjunctions"
+                "from"
             ],
             [
                 "Earth"
@@ -3245,8 +2733,7 @@
                 "as nutritious"
             ],
             [
-                "its",
-                "pronouns"
+                "its"
             ],
             [
                 "many women"
@@ -3258,8 +2745,7 @@
         "answer": "as",
         "options_comp": [
             [
-                "suffering",
-                "tense"
+                "suffering"
             ],
             [
                 "as",
@@ -3268,13 +2754,10 @@
                 "conjunctions"
             ],
             [
-                "it is",
-                "main_verbs",
-                "pronouns"
+                "it is"
             ],
             [
-                "in most countries",
-                "nouns"
+                "in most countries"
             ]
         ]
     },
@@ -3283,22 +2766,17 @@
         "answer": "very careful",
         "options_comp": [
             [
-                "will be spoken",
-                "tense",
-                "passives",
-                "auxiliary_verbs"
+                "will be spoken"
             ],
             [
-                "very careful"
+                "very careful",
+                "passives"
             ],
             [
-                "to understand",
-                "infinitives",
-                "prepositions"
+                "to understand"
             ],
             [
-                "what",
-                "subject_verb_agreement"
+                "what"
             ]
         ]
     },
@@ -3311,20 +2789,17 @@
                 "passives"
             ],
             [
-                "make",
-                "infinitives",
-                "auxiliary_verbs"
+                "make"
             ],
             [
-                "them",
-                "pronouns"
+                "them"
             ],
             [
                 "hard as enough",
+                "passives",
                 "determiners",
                 "prepositions",
-                "conjunctions",
-                "subject_verb_agreement"
+                "conjunctions"
             ]
         ]
     },
@@ -3345,9 +2820,7 @@
                 "may be"
             ],
             [
-                "blunter",
-                "nouns",
-                "other_adjectives"
+                "blunter"
             ]
         ]
     },
@@ -3356,22 +2829,17 @@
         "answer": "best quality",
         "options_comp": [
             [
-                "provide",
-                "main_verbs",
-                "tense"
+                "provide"
             ],
             [
                 "best quality",
                 "nouns"
             ],
             [
-                "those",
-                "determiners"
+                "those"
             ],
             [
-                "either",
-                "conjunctions",
-                "subject_verb_agreement"
+                "either"
             ]
         ]
     },
@@ -3380,20 +2848,17 @@
         "answer": "the most longest",
         "options_comp": [
             [
-                "subway system",
-                "nouns",
-                "determiners",
-                "other_adjectives"
+                "subway system"
             ],
             [
-                "the most longest"
+                "the most longest",
+                "determiners"
             ],
             [
                 "underground railroad"
             ],
             [
-                "operating",
-                "tense"
+                "operating"
             ]
         ]
     },
@@ -3403,19 +2868,17 @@
         "options_comp": [
             [
                 "the same grade",
-                "nouns",
                 "determiners"
             ],
             [
-                "are",
-                "main_verbs",
-                "tense"
+                "are"
             ],
             [
                 "usually"
             ],
             [
-                "the same old"
+                "the same old",
+                "determiners"
             ]
         ]
     },
@@ -3424,16 +2887,14 @@
         "answer": "the larger",
         "options_comp": [
             [
-                "was",
-                "main_verbs",
-                "tense"
+                "was"
             ],
             [
-                "the larger"
+                "the larger",
+                "determiners"
             ],
             [
                 "the inventor",
-                "nouns",
                 "determiners"
             ],
             [
@@ -3446,24 +2907,17 @@
         "answer": "same",
         "options_comp": [
             [
-                "where",
-                "passives",
-                "pronouns"
+                "where"
             ],
             [
-                "a microchip",
-                "nouns",
-                "determiners"
+                "a microchip"
             ],
             [
-                "is manufactured",
-                "main_verbs",
-                "tense",
-                "determiners"
+                "is manufactured"
             ],
             [
                 "same",
-                "determiners"
+                "passives"
             ]
         ]
     },
@@ -3478,8 +2932,7 @@
                 "have_+_participle"
             ],
             [
-                "they",
-                "pronouns"
+                "they"
             ],
             [
                 "more rugged"
@@ -3495,18 +2948,13 @@
         "answer": "faster",
         "options_comp": [
             [
-                "As a rule",
-                "nouns",
-                "prepositions",
-                "conjunctions"
+                "As a rule"
             ],
             [
                 "the more"
             ],
             [
-                "heart rate",
-                "determiners",
-                "other_adjectives"
+                "heart rate"
             ],
             [
                 "faster"
@@ -3521,18 +2969,13 @@
                 "Alike"
             ],
             [
-                "artist",
-                "nouns",
-                "other_adjectives"
+                "artist"
             ],
             [
-                "used",
-                "main_verbs",
-                "tense"
+                "used"
             ],
             [
-                "different ways",
-                "subject_verb_agreement"
+                "different ways"
             ]
         ]
     },
@@ -3541,8 +2984,7 @@
         "answer": "such",
         "options_comp": [
             [
-                "Some",
-                "determiners"
+                "Some"
             ],
             [
                 "such"
@@ -3551,10 +2993,7 @@
                 "naturally"
             ],
             [
-                "to work",
-                "infinitives",
-                "auxiliary_verbs",
-                "prepositions"
+                "to work"
             ]
         ]
     },
@@ -3569,19 +3008,13 @@
                 "conjunctions"
             ],
             [
-                "they",
-                "pronouns"
+                "they"
             ],
             [
-                "might run out",
-                "auxiliary_verbs"
+                "might run out"
             ],
             [
-                "have been investigating",
-                "main_verbs",
-                "tense",
-                "have_+_participle",
-                "subject_verb_agreement"
+                "have been investigating"
             ]
         ]
     },
@@ -3596,18 +3029,13 @@
                 "conjunctions"
             ],
             [
-                "business calls",
-                "nouns",
-                "other_adjectives"
+                "business calls"
             ],
             [
-                "get through to",
-                "main_verbs",
-                "tense"
+                "get through to"
             ],
             [
-                "the first",
-                "subject_verb_agreement"
+                "the first"
             ]
         ]
     },
@@ -3616,23 +3044,19 @@
         "answer": "among",
         "options_comp": [
             [
-                "refers to",
-                "main_verbs",
-                "tense",
-                "prepositions",
-                "conjunctions"
+                "refers to"
             ],
             [
-                "among"
+                "among",
+                "determiners",
+                "prepositions",
+                "conjunctions"
             ],
             [
                 "increased"
             ],
             [
-                "the slower air",
-                "nouns",
-                "determiners",
-                "subject_verb_agreement"
+                "the slower air"
             ]
         ]
     },
@@ -3641,25 +3065,21 @@
         "answer": "so as",
         "options_comp": [
             [
-                "to refract",
-                "infinitives",
-                "passives",
-                "auxiliary_verbs",
-                "prepositions"
+                "to refract"
             ],
             [
                 "so as",
+                "passives",
                 "determiners",
                 "other_adjectives",
+                "prepositions",
                 "conjunctions"
             ],
             [
-                "it",
-                "pronouns"
+                "it"
             ],
             [
-                "of colors",
-                "nouns"
+                "of colors"
             ]
         ]
     },
@@ -3668,17 +3088,17 @@
         "answer": "in spite",
         "options_comp": [
             [
-                "still",
-                "passives"
+                "still"
             ],
             [
-                "by",
+                "by"
+            ],
+            [
+                "in spite",
+                "passives",
                 "determiners",
                 "prepositions",
                 "conjunctions"
-            ],
-            [
-                "in spite"
             ],
             [
                 "at"
@@ -3690,21 +3110,17 @@
         "answer": "but",
         "options_comp": [
             [
-                "include",
-                "main_verbs",
-                "tense"
+                "include"
             ],
             [
-                "the most scenic",
-                "determiners"
+                "the most scenic"
             ],
             [
                 "but",
                 "conjunctions"
             ],
             [
-                "distinguished",
-                "subject_verb_agreement"
+                "distinguished"
             ]
         ]
     },
@@ -3713,8 +3129,7 @@
         "answer": "that are",
         "options_comp": [
             [
-                "The",
-                "passives"
+                "The"
             ],
             [
                 "mainly"
@@ -3722,14 +3137,11 @@
             [
                 "that are",
                 "tense",
+                "passives",
                 "pronouns"
             ],
             [
-                "by modeling or molding",
-                "nouns",
-                "determiners",
-                "prepositions",
-                "conjunctions"
+                "by modeling or molding"
             ]
         ]
     },
@@ -3742,12 +3154,10 @@
                 "pronouns"
             ],
             [
-                "heat",
-                "nouns"
+                "heat"
             ],
             [
-                "creating",
-                "tense"
+                "creating"
             ],
             [
                 "more balanced"
@@ -3759,21 +3169,17 @@
         "answer": "forming",
         "options_comp": [
             [
-                "Gas and dust",
-                "nouns",
-                "conjunctions"
+                "Gas and dust"
             ],
             [
-                "stream",
+                "stream"
+            ],
+            [
+                "forming",
                 "tense"
             ],
             [
-                "forming"
-            ],
-            [
                 "that may extend",
-                "auxiliary_verbs",
-                "pronouns",
                 "subject_verb_agreement"
             ]
         ]
@@ -3787,18 +3193,13 @@
                 "pronouns"
             ],
             [
-                "between",
-                "determiners",
-                "prepositions",
-                "conjunctions"
+                "between"
             ],
             [
-                "occupied",
-                "tense"
+                "occupied"
             ],
             [
-                "by American Indian nations",
-                "nouns"
+                "by American Indian nations"
             ]
         ]
     },
@@ -3807,9 +3208,7 @@
         "answer": "which it feeds",
         "options_comp": [
             [
-                "The larva",
-                "nouns",
-                "determiners"
+                "The larva"
             ],
             [
                 "which it feeds",
@@ -3817,12 +3216,10 @@
                 "pronouns"
             ],
             [
-                "cotton plant",
-                "other_adjectives"
+                "cotton plant"
             ],
             [
-                "destroying",
-                "subject_verb_agreement"
+                "destroying"
             ]
         ]
     },
@@ -3831,25 +3228,17 @@
         "answer": "which",
         "options_comp": [
             [
-                "By studying",
-                "tense",
-                "prepositions",
-                "conjunctions"
+                "By studying"
             ],
             [
                 "which",
                 "pronouns"
             ],
             [
-                "can gain",
-                "main_verbs",
-                "auxiliary_verbs"
+                "can gain"
             ],
             [
-                "information",
-                "nouns",
-                "determiners",
-                "subject_verb_agreement"
+                "information"
             ]
         ]
     },
@@ -3858,9 +3247,7 @@
         "answer": "appears",
         "options_comp": [
             [
-                "The attribution",
-                "nouns",
-                "determiners"
+                "The attribution"
             ],
             [
                 "appears",
@@ -3889,14 +3276,10 @@
                 "approximately"
             ],
             [
-                "in",
-                "determiners",
-                "prepositions",
-                "conjunctions"
+                "in"
             ],
             [
-                "four times as many",
-                "nouns"
+                "four times as many"
             ]
         ]
     },
@@ -3905,18 +3288,14 @@
         "answer": "were",
         "options_comp": [
             [
-                "so",
-                "other_adjectives"
+                "so"
             ],
             [
                 "were",
                 "tense"
             ],
             [
-                "to draw",
-                "infinitives",
-                "auxiliary_verbs",
-                "prepositions"
+                "to draw"
             ],
             [
                 "correctly"
@@ -3935,14 +3314,10 @@
                 "only"
             ],
             [
-                "are",
-                "main_verbs"
+                "are"
             ],
             [
                 "more than",
-                "determiners",
-                "prepositions",
-                "conjunctions",
                 "subject_verb_agreement"
             ]
         ]
@@ -3961,13 +3336,10 @@
                 "conjunctions"
             ],
             [
-                "by",
-                "prepositions"
+                "by"
             ],
             [
                 "in the morning",
-                "nouns",
-                "determiners",
                 "subject_verb_agreement"
             ]
         ]
@@ -3977,15 +3349,10 @@
         "answer": "is",
         "options_comp": [
             [
-                "stock",
-                "nouns",
-                "other_adjectives"
+                "stock"
             ],
             [
-                "in",
-                "determiners",
-                "prepositions",
-                "conjunctions"
+                "in"
             ],
             [
                 "is",
@@ -4010,14 +3377,10 @@
                 "auxiliary_verbs"
             ],
             [
-                "for",
-                "determiners",
-                "prepositions",
-                "conjunctions"
+                "for"
             ],
             [
-                "about",
-                "subject_verb_agreement"
+                "about"
             ]
         ]
     },
@@ -4030,15 +3393,13 @@
                 "tense"
             ],
             [
-                "it",
-                "pronouns"
+                "it"
             ],
             [
                 "extending"
             ],
             [
                 "miles",
-                "nouns",
                 "subject_verb_agreement"
             ]
         ]
@@ -4048,21 +3409,18 @@
         "answer": "is",
         "options_comp": [
             [
-                "according",
-                "tense"
+                "according"
             ],
             [
                 "born"
             ],
             [
-                "during",
-                "determiners",
-                "prepositions",
-                "conjunctions"
+                "during"
             ],
             [
                 "is",
-                "main_verbs"
+                "main_verbs",
+                "tense"
             ]
         ]
     },
@@ -4071,22 +3429,17 @@
         "answer": "builds",
         "options_comp": [
             [
-                "founded",
-                "main_verbs",
+                "founded"
+            ],
+            [
+                "in 1605"
+            ],
+            [
+                "builds",
                 "tense"
             ],
             [
-                "in 1605",
-                "determiners",
-                "prepositions",
-                "conjunctions"
-            ],
-            [
-                "builds"
-            ],
-            [
-                "Quebec",
-                "subject_verb_agreement"
+                "Quebec"
             ]
         ]
     },
@@ -4095,30 +3448,19 @@
         "answer": "are passed",
         "options_comp": [
             [
-                "According to",
-                "tense",
-                "infinitives",
-                "passives",
-                "auxiliary_verbs",
-                "determiners",
-                "prepositions",
-                "conjunctions"
+                "According to"
             ],
             [
-                "all new laws",
-                "nouns"
+                "all new laws"
             ],
             [
                 "are passed",
-                "main_verbs"
+                "main_verbs",
+                "tense",
+                "passives"
             ],
             [
-                "to celebrate",
-                "infinitives",
-                "auxiliary_verbs",
-                "determiners",
-                "prepositions",
-                "conjunctions"
+                "to celebrate"
             ]
         ]
     },
@@ -4127,23 +3469,19 @@
         "answer": "occurs",
         "options_comp": [
             [
-                "The first",
-                "passives",
-                "determiners"
+                "The first"
             ],
             [
                 "occurs",
                 "main_verbs",
-                "tense"
+                "tense",
+                "passives"
             ],
             [
-                "on June 17",
-                "prepositions",
-                "conjunctions"
+                "on June 17"
             ],
             [
                 "has been referred to",
-                "auxiliary_verbs",
                 "subject_verb_agreement"
             ]
         ]
@@ -4153,23 +3491,19 @@
         "answer": "is",
         "options_comp": [
             [
-                "Originally",
-                "passives"
+                "Originally"
             ],
             [
                 "is",
                 "main_verbs",
-                "tense"
+                "tense",
+                "passives"
             ],
             [
-                "to record",
-                "infinitives",
-                "auxiliary_verbs",
-                "prepositions"
+                "to record"
             ],
             [
-                "they",
-                "pronouns"
+                "they"
             ]
         ]
     },
@@ -4186,14 +3520,10 @@
                 "tense"
             ],
             [
-                "their",
-                "pronouns"
+                "their"
             ],
             [
                 "by worshipping",
-                "determiners",
-                "prepositions",
-                "conjunctions",
                 "subject_verb_agreement"
             ]
         ]
@@ -4203,22 +3533,18 @@
         "answer": "is",
         "options_comp": [
             [
-                "and",
-                "passives",
-                "conjunctions"
+                "and"
             ],
             [
                 "is",
-                "tense"
+                "tense",
+                "passives"
             ],
             [
-                "required",
-                "main_verbs"
+                "required"
             ],
             [
-                "for",
-                "determiners",
-                "prepositions"
+                "for"
             ]
         ]
     },
@@ -4230,24 +3556,16 @@
                 "were increased",
                 "main_verbs",
                 "tense",
-                "passives",
-                "prepositions",
-                "conjunctions"
+                "passives"
             ],
             [
                 "significantly"
             ],
             [
-                "the playing",
-                "nouns",
-                "determiners",
-                "prepositions",
-                "conjunctions"
+                "the playing"
             ],
             [
-                "in 1994",
-                "prepositions",
-                "conjunctions"
+                "in 1994"
             ]
         ]
     },
@@ -4256,10 +3574,7 @@
         "answer": "develop",
         "options_comp": [
             [
-                "in a hundred",
-                "determiners",
-                "prepositions",
-                "conjunctions"
+                "in a hundred"
             ],
             [
                 "develop",
@@ -4267,10 +3582,7 @@
                 "tense"
             ],
             [
-                "into",
-                "determiners",
-                "prepositions",
-                "conjunctions"
+                "into"
             ],
             [
                 "even",
@@ -4283,20 +3595,17 @@
         "answer": "their",
         "options_comp": [
             [
-                "strongly",
-                "passives"
+                "strongly"
             ],
             [
-                "to",
-                "determiners",
-                "conjunctions"
+                "to"
             ],
             [
-                "because of",
-                "prepositions"
+                "because of"
             ],
             [
                 "their",
+                "passives",
                 "pronouns"
             ]
         ]
@@ -4309,10 +3618,7 @@
                 "well"
             ],
             [
-                "like",
-                "determiners",
-                "prepositions",
-                "conjunctions"
+                "like"
             ],
             [
                 "other"
@@ -4335,10 +3641,7 @@
                 "tense"
             ],
             [
-                "as",
-                "determiners",
-                "prepositions",
-                "conjunctions"
+                "as"
             ],
             [
                 "that"
@@ -4353,25 +3656,18 @@
         "answer": "were",
         "options_comp": [
             [
-                "on improving",
-                "tense",
-                "passives",
-                "determiners",
-                "prepositions",
-                "conjunctions"
+                "on improving"
             ],
             [
-                "were"
+                "were",
+                "tense",
+                "passives"
             ],
             [
                 "shortly"
             ],
             [
-                "by Congress",
-                "passives",
-                "determiners",
-                "prepositions",
-                "conjunctions"
+                "by Congress"
             ]
         ]
     },
@@ -4387,13 +3683,10 @@
                 "pronouns"
             ],
             [
-                "driver's",
-                "nouns"
+                "driver's"
             ],
             [
-                "receiving",
-                "tense",
-                "subject_verb_agreement"
+                "receiving"
             ]
         ]
     },
@@ -4402,20 +3695,18 @@
         "answer": "they",
         "options_comp": [
             [
-                "has",
-                "tense",
-                "passives"
+                "has"
             ],
             [
                 "they",
+                "passives",
                 "pronouns"
             ],
             [
                 "carry"
             ],
             [
-                "being",
-                "subject_verb_agreement"
+                "being"
             ]
         ]
     },
@@ -4430,17 +3721,13 @@
                 "auxiliary_verbs"
             ],
             [
-                "four-day",
-                "nouns",
-                "other_adjectives"
+                "four-day"
             ],
             [
                 "work week"
             ],
             [
-                "the most urgent problems",
-                "determiners",
-                "subject_verb_agreement"
+                "the most urgent problems"
             ]
         ]
     },
@@ -4449,9 +3736,7 @@
         "answer": "is",
         "options_comp": [
             [
-                "One-cent",
-                "nouns",
-                "other_adjectives"
+                "One-cent"
             ],
             [
                 "issued",
@@ -4459,14 +3744,12 @@
                 "tense"
             ],
             [
-                "since 1982",
-                "determiners",
-                "prepositions",
-                "conjunctions"
+                "since 1982"
             ],
             [
                 "is",
-                "main_verbs"
+                "main_verbs",
+                "tense"
             ]
         ]
     },
@@ -4475,24 +3758,18 @@
         "answer": "there are",
         "options_comp": [
             [
-                "According to",
-                "tense",
-                "determiners",
-                "prepositions",
-                "conjunctions"
+                "According to"
             ],
             [
-                "a team of scientists",
-                "nouns"
+                "a team of scientists"
             ],
             [
                 "there are",
-                "main_verbs"
+                "main_verbs",
+                "tense"
             ],
             [
-                "rising",
-                "auxiliary_verbs",
-                "subject_verb_agreement"
+                "rising"
             ]
         ]
     },
@@ -4501,22 +3778,19 @@
         "answer": "are contained",
         "options_comp": [
             [
-                "The urinary system",
-                "passives",
-                "nouns",
-                "determiners"
+                "The urinary system"
             ],
             [
-                "including",
-                "tense"
+                "including"
             ],
             [
-                "and",
-                "conjunctions"
+                "and"
             ],
             [
                 "are contained",
-                "main_verbs"
+                "main_verbs",
+                "tense",
+                "passives"
             ]
         ]
     },
@@ -4525,22 +3799,18 @@
         "answer": "were",
         "options_comp": [
             [
-                "In the 1920s",
-                "determiners",
-                "prepositions",
-                "conjunctions"
+                "In the 1920s"
             ],
             [
-                "known",
-                "tense"
+                "known"
             ],
             [
-                "chrome-plated",
-                "nouns"
+                "chrome-plated"
             ],
             [
                 "were",
-                "main_verbs"
+                "main_verbs",
+                "tense"
             ]
         ]
     },
@@ -4556,17 +3826,13 @@
                 "conjunctions"
             ],
             [
-                "the one-hundred-year",
-                "nouns",
-                "other_adjectives"
+                "the one-hundred-year"
             ],
             [
-                "awarded",
-                "main_verbs"
+                "awarded"
             ],
             [
-                "for",
-                "subject_verb_agreement"
+                "for"
             ]
         ]
     },
@@ -4580,18 +3846,13 @@
                 "determiners"
             ],
             [
-                "who",
-                "pronouns"
+                "who"
             ],
             [
-                "along with",
-                "prepositions",
-                "conjunctions"
+                "along with"
             ],
             [
-                "to determine",
-                "infinitives",
-                "auxiliary_verbs"
+                "to determine"
             ]
         ]
     },
@@ -4600,10 +3861,7 @@
         "answer": "carefully soaking",
         "options_comp": [
             [
-                "from",
-                "determiners",
-                "prepositions",
-                "conjunctions"
+                "from"
             ],
             [
                 "carefully soaking",
@@ -4630,16 +3888,13 @@
                 "conjunctions"
             ],
             [
-                "three-million-year-old",
-                "nouns"
+                "three-million-year-old"
             ],
             [
                 "the oldest"
             ],
             [
-                "to be discovered",
-                "infinitives",
-                "auxiliary_verbs"
+                "to be discovered"
             ]
         ]
     },
@@ -4648,30 +3903,21 @@
         "answer": "Columbus 's final resting place is",
         "options_comp": [
             [
-                "Originally",
-                "passives",
-                "determiners",
-                "prepositions",
-                "conjunctions"
+                "Originally"
             ],
             [
-                "been",
-                "tense"
+                "been"
             ],
             [
-                "in Spain",
-                "determiners",
-                "prepositions",
-                "conjunctions"
+                "in Spain"
             ],
             [
                 "Columbus's final resting place is",
                 "main_verbs",
+                "tense",
+                "passives",
                 "nouns",
-                "determiners",
-                "other_adjectives",
-                "prepositions",
-                "conjunctions"
+                "other_adjectives"
             ]
         ]
     },
@@ -4680,9 +3926,7 @@
         "answer": "New York audiences received the new play",
         "options_comp": [
             [
-                "by",
-                "prepositions",
-                "conjunctions"
+                "by"
             ],
             [
                 "New York audiences received the new play",
@@ -4695,8 +3939,7 @@
                 "enthusiastically"
             ],
             [
-                "Saturday evening",
-                "subject_verb_agreement"
+                "Saturday evening"
             ]
         ]
     },
@@ -4719,8 +3962,7 @@
                 "brushing"
             ],
             [
-                "one's",
-                "pronouns"
+                "one's"
             ]
         ]
     },
@@ -4735,14 +3977,10 @@
                 "determiners"
             ],
             [
-                "were used",
-                "tense"
+                "were used"
             ],
             [
-                "to commit",
-                "infinitives",
-                "auxiliary_verbs",
-                "prepositions"
+                "to commit"
             ],
             [
                 "all murders"
@@ -4778,22 +4016,17 @@
         "answer": "Mark McGwire 's record",
         "options_comp": [
             [
-                "hit",
-                "tense",
-                "auxiliary_verbs"
+                "hit"
             ],
             [
-                "than",
-                "prepositions",
-                "conjunctions"
+                "than"
             ],
             [
-                "any other player",
-                "nouns",
-                "determiners"
+                "any other player"
             ],
             [
-                "Mark McGwire's record"
+                "Mark McGwire's record",
+                "nouns"
             ]
         ]
     },
@@ -4810,7 +4043,6 @@
             ],
             [
                 "continues",
-                "main_verbs",
                 "determiners",
                 "prepositions",
                 "conjunctions"
@@ -4819,8 +4051,7 @@
                 "eventually"
             ],
             [
-                "such",
-                "subject_verb_agreement"
+                "such"
             ]
         ]
     },
@@ -4837,17 +4068,13 @@
                 "prepositions"
             ],
             [
-                "begin",
-                "tense"
+                "begin"
             ],
             [
-                "by shifting",
-                "conjunctions"
+                "by shifting"
             ],
             [
-                "time schedule",
-                "determiners",
-                "subject_verb_agreement"
+                "time schedule"
             ]
         ]
     },
@@ -4856,20 +4083,19 @@
         "answer": "named for women",
         "options_comp": [
             [
-                "Traditionally",
-                "passives"
+                "Traditionally"
             ],
             [
                 "named for women",
                 "tense",
+                "passives",
                 "nouns",
                 "determiners",
                 "prepositions",
                 "conjunctions"
             ],
             [
-                "was chosen",
-                "main_verbs"
+                "was chosen"
             ],
             [
                 "the first"
@@ -4888,20 +4114,16 @@
                 "conjunctions"
             ],
             [
-                "who",
-                "pronouns"
+                "who"
             ],
             [
-                "may benefit",
-                "main_verbs",
-                "auxiliary_verbs"
+                "may benefit"
             ],
             [
                 "administered by",
                 "determiners",
                 "prepositions",
-                "conjunctions",
-                "subject_verb_agreement"
+                "conjunctions"
             ]
         ]
     },
@@ -4910,18 +4132,13 @@
         "answer": "not only popular",
         "options_comp": [
             [
-                "is",
-                "main_verbs",
-                "tense"
+                "is"
             ],
             [
                 "not only popular"
             ],
             [
-                "in",
-                "determiners",
-                "prepositions",
-                "conjunctions"
+                "in"
             ],
             [
                 "the"
@@ -4937,14 +4154,10 @@
                 "tense"
             ],
             [
-                "about",
-                "determiners",
-                "prepositions",
-                "conjunctions"
+                "about"
             ],
             [
-                "are",
-                "main_verbs"
+                "are"
             ],
             [
                 "among"
@@ -4956,21 +4169,19 @@
         "answer": "signing your name",
         "options_comp": [
             [
-                "six main parts",
-                "nouns"
+                "six main parts"
             ],
             [
-                "business letter",
-                "other_adjectives"
+                "business letter"
             ],
             [
-                "are",
-                "main_verbs",
-                "tense"
+                "are"
             ],
             [
                 "signing your name",
-                "pronouns"
+                "tense",
+                "pronouns",
+                "nouns"
             ]
         ]
     },
@@ -4984,14 +4195,10 @@
                 "passives"
             ],
             [
-                "to",
-                "determiners",
-                "prepositions",
-                "conjunctions"
+                "to"
             ],
             [
-                "are",
-                "main_verbs"
+                "are"
             ],
             [
                 "for studying"
@@ -5005,27 +4212,16 @@
             [
                 "Ice skating",
                 "nouns",
-                "determiners",
-                "other_adjectives",
-                "prepositions",
-                "conjunctions"
+                "other_adjectives"
             ],
             [
-                "are",
-                "main_verbs",
-                "tense"
+                "are"
             ],
             [
-                "winter sports",
-                "determiners",
-                "prepositions",
-                "conjunctions"
+                "winter sports"
             ],
             [
-                "in",
-                "determiners",
-                "prepositions",
-                "conjunctions"
+                "in"
             ]
         ]
     },
@@ -5034,10 +4230,7 @@
         "answer": "avoiding",
         "options_comp": [
             [
-                "To treat",
-                "infinitives",
-                "auxiliary_verbs",
-                "prepositions"
+                "To treat"
             ],
             [
                 "eat"
@@ -5047,9 +4240,7 @@
                 "tense"
             ],
             [
-                "for",
-                "determiners",
-                "conjunctions"
+                "for"
             ]
         ]
     },
@@ -5058,22 +4249,18 @@
         "answer": "there are",
         "options_comp": [
             [
-                "was raised",
-                "tense",
-                "passives"
+                "was raised"
             ],
             [
-                "in 1812",
-                "determiners",
-                "prepositions",
-                "conjunctions"
+                "in 1812"
             ],
             [
                 "built"
             ],
             [
                 "there are",
-                "subject_verb_agreement"
+                "tense",
+                "passives"
             ]
         ]
     },
@@ -5082,24 +4269,20 @@
         "answer": "the House of Representatives",
         "options_comp": [
             [
-                "In order",
-                "passives",
-                "nouns",
-                "determiners",
-                "prepositions",
-                "conjunctions"
+                "In order"
             ],
             [
-                "must be passed",
-                "main_verbs",
-                "tense",
-                "auxiliary_verbs"
+                "must be passed"
             ],
             [
                 "only"
             ],
             [
-                "the House of Representatives"
+                "the House of Representatives",
+                "passives",
+                "determiners",
+                "prepositions",
+                "conjunctions"
             ]
         ]
     },
@@ -5108,24 +4291,20 @@
         "answer": "with ease",
         "options_comp": [
             [
-                "permits",
-                "tense"
+                "permits"
             ],
             [
-                "between",
-                "determiners",
-                "prepositions",
-                "conjunctions"
+                "between"
             ],
             [
-                "to move",
-                "infinitives",
-                "auxiliary_verbs"
+                "to move"
             ],
             [
                 "with ease",
                 "nouns",
-                "subject_verb_agreement"
+                "determiners",
+                "prepositions",
+                "conjunctions"
             ]
         ]
     },
@@ -5134,18 +4313,15 @@
         "answer": "but also",
         "options_comp": [
             [
-                "should be judged",
-                "main_verbs",
-                "tense",
+                "should be judged"
+            ],
+            [
+                "and"
+            ],
+            [
+                "but also",
                 "passives",
-                "auxiliary_verbs"
-            ],
-            [
-                "and",
                 "conjunctions"
-            ],
-            [
-                "but also"
             ],
             [
                 "demonstrated"
@@ -5157,22 +4333,17 @@
         "answer": "also they",
         "options_comp": [
             [
-                "Snakes",
-                "nouns"
+                "Snakes"
             ],
             [
-                "their",
+                "their"
+            ],
+            [
+                "also they",
                 "pronouns"
             ],
             [
-                "also they"
-            ],
-            [
-                "to pick up",
-                "infinitives",
-                "auxiliary_verbs",
-                "prepositions",
-                "subject_verb_agreement"
+                "to pick up"
             ]
         ]
     },
@@ -5181,13 +4352,10 @@
         "answer": "also",
         "options_comp": [
             [
-                "Thought",
-                "nouns",
-                "determiners"
+                "Thought"
             ],
             [
-                "labor",
-                "other_adjectives"
+                "labor"
             ],
             [
                 "also"
@@ -5202,17 +4370,13 @@
         "answer": "move",
         "options_comp": [
             [
-                "main functions",
-                "nouns"
+                "main functions"
             ],
             [
-                "are",
-                "main_verbs",
-                "tense"
+                "are"
             ],
             [
-                "the maintenance",
-                "determiners"
+                "the maintenance"
             ],
             [
                 "move"
@@ -5224,18 +4388,10 @@
         "answer": "to control",
         "options_comp": [
             [
-                "by large corporations",
-                "passives",
-                "nouns"
+                "by large corporations"
             ],
             [
-                "has resulted in",
-                "main_verbs",
-                "tense",
-                "auxiliary_verbs",
-                "determiners",
-                "prepositions",
-                "conjunctions"
+                "has resulted in"
             ],
             [
                 "is known as"
@@ -5243,7 +4399,9 @@
             [
                 "to control",
                 "infinitives",
-                "subject_verb_agreement"
+                "passives",
+                "auxiliary_verbs",
+                "prepositions"
             ]
         ]
     },
@@ -5252,25 +4410,16 @@
         "answer": "again",
         "options_comp": [
             [
-                "use",
-                "main_verbs",
-                "tense"
+                "use"
             ],
             [
-                "to make",
-                "infinitives",
-                "auxiliary_verbs",
-                "prepositions"
+                "to make"
             ],
             [
-                "so that",
-                "nouns",
-                "determiners",
-                "conjunctions"
+                "so that"
             ],
             [
-                "again",
-                "subject_verb_agreement"
+                "again"
             ]
         ]
     },
@@ -5289,9 +4438,7 @@
                 "widely"
             ],
             [
-                "human body",
-                "nouns",
-                "determiners"
+                "human body"
             ]
         ]
     },
@@ -5301,23 +4448,22 @@
         "options_comp": [
             [
                 "Appointed",
-                "tense"
-            ],
-            [
-                "for",
                 "determiners",
                 "prepositions",
                 "conjunctions"
             ],
             [
-                "must act",
-                "main_verbs",
-                "auxiliary_verbs"
+                "for"
+            ],
+            [
+                "must act"
             ],
             [
                 "in an impartial manner",
                 "nouns",
-                "subject_verb_agreement"
+                "determiners",
+                "prepositions",
+                "conjunctions"
             ]
         ]
     },
@@ -5326,21 +4472,18 @@
         "answer": "they",
         "options_comp": [
             [
-                "who",
-                "passives"
+                "who"
             ],
             [
                 "ago"
             ],
             [
                 "they",
+                "passives",
                 "pronouns"
             ],
             [
-                "to communicate",
-                "infinitives",
-                "auxiliary_verbs",
-                "prepositions"
+                "to communicate"
             ]
         ]
     },
@@ -5349,23 +4492,17 @@
         "answer": "back",
         "options_comp": [
             [
-                "the",
-                "passives",
-                "determiners"
+                "the"
             ],
             [
-                "within",
-                "prepositions",
-                "conjunctions"
+                "within"
             ],
             [
-                "obligated",
-                "main_verbs",
-                "tense"
+                "obligated"
             ],
             [
                 "back",
-                "subject_verb_agreement"
+                "passives"
             ]
         ]
     },
@@ -5374,23 +4511,16 @@
         "answer": "enough",
         "options_comp": [
             [
-                "for raising",
-                "tense",
-                "determiners",
-                "prepositions",
-                "conjunctions"
+                "for raising"
             ],
             [
                 "enough"
             ],
             [
-                "to allow",
-                "infinitives",
-                "auxiliary_verbs"
+                "to allow"
             ],
             [
-                "a six-month growing period",
-                "nouns"
+                "a six-month growing period"
             ]
         ]
     },
@@ -5399,8 +4529,7 @@
         "answer": "in nature",
         "options_comp": [
             [
-                "who",
-                "pronouns"
+                "who"
             ],
             [
                 "in nature",
@@ -5410,9 +4539,7 @@
                 "conjunctions"
             ],
             [
-                "to suffer",
-                "infinitives",
-                "auxiliary_verbs"
+                "to suffer"
             ],
             [
                 "on"
@@ -5424,23 +4551,18 @@
         "answer": "they",
         "options_comp": [
             [
-                "is",
-                "tense",
-                "passives"
+                "is"
             ],
             [
-                "that",
-                "determiners",
-                "prepositions",
-                "conjunctions"
+                "that"
             ],
             [
                 "they",
+                "passives",
                 "pronouns"
             ],
             [
-                "between",
-                "subject_verb_agreement"
+                "between"
             ]
         ]
     },
@@ -5449,8 +4571,7 @@
         "answer": "new innovations",
         "options_comp": [
             [
-                "It",
-                "pronouns"
+                "It"
             ],
             [
                 "who"
@@ -5460,10 +4581,7 @@
                 "nouns"
             ],
             [
-                "different from",
-                "determiners",
-                "prepositions",
-                "conjunctions"
+                "different from"
             ]
         ]
     },
@@ -5472,23 +4590,22 @@
         "answer": "by name",
         "options_comp": [
             [
-                "series",
-                "passives",
-                "nouns"
+                "series"
             ],
             [
-                "whose",
-                "pronouns"
+                "whose"
             ],
             [
-                "that of",
-                "determiners",
-                "prepositions",
-                "conjunctions"
+                "that of"
             ],
             [
                 "by name",
-                "other_adjectives"
+                "passives",
+                "nouns",
+                "determiners",
+                "other_adjectives",
+                "prepositions",
+                "conjunctions"
             ]
         ]
     },
@@ -5497,20 +4614,14 @@
         "answer": "forward",
         "options_comp": [
             [
-                "In recent years",
-                "passives",
-                "nouns",
-                "determiners",
-                "prepositions",
-                "conjunctions"
+                "In recent years"
             ],
             [
-                "forward"
+                "forward",
+                "passives"
             ],
             [
-                "have",
-                "tense",
-                "auxiliary_verbs"
+                "have"
             ],
             [
                 "genetic research"
@@ -5522,9 +4633,7 @@
         "answer": "it",
         "options_comp": [
             [
-                "is",
-                "main_verbs",
-                "tense"
+                "is"
             ],
             [
                 "it",
@@ -5534,11 +4643,7 @@
                 "has"
             ],
             [
-                "providing for",
-                "determiners",
-                "prepositions",
-                "conjunctions",
-                "subject_verb_agreement"
+                "providing for"
             ]
         ]
     },
@@ -5547,23 +4652,20 @@
         "answer": "with rapidity",
         "options_comp": [
             [
-                "According to",
-                "tense",
-                "prepositions",
-                "conjunctions"
+                "According to"
             ],
             [
-                "the climate",
-                "nouns",
-                "determiners"
+                "the climate"
             ],
             [
-                "is",
-                "auxiliary_verbs"
+                "is"
             ],
             [
                 "with rapidity",
-                "subject_verb_agreement"
+                "nouns",
+                "determiners",
+                "prepositions",
+                "conjunctions"
             ]
         ]
     },
@@ -5576,16 +4678,13 @@
                 "pronouns"
             ],
             [
-                "is",
-                "main_verbs",
-                "tense"
+                "is"
             ],
             [
                 "most urgent"
             ],
             [
-                "we face",
-                "subject_verb_agreement"
+                "we face"
             ]
         ]
     },
@@ -5594,22 +4693,19 @@
         "answer": "as",
         "options_comp": [
             [
-                "According",
-                "tense"
+                "According"
             ],
             [
-                "of a triangle",
-                "nouns",
+                "of a triangle"
+            ],
+            [
+                "is"
+            ],
+            [
+                "as",
                 "determiners",
                 "prepositions",
                 "conjunctions"
-            ],
-            [
-                "is",
-                "main_verbs"
-            ],
-            [
-                "as"
             ]
         ]
     },
@@ -5618,20 +4714,16 @@
         "answer": "is risen",
         "options_comp": [
             [
-                "over the White House",
-                "passives",
-                "determiners",
-                "prepositions",
-                "conjunctions"
+                "over the White House"
             ],
             [
                 "is risen",
                 "main_verbs",
-                "tense"
+                "tense",
+                "passives"
             ],
             [
-                "at dawn",
-                "nouns"
+                "at dawn"
             ],
             [
                 "by"
@@ -5643,22 +4735,19 @@
         "answer": "comparing",
         "options_comp": [
             [
-                "are",
-                "tense",
-                "auxiliary_verbs"
+                "are"
             ],
             [
                 "generally"
             ],
             [
                 "comparing",
-                "main_verbs"
+                "main_verbs",
+                "tense",
+                "auxiliary_verbs"
             ],
             [
                 "on",
-                "determiners",
-                "prepositions",
-                "conjunctions",
                 "subject_verb_agreement"
             ]
         ]
@@ -5668,15 +4757,14 @@
         "answer": "in",
         "options_comp": [
             [
-                "it",
-                "passives",
-                "pronouns"
+                "it"
             ],
             [
                 "conclusively"
             ],
             [
                 "in",
+                "passives",
                 "determiners",
                 "prepositions",
                 "conjunctions"
@@ -5691,20 +4779,17 @@
         "answer": "leave",
         "options_comp": [
             [
-                "to turn",
-                "infinitives",
-                "auxiliary_verbs",
-                "prepositions"
+                "to turn"
             ],
             [
                 "other"
             ],
             [
-                "leave"
+                "leave",
+                "auxiliary_verbs"
             ],
             [
                 "them",
-                "pronouns",
                 "subject_verb_agreement"
             ]
         ]
@@ -5720,21 +4805,13 @@
                 "determiners"
             ],
             [
-                "to measure",
-                "infinitives",
-                "auxiliary_verbs",
-                "prepositions"
+                "to measure"
             ],
             [
-                "is employed",
-                "main_verbs",
-                "tense"
+                "is employed"
             ],
             [
-                "to tabulate",
-                "infinitives",
-                "auxiliary_verbs",
-                "prepositions"
+                "to tabulate"
             ]
         ]
     },
@@ -5749,19 +4826,13 @@
                 "determiners"
             ],
             [
-                "let",
-                "main_verbs",
-                "auxiliary_verbs",
-                "conjunctions"
+                "let"
             ],
             [
-                "him",
-                "pronouns"
+                "him"
             ],
             [
-                "telephone call",
-                "other_adjectives",
-                "subject_verb_agreement"
+                "telephone call"
             ]
         ]
     },
@@ -5775,18 +4846,13 @@
                 "other_adjectives"
             ],
             [
-                "is",
-                "tense"
+                "is"
             ],
             [
-                "to serve",
-                "infinitives",
-                "auxiliary_verbs",
-                "prepositions"
+                "to serve"
             ],
             [
-                "the order",
-                "determiners"
+                "the order"
             ]
         ]
     },
@@ -5800,15 +4866,10 @@
                 "nouns"
             ],
             [
-                "has",
-                "tense",
-                "auxiliary_verbs"
+                "has"
             ],
             [
-                "by",
-                "determiners",
-                "prepositions",
-                "conjunctions"
+                "by"
             ],
             [
                 "technological"
@@ -5828,8 +4889,7 @@
                 "those"
             ],
             [
-                "most highly organized",
-                "tense"
+                "most highly organized"
             ],
             [
                 "called"
@@ -5846,18 +4906,13 @@
                 "determiners"
             ],
             [
-                "for desalination",
-                "prepositions",
-                "conjunctions"
+                "for desalination"
             ],
             [
                 "the Earth's water"
             ],
             [
-                "will become available",
-                "main_verbs",
-                "auxiliary_verbs",
-                "subject_verb_agreement"
+                "will become available"
             ]
         ]
     },
@@ -5867,18 +4922,14 @@
         "options_comp": [
             [
                 "An understand",
-                "nouns"
+                "nouns",
+                "determiners"
             ],
             [
-                "is",
-                "main_verbs",
-                "tense"
+                "is"
             ],
             [
-                "to the study",
-                "determiners",
-                "prepositions",
-                "conjunctions"
+                "to the study"
             ],
             [
                 "engineering"
@@ -5897,10 +4948,7 @@
                 "tense"
             ],
             [
-                "for",
-                "determiners",
-                "prepositions",
-                "conjunctions"
+                "for"
             ],
             [
                 "more than"
@@ -5920,16 +4968,10 @@
                 "tense"
             ],
             [
-                "to produce",
-                "infinitives",
-                "auxiliary_verbs",
-                "determiners",
-                "prepositions",
-                "conjunctions"
+                "to produce"
             ],
             [
                 "energy",
-                "nouns",
                 "subject_verb_agreement"
             ]
         ]
@@ -5944,21 +4986,13 @@
                 "tense"
             ],
             [
-                "enough plant material",
-                "nouns",
-                "determiners",
-                "other_adjectives"
+                "enough plant material"
             ],
             [
-                "to feed",
-                "infinitives",
-                "auxiliary_verbs",
-                "prepositions"
+                "to feed"
             ],
             [
-                "and a half",
-                "determiners",
-                "conjunctions"
+                "and a half"
             ]
         ]
     },
@@ -5967,21 +5001,18 @@
         "answer": "practice",
         "options_comp": [
             [
-                "farming",
-                "nouns",
-                "other_adjectives"
+                "farming"
             ],
             [
                 "practice",
+                "nouns",
                 "determiners"
             ],
             [
                 "most"
             ],
             [
-                "for",
-                "prepositions",
-                "conjunctions"
+                "for"
             ]
         ]
     },
@@ -5990,8 +5021,7 @@
         "answer": "their",
         "options_comp": [
             [
-                "Those",
-                "determiners"
+                "Those"
             ],
             [
                 "who"
@@ -6010,8 +5040,7 @@
         "answer": "wrote",
         "options_comp": [
             [
-                "their",
-                "pronouns"
+                "their"
             ],
             [
                 "wrote",
@@ -6022,11 +5051,6 @@
             ],
             [
                 "to compare",
-                "infinitives",
-                "auxiliary_verbs",
-                "determiners",
-                "prepositions",
-                "conjunctions",
                 "subject_verb_agreement"
             ]
         ]
@@ -6039,21 +5063,16 @@
                 "would have lived",
                 "tense",
                 "have_+_participle",
-                "auxiliary_verbs",
-                "determiners"
+                "auxiliary_verbs"
             ],
             [
-                "a little longer",
-                "determiners"
+                "a little longer"
             ],
             [
-                "probably",
-                "determiners"
+                "probably"
             ],
             [
-                "won",
-                "main_verbs",
-                "subject_verb_agreement"
+                "won"
             ]
         ]
     },
@@ -6062,19 +5081,17 @@
         "answer": "which",
         "options_comp": [
             [
-                "It",
+                "It"
+            ],
+            [
+                "which",
                 "pronouns"
             ],
             [
-                "which"
+                "represented"
             ],
             [
-                "represented",
-                "tense"
-            ],
-            [
-                "later",
-                "subject_verb_agreement"
+                "later"
             ]
         ]
     },
@@ -6083,21 +5100,19 @@
         "answer": "as",
         "options_comp": [
             [
-                "at",
-                "determiners",
-                "prepositions",
-                "conjunctions"
+                "at"
             ],
             [
-                "are",
-                "main_verbs",
-                "tense"
+                "are"
             ],
             [
                 "if not more"
             ],
             [
-                "as"
+                "as",
+                "determiners",
+                "prepositions",
+                "conjunctions"
             ]
         ]
     },
@@ -6106,25 +5121,19 @@
         "answer": "to know",
         "options_comp": [
             [
-                "It is",
-                "main_verbs",
-                "tense",
-                "pronouns"
+                "It is"
             ],
             [
                 "extremely"
             ],
             [
-                "for",
-                "determiners",
-                "prepositions",
-                "conjunctions"
+                "for"
             ],
             [
                 "to know",
                 "infinitives",
                 "auxiliary_verbs",
-                "subject_verb_agreement"
+                "prepositions"
             ]
         ]
     },
@@ -6158,8 +5167,7 @@
                 "auxiliary_verbs"
             ],
             [
-                "whom",
-                "pronouns"
+                "whom"
             ],
             [
                 "had seen",
@@ -6167,11 +5175,7 @@
                 "auxiliary_verbs"
             ],
             [
-                "while serving",
-                "determiners",
-                "prepositions",
-                "conjunctions",
-                "subject_verb_agreement"
+                "while serving"
             ]
         ]
     },
@@ -6188,10 +5192,7 @@
                 "determiners"
             ],
             [
-                "to control",
-                "infinitives",
-                "auxiliary_verbs",
-                "prepositions"
+                "to control"
             ],
             [
                 "flooding"
@@ -6203,21 +5204,16 @@
         "answer": "large",
         "options_comp": [
             [
-                "The Chinese",
-                "determiners"
+                "The Chinese"
             ],
             [
                 "large"
             ],
             [
-                "to work",
-                "infinitives",
-                "auxiliary_verbs",
-                "prepositions"
+                "to work"
             ],
             [
-                "of",
-                "conjunctions"
+                "of"
             ]
         ]
     },
@@ -6226,9 +5222,7 @@
         "answer": "results",
         "options_comp": [
             [
-                "is",
-                "main_verbs",
-                "tense"
+                "is"
             ],
             [
                 "results",
@@ -6253,14 +5247,10 @@
                 "calm"
             ],
             [
-                "about",
-                "determiners",
-                "prepositions",
-                "conjunctions"
+                "about"
             ],
             [
-                "his own",
-                "pronouns"
+                "his own"
             ]
         ]
     },
@@ -6269,23 +5259,17 @@
         "answer": "the worst",
         "options_comp": [
             [
-                "rises",
-                "nouns",
-                "other_adjectives"
+                "rises"
             ],
             [
                 "the worst",
                 "determiners"
             ],
             [
-                "affects",
-                "main_verbs",
-                "tense"
+                "affects"
             ],
             [
-                "us",
-                "pronouns",
-                "subject_verb_agreement"
+                "us"
             ]
         ]
     },
@@ -6294,8 +5278,7 @@
         "answer": "which are",
         "options_comp": [
             [
-                "causes",
-                "nouns"
+                "causes"
             ],
             [
                 "which are",
@@ -6308,9 +5291,7 @@
                 "extremely"
             ],
             [
-                "to misuse",
-                "infinitives",
-                "auxiliary_verbs"
+                "to misuse"
             ]
         ]
     },
@@ -6319,23 +5300,17 @@
         "answer": "The Assassinate",
         "options_comp": [
             [
-                "for",
-                "prepositions",
-                "conjunctions"
+                "for"
             ],
             [
-                "will include",
-                "main_verbs",
-                "auxiliary_verbs"
+                "will include"
             ],
             [
-                "following",
-                "nouns",
-                "determiners"
+                "following"
             ],
             [
                 "The Assassinate",
-                "subject_verb_agreement"
+                "determiners"
             ]
         ]
     },
@@ -6353,9 +5328,7 @@
                 "many"
             ],
             [
-                "to introduce",
-                "infinitives",
-                "auxiliary_verbs"
+                "to introduce"
             ],
             [
                 "little"
@@ -6376,16 +5349,10 @@
                 "other"
             ],
             [
-                "used to define",
-                "main_verbs",
-                "tense",
-                "infinitives",
-                "auxiliary_verbs"
+                "used to define"
             ],
             [
-                "its",
-                "pronouns",
-                "subject_verb_agreement"
+                "its"
             ]
         ]
     },
@@ -6398,18 +5365,13 @@
                 "tense"
             ],
             [
-                "before signing",
-                "prepositions",
-                "conjunctions"
+                "before signing"
             ],
             [
-                "the final papers",
-                "nouns",
-                "determiners"
+                "the final papers"
             ],
             [
                 "for a divorce",
-                "determiners",
                 "subject_verb_agreement"
             ]
         ]
@@ -6419,22 +5381,21 @@
         "answer": "from owning",
         "options_comp": [
             [
-                "Until recently",
+                "Until recently"
+            ],
+            [
+                "were"
+            ],
+            [
+                "by law"
+            ],
+            [
+                "from owning",
+                "tense",
                 "passives",
                 "determiners",
                 "prepositions",
                 "conjunctions"
-            ],
-            [
-                "were",
-                "tense"
-            ],
-            [
-                "by law",
-                "nouns"
-            ],
-            [
-                "from owning"
             ]
         ]
     },
@@ -6443,21 +5404,16 @@
         "answer": "more cheaper",
         "options_comp": [
             [
-                "According",
-                "tense"
+                "According"
             ],
             [
-                "is",
-                "main_verbs"
+                "is"
             ],
             [
                 "more cheaper"
             ],
             [
-                "than",
-                "determiners",
-                "prepositions",
-                "conjunctions"
+                "than"
             ]
         ]
     },
@@ -6473,15 +5429,10 @@
                 "better"
             ],
             [
-                "rather than",
-                "determiners",
-                "prepositions",
-                "conjunctions"
+                "rather than"
             ],
             [
-                "listening to",
-                "tense",
-                "subject_verb_agreement"
+                "listening to"
             ]
         ]
     },
@@ -6490,22 +5441,19 @@
         "answer": "to play",
         "options_comp": [
             [
-                "In England",
-                "prepositions",
-                "conjunctions"
+                "In England"
             ],
             [
                 "as early as"
             ],
             [
-                "twelfth century",
-                "nouns",
-                "determiners"
+                "twelfth century"
             ],
             [
                 "to play",
                 "infinitives",
-                "auxiliary_verbs"
+                "auxiliary_verbs",
+                "prepositions"
             ]
         ]
     },
@@ -6514,8 +5462,7 @@
         "answer": "to plant",
         "options_comp": [
             [
-                "Some",
-                "determiners"
+                "Some"
             ],
             [
                 "to prevent",
@@ -6524,15 +5471,13 @@
                 "prepositions"
             ],
             [
-                "are",
-                "tense"
+                "are"
             ],
             [
                 "to plant",
                 "infinitives",
                 "auxiliary_verbs",
-                "prepositions",
-                "subject_verb_agreement"
+                "prepositions"
             ]
         ]
     },
@@ -6547,9 +5492,7 @@
                 "auxiliary_verbs"
             ],
             [
-                "malaria",
-                "nouns",
-                "other_adjectives"
+                "malaria"
             ],
             [
                 "only one"
@@ -6565,17 +5508,14 @@
         "answer": "electrons",
         "options_comp": [
             [
-                "counterpart",
-                "nouns",
-                "determiners"
+                "counterpart"
             ],
             [
-                "of",
-                "prepositions",
-                "conjunctions"
+                "of"
             ],
             [
-                "electrons"
+                "electrons",
+                "nouns"
             ],
             [
                 "positive"
@@ -6599,9 +5539,6 @@
             ],
             [
                 "around",
-                "determiners",
-                "prepositions",
-                "conjunctions",
                 "subject_verb_agreement"
             ]
         ]
@@ -6611,24 +5548,18 @@
         "answer": "operate",
         "options_comp": [
             [
-                "motor vehicle",
-                "nouns",
-                "other_adjectives"
+                "motor vehicle"
             ],
             [
-                "affect",
-                "main_verbs",
-                "tense"
+                "affect"
             ],
             [
                 "operate",
+                "nouns",
                 "determiners"
             ],
             [
-                "as well as",
-                "prepositions",
-                "conjunctions",
-                "subject_verb_agreement"
+                "as well as"
             ]
         ]
     },
@@ -6637,20 +5568,16 @@
         "answer": "most",
         "options_comp": [
             [
-                "is",
-                "main_verbs",
-                "tense"
+                "is"
             ],
             [
-                "terms",
-                "nouns"
+                "terms"
             ],
             [
                 "most"
             ],
             [
-                "layer",
-                "determiners"
+                "layer"
             ]
         ]
     },
@@ -6659,19 +5586,17 @@
         "answer": "anthropology",
         "options_comp": [
             [
-                "are",
-                "main_verbs",
-                "tense"
+                "are"
             ],
             [
-                "specimens",
-                "nouns"
+                "specimens"
             ],
             [
                 "collection"
             ],
             [
-                "anthropology"
+                "anthropology",
+                "nouns"
             ]
         ]
     },
@@ -6680,25 +5605,17 @@
         "answer": "resides",
         "options_comp": [
             [
-                "After",
-                "determiners",
-                "prepositions",
-                "conjunctions"
+                "After"
             ],
             [
-                "widow",
-                "nouns",
-                "other_adjectives"
+                "widow"
             ],
             [
-                "came",
-                "main_verbs",
-                "tense",
-                "infinitives"
+                "came"
             ],
             [
                 "resides",
-                "subject_verb_agreement"
+                "nouns"
             ]
         ]
     },
@@ -6712,17 +5629,13 @@
                 "pronouns"
             ],
             [
-                "rubberized",
-                "tense"
+                "rubberized"
             ],
             [
                 "hardly"
             ],
             [
-                "as",
-                "determiners",
-                "prepositions",
-                "conjunctions"
+                "as"
             ]
         ]
     },
@@ -6731,22 +5644,16 @@
         "answer": "shy",
         "options_comp": [
             [
-                "exhibit",
-                "main_verbs",
-                "tense"
+                "exhibit"
             ],
             [
                 "shy"
             ],
             [
-                "to",
-                "determiners",
-                "prepositions",
-                "conjunctions"
+                "to"
             ],
             [
-                "those",
-                "subject_verb_agreement"
+                "those"
             ]
         ]
     },
@@ -6758,14 +5665,10 @@
                 "no"
             ],
             [
-                "against",
-                "prepositions",
-                "conjunctions"
+                "against"
             ],
             [
-                "the body",
-                "nouns",
-                "determiners"
+                "the body"
             ],
             [
                 "weakly"
@@ -6777,19 +5680,15 @@
         "answer": "reach",
         "options_comp": [
             [
-                "off",
-                "passives",
-                "prepositions",
-                "conjunctions"
+                "off"
             ],
             [
-                "tip",
-                "nouns",
-                "determiners"
+                "tip"
             ],
             [
                 "reach",
                 "main_verbs",
+                "passives",
                 "auxiliary_verbs"
             ],
             [
@@ -6803,21 +5702,17 @@
         "answer": "and",
         "options_comp": [
             [
-                "A",
-                "determiners"
+                "A"
             ],
             [
-                "produces",
-                "main_verbs",
-                "tense"
+                "produces"
             ],
             [
                 "inverted"
             ],
             [
                 "and",
-                "conjunctions",
-                "subject_verb_agreement"
+                "conjunctions"
             ]
         ]
     },
@@ -6829,18 +5724,13 @@
                 "Supersonic"
             ],
             [
-                "that",
-                "pronouns"
+                "that"
             ],
             [
                 "faster"
             ],
             [
-                "speed of sound",
-                "nouns",
-                "determiners",
-                "prepositions",
-                "conjunctions"
+                "speed of sound"
             ]
         ]
     },
@@ -6860,9 +5750,7 @@
                 "elaborate"
             ],
             [
-                "country",
-                "nouns",
-                "determiners"
+                "country"
             ]
         ]
     },
@@ -6871,21 +5759,16 @@
         "answer": "other",
         "options_comp": [
             [
-                "a common",
-                "determiners"
+                "a common"
             ],
             [
-                "will soak",
-                "auxiliary_verbs",
-                "determiners"
+                "will soak"
             ],
             [
-                "but not",
-                "conjunctions"
+                "but not"
             ],
             [
-                "other",
-                "subject_verb_agreement"
+                "other"
             ]
         ]
     },
@@ -6894,8 +5777,7 @@
         "answer": "are",
         "options_comp": [
             [
-                "wild horses",
-                "nouns"
+                "wild horses"
             ],
             [
                 "are",
@@ -6916,17 +5798,14 @@
         "answer": "an",
         "options_comp": [
             [
-                "every",
+                "every"
+            ],
+            [
+                "before television"
+            ],
+            [
+                "an",
                 "determiners"
-            ],
-            [
-                "before television",
-                "nouns",
-                "prepositions",
-                "conjunctions"
-            ],
-            [
-                "an"
             ],
             [
                 "events"
@@ -6941,18 +5820,13 @@
                 "Unlikely"
             ],
             [
-                "sport",
-                "nouns",
-                "other_adjectives"
+                "sport"
             ],
             [
-                "have",
-                "main_verbs",
-                "auxiliary_verbs"
+                "have"
             ],
             [
-                "nets",
-                "subject_verb_agreement"
+                "nets"
             ]
         ]
     },
@@ -6961,21 +5835,19 @@
         "answer": "has begun",
         "options_comp": [
             [
-                "Born",
-                "tense"
+                "Born"
             ],
             [
                 "has begun",
                 "main_verbs",
+                "tense",
                 "auxiliary_verbs"
             ],
             [
                 "making"
             ],
             [
-                "the late",
-                "determiners",
-                "subject_verb_agreement"
+                "the late"
             ]
         ]
     },
@@ -6985,24 +5857,21 @@
         "options_comp": [
             [
                 "officer",
-                "nouns",
                 "determiners",
                 "prepositions",
                 "conjunctions"
             ],
             [
-                "lived",
-                "main_verbs",
-                "tense"
+                "lived"
             ],
             [
                 "of least",
+                "determiners",
                 "prepositions",
                 "conjunctions"
             ],
             [
-                "other",
-                "subject_verb_agreement"
+                "other"
             ]
         ]
     },
@@ -7011,23 +5880,17 @@
         "answer": "consumes",
         "options_comp": [
             [
-                "comes",
-                "main_verbs",
+                "comes"
+            ],
+            [
+                "from"
+            ],
+            [
+                "consumes",
                 "tense"
             ],
             [
-                "from",
-                "determiners",
-                "prepositions",
-                "conjunctions"
-            ],
-            [
-                "consumes"
-            ],
-            [
                 "matter",
-                "nouns",
-                "other_adjectives",
                 "subject_verb_agreement"
             ]
         ]
@@ -7044,13 +5907,10 @@
                 "telltale signs"
             ],
             [
-                "bears",
-                "tense"
+                "bears"
             ],
             [
-                "his name",
-                "pronouns",
-                "subject_verb_agreement"
+                "his name"
             ]
         ]
     },
@@ -7064,9 +5924,7 @@
                 "tense"
             ],
             [
-                "composer",
-                "nouns",
-                "determiners"
+                "composer"
             ],
             [
                 "perennial"
@@ -7082,9 +5940,7 @@
         "answer": "live",
         "options_comp": [
             [
-                "belief",
-                "nouns",
-                "determiners"
+                "belief"
             ],
             [
                 "phenomena"
@@ -7102,23 +5958,17 @@
         "answer": "observing",
         "options_comp": [
             [
-                "accounts",
-                "main_verbs",
-                "tense",
-                "other_adjectives"
+                "accounts"
             ],
             [
-                "for",
-                "determiners",
-                "prepositions",
-                "conjunctions"
+                "for"
             ],
             [
-                "observing"
+                "observing",
+                "tense"
             ],
             [
-                "orbits",
-                "nouns"
+                "orbits"
             ]
         ]
     },
@@ -7127,17 +5977,15 @@
         "answer": "to an increase",
         "options_comp": [
             [
-                "The high demand",
-                "nouns",
-                "determiners"
+                "The high demand"
             ],
             [
-                "such as oil",
-                "prepositions",
-                "conjunctions"
+                "such as oil"
             ],
             [
                 "to an increase",
+                "nouns",
+                "determiners",
                 "prepositions",
                 "conjunctions"
             ],
@@ -7151,26 +5999,20 @@
         "answer": "to send robots",
         "options_comp": [
             [
-                "Space exploration has advanced",
-                "main_verbs",
-                "tense",
-                "auxiliary_verbs",
-                "nouns",
-                "other_adjectives"
+                "Space exploration has advanced"
             ],
             [
-                "the past few decades",
-                "determiners"
+                "the past few decades"
             ],
             [
                 "to send robots",
                 "infinitives",
+                "auxiliary_verbs",
+                "nouns",
                 "prepositions"
             ],
             [
-                "planets and moons",
-                "conjunctions",
-                "subject_verb_agreement"
+                "planets and moons"
             ]
         ]
     },
@@ -7179,25 +6021,18 @@
         "answer": "planets , and galaxies",
         "options_comp": [
             [
-                "The telescope allows astronomers",
-                "tense",
-                "nouns",
-                "determiners"
+                "The telescope allows astronomers"
             ],
             [
                 "distant objects in space"
             ],
             [
                 "planets, and galaxies",
+                "nouns",
                 "conjunctions"
             ],
             [
-                "be invisible to the naked eye",
-                "main_verbs",
-                "infinitives",
-                "auxiliary_verbs",
-                "prepositions",
-                "subject_verb_agreement"
+                "be invisible to the naked eye"
             ]
         ]
     },
@@ -7206,23 +6041,19 @@
         "answer": "and problem - solving skills",
         "options_comp": [
             [
-                "The human brain",
-                "nouns",
-                "determiners"
+                "The human brain"
             ],
             [
-                "feats of memory",
-                "prepositions"
+                "feats of memory"
             ],
             [
                 "and problem-solving skills",
                 "tense",
+                "nouns",
                 "conjunctions"
             ],
             [
-                "to fascinate scientists",
-                "infinitives",
-                "auxiliary_verbs"
+                "to fascinate scientists"
             ]
         ]
     },
@@ -7231,66 +6062,1054 @@
         "answer": "plays a vital role",
         "options_comp": [
             [
-                "The Amazon rainforest, often",
-                "nouns",
-                "determiners"
+                "The Amazon rainforest, often"
             ],
             [
                 "as the lungs of the Earth"
             ],
             [
-                "to an incredible diversity",
-                "prepositions",
-                "conjunctions"
+                "to an incredible diversity"
             ],
             [
                 "plays a vital role",
-                "tense"
+                "tense",
+                "nouns",
+                "determiners"
             ]
         ]
     },
     {
-        "question_text": "While attempting to fly hers plane around the world in 1937, Amelia Earhart mysteriously disappeared.",
-        "answer": "hers",
+        "question_text": "The teacher told the students to carefully to follow the instructions given on the board.",
+        "answer": "to carefully to follow",
         "options_comp": [
             [
-                "While",
+                "The teacher told",
+                "infinitives",
+                "auxiliary_verbs",
+                "prepositions"
+            ],
+            [
+                "to carefully to follow",
+                "infinitives",
+                "auxiliary_verbs",
+                "prepositions"
+            ],
+            [
+                "the instructions given"
+            ],
+            [
+                "on the board"
+            ]
+        ]
+    },
+    {
+        "question_text": "He decided to help his brother fixing the bike before going to the market.",
+        "answer": "his brother fixing the bike",
+        "options_comp": [
+            [
+                "He"
+            ],
+            [
+                "decided to help"
+            ],
+            [
+                "his brother fixing the bike",
+                "tense",
+                "pronouns",
+                "nouns",
+                "determiners"
+            ],
+            [
+                "before going to the market"
+            ]
+        ]
+    },
+    {
+        "question_text": "The goal of this exercise is to helps students understand the importance of teamwork.",
+        "answer": "to helps students understand",
+        "options_comp": [
+            [
+                "The goal of this exercise"
+            ],
+            [
+                "is"
+            ],
+            [
+                "to helps students understand",
+                "tense",
+                "infinitives",
+                "auxiliary_verbs",
+                "nouns",
+                "prepositions"
+            ],
+            [
+                "the importance of teamwork"
+            ]
+        ]
+    },
+    {
+        "question_text": "By the time you arrived, we have already started eating dinner without you.",
+        "answer": "we have already",
+        "options_comp": [
+            [
+                "By the time you arrived"
+            ],
+            [
+                "we have already",
+                "tense",
+                "auxiliary_verbs",
+                "pronouns"
+            ],
+            [
+                "started eating dinner"
+            ],
+            [
+                "without you"
+            ]
+        ]
+    },
+    {
+        "question_text": "He has forgot his homework at home again despite the repeated reminders from the teacher.",
+        "answer": "He has forgot",
+        "options_comp": [
+            [
+                "He has forgot",
+                "main_verbs",
+                "tense",
+                "auxiliary_verbs",
+                "pronouns"
+            ],
+            [
+                "his homework at home"
+            ],
+            [
+                "despite the repeated reminders"
+            ],
+            [
+                "from the teacher"
+            ]
+        ]
+    },
+    {
+        "question_text": "They have finish the project well before the deadline, surprising everyone with their efficiency.",
+        "answer": "They have finish the project",
+        "options_comp": [
+            [
+                "They have finish the project",
+                "main_verbs",
+                "tense",
+                "have_+_participle",
+                "auxiliary_verbs",
+                "pronouns",
+                "nouns",
+                "determiners"
+            ],
+            [
+                "well before the deadline"
+            ],
+            [
+                "surprising everyone with"
+            ],
+            [
+                "their efficiency"
+            ]
+        ]
+    },
+    {
+        "question_text": "The team claimed they have completed the task, but no evidence was provided to prove it.",
+        "answer": "The team claimed they have",
+        "options_comp": [
+            [
+                "The team claimed they have",
+                "main_verbs",
+                "tense",
+                "passives",
+                "auxiliary_verbs",
+                "pronouns",
+                "nouns",
+                "determiners"
+            ],
+            [
+                "completed the task"
+            ],
+            [
+                "but no evidence"
+            ],
+            [
+                "was provided to prove it"
+            ]
+        ]
+    },
+    {
+        "question_text": "If he has took the correct route, he would have reached his destination by now.",
+        "answer": "If he has took",
+        "options_comp": [
+            [
+                "If he has took",
+                "tense",
+                "auxiliary_verbs",
+                "pronouns",
                 "determiners",
                 "prepositions",
                 "conjunctions"
             ],
             [
-                "hers",
+                "the correct route",
                 "pronouns"
             ],
             [
-                "around"
+                "he would have reached",
+                "pronouns"
             ],
             [
-                "mysteriously"
+                "his destination by now"
             ]
         ]
     },
     {
-        "question_text": "Richard Wright's Uncle Tom's Children, a collection of short stories, were a critical success when it appeared in 1938.",
-        "answer": "success",
+        "question_text": "To be successful, it is important to always keep practicing and to improving your skills regularly.",
+        "answer": "to improving your skills",
         "options_comp": [
             [
-                "short"
+                "To be successful"
             ],
             [
-                "were",
-                "main_verbs",
-                "tense",
+                "to always keep practicing",
+                "infinitives",
+                "auxiliary_verbs",
+                "determiners",
+                "prepositions",
                 "conjunctions"
             ],
             [
-                "success",
-                "nouns"
+                "to improving your skills",
+                "tense",
+                "infinitives",
+                "auxiliary_verbs",
+                "pronouns",
+                "nouns",
+                "determiners",
+                "prepositions",
+                "conjunctions"
             ],
             [
-                "appeared",
-                "subject_verb_agreement"
+                "regularly"
+            ]
+        ]
+    },
+    {
+        "question_text": "They tried to persuade him to joining the workshop, but he refused their offer.",
+        "answer": "him to joining",
+        "options_comp": [
+            [
+                "They tried to persuade",
+                "infinitives",
+                "auxiliary_verbs",
+                "determiners",
+                "prepositions",
+                "conjunctions"
+            ],
+            [
+                "him to joining",
+                "tense",
+                "infinitives",
+                "auxiliary_verbs",
+                "pronouns",
+                "determiners",
+                "prepositions",
+                "conjunctions"
+            ],
+            [
+                "the workshop"
+            ],
+            [
+                "but he refused their offer"
+            ]
+        ]
+    },
+    {
+        "question_text": "It's difficult to understand the concept without to discuss it with someone else.",
+        "answer": "without to discuss it",
+        "options_comp": [
+            [
+                "It's difficult"
+            ],
+            [
+                "to understand the concept",
+                "infinitives",
+                "auxiliary_verbs",
+                "prepositions"
+            ],
+            [
+                "without to discuss it",
+                "infinitives",
+                "auxiliary_verbs",
+                "pronouns",
+                "determiners",
+                "prepositions",
+                "conjunctions"
+            ],
+            [
+                "with someone else",
+                "pronouns"
+            ]
+        ]
+    },
+    {
+        "question_text": "She has been preparing for months to ensures she passes the exam.",
+        "answer": "for months to ensures",
+        "options_comp": [
+            [
+                "She has"
+            ],
+            [
+                "been preparing"
+            ],
+            [
+                "for months to ensures",
+                "nouns",
+                "determiners",
+                "prepositions",
+                "conjunctions"
+            ],
+            [
+                "she passes the exam"
+            ]
+        ]
+    },
+    {
+        "question_text": "The best way to stay healthy is to exercising daily and eat a balanced diet.",
+        "answer": "to exercising daily",
+        "options_comp": [
+            [
+                "The best way"
+            ],
+            [
+                "to stay healthy",
+                "infinitives",
+                "auxiliary_verbs",
+                "determiners",
+                "prepositions",
+                "conjunctions"
+            ],
+            [
+                "to exercising daily",
+                "tense",
+                "infinitives",
+                "auxiliary_verbs",
+                "determiners",
+                "prepositions",
+                "conjunctions"
+            ],
+            [
+                "and eat a balanced diet"
+            ]
+        ]
+    },
+    {
+        "question_text": "He decided not to interfere but instead to observes the process quietly.",
+        "answer": "but instead to observes",
+        "options_comp": [
+            [
+                "He decided not"
+            ],
+            [
+                "to interfere",
+                "infinitives",
+                "auxiliary_verbs",
+                "prepositions"
+            ],
+            [
+                "but instead to observes",
+                "tense",
+                "infinitives",
+                "auxiliary_verbs",
+                "prepositions",
+                "conjunctions"
+            ],
+            [
+                "the process quietly"
+            ]
+        ]
+    },
+    {
+        "question_text": "Her ambition is to becomes a renowned artist in the future.",
+        "answer": "to becomes a renowned artist",
+        "options_comp": [
+            [
+                "Her"
+            ],
+            [
+                "ambition is"
+            ],
+            [
+                "to becomes a renowned artist",
+                "tense",
+                "infinitives",
+                "auxiliary_verbs",
+                "nouns",
+                "determiners",
+                "prepositions"
+            ],
+            [
+                "in the future"
+            ]
+        ]
+    },
+    {
+        "question_text": "He advised us to not taking shortcuts when learning complex topics.",
+        "answer": "taking shortcuts",
+        "options_comp": [
+            [
+                "He advised"
+            ],
+            [
+                "us to not"
+            ],
+            [
+                "taking shortcuts",
+                "tense",
+                "infinitives",
+                "auxiliary_verbs",
+                "nouns",
+                "conjunctions"
+            ],
+            [
+                "when learning complex topics"
+            ]
+        ]
+    },
+    {
+        "question_text": "The government aims to reduce pollution and to promotes renewable energy sources.",
+        "answer": "to promotes renewable energy sources",
+        "options_comp": [
+            [
+                "The government"
+            ],
+            [
+                "aims"
+            ],
+            [
+                "to reduce pollution",
+                "infinitives",
+                "auxiliary_verbs",
+                "prepositions"
+            ],
+            [
+                "to promotes renewable energy sources",
+                "tense",
+                "infinitives",
+                "auxiliary_verbs",
+                "nouns",
+                "other_adjectives",
+                "prepositions"
+            ]
+        ]
+    },
+    {
+        "question_text": "You should always strive to achieve your goals and to helping others along the way.",
+        "answer": "and to helping others",
+        "options_comp": [
+            [
+                "You should always strive"
+            ],
+            [
+                "to achieve your goals",
+                "infinitives",
+                "auxiliary_verbs",
+                "determiners",
+                "prepositions"
+            ],
+            [
+                "and to helping others",
+                "tense",
+                "infinitives",
+                "auxiliary_verbs",
+                "nouns",
+                "determiners",
+                "prepositions",
+                "conjunctions"
+            ],
+            [
+                "along the way"
+            ]
+        ]
+    },
+    {
+        "question_text": "She has not spoke to her friend since their argument last month.",
+        "answer": "She has not spoke",
+        "options_comp": [
+            [
+                "She has not spoke",
+                "main_verbs",
+                "tense",
+                "auxiliary_verbs",
+                "pronouns"
+            ],
+            [
+                "to her friend"
+            ],
+            [
+                "since their argument"
+            ],
+            [
+                "last month"
+            ]
+        ]
+    },
+    {
+        "question_text": "By the time we arrived, the organizers have already left the venue.",
+        "answer": "the organizers have",
+        "options_comp": [
+            [
+                "By the time",
+                "determiners"
+            ],
+            [
+                "we arrived"
+            ],
+            [
+                "the organizers have",
+                "tense",
+                "auxiliary_verbs",
+                "nouns",
+                "determiners"
+            ],
+            [
+                "already left the venue",
+                "determiners"
+            ]
+        ]
+    },
+    {
+        "question_text": "He has went to the library several times but still cannot find the book he needs.",
+        "answer": "He has went to the library",
+        "options_comp": [
+            [
+                "He has went to the library",
+                "main_verbs",
+                "tense",
+                "auxiliary_verbs",
+                "pronouns",
+                "nouns",
+                "determiners",
+                "prepositions",
+                "conjunctions"
+            ],
+            [
+                "several times"
+            ],
+            [
+                "but still cannot find"
+            ],
+            [
+                "the book he needs"
+            ]
+        ]
+    },
+    {
+        "question_text": "I would have went to the party if I had known about it earlier.",
+        "answer": "I would have went",
+        "options_comp": [
+            [
+                "I would have went",
+                "main_verbs",
+                "tense",
+                "have_+_participle",
+                "auxiliary_verbs",
+                "pronouns"
+            ],
+            [
+                "to the party"
+            ],
+            [
+                "if I had known",
+                "pronouns"
+            ],
+            [
+                "about it earlier"
+            ]
+        ]
+    },
+    {
+        "question_text": "He claims to have completed the work, but the task remains unfinished.",
+        "answer": "but the task remains",
+        "options_comp": [
+            [
+                "He claims to have"
+            ],
+            [
+                "completed the work"
+            ],
+            [
+                "but the task remains",
+                "tense",
+                "nouns",
+                "determiners",
+                "conjunctions"
+            ],
+            [
+                "unfinished"
+            ]
+        ]
+    },
+    {
+        "question_text": "They had knew about the problem long before it was announced.",
+        "answer": "They had knew",
+        "options_comp": [
+            [
+                "They had knew",
+                "main_verbs",
+                "tense",
+                "passives",
+                "auxiliary_verbs",
+                "pronouns"
+            ],
+            [
+                "about the problem"
+            ],
+            [
+                "long before"
+            ],
+            [
+                "it was announced"
+            ]
+        ]
+    },
+    {
+        "question_text": "We have not spoke about this issue since the last meeting.",
+        "answer": "We have not spoke",
+        "options_comp": [
+            [
+                "We have not spoke",
+                "main_verbs",
+                "tense",
+                "have_+_participle",
+                "auxiliary_verbs",
+                "pronouns"
+            ],
+            [
+                "about this issue"
+            ],
+            [
+                "since the"
+            ],
+            [
+                "last meeting"
+            ]
+        ]
+    },
+    {
+        "question_text": "She has wrote many books, but only a few have been published.",
+        "answer": "She has wrote",
+        "options_comp": [
+            [
+                "She has wrote",
+                "main_verbs",
+                "tense",
+                "passives",
+                "auxiliary_verbs",
+                "pronouns"
+            ],
+            [
+                "many books"
+            ],
+            [
+                "but only a few"
+            ],
+            [
+                "have been published"
+            ]
+        ]
+    },
+    {
+        "question_text": "Had you knew about the plan, you could have avoided the issue.",
+        "answer": "Had you knew about",
+        "options_comp": [
+            [
+                "Had you knew about",
+                "tense",
+                "auxiliary_verbs",
+                "pronouns",
+                "determiners",
+                "prepositions",
+                "conjunctions"
+            ],
+            [
+                "the plan, you",
+                "pronouns"
+            ],
+            [
+                "could have avoided"
+            ],
+            [
+                "the issue"
+            ]
+        ]
+    },
+    {
+        "question_text": "If he has ate breakfast, he wouldn\u2019t be feeling hungry now.",
+        "answer": "If he has ate",
+        "options_comp": [
+            [
+                "If he has ate",
+                "tense",
+                "auxiliary_verbs",
+                "pronouns",
+                "determiners",
+                "prepositions",
+                "conjunctions"
+            ],
+            [
+                "breakfast, he",
+                "pronouns"
+            ],
+            [
+                "wouldn\u2019t be feeling"
+            ],
+            [
+                "hungry now"
+            ]
+        ]
+    },
+    {
+        "question_text": "She plans to quickly finish her work so that to attend the meeting on time.",
+        "answer": "to attend the meeting",
+        "options_comp": [
+            [
+                "She plans to quickly",
+                "infinitives",
+                "auxiliary_verbs",
+                "prepositions"
+            ],
+            [
+                "finish her work"
+            ],
+            [
+                "to attend the meeting",
+                "infinitives",
+                "auxiliary_verbs",
+                "nouns",
+                "determiners",
+                "prepositions"
+            ],
+            [
+                "on time"
+            ]
+        ]
+    },
+    {
+        "question_text": "It is important to not waste your time on activities that are not productive.",
+        "answer": "to not waste your time",
+        "options_comp": [
+            [
+                "It is important"
+            ],
+            [
+                "to not waste your time",
+                "infinitives",
+                "auxiliary_verbs",
+                "pronouns",
+                "nouns",
+                "prepositions"
+            ],
+            [
+                "on activities that"
+            ],
+            [
+                "are not productive"
+            ]
+        ]
+    },
+    {
+        "question_text": "The teacher told the students to carefully to follow the instructions given on the board.",
+        "answer": "to carefully to follow",
+        "options_comp": [
+            [
+                "The teacher told",
+                "infinitives",
+                "auxiliary_verbs",
+                "prepositions"
+            ],
+            [
+                "to carefully to follow",
+                "infinitives",
+                "auxiliary_verbs",
+                "prepositions"
+            ],
+            [
+                "the instructions given"
+            ],
+            [
+                "on the board"
+            ]
+        ]
+    },
+    {
+        "question_text": "She has went to the market early in the morning to buy fresh vegetables.",
+        "answer": "She has went",
+        "options_comp": [
+            [
+                "She has went",
+                "main_verbs",
+                "tense",
+                "auxiliary_verbs",
+                "pronouns"
+            ],
+            [
+                "to the market early"
+            ],
+            [
+                "in the morning"
+            ],
+            [
+                "to buy fresh vegetables"
+            ]
+        ]
+    },
+    {
+        "question_text": "The students have finish their assignments before the deadline to earn extra points.",
+        "answer": "The students have finish",
+        "options_comp": [
+            [
+                "The students have finish",
+                "main_verbs",
+                "tense",
+                "have_+_participle",
+                "auxiliary_verbs",
+                "nouns",
+                "determiners"
+            ],
+            [
+                "their assignments"
+            ],
+            [
+                "before the deadline"
+            ],
+            [
+                "to earn extra points"
+            ]
+        ]
+    },
+    {
+        "question_text": "By the time the teacher arrived, the class have already started their presentation.",
+        "answer": "the class have already",
+        "options_comp": [
+            [
+                "By the time"
+            ],
+            [
+                "the teacher arrived"
+            ],
+            [
+                "the class have already",
+                "tense",
+                "auxiliary_verbs",
+                "nouns",
+                "determiners"
+            ],
+            [
+                "started their presentation"
+            ]
+        ]
+    },
+    {
+        "question_text": "If he has ate breakfast, he would not feel so hungry right now.",
+        "answer": "If he has ate",
+        "options_comp": [
+            [
+                "If he has ate",
+                "tense",
+                "auxiliary_verbs",
+                "pronouns",
+                "determiners",
+                "prepositions",
+                "conjunctions"
+            ],
+            [
+                "breakfast, he",
+                "pronouns"
+            ],
+            [
+                "would not feel so hungry"
+            ],
+            [
+                "right now"
+            ]
+        ]
+    },
+    {
+        "question_text": "I would have went to the meeting if I had known about it earlier.",
+        "answer": "I would have went",
+        "options_comp": [
+            [
+                "I would have went",
+                "main_verbs",
+                "tense",
+                "have_+_participle",
+                "auxiliary_verbs",
+                "pronouns"
+            ],
+            [
+                "to the meeting"
+            ],
+            [
+                "if I had known",
+                "pronouns"
+            ],
+            [
+                "about it earlier"
+            ]
+        ]
+    },
+    {
+        "question_text": "The new car is more faster than the older model, making it a popular choice.",
+        "answer": "The new car is more faster",
+        "options_comp": [
+            [
+                "The new car is more faster",
+                "main_verbs",
+                "tense",
+                "nouns",
+                "determiners"
+            ],
+            [
+                "than the older model"
+            ],
+            [
+                "making it"
+            ],
+            [
+                "a popular choice"
+            ]
+        ]
+    },
+    {
+        "question_text": "This is the most happiest day of my life because of the surprise party.",
+        "answer": "This is the most happiest day",
+        "options_comp": [
+            [
+                "This is the most happiest day",
+                "main_verbs",
+                "tense",
+                "nouns",
+                "determiners"
+            ],
+            [
+                "of my life"
+            ],
+            [
+                "because of"
+            ],
+            [
+                "the surprise party",
+                "main_verbs",
+                "tense"
+            ]
+        ]
+    },
+    {
+        "question_text": "Among all the contestants, she was the most smarter and confident.",
+        "answer": "the most smarter",
+        "options_comp": [
+            [
+                "Among all the contestants",
+                "determiners"
+            ],
+            [
+                "she was"
+            ],
+            [
+                "the most smarter",
+                "determiners"
+            ],
+            [
+                "and confident"
+            ]
+        ]
+    },
+    {
+        "question_text": "The painting looks more beautifuler when it is viewed under natural light.",
+        "answer": "more beautifuler",
+        "options_comp": [
+            [
+                "The painting looks"
+            ],
+            [
+                "more beautifuler",
+                "passives"
+            ],
+            [
+                "when it is viewed"
+            ],
+            [
+                "under natural light"
+            ]
+        ]
+    },
+    {
+        "question_text": "The weather is becoming more colder as winter approaches the region.",
+        "answer": "The weather is becoming more colder",
+        "options_comp": [
+            [
+                "The weather is becoming more colder",
+                "main_verbs",
+                "tense",
+                "auxiliary_verbs",
+                "nouns",
+                "determiners"
+            ],
+            [
+                "as winter"
+            ],
+            [
+                "approaches"
+            ],
+            [
+                "the region"
+            ]
+        ]
+    },
+    {
+        "question_text": "By the time the guests arrived, the host have already prepared everything for the dinner party.",
+        "answer": "the host have already",
+        "options_comp": [
+            [
+                "By the time the guests arrived"
+            ],
+            [
+                "the host have already",
+                "tense",
+                "auxiliary_verbs",
+                "nouns",
+                "determiners"
+            ],
+            [
+                "prepared everything"
+            ],
+            [
+                "for the dinner party"
+            ]
+        ]
+    },
+    {
+        "question_text": "The more prettier flowers in the garden are often admired by visitors during spring.",
+        "answer": "The more prettier flowers",
+        "options_comp": [
+            [
+                "The more prettier flowers",
+                "passives",
+                "nouns",
+                "determiners"
+            ],
+            [
+                "in the garden are"
+            ],
+            [
+                "often admired"
+            ],
+            [
+                "by visitors"
             ]
         ]
     }

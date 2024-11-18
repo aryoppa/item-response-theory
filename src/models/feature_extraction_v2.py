@@ -6,6 +6,7 @@ class FeatureExtractionV2:
     
     def option_deps(self):
         doc = self.nlp(self.data['question_text'])
+        answer = self.data['answer']
         options = ['A', 'B', 'C', 'D']
         response = {}
         response['v1'] = False
@@ -67,7 +68,7 @@ class FeatureExtractionV2:
         response['scon1_options'] = ""
         response['scon2_options'] = ""
         response['sva_options'] = ""
-        temp = self.check_sva(doc)
+        temp = self.check_sva(doc, answer)
         response['sva'] = temp[0]
         if response['sva']:
             response['sva_options'] = temp[1]
@@ -90,144 +91,146 @@ class FeatureExtractionV2:
         for token in doc:
             for opt in options:
                 for item in self.data[opt]:
-                    
-                    main_verb = self.main_verbs(token, item)
-                    if not response['v1']:
-                        response['v1'] = main_verb[0]
-                        if response['v1']:
-                            response['v1_options'] = main_verb[3]
-                    if not response['v2']:
-                        response['v2'] = main_verb[1]
-                        if response['v2']:
-                            response['v2_options'] = main_verb[3]
-                    if not response['v3']:
-                        response['v3'] = main_verb[2]
-                        if response['v3']:
-                            response['v3_options'] = main_verb[3]
+                    answer = self.data['answer']
+                    items = [str(item[1]) for item in self.data[opt]]
+                    temp = " ".join(items)
+                    if(temp == answer):
+                        main_verb = self.main_verbs(token, item)
+                        if not response['v1']:
+                            response['v1'] = main_verb[0]
+                            if response['v1']:
+                                response['v1_options'] = main_verb[3]
+                        if not response['v2']:
+                            response['v2'] = main_verb[1]
+                            if response['v2']:
+                                response['v2_options'] = main_verb[3]
+                        if not response['v3']:
+                            response['v3'] = main_verb[2]
+                            if response['v3']:
+                                response['v3_options'] = main_verb[3]
 
-                    tense = self.tense(token, item)
-                    if not response['v4']:
-                        response['v4'] = tense[0]
-                        if response['v4']:
-                            response['v4_options'] = tense[2]
-                    if not response['v5']:
-                        response['v5'] = tense[1]
-                        if response['v5']:
-                            response['v5_options'] = tense[2]
+                        tense = self.tense(token, item)
+                        if not response['v4']:
+                            response['v4'] = tense[0]
+                            if response['v4']:
+                                response['v4_options'] = tense[2]
+                        if not response['v5']:
+                            response['v5'] = tense[1]
+                            if response['v5']:
+                                response['v5_options'] = tense[2]
 
-                    if not response['v6']:
-                        response['v6'] = self.infinitives(token, item)
-                        if response['v6']:
-                            response['v6_options'] = item[1]
+                        if not response['v6']:
+                            response['v6'] = self.infinitives(token, item)
+                            if response['v6']:
+                                response['v6_options'] = item[1]
+                            
+                        passives = self.passives(token, item)
+                        if not response['v7']:
+                            response['v7'] = passives[0]
+                            if response['v7']:
+                                response['v7_options'] = passives[2]
+                        if not response['v8']:
+                            response['v8'] = passives[1]
+                            if response['v8']:
+                                response['v8_options'] = passives[2]
+
+                        if not response['v9']:
+                            response['v9'] = self.have_participle(token, item)
+                            if response['v9']:
+                                response['v9_options'] = item[1]
+
+                        if not response['v10']:
+                            response['v10'] = self.auxiliary_verbs(token, item)
+                            if response['v10']:
+                                response['v10_options'] = item[1]
                         
+                        pronouns = self.pronouns(token, item)
+                        if not response['pro1']:
+                            response['pro1'] = pronouns[0]
+                            if response['pro1']:
+                                response['pro1_options'] = pronouns[3]
+                        if not response['pro2']:
+                            response['pro2'] = pronouns[1]
+                            if response['pro2']:
+                                response['pro2_options'] = pronouns[3]
+                        if not response['pro3']:
+                            response['pro3'] = pronouns[2]
+                            if response['pro3']:
+                                response['pro3_options'] = pronouns[3]
 
-                    passives = self.passives(token, item)
-                    if not response['v7']:
-                        response['v7'] = passives[0]
-                        if response['v7']:
-                            response['v7_options'] = passives[2]
-                    if not response['v8']:
-                        response['v8'] = passives[1]
-                        if response['v8']:
-                            response['v8_options'] = passives[2]
+                        nouns = self.nouns(token, item)
+                        if not response['n1']:
+                            response['n1'] = nouns[0]
+                            if response['n1']:
+                                response['n1_options'] = nouns[3]
+                        if not response['n2']:
+                            response['n2'] = nouns[1]
+                            if response['n2']:
+                                response['n2_options'] = nouns[3]
+                        if not response['n3']:
+                            response['n3'] = nouns[2]
+                            if response['n3']:
+                                response['n3_options'] = nouns[3]
 
-                    if not response['v9']:
-                        response['v9'] = self.have_participle(token, item)
-                        if response['v9']:
-                            response['v9_options'] = item[1]
+                        adj = self.adjectives(token, item)
+                        if not response['a1']:
+                            response['a1'] = adj[0]
+                            if response['a1']:
+                                response['a1_options'] = adj[6]
+                        if not response['a2']:
+                            response['a2'] = adj[1]
+                            if response['a2']:
+                                response['a2_options'] = adj[6]
+                        if not response['a3']:
+                            response['a3'] = adj[2]
+                            if response['a3']:
+                                response['a3_options'] = adj[6]
+                        if not response['a4']:
+                            response['a4'] = adj[3]
+                            if response['a4']:
+                                response['a4_options'] = adj[6]
+                        if not response['a5']:
+                            response['a5'] = adj[4]
+                            if response['a5']:
+                                response['a5_options'] = adj[6]
+                        if not response['a6']:
+                            response['a6'] = adj[5]
+                            if response['a6']:
+                                response['a6_options'] = adj[6]
 
-                    if not response['v10']:
-                        response['v10'] = self.auxiliary_verbs(token, item)
-                        if response['v10']:
-                            response['v10_options'] = item[1]
-                    
-                    pronouns = self.pronouns(token, item)
-                    if not response['pro1']:
-                        response['pro1'] = pronouns[0]
-                        if response['pro1']:
-                            response['pro1_options'] = pronouns[3]
-                    if not response['pro2']:
-                        response['pro2'] = pronouns[1]
-                        if response['pro2']:
-                            response['pro2_options'] = pronouns[3]
-                    if not response['pro3']:
-                        response['pro3'] = pronouns[2]
-                        if response['pro3']:
-                            response['pro3_options'] = pronouns[3]
+                        prep = self.prepositions(token, item)
+                        if not response['pre1']:
+                            response['pre1'] = prep[0]
+                            if response['pre1']:
+                                response['pre1_options'] = prep[3]
+                        if not response['pre2']:
+                            response['pre2'] = prep[1]
+                            if response['pre2']:
+                                response['pre2_options'] = prep[3]
+                        if not response['pre3']:
+                            response['pre3'] = prep[2]
+                            if response['pre3']:
+                                response['pre3_options'] = prep[3]
 
-                    nouns = self.nouns(token, item)
-                    if not response['n1']:
-                        response['n1'] = nouns[0]
-                        if response['n1']:
-                            response['n1_options'] = nouns[3]
-                    if not response['n2']:
-                        response['n2'] = nouns[1]
-                        if response['n2']:
-                            response['n2_options'] = nouns[3]
-                    if not response['n3']:
-                        response['n3'] = nouns[2]
-                        if response['n3']:
-                            response['n3_options'] = nouns[3]
+                        Cconj = self.Cconjunctions(token, item)
+                        if not response['con1']:
+                            response['con1'] = Cconj[0]
+                            if response['con1']:
+                                response['con1_options'] = Cconj[2]
+                        if not response['con2']:
+                            response['con2'] = Cconj[1]
+                            if response['con2']:
+                                response['con2_options'] = Cconj[2]
 
-                    adj = self.adjectives(token, item)
-                    if not response['a1']:
-                        response['a1'] = adj[0]
-                        if response['a1']:
-                            response['a1_options'] = adj[6]
-                    if not response['a2']:
-                        response['a2'] = adj[1]
-                        if response['a2']:
-                            response['a2_options'] = adj[6]
-                    if not response['a3']:
-                        response['a3'] = adj[2]
-                        if response['a3']:
-                            response['a3_options'] = adj[6]
-                    if not response['a4']:
-                        response['a4'] = adj[3]
-                        if response['a4']:
-                            response['a4_options'] = adj[6]
-                    if not response['a5']:
-                        response['a5'] = adj[4]
-                        if response['a5']:
-                            response['a5_options'] = adj[6]
-                    if not response['a6']:
-                        response['a6'] = adj[5]
-                        if response['a6']:
-                            response['a6_options'] = adj[6]
-
-                    prep = self.prepositions(token, item)
-                    if not response['pre1']:
-                        response['pre1'] = prep[0]
-                        if response['pre1']:
-                            response['pre1_options'] = prep[3]
-                    if not response['pre2']:
-                        response['pre2'] = prep[1]
-                        if response['pre2']:
-                            response['pre2_options'] = prep[3]
-                    if not response['pre3']:
-                        response['pre3'] = prep[2]
-                        if response['pre3']:
-                            response['pre3_options'] = prep[3]
-
-                    Cconj = self.Cconjunctions(token, item)
-                    if not response['con1']:
-                        response['con1'] = Cconj[0]
-                        if response['con1']:
-                            response['con1_options'] = Cconj[2]
-                    if not response['con2']:
-                        response['con2'] = Cconj[1]
-                        if response['con2']:
-                            response['con2_options'] = Cconj[2]
-
-                    Sconj = self.Sconjunctions(token, item)
-                    if not response['scon1']:
-                        response['scon1'] = Sconj[0]
-                        if response['scon1']:
-                            response['scon1_options'] = Sconj[2]
-                    if not response['scon2']:
-                        response['scon2'] = Sconj[1]
-                        if response['scon2']:
-                            response['scon2_options'] = Sconj[2]
+                        Sconj = self.Sconjunctions(token, item)
+                        if not response['scon1']:
+                            response['scon1'] = Sconj[0]
+                            if response['scon1']:
+                                response['scon1_options'] = Sconj[2]
+                        if not response['scon2']:
+                            response['scon2'] = Sconj[1]
+                            if response['scon2']:
+                                response['scon2_options'] = Sconj[2]
                     
         return response
 
@@ -498,13 +501,13 @@ class FeatureExtractionV2:
                                     suggested_words_aux.append(child.text)
         return suggested_words, suggested_words_aux
     
-    def check_sva(self, doc):
+    def check_sva(self, doc, answer):
         suggested_words, suggested_words_aux = self.subject_verb_agreement(doc)
         options = ['A', 'B', 'C', 'D']
         sva = False
         
         for opt in options:
             for item in self.data[opt]:
-                if item[1] in suggested_words or item[1] in suggested_words_aux:
+                if (item[1] in suggested_words and item[1] == answer) or (item[1] in suggested_words_aux and item[1] == answer):
                     sva = True
         return sva, item[1]

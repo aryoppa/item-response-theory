@@ -37,11 +37,11 @@ with open(path, 'r') as f:
 print('Extracted!')
 
 print('Mapping...')
-json_to_csv_with_level2('cobi_features_v2')
+json_to_csv_with_level2('q_bank_features_v2')
 print('Successfully Mapped Questions with Competencies!')
 
 # Load the JSON data from the input file
-with open('data/raw/cobi_features_v2.json', 'r') as f:
+with open('data/raw/q_bank_features_v2.json', 'r') as f:
     json_data = json.load(f)
 
 output = []
