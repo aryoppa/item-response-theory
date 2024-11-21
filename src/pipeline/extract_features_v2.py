@@ -81,7 +81,7 @@ def extract_features_v2(data, filename, nlp, word_freq):
         temp = check_level2(level3)
         response['level2'] = temp[0]
         response['level2_with_options'] = temp[1]
-        response['levels'] = check_levels(level3)
+        response['levels'] = check_levels(level3, response['level2'])
         response['options_comp'] = check_comp(response['level2_with_options'], response['option_A'], response['option_B'], response['option_C'], response['option_D'])
         extracted_features.append(response)
     set_training_data(f'{filename}_features_v2', extracted_features)
@@ -150,9 +150,10 @@ def check_comp(opt, A, B, C, D):
 
     return Another, Bnother, Cnother, Dnother
 
-def check_levels(data):
-    
-    if((data.get('c_count') > 2 and (data.get('u_word') > 3)) 
+def check_levels(data, level2):
+    true_counts = sum(level2.values())
+
+    if((true_counts > 5) or (data.get('c_count') > 2 and (data.get('u_word') > 3)) 
        or (data.get('s_count') > 1 and (data.get('u_word') > 2))
        or (data.get('c_count') > 4) 
        or (data.get('s_count') > 3) 
@@ -162,7 +163,7 @@ def check_levels(data):
             "Level_2" : False,
             "Level_1" : False,
         }
-    elif((data.get('c_count') > 0 and (data.get('u_word') > 2)) 
+    elif((true_counts > 2) or (data.get('c_count') > 0 and (data.get('u_word') > 2)) 
          or (data.get('s_count') > 0 and (data.get('u_word') > 1))
        or (data.get('c_count') > 2) 
        or (data.get('s_count') > 1) 

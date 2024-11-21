@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Stage One Test</title>
+</head>
+<body>
+    <h1>Stage One Test</h1>
+    <form id="stageOneForm">
+        {% for question in questions %}
+            <div class="question">
+                <p><strong>{{ question['question_text'] }}</strong></p>
+                <div class="options">
+                    {% for option in ['A', 'B', 'C', 'D'] %}
+                        <input type="radio" name="question_{{ question['question_id'] }}" value="{{ question['option_' + option] }}" required> {{ question['option_' + option] }}<br>
+                    {% endfor %}
+                </div>
+            </div>
+        {% endfor %}
+        <button type="submit">Submit Answers</button>
+    </form>
+
+    <script>
+        document.getElementById('stageOneForm').addEventListener('submit', function(event) {
+            event.preventDefault();
+
+            const answers = Array.from(document.querySelectorAll('input[type="radio"]:checked')).map(option => ({
+                question_id: option.name.split('_')[1],
+                selected_option: option.value
+            }));
+            
+            fetch('/check_answers', {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json'
+                },
+                body: JSON.stringify({ answers })
+            })
+            .then(response => response.json())
+            .then(data => {
+                if (data.wrong_answers && Array.isArray(data.wrong_answers)) {
+                    const message = data.wrong_answers.length > 0 
+                        ? 'You got some questions wrong. Wrong question IDs: ' + data.wrong_answers.join(', ')
+                        : 'Congratulations! All answers are correct.';
+                    alert(message);
+                } else if (data.error) {
+                    alert('Error: ' + data.error);
+                } else {
+                    alert('Unexpected response from server.');
+                }
+            })
+            .catch(error => {
+                console.error('Error:', error);
+                alert('An error occurred while submitting your answers. Please try again.');
+            });
+        });
+
+    </script>
+</body>
+</html>

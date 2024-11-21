@@ -1,27 +1,6 @@
 {
     "level_1": [
         {
-            "question_text": "Richard Wright's Uncle Tom's Children, a collection of short stories, were a critical success when it appeared in 1938.",
-            "answer": "were",
-            "options_comp": [
-                [
-                    "short"
-                ],
-                [
-                    "were",
-                    "main_verbs",
-                    "tense",
-                    "conjunctions"
-                ],
-                [
-                    "success"
-                ],
-                [
-                    "appeared"
-                ]
-            ]
-        },
-        {
             "question_text": "Migrating butterflies can travel long distant over water.",
             "answer": "distant",
             "options_comp": [
@@ -138,50 +117,6 @@
             ]
         },
         {
-            "question_text": "The tree porcupine is found in wooded areas thoughout most from North America.",
-            "answer": "from",
-            "options_comp": [
-                [
-                    "The"
-                ],
-                [
-                    "found"
-                ],
-                [
-                    "areas"
-                ],
-                [
-                    "from",
-                    "passives",
-                    "determiners",
-                    "prepositions",
-                    "conjunctions"
-                ]
-            ]
-        },
-        {
-            "question_text": "To date, only a small percentage of all glass manufactured in the United States is recycled, but markets for recycled glass that are growing steadily.",
-            "answer": "that are",
-            "options_comp": [
-                [
-                    "glass manufactured"
-                ],
-                [
-                    "is"
-                ],
-                [
-                    "that are",
-                    "tense",
-                    "passives",
-                    "auxiliary_verbs",
-                    "pronouns"
-                ],
-                [
-                    "steadily"
-                ]
-            ]
-        },
-        {
             "question_text": "The oceans are the major source of the atmospheric moisture that is obtained through evaporator.",
             "answer": "evaporator",
             "options_comp": [
@@ -220,27 +155,6 @@
             ]
         },
         {
-            "question_text": "The Earth's atmosphere functions much like a giant greenhouse, admitting sunlight between outer space but preventing heat from escaping.",
-            "answer": "between",
-            "options_comp": [
-                [
-                    "functions"
-                ],
-                [
-                    "between",
-                    "determiners",
-                    "prepositions",
-                    "conjunctions"
-                ],
-                [
-                    "but"
-                ],
-                [
-                    "escaping"
-                ]
-            ]
-        },
-        {
             "question_text": "Fran Tannenbaum, a paleontology student doing summer fieldwork, found a completely seventy-five-million-year-old fossil eggi near Chateau, Montana.",
             "answer": "completely",
             "options_comp": [
@@ -255,27 +169,6 @@
                 ],
                 [
                     "completely"
-                ]
-            ]
-        },
-        {
-            "question_text": "Art Nouveau developed in the 1890's when artists did a conscious effort to break with what they regarded as worn-out formulas of the past.",
-            "answer": "did",
-            "options_comp": [
-                [
-                    "in"
-                ],
-                [
-                    "did",
-                    "tense",
-                    "conjunctions"
-                ],
-                [
-                    "conscious"
-                ],
-                [
-                    "the past",
-                    "subject_verb_agreement"
                 ]
             ]
         },
@@ -296,27 +189,6 @@
                     "the oldest trade",
                     "nouns",
                     "determiners"
-                ]
-            ]
-        },
-        {
-            "question_text": "Of 1901 to 1914, acclaimed actor Douglas Fairbanks appeared on stage in a series of light comedies.",
-            "answer": "Of",
-            "options_comp": [
-                [
-                    "Of",
-                    "determiners",
-                    "prepositions",
-                    "conjunctions"
-                ],
-                [
-                    "stage"
-                ],
-                [
-                    "a series"
-                ],
-                [
-                    "comedies"
                 ]
             ]
         },
@@ -493,49 +365,6 @@
             ]
         },
         {
-            "question_text": "The scale of the demographic change that are now occuring and that are projected for the near future is unprecendented in human history.",
-            "answer": "change",
-            "options_comp": [
-                [
-                    "change",
-                    "passives",
-                    "nouns",
-                    "determiners"
-                ],
-                [
-                    "projected"
-                ],
-                [
-                    "future"
-                ],
-                [
-                    "human"
-                ]
-            ]
-        },
-        {
-            "question_text": "The narwhal resembles like other whales, but it has a long, spiral tush growing from its head.",
-            "answer": "resembles like",
-            "options_comp": [
-                [
-                    "resembles like",
-                    "nouns",
-                    "determiners",
-                    "prepositions",
-                    "conjunctions"
-                ],
-                [
-                    "a long"
-                ],
-                [
-                    "growing"
-                ],
-                [
-                    "its"
-                ]
-            ]
-        },
-        {
             "question_text": "Lillian Gish is best known for her roles in such silently films as The Birth of a Nation and Broken Blossoms.",
             "answer": "silently",
             "options_comp": [
@@ -573,27 +402,6 @@
             ]
         },
         {
-            "question_text": "It may take several hundred years to build inch of topsoil.",
-            "answer": "build inch",
-            "options_comp": [
-                [
-                    "It"
-                ],
-                [
-                    "may take"
-                ],
-                [
-                    "hundred years"
-                ],
-                [
-                    "build inch",
-                    "infinitives",
-                    "auxiliary_verbs",
-                    "nouns"
-                ]
-            ]
-        },
-        {
             "question_text": "Known for power, speed, and, maneuverability, the goshawk has short wings and a long tail, enabling them to dodge branches in pursuit of prey.",
             "answer": "them",
             "options_comp": [
@@ -609,48 +417,6 @@
                 [
                     "them",
                     "pronouns"
-                ]
-            ]
-        },
-        {
-            "question_text": "Lubrication is essential in machinery because if the moving part of a machine come into direct contact with each other, friction interferes with motion.",
-            "answer": "moving part",
-            "options_comp": [
-                [
-                    "if"
-                ],
-                [
-                    "moving part",
-                    "tense",
-                    "nouns",
-                    "determiners"
-                ],
-                [
-                    "direct contact"
-                ],
-                [
-                    "each other"
-                ]
-            ]
-        },
-        {
-            "question_text": "One basic principle of international air law recognize a country's complete sovereignty over the airspace above its territory.",
-            "answer": "recognize",
-            "options_comp": [
-                [
-                    "international"
-                ],
-                [
-                    "recognize",
-                    "main_verbs",
-                    "tense"
-                ],
-                [
-                    "over"
-                ],
-                [
-                    "territory",
-                    "subject_verb_agreement"
                 ]
             ]
         },
@@ -732,28 +498,6 @@
             ]
         },
         {
-            "question_text": "The tickets, which are extremely good value, can be buy from large supermarkets.",
-            "answer": "buy",
-            "options_comp": [
-                [
-                    "tickets"
-                ],
-                [
-                    "which"
-                ],
-                [
-                    "good"
-                ],
-                [
-                    "buy",
-                    "main_verbs",
-                    "passives",
-                    "auxiliary_verbs",
-                    "subject_verb_agreement"
-                ]
-            ]
-        },
-        {
             "question_text": "The number of people who asked for the discount been low but grew during the summer period.",
             "answer": "been",
             "options_comp": [
@@ -774,27 +518,6 @@
             ]
         },
         {
-            "question_text": "He wanted always to be a doctor and after doing medicine he now works in a hospital.",
-            "answer": "wanted",
-            "options_comp": [
-                [
-                    "wanted",
-                    "main_verbs",
-                    "tense"
-                ],
-                [
-                    "a"
-                ],
-                [
-                    "after"
-                ],
-                [
-                    "works",
-                    "subject_verb_agreement"
-                ]
-            ]
-        },
-        {
             "question_text": "The informations they give us was not very helpful so I consulted the website instead.",
             "answer": "give",
             "options_comp": [
@@ -810,48 +533,6 @@
                 ],
                 [
                     "so",
-                    "subject_verb_agreement"
-                ]
-            ]
-        },
-        {
-            "question_text": "There isn\u2019t much time, do you think we should get a taxi beneath the exhibition centre?.",
-            "answer": "beneath",
-            "options_comp": [
-                [
-                    "much"
-                ],
-                [
-                    "do"
-                ],
-                [
-                    "think"
-                ],
-                [
-                    "beneath",
-                    "determiners",
-                    "prepositions",
-                    "conjunctions"
-                ]
-            ]
-        },
-        {
-            "question_text": "The policeman show us an identical picture of the man who stole the car.",
-            "answer": "show",
-            "options_comp": [
-                [
-                    "show",
-                    "main_verbs",
-                    "tense"
-                ],
-                [
-                    "identical"
-                ],
-                [
-                    "stole"
-                ],
-                [
-                    "the",
                     "subject_verb_agreement"
                 ]
             ]
@@ -915,27 +596,6 @@
             ]
         },
         {
-            "question_text": "My boyfriend always taking me to see horror films, but I do not like them.",
-            "answer": "taking",
-            "options_comp": [
-                [
-                    "My"
-                ],
-                [
-                    "boyfriend"
-                ],
-                [
-                    "taking",
-                    "main_verbs",
-                    "tense"
-                ],
-                [
-                    "do",
-                    "subject_verb_agreement"
-                ]
-            ]
-        },
-        {
             "question_text": "Regards as the world\u2019s foremost linguistic theorist, Noam Chomsky continues to create new theories about language and language learning.",
             "answer": "Regards",
             "options_comp": [
@@ -975,27 +635,6 @@
             ]
         },
         {
-            "question_text": "One of the tenets during New Criticism is that a critic need not tell readers what to think about a story.",
-            "answer": "during",
-            "options_comp": [
-                [
-                    "the"
-                ],
-                [
-                    "during",
-                    "determiners",
-                    "prepositions",
-                    "conjunctions"
-                ],
-                [
-                    "is"
-                ],
-                [
-                    "what"
-                ]
-            ]
-        },
-        {
             "question_text": "Deserts are arid land areas where more water was lost through evaporation than is gained through precipitation.",
             "answer": "was",
             "options_comp": [
@@ -1016,28 +655,6 @@
             ]
         },
         {
-            "question_text": "When goshawk chicks are young, both parents had shared in the hunting duties and in guarding the nest.",
-            "answer": "had shared",
-            "options_comp": [
-                [
-                    "goshawk"
-                ],
-                [
-                    "are"
-                ],
-                [
-                    "had shared",
-                    "main_verbs",
-                    "tense",
-                    "auxiliary_verbs",
-                    "conjunctions"
-                ],
-                [
-                    "the"
-                ]
-            ]
-        },
-        {
             "question_text": "Not only is whales among the largest animals that ever lived, but they are also among the most intelligent.",
             "answer": "is",
             "options_comp": [
@@ -1054,27 +671,6 @@
                 ],
                 [
                     "the"
-                ]
-            ]
-        },
-        {
-            "question_text": "There is about 350 species of sharks, and although they are all carnivorous, only a few species will attack people.",
-            "answer": "is",
-            "options_comp": [
-                [
-                    "is",
-                    "main_verbs",
-                    "tense"
-                ],
-                [
-                    "about"
-                ],
-                [
-                    "are"
-                ],
-                [
-                    "all",
-                    "subject_verb_agreement"
                 ]
             ]
         },
@@ -1118,27 +714,6 @@
             ]
         },
         {
-            "question_text": "Even thinks my aunt lost the beauty contest she is still the prettiest of all the other contestants.",
-            "answer": "thinks",
-            "options_comp": [
-                [
-                    "thinks",
-                    "main_verbs",
-                    "tense"
-                ],
-                [
-                    "lost"
-                ],
-                [
-                    "is"
-                ],
-                [
-                    "prettiest",
-                    "subject_verb_agreement"
-                ]
-            ]
-        },
-        {
             "question_text": "The thief who stole my watch was compelling to restore it again.",
             "answer": "compelling",
             "options_comp": [
@@ -1153,178 +728,6 @@
                 ],
                 [
                     "it"
-                ]
-            ]
-        },
-        {
-            "question_text": "The huge have increased in popularity of specialty coffees has contributed to the success of Starbucks, Barney\u2019s and other coffee purveyors.",
-            "answer": "have increased",
-            "options_comp": [
-                [
-                    "huge"
-                ],
-                [
-                    "have increased",
-                    "main_verbs",
-                    "tense",
-                    "have_+_participle",
-                    "auxiliary_verbs"
-                ],
-                [
-                    "contributed"
-                ],
-                [
-                    "and"
-                ]
-            ]
-        },
-        {
-            "question_text": "When the silkworm gets through to lay its eggs, it dies.",
-            "answer": "to lay",
-            "options_comp": [
-                [
-                    "the silkworm"
-                ],
-                [
-                    "to lay",
-                    "infinitives",
-                    "auxiliary_verbs",
-                    "prepositions"
-                ],
-                [
-                    "its"
-                ],
-                [
-                    "it dies"
-                ]
-            ]
-        },
-        {
-            "question_text": "A barometer is a device with a sealed metal chamber designed to reading the changes in the pressure of air in the atmosphere.",
-            "answer": "to reading",
-            "options_comp": [
-                [
-                    "A barometer"
-                ],
-                [
-                    "sealed"
-                ],
-                [
-                    "to reading",
-                    "tense",
-                    "infinitives",
-                    "auxiliary_verbs",
-                    "prepositions"
-                ],
-                [
-                    "air"
-                ]
-            ]
-        },
-        {
-            "question_text": "Although some higher structures have been build in New York City, none characterizes the skyline better than the Empire State Building.",
-            "answer": "have been build",
-            "options_comp": [
-                [
-                    "some higher structures"
-                ],
-                [
-                    "have been build",
-                    "tense",
-                    "passives",
-                    "have_+_participle",
-                    "auxiliary_verbs"
-                ],
-                [
-                    "characterizes"
-                ],
-                [
-                    "better than"
-                ]
-            ]
-        },
-        {
-            "question_text": "Research in genetics and DNA having had a profound influence on the direction of treatment for a large number of diseases.",
-            "answer": "having",
-            "options_comp": [
-                [
-                    "having",
-                    "tense",
-                    "auxiliary_verbs"
-                ],
-                [
-                    "profound"
-                ],
-                [
-                    "on"
-                ],
-                [
-                    "a large number",
-                    "subject_verb_agreement"
-                ]
-            ]
-        },
-        {
-            "question_text": "There is no limit to the diversity to be finding in the cultures of people throughout the world.",
-            "answer": "finding",
-            "options_comp": [
-                [
-                    "no"
-                ],
-                [
-                    "finding",
-                    "tense",
-                    "infinitives",
-                    "auxiliary_verbs"
-                ],
-                [
-                    "cultures"
-                ],
-                [
-                    "people"
-                ]
-            ]
-        },
-        {
-            "question_text": "The government requires that a census taken every ten years so that accurate statistics may be compiled.",
-            "answer": "taken",
-            "options_comp": [
-                [
-                    "taken",
-                    "tense",
-                    "passives"
-                ],
-                [
-                    "every ten years"
-                ],
-                [
-                    "statistics"
-                ],
-                [
-                    "may be compiled",
-                    "subject_verb_agreement"
-                ]
-            ]
-        },
-        {
-            "question_text": "Based on a decline in vehicular deaths during the past decade, seat belts, air bags, baby seats, and other safety features in newer automobiles must be save lives.",
-            "answer": "save",
-            "options_comp": [
-                [
-                    "baby seats"
-                ],
-                [
-                    "newer"
-                ],
-                [
-                    "save",
-                    "main_verbs",
-                    "passives",
-                    "auxiliary_verbs"
-                ],
-                [
-                    "lives",
-                    "subject_verb_agreement"
                 ]
             ]
         },
@@ -1423,29 +826,6 @@
                     "childrens",
                     "passives",
                     "nouns"
-                ]
-            ]
-        },
-        {
-            "question_text": "Collections of the simple and functional Shaker furniture can be seen in museum throughout the United States.",
-            "answer": "in museum",
-            "options_comp": [
-                [
-                    "Collections"
-                ],
-                [
-                    "furniture"
-                ],
-                [
-                    "can be seen"
-                ],
-                [
-                    "in museum",
-                    "passives",
-                    "nouns",
-                    "determiners",
-                    "prepositions",
-                    "conjunctions"
                 ]
             ]
         },
@@ -1737,50 +1117,6 @@
             ]
         },
         {
-            "question_text": "Gold, silver, and copper coins are often alloyed with harder metals to make them hard as enough to withstand wear.",
-            "answer": "hard as enough",
-            "options_comp": [
-                [
-                    "harder",
-                    "passives"
-                ],
-                [
-                    "make"
-                ],
-                [
-                    "them"
-                ],
-                [
-                    "hard as enough",
-                    "passives",
-                    "determiners",
-                    "prepositions",
-                    "conjunctions"
-                ]
-            ]
-        },
-        {
-            "question_text": "Alligators are about the same color than crocodiles, although the adults may be slightly darker with broader heads and blunter noses.",
-            "answer": "than",
-            "options_comp": [
-                [
-                    "about"
-                ],
-                [
-                    "than",
-                    "determiners",
-                    "prepositions",
-                    "conjunctions"
-                ],
-                [
-                    "may be"
-                ],
-                [
-                    "blunter"
-                ]
-            ]
-        },
-        {
             "question_text": "Laser discs provide images of best quality than those of either television signals or video tapes.",
             "answer": "best quality",
             "options_comp": [
@@ -1913,27 +1249,6 @@
             ]
         },
         {
-            "question_text": "Because the expense of traditional fuels and the concern that they might run out, many countries have been investigating alternative sources of power.",
-            "answer": "Because",
-            "options_comp": [
-                [
-                    "Because",
-                    "determiners",
-                    "prepositions",
-                    "conjunctions"
-                ],
-                [
-                    "they"
-                ],
-                [
-                    "might run out"
-                ],
-                [
-                    "have been investigating"
-                ]
-            ]
-        },
-        {
             "question_text": "National parks include not only the most scenic places in the nation but places distinguished for their historic or scientific interest.",
             "answer": "but",
             "options_comp": [
@@ -1988,27 +1303,6 @@
                 ],
                 [
                     "destroying"
-                ]
-            ]
-        },
-        {
-            "question_text": "The attribution of human characteristics to animals or inanimate objects appears in the mythologies of many cultures is a literary device called anthropomorphism.",
-            "answer": "appears",
-            "options_comp": [
-                [
-                    "The attribution"
-                ],
-                [
-                    "appears",
-                    "main_verbs",
-                    "tense"
-                ],
-                [
-                    "many cultures"
-                ],
-                [
-                    "called",
-                    "subject_verb_agreement"
                 ]
             ]
         },
@@ -2132,27 +1426,6 @@
             ]
         },
         {
-            "question_text": "Originally, the purpose of a sampler is to record complex stitches so that they could be duplicated later.",
-            "answer": "is",
-            "options_comp": [
-                [
-                    "Originally"
-                ],
-                [
-                    "is",
-                    "main_verbs",
-                    "tense",
-                    "passives"
-                ],
-                [
-                    "to record"
-                ],
-                [
-                    "they"
-                ]
-            ]
-        },
-        {
             "question_text": "Both a term paper and a final exam is often required for a college class.",
             "answer": "is",
             "options_comp": [
@@ -2169,27 +1442,6 @@
                 ],
                 [
                     "for"
-                ]
-            ]
-        },
-        {
-            "question_text": "In order to grow well, the Blue Spruce, like other pine trees, require a temperate climate.",
-            "answer": "require",
-            "options_comp": [
-                [
-                    "well"
-                ],
-                [
-                    "like"
-                ],
-                [
-                    "other"
-                ],
-                [
-                    "require",
-                    "main_verbs",
-                    "tense",
-                    "subject_verb_agreement"
                 ]
             ]
         },
@@ -2233,71 +1485,6 @@
             ]
         },
         {
-            "question_text": "The urinary system, including both the bladder and the kidneys, are contained in the cavities of the trunk.",
-            "answer": "are contained",
-            "options_comp": [
-                [
-                    "The urinary system"
-                ],
-                [
-                    "including"
-                ],
-                [
-                    "and"
-                ],
-                [
-                    "are contained",
-                    "main_verbs",
-                    "tense",
-                    "passives"
-                ]
-            ]
-        },
-        {
-            "question_text": "To prevent cavities, dental floss should be used daily after brushing one's teeth.",
-            "answer": "dental floss should be used",
-            "options_comp": [
-                [
-                    "dental floss should be used",
-                    "main_verbs",
-                    "tense",
-                    "passives",
-                    "auxiliary_verbs",
-                    "nouns"
-                ],
-                [
-                    "daily"
-                ],
-                [
-                    "brushing"
-                ],
-                [
-                    "one's"
-                ]
-            ]
-        },
-        {
-            "question_text": "While researching the problem of violent crime, the Senate committee's discovery that handguns were used to commit 64 percent of all murders in the United States.",
-            "answer": "the Senate committee 's discovery",
-            "options_comp": [
-                [
-                    "the Senate committee's discovery",
-                    "passives",
-                    "nouns",
-                    "determiners"
-                ],
-                [
-                    "were used"
-                ],
-                [
-                    "to commit"
-                ],
-                [
-                    "all murders"
-                ]
-            ]
-        },
-        {
             "question_text": "Having hit more home runs in one season than any other player in the history of baseball, Mark McGwire's record is famous.",
             "answer": "Mark McGwire 's record",
             "options_comp": [
@@ -2331,27 +1518,6 @@
                 ],
                 [
                     "the"
-                ]
-            ]
-        },
-        {
-            "question_text": "The six main parts of a business letter are the address, the inside address, the salutation, the body, the closing, and signing your name.",
-            "answer": "signing your name",
-            "options_comp": [
-                [
-                    "six main parts"
-                ],
-                [
-                    "business letter"
-                ],
-                [
-                    "are"
-                ],
-                [
-                    "signing your name",
-                    "tense",
-                    "pronouns",
-                    "nouns"
                 ]
             ]
         },
@@ -2585,28 +1751,6 @@
             ]
         },
         {
-            "question_text": "The Food and Drug Administration does not declare a drug a carcinogen until it has been proven conclusively that the effects in rats can be generalized for human beings.",
-            "answer": "in",
-            "options_comp": [
-                [
-                    "it"
-                ],
-                [
-                    "conclusively"
-                ],
-                [
-                    "in",
-                    "passives",
-                    "determiners",
-                    "prepositions",
-                    "conjunctions"
-                ],
-                [
-                    "be"
-                ]
-            ]
-        },
-        {
             "question_text": "In some states, the law allows drivers to turn right at a red light, but in other states, the law does not leave them do it.",
             "answer": "leave",
             "options_comp": [
@@ -2623,27 +1767,6 @@
                 [
                     "them",
                     "subject_verb_agreement"
-                ]
-            ]
-        },
-        {
-            "question_text": "When a person is arrested, the cops must let him make one telephone call.",
-            "answer": "the cops",
-            "options_comp": [
-                [
-                    "the cops",
-                    "passives",
-                    "nouns",
-                    "determiners"
-                ],
-                [
-                    "let"
-                ],
-                [
-                    "him"
-                ],
-                [
-                    "telephone call"
                 ]
             ]
         },
@@ -2807,27 +1930,6 @@
             ]
         },
         {
-            "question_text": "If Robert Kennedy would have lived a little longer, he probably would have won the election.",
-            "answer": "would have lived",
-            "options_comp": [
-                [
-                    "would have lived",
-                    "tense",
-                    "have_+_participle",
-                    "auxiliary_verbs"
-                ],
-                [
-                    "a little longer"
-                ],
-                [
-                    "probably"
-                ],
-                [
-                    "won"
-                ]
-            ]
-        },
-        {
             "question_text": "It was Shirley Temple Black which represented her country in the United Nations and later became an ambassador.",
             "answer": "which",
             "options_comp": [
@@ -2843,27 +1945,6 @@
                 ],
                 [
                     "later"
-                ]
-            ]
-        },
-        {
-            "question_text": "It is extremely important for an engineer to know to use a computer.",
-            "answer": "to know",
-            "options_comp": [
-                [
-                    "It is"
-                ],
-                [
-                    "extremely"
-                ],
-                [
-                    "for"
-                ],
-                [
-                    "to know",
-                    "infinitives",
-                    "auxiliary_verbs",
-                    "prepositions"
                 ]
             ]
         },
@@ -2982,28 +2063,6 @@
             ]
         },
         {
-            "question_text": "Because correlations are not causes, statistical data which are extremely easy to misuse",
-            "answer": "which are",
-            "options_comp": [
-                [
-                    "causes"
-                ],
-                [
-                    "which are",
-                    "main_verbs",
-                    "tense",
-                    "pronouns",
-                    "prepositions"
-                ],
-                [
-                    "extremely"
-                ],
-                [
-                    "to misuse"
-                ]
-            ]
-        },
-        {
             "question_text": "Lectures for the week of March 22-26 will include the following: The Causes of the Civil War, The Economy of the South, Battle Strategies, and The Assassinate Lincoln.",
             "answer": "The Assassinate",
             "options_comp": [
@@ -3023,27 +2082,6 @@
             ]
         },
         {
-            "question_text": "As every other nation, the United States used to define its unit of currency, the dollar, in terms of the gold standard.",
-            "answer": "As",
-            "options_comp": [
-                [
-                    "As",
-                    "determiners",
-                    "prepositions",
-                    "conjunctions"
-                ],
-                [
-                    "other"
-                ],
-                [
-                    "used to define"
-                ],
-                [
-                    "its"
-                ]
-            ]
-        },
-        {
             "question_text": "According to the graduate catalog, student housing is more cheaper than housing off campus.",
             "answer": "more cheaper",
             "options_comp": [
@@ -3058,52 +2096,6 @@
                 ],
                 [
                     "than"
-                ]
-            ]
-        },
-        {
-            "question_text": "Some methods to prevent soil erosion are plowing parallel with the slopes of hills, to plant trees on unproductive land, and rotating crops.",
-            "answer": "to plant",
-            "options_comp": [
-                [
-                    "Some"
-                ],
-                [
-                    "to prevent",
-                    "infinitives",
-                    "auxiliary_verbs",
-                    "prepositions"
-                ],
-                [
-                    "are"
-                ],
-                [
-                    "to plant",
-                    "infinitives",
-                    "auxiliary_verbs",
-                    "prepositions"
-                ]
-            ]
-        },
-        {
-            "question_text": "Mosquitoes will accepts the malaria parasite at only one stage of the parasite's complex life cycle.",
-            "answer": "accepts",
-            "options_comp": [
-                [
-                    "accepts",
-                    "main_verbs",
-                    "tense",
-                    "auxiliary_verbs"
-                ],
-                [
-                    "malaria"
-                ],
-                [
-                    "only one"
-                ],
-                [
-                    "complex",
-                    "subject_verb_agreement"
                 ]
             ]
         },
@@ -3295,27 +2287,6 @@
             ]
         },
         {
-            "question_text": "Born in Massachusetts in 1852, Albert Farbanks has begun making banjos in Boston in the late 1870s.",
-            "answer": "has begun",
-            "options_comp": [
-                [
-                    "Born"
-                ],
-                [
-                    "has begun",
-                    "main_verbs",
-                    "tense",
-                    "auxiliary_verbs"
-                ],
-                [
-                    "making"
-                ],
-                [
-                    "the late"
-                ]
-            ]
-        },
-        {
             "question_text": "Methane in wetlands comes from soil bacteria that consumes organic plant matter.",
             "answer": "consumes",
             "options_comp": [
@@ -3355,27 +2326,6 @@
             ]
         },
         {
-            "question_text": "Edward MacDowell remembers as the composer of such perennial favorites as \"To a Wild Rose\" and \"To a water Lily\".",
-            "answer": "remembers",
-            "options_comp": [
-                [
-                    "remembers",
-                    "main_verbs",
-                    "tense"
-                ],
-                [
-                    "composer"
-                ],
-                [
-                    "perennial"
-                ],
-                [
-                    "favorites",
-                    "subject_verb_agreement"
-                ]
-            ]
-        },
-        {
             "question_text": "Animism is the belief that objects and natural phenomena such as rivers, rocks, and wind are live and have feelings.",
             "answer": "live",
             "options_comp": [
@@ -3390,171 +2340,6 @@
                 ],
                 [
                     "feelings"
-                ]
-            ]
-        },
-        {
-            "question_text": "Space exploration has advanced significantly in the past few decades, allowing humans to send robots to explore distant planets and moons.",
-            "answer": "to send robots",
-            "options_comp": [
-                [
-                    "Space exploration has advanced"
-                ],
-                [
-                    "the past few decades"
-                ],
-                [
-                    "to send robots",
-                    "infinitives",
-                    "auxiliary_verbs",
-                    "nouns",
-                    "prepositions"
-                ],
-                [
-                    "planets and moons"
-                ]
-            ]
-        },
-        {
-            "question_text": "The teacher told the students to carefully to follow the instructions given on the board.",
-            "answer": "to carefully to follow",
-            "options_comp": [
-                [
-                    "The teacher told",
-                    "infinitives",
-                    "auxiliary_verbs",
-                    "prepositions"
-                ],
-                [
-                    "to carefully to follow",
-                    "infinitives",
-                    "auxiliary_verbs",
-                    "prepositions"
-                ],
-                [
-                    "the instructions given"
-                ],
-                [
-                    "on the board"
-                ]
-            ]
-        },
-        {
-            "question_text": "By the time we arrived, the organizers have already left the venue.",
-            "answer": "the organizers have",
-            "options_comp": [
-                [
-                    "By the time",
-                    "determiners"
-                ],
-                [
-                    "we arrived"
-                ],
-                [
-                    "the organizers have",
-                    "tense",
-                    "auxiliary_verbs",
-                    "nouns",
-                    "determiners"
-                ],
-                [
-                    "already left the venue",
-                    "determiners"
-                ]
-            ]
-        },
-        {
-            "question_text": "He has went to the library several times but still cannot find the book he needs.",
-            "answer": "He has went to the library",
-            "options_comp": [
-                [
-                    "He has went to the library",
-                    "main_verbs",
-                    "tense",
-                    "auxiliary_verbs",
-                    "pronouns",
-                    "nouns",
-                    "determiners",
-                    "prepositions",
-                    "conjunctions"
-                ],
-                [
-                    "several times"
-                ],
-                [
-                    "but still cannot find"
-                ],
-                [
-                    "the book he needs"
-                ]
-            ]
-        },
-        {
-            "question_text": "She has wrote many books, but only a few have been published.",
-            "answer": "She has wrote",
-            "options_comp": [
-                [
-                    "She has wrote",
-                    "main_verbs",
-                    "tense",
-                    "passives",
-                    "auxiliary_verbs",
-                    "pronouns"
-                ],
-                [
-                    "many books"
-                ],
-                [
-                    "but only a few"
-                ],
-                [
-                    "have been published"
-                ]
-            ]
-        },
-        {
-            "question_text": "The teacher told the students to carefully to follow the instructions given on the board.",
-            "answer": "to carefully to follow",
-            "options_comp": [
-                [
-                    "The teacher told",
-                    "infinitives",
-                    "auxiliary_verbs",
-                    "prepositions"
-                ],
-                [
-                    "to carefully to follow",
-                    "infinitives",
-                    "auxiliary_verbs",
-                    "prepositions"
-                ],
-                [
-                    "the instructions given"
-                ],
-                [
-                    "on the board"
-                ]
-            ]
-        },
-        {
-            "question_text": "By the time the teacher arrived, the class have already started their presentation.",
-            "answer": "the class have already",
-            "options_comp": [
-                [
-                    "By the time"
-                ],
-                [
-                    "the teacher arrived"
-                ],
-                [
-                    "the class have already",
-                    "tense",
-                    "auxiliary_verbs",
-                    "nouns",
-                    "determiners"
-                ],
-                [
-                    "started their presentation"
                 ]
             ]
         }
@@ -3576,6 +2361,27 @@
                 ],
                 [
                     "mysteriously"
+                ]
+            ]
+        },
+        {
+            "question_text": "Richard Wright's Uncle Tom's Children, a collection of short stories, were a critical success when it appeared in 1938.",
+            "answer": "were",
+            "options_comp": [
+                [
+                    "short"
+                ],
+                [
+                    "were",
+                    "main_verbs",
+                    "tense",
+                    "conjunctions"
+                ],
+                [
+                    "success"
+                ],
+                [
+                    "appeared"
                 ]
             ]
         },
@@ -3645,6 +2451,71 @@
             ]
         },
         {
+            "question_text": "The tree porcupine is found in wooded areas thoughout most from North America.",
+            "answer": "from",
+            "options_comp": [
+                [
+                    "The"
+                ],
+                [
+                    "found"
+                ],
+                [
+                    "areas"
+                ],
+                [
+                    "from",
+                    "passives",
+                    "determiners",
+                    "prepositions",
+                    "conjunctions"
+                ]
+            ]
+        },
+        {
+            "question_text": "To date, only a small percentage of all glass manufactured in the United States is recycled, but markets for recycled glass that are growing steadily.",
+            "answer": "that are",
+            "options_comp": [
+                [
+                    "glass manufactured"
+                ],
+                [
+                    "is"
+                ],
+                [
+                    "that are",
+                    "tense",
+                    "passives",
+                    "auxiliary_verbs",
+                    "pronouns"
+                ],
+                [
+                    "steadily"
+                ]
+            ]
+        },
+        {
+            "question_text": "The Earth's atmosphere functions much like a giant greenhouse, admitting sunlight between outer space but preventing heat from escaping.",
+            "answer": "between",
+            "options_comp": [
+                [
+                    "functions"
+                ],
+                [
+                    "between",
+                    "determiners",
+                    "prepositions",
+                    "conjunctions"
+                ],
+                [
+                    "but"
+                ],
+                [
+                    "escaping"
+                ]
+            ]
+        },
+        {
             "question_text": "The almond tree which produces the oldest species of nut and is the most widely grown of all nut trees.",
             "answer": "which produces",
             "options_comp": [
@@ -3685,6 +2556,27 @@
             ]
         },
         {
+            "question_text": "Art Nouveau developed in the 1890's when artists did a conscious effort to break with what they regarded as worn-out formulas of the past.",
+            "answer": "did",
+            "options_comp": [
+                [
+                    "in"
+                ],
+                [
+                    "did",
+                    "tense",
+                    "conjunctions"
+                ],
+                [
+                    "conscious"
+                ],
+                [
+                    "the past",
+                    "subject_verb_agreement"
+                ]
+            ]
+        },
+        {
             "question_text": "The most widely cultivated all of fruit trees, the apple is second only to the grape in its importance as a temperate-zone fruit.",
             "answer": "all of",
             "options_comp": [
@@ -3706,6 +2598,27 @@
             ]
         },
         {
+            "question_text": "Of 1901 to 1914, acclaimed actor Douglas Fairbanks appeared on stage in a series of light comedies.",
+            "answer": "Of",
+            "options_comp": [
+                [
+                    "Of",
+                    "determiners",
+                    "prepositions",
+                    "conjunctions"
+                ],
+                [
+                    "stage"
+                ],
+                [
+                    "a series"
+                ],
+                [
+                    "comedies"
+                ]
+            ]
+        },
+        {
             "question_text": "The modern racing bicycle is carefully engineered for safety, lightness, and reliable.",
             "answer": "reliable",
             "options_comp": [
@@ -3721,6 +2634,27 @@
                 [
                     "reliable",
                     "passives"
+                ]
+            ]
+        },
+        {
+            "question_text": "The scale of the demographic change that are now occuring and that are projected for the near future is unprecendented in human history.",
+            "answer": "change",
+            "options_comp": [
+                [
+                    "change",
+                    "passives",
+                    "nouns",
+                    "determiners"
+                ],
+                [
+                    "projected"
+                ],
+                [
+                    "future"
+                ],
+                [
+                    "human"
                 ]
             ]
         },
@@ -3845,6 +2779,28 @@
             ]
         },
         {
+            "question_text": "The narwhal resembles like other whales, but it has a long, spiral tush growing from its head.",
+            "answer": "resembles like",
+            "options_comp": [
+                [
+                    "resembles like",
+                    "nouns",
+                    "determiners",
+                    "prepositions",
+                    "conjunctions"
+                ],
+                [
+                    "a long"
+                ],
+                [
+                    "growing"
+                ],
+                [
+                    "its"
+                ]
+            ]
+        },
+        {
             "question_text": "In exchange for requiring them to disclose the workings of their inventions, patents give inventors temporary, legally monopolies.",
             "answer": "legally",
             "options_comp": [
@@ -3859,6 +2815,69 @@
                 ],
                 [
                     "legally"
+                ]
+            ]
+        },
+        {
+            "question_text": "It may take several hundred years to build inch of topsoil.",
+            "answer": "build inch",
+            "options_comp": [
+                [
+                    "It"
+                ],
+                [
+                    "may take"
+                ],
+                [
+                    "hundred years"
+                ],
+                [
+                    "build inch",
+                    "infinitives",
+                    "auxiliary_verbs",
+                    "nouns"
+                ]
+            ]
+        },
+        {
+            "question_text": "Lubrication is essential in machinery because if the moving part of a machine come into direct contact with each other, friction interferes with motion.",
+            "answer": "moving part",
+            "options_comp": [
+                [
+                    "if"
+                ],
+                [
+                    "moving part",
+                    "tense",
+                    "nouns",
+                    "determiners"
+                ],
+                [
+                    "direct contact"
+                ],
+                [
+                    "each other"
+                ]
+            ]
+        },
+        {
+            "question_text": "One basic principle of international air law recognize a country's complete sovereignty over the airspace above its territory.",
+            "answer": "recognize",
+            "options_comp": [
+                [
+                    "international"
+                ],
+                [
+                    "recognize",
+                    "main_verbs",
+                    "tense"
+                ],
+                [
+                    "over"
+                ],
+                [
+                    "territory",
+                    "subject_verb_agreement"
                 ]
             ]
         },
@@ -3926,6 +2945,70 @@
             ]
         },
         {
+            "question_text": "The tickets, which are extremely good value, can be buy from large supermarkets.",
+            "answer": "buy",
+            "options_comp": [
+                [
+                    "tickets"
+                ],
+                [
+                    "which"
+                ],
+                [
+                    "good"
+                ],
+                [
+                    "buy",
+                    "main_verbs",
+                    "passives",
+                    "auxiliary_verbs",
+                    "subject_verb_agreement"
+                ]
+            ]
+        },
+        {
+            "question_text": "He wanted always to be a doctor and after doing medicine he now works in a hospital.",
+            "answer": "wanted",
+            "options_comp": [
+                [
+                    "wanted",
+                    "main_verbs",
+                    "tense"
+                ],
+                [
+                    "a"
+                ],
+                [
+                    "after"
+                ],
+                [
+                    "works",
+                    "subject_verb_agreement"
+                ]
+            ]
+        },
+        {
+            "question_text": "There isn\u2019t much time, do you think we should get a taxi beneath the exhibition centre?.",
+            "answer": "beneath",
+            "options_comp": [
+                [
+                    "much"
+                ],
+                [
+                    "do"
+                ],
+                [
+                    "think"
+                ],
+                [
+                    "beneath",
+                    "determiners",
+                    "prepositions",
+                    "conjunctions"
+                ]
+            ]
+        },
+        {
             "question_text": "He graduated in languages in June and is now thinking of do a second degree in psychology.",
             "answer": "do",
             "options_comp": [
@@ -3940,6 +3023,27 @@
                 ],
                 [
                     "do"
+                ]
+            ]
+        },
+        {
+            "question_text": "The policeman show us an identical picture of the man who stole the car.",
+            "answer": "show",
+            "options_comp": [
+                [
+                    "show",
+                    "main_verbs",
+                    "tense"
+                ],
+                [
+                    "identical"
+                ],
+                [
+                    "stole"
+                ],
+                [
+                    "the",
+                    "subject_verb_agreement"
                 ]
             ]
         },
@@ -4002,6 +3106,27 @@
                 ],
                 [
                     "so well"
+                ]
+            ]
+        },
+        {
+            "question_text": "My boyfriend always taking me to see horror films, but I do not like them.",
+            "answer": "taking",
+            "options_comp": [
+                [
+                    "My"
+                ],
+                [
+                    "boyfriend"
+                ],
+                [
+                    "taking",
+                    "main_verbs",
+                    "tense"
+                ],
+                [
+                    "do",
+                    "subject_verb_agreement"
                 ]
             ]
         },
@@ -4108,6 +3233,27 @@
             ]
         },
         {
+            "question_text": "One of the tenets during New Criticism is that a critic need not tell readers what to think about a story.",
+            "answer": "during",
+            "options_comp": [
+                [
+                    "the"
+                ],
+                [
+                    "during",
+                    "determiners",
+                    "prepositions",
+                    "conjunctions"
+                ],
+                [
+                    "is"
+                ],
+                [
+                    "what"
+                ]
+            ]
+        },
+        {
             "question_text": "The outer ear, which included the fleshy pinna and the auditory canal, picks up and funnels sound waves toward the eardrum.",
             "answer": "included",
             "options_comp": [
@@ -4167,6 +3313,28 @@
             ]
         },
         {
+            "question_text": "When goshawk chicks are young, both parents had shared in the hunting duties and in guarding the nest.",
+            "answer": "had shared",
+            "options_comp": [
+                [
+                    "goshawk"
+                ],
+                [
+                    "are"
+                ],
+                [
+                    "had shared",
+                    "main_verbs",
+                    "tense",
+                    "auxiliary_verbs",
+                    "conjunctions"
+                ],
+                [
+                    "the"
+                ]
+            ]
+        },
+        {
             "question_text": "Fish are the most ancient form of vertebrate life, and from them have evolved all other vertebrates.",
             "answer": "have evolved",
             "options_comp": [
@@ -4184,6 +3352,48 @@
                     "tense",
                     "have_+_participle",
                     "auxiliary_verbs"
+                ]
+            ]
+        },
+        {
+            "question_text": "There is about 350 species of sharks, and although they are all carnivorous, only a few species will attack people.",
+            "answer": "is",
+            "options_comp": [
+                [
+                    "is",
+                    "main_verbs",
+                    "tense"
+                ],
+                [
+                    "about"
+                ],
+                [
+                    "are"
+                ],
+                [
+                    "all",
+                    "subject_verb_agreement"
+                ]
+            ]
+        },
+        {
+            "question_text": "Even thinks my aunt lost the beauty contest she is still the prettiest of all the other contestants.",
+            "answer": "thinks",
+            "options_comp": [
+                [
+                    "thinks",
+                    "main_verbs",
+                    "tense"
+                ],
+                [
+                    "lost"
+                ],
+                [
+                    "is"
+                ],
+                [
+                    "prettiest",
+                    "subject_verb_agreement"
                 ]
             ]
         },
@@ -4206,6 +3416,71 @@
                 [
                     "is",
                     "subject_verb_agreement"
+                ]
+            ]
+        },
+        {
+            "question_text": "The huge have increased in popularity of specialty coffees has contributed to the success of Starbucks, Barney\u2019s and other coffee purveyors.",
+            "answer": "have increased",
+            "options_comp": [
+                [
+                    "huge"
+                ],
+                [
+                    "have increased",
+                    "main_verbs",
+                    "tense",
+                    "have_+_participle",
+                    "auxiliary_verbs"
+                ],
+                [
+                    "contributed"
+                ],
+                [
+                    "and"
+                ]
+            ]
+        },
+        {
+            "question_text": "When the silkworm gets through to lay its eggs, it dies.",
+            "answer": "to lay",
+            "options_comp": [
+                [
+                    "the silkworm"
+                ],
+                [
+                    "to lay",
+                    "infinitives",
+                    "auxiliary_verbs",
+                    "prepositions"
+                ],
+                [
+                    "its"
+                ],
+                [
+                    "it dies"
+                ]
+            ]
+        },
+        {
+            "question_text": "A barometer is a device with a sealed metal chamber designed to reading the changes in the pressure of air in the atmosphere.",
+            "answer": "to reading",
+            "options_comp": [
+                [
+                    "A barometer"
+                ],
+                [
+                    "sealed"
+                ],
+                [
+                    "to reading",
+                    "tense",
+                    "infinitives",
+                    "auxiliary_verbs",
+                    "prepositions"
+                ],
+                [
+                    "air"
                 ]
             ]
         },
@@ -4292,6 +3567,49 @@
             ]
         },
         {
+            "question_text": "Although some higher structures have been build in New York City, none characterizes the skyline better than the Empire State Building.",
+            "answer": "have been build",
+            "options_comp": [
+                [
+                    "some higher structures"
+                ],
+                [
+                    "have been build",
+                    "tense",
+                    "passives",
+                    "have_+_participle",
+                    "auxiliary_verbs"
+                ],
+                [
+                    "characterizes"
+                ],
+                [
+                    "better than"
+                ]
+            ]
+        },
+        {
+            "question_text": "Research in genetics and DNA having had a profound influence on the direction of treatment for a large number of diseases.",
+            "answer": "having",
+            "options_comp": [
+                [
+                    "having",
+                    "tense",
+                    "auxiliary_verbs"
+                ],
+                [
+                    "profound"
+                ],
+                [
+                    "on"
+                ],
+                [
+                    "a large number",
+                    "subject_verb_agreement"
+                ]
+            ]
+        },
+        {
             "question_text": "Bones composed chiefly of calcium, phosphorous, and a fibrous substance known as collagen.",
             "answer": "composed",
             "options_comp": [
@@ -4334,6 +3652,48 @@
             ]
         },
         {
+            "question_text": "There is no limit to the diversity to be finding in the cultures of people throughout the world.",
+            "answer": "finding",
+            "options_comp": [
+                [
+                    "no"
+                ],
+                [
+                    "finding",
+                    "tense",
+                    "infinitives",
+                    "auxiliary_verbs"
+                ],
+                [
+                    "cultures"
+                ],
+                [
+                    "people"
+                ]
+            ]
+        },
+        {
+            "question_text": "The government requires that a census taken every ten years so that accurate statistics may be compiled.",
+            "answer": "taken",
+            "options_comp": [
+                [
+                    "taken",
+                    "tense",
+                    "passives"
+                ],
+                [
+                    "every ten years"
+                ],
+                [
+                    "statistics"
+                ],
+                [
+                    "may be compiled",
+                    "subject_verb_agreement"
+                ]
+            ]
+        },
+        {
             "question_text": "It is important that cancer is diagnosed and treated as early as possible in order to assure a successful cure.",
             "answer": "is",
             "options_comp": [
@@ -4351,6 +3711,28 @@
                 ],
                 [
                     "to assure"
+                ]
+            ]
+        },
+        {
+            "question_text": "Based on a decline in vehicular deaths during the past decade, seat belts, air bags, baby seats, and other safety features in newer automobiles must be save lives.",
+            "answer": "save",
+            "options_comp": [
+                [
+                    "baby seats"
+                ],
+                [
+                    "newer"
+                ],
+                [
+                    "save",
+                    "main_verbs",
+                    "passives",
+                    "auxiliary_verbs"
+                ],
+                [
+                    "lives",
+                    "subject_verb_agreement"
                 ]
             ]
         },
@@ -4412,6 +3794,29 @@
                 ],
                 [
                     "between"
+                ]
+            ]
+        },
+        {
+            "question_text": "Collections of the simple and functional Shaker furniture can be seen in museum throughout the United States.",
+            "answer": "in museum",
+            "options_comp": [
+                [
+                    "Collections"
+                ],
+                [
+                    "furniture"
+                ],
+                [
+                    "can be seen"
+                ],
+                [
+                    "in museum",
+                    "passives",
+                    "nouns",
+                    "determiners",
+                    "prepositions",
+                    "conjunctions"
                 ]
             ]
         },
@@ -4526,6 +3931,50 @@
             ]
         },
         {
+            "question_text": "Gold, silver, and copper coins are often alloyed with harder metals to make them hard as enough to withstand wear.",
+            "answer": "hard as enough",
+            "options_comp": [
+                [
+                    "harder",
+                    "passives"
+                ],
+                [
+                    "make"
+                ],
+                [
+                    "them"
+                ],
+                [
+                    "hard as enough",
+                    "passives",
+                    "determiners",
+                    "prepositions",
+                    "conjunctions"
+                ]
+            ]
+        },
+        {
+            "question_text": "Alligators are about the same color than crocodiles, although the adults may be slightly darker with broader heads and blunter noses.",
+            "answer": "than",
+            "options_comp": [
+                [
+                    "about"
+                ],
+                [
+                    "than",
+                    "determiners",
+                    "prepositions",
+                    "conjunctions"
+                ],
+                [
+                    "may be"
+                ],
+                [
+                    "blunter"
+                ]
+            ]
+        },
+        {
             "question_text": "The New York City subway system is the most longest underground railroad operating in the world.",
             "answer": "the most longest",
             "options_comp": [
@@ -4563,6 +4012,27 @@
                 [
                     "wider",
                     "subject_verb_agreement"
+                ]
+            ]
+        },
+        {
+            "question_text": "Because the expense of traditional fuels and the concern that they might run out, many countries have been investigating alternative sources of power.",
+            "answer": "Because",
+            "options_comp": [
+                [
+                    "Because",
+                    "determiners",
+                    "prepositions",
+                    "conjunctions"
+                ],
+                [
+                    "they"
+                ],
+                [
+                    "might run out"
+                ],
+                [
+                    "have been investigating"
                 ]
             ]
         },
@@ -4712,6 +4182,27 @@
             ]
         },
         {
+            "question_text": "The attribution of human characteristics to animals or inanimate objects appears in the mythologies of many cultures is a literary device called anthropomorphism.",
+            "answer": "appears",
+            "options_comp": [
+                [
+                    "The attribution"
+                ],
+                [
+                    "appears",
+                    "main_verbs",
+                    "tense"
+                ],
+                [
+                    "many cultures"
+                ],
+                [
+                    "called",
+                    "subject_verb_agreement"
+                ]
+            ]
+        },
+        {
             "question_text": "Although there are approximately 120 intensive language institutes in the United States in 1970, there are more than four times as many now.",
             "answer": "are",
             "options_comp": [
@@ -4816,6 +4307,27 @@
             ]
         },
         {
+            "question_text": "Originally, the purpose of a sampler is to record complex stitches so that they could be duplicated later.",
+            "answer": "is",
+            "options_comp": [
+                [
+                    "Originally"
+                ],
+                [
+                    "is",
+                    "main_verbs",
+                    "tense",
+                    "passives"
+                ],
+                [
+                    "to record"
+                ],
+                [
+                    "they"
+                ]
+            ]
+        },
+        {
             "question_text": "Many ancient cultures begin their spiritual life by worshipping the Sun.",
             "answer": "begin",
             "options_comp": [
@@ -4874,6 +4386,27 @@
                     "their",
                     "passives",
                     "pronouns"
+                ]
+            ]
+        },
+        {
+            "question_text": "In order to grow well, the Blue Spruce, like other pine trees, require a temperate climate.",
+            "answer": "require",
+            "options_comp": [
+                [
+                    "well"
+                ],
+                [
+                    "like"
+                ],
+                [
+                    "other"
+                ],
+                [
+                    "require",
+                    "main_verbs",
+                    "tense",
+                    "subject_verb_agreement"
                 ]
             ]
         },
@@ -4961,6 +4494,27 @@
             ]
         },
         {
+            "question_text": "The urinary system, including both the bladder and the kidneys, are contained in the cavities of the trunk.",
+            "answer": "are contained",
+            "options_comp": [
+                [
+                    "The urinary system"
+                ],
+                [
+                    "including"
+                ],
+                [
+                    "and"
+                ],
+                [
+                    "are contained",
+                    "main_verbs",
+                    "tense",
+                    "passives"
+                ]
+            ]
+        },
+        {
             "question_text": "In the 1920s, Art Deco, known for plastic and chrome-plated objects, were very popular.",
             "answer": "were",
             "options_comp": [
@@ -5023,26 +4577,46 @@
             ]
         },
         {
-            "question_text": "After reviewing the curriculum, several significant changes were made by the faculty in traditional business programs at Harvard University.",
-            "answer": "After reviewing the curriculum",
+            "question_text": "To prevent cavities, dental floss should be used daily after brushing one's teeth.",
+            "answer": "dental floss should be used",
             "options_comp": [
                 [
-                    "After reviewing the curriculum",
+                    "dental floss should be used",
+                    "main_verbs",
                     "tense",
                     "passives",
+                    "auxiliary_verbs",
+                    "nouns"
+                ],
+                [
+                    "daily"
+                ],
+                [
+                    "brushing"
+                ],
+                [
+                    "one's"
+                ]
+            ]
+        },
+        {
+            "question_text": "While researching the problem of violent crime, the Senate committee's discovery that handguns were used to commit 64 percent of all murders in the United States.",
+            "answer": "the Senate committee 's discovery",
+            "options_comp": [
+                [
+                    "the Senate committee's discovery",
+                    "passives",
                     "nouns",
-                    "determiners",
-                    "prepositions",
-                    "conjunctions"
+                    "determiners"
                 ],
                 [
-                    "several"
+                    "were used"
                 ],
                 [
-                    "were"
+                    "to commit"
                 ],
                 [
-                    "in"
+                    "all murders"
                 ]
             ]
         },
@@ -5110,6 +4684,27 @@
                 ],
                 [
                     "among"
+                ]
+            ]
+        },
+        {
+            "question_text": "The six main parts of a business letter are the address, the inside address, the salutation, the body, the closing, and signing your name.",
+            "answer": "signing your name",
+            "options_comp": [
+                [
+                    "six main parts"
+                ],
+                [
+                    "business letter"
+                ],
+                [
+                    "are"
+                ],
+                [
+                    "signing your name",
+                    "tense",
+                    "pronouns",
+                    "nouns"
                 ]
             ]
         },
@@ -5385,6 +4980,28 @@
             ]
         },
         {
+            "question_text": "The Food and Drug Administration does not declare a drug a carcinogen until it has been proven conclusively that the effects in rats can be generalized for human beings.",
+            "answer": "in",
+            "options_comp": [
+                [
+                    "it"
+                ],
+                [
+                    "conclusively"
+                ],
+                [
+                    "in",
+                    "passives",
+                    "determiners",
+                    "prepositions",
+                    "conjunctions"
+                ],
+                [
+                    "be"
+                ]
+            ]
+        },
+        {
             "question_text": "The effective of a project on the general population is difficult to measure unless a statistician is employed to tabulate the variables.",
             "answer": "effective",
             "options_comp": [
@@ -5402,6 +5019,27 @@
                 ],
                 [
                     "to tabulate"
+                ]
+            ]
+        },
+        {
+            "question_text": "When a person is arrested, the cops must let him make one telephone call.",
+            "answer": "the cops",
+            "options_comp": [
+                [
+                    "the cops",
+                    "passives",
+                    "nouns",
+                    "determiners"
+                ],
+                [
+                    "let"
+                ],
+                [
+                    "him"
+                ],
+                [
+                    "telephone call"
                 ]
             ]
         },
@@ -5466,6 +5104,48 @@
             ]
         },
         {
+            "question_text": "If Robert Kennedy would have lived a little longer, he probably would have won the election.",
+            "answer": "would have lived",
+            "options_comp": [
+                [
+                    "would have lived",
+                    "tense",
+                    "have_+_participle",
+                    "auxiliary_verbs"
+                ],
+                [
+                    "a little longer"
+                ],
+                [
+                    "probably"
+                ],
+                [
+                    "won"
+                ]
+            ]
+        },
+        {
+            "question_text": "It is extremely important for an engineer to know to use a computer.",
+            "answer": "to know",
+            "options_comp": [
+                [
+                    "It is"
+                ],
+                [
+                    "extremely"
+                ],
+                [
+                    "for"
+                ],
+                [
+                    "to know",
+                    "infinitives",
+                    "auxiliary_verbs",
+                    "prepositions"
+                ]
+            ]
+        },
+        {
             "question_text": "Whitman wrote Leaves of Grass as a tribute to the Civil War soldiers who had laid on the battlefields and whom he had seen while serving as an army nurse.",
             "answer": "had laid",
             "options_comp": [
@@ -5488,6 +5168,28 @@
             ]
         },
         {
+            "question_text": "Because correlations are not causes, statistical data which are extremely easy to misuse",
+            "answer": "which are",
+            "options_comp": [
+                [
+                    "causes"
+                ],
+                [
+                    "which are",
+                    "main_verbs",
+                    "tense",
+                    "pronouns",
+                    "prepositions"
+                ],
+                [
+                    "extremely"
+                ],
+                [
+                    "to misuse"
+                ]
+            ]
+        },
+        {
             "question_text": "Despite of many attempts to introduce a universal language, notably Esperanto and Idiom Neutral, the effort has met with very little success.",
             "answer": "Despite of",
             "options_comp": [
@@ -5505,6 +5207,27 @@
                 ],
                 [
                     "little"
+                ]
+            ]
+        },
+        {
+            "question_text": "As every other nation, the United States used to define its unit of currency, the dollar, in terms of the gold standard.",
+            "answer": "As",
+            "options_comp": [
+                [
+                    "As",
+                    "determiners",
+                    "prepositions",
+                    "conjunctions"
+                ],
+                [
+                    "other"
+                ],
+                [
+                    "used to define"
+                ],
+                [
+                    "its"
                 ]
             ]
         },
@@ -5588,6 +5311,52 @@
                     "infinitives",
                     "auxiliary_verbs",
                     "prepositions"
+                ]
+            ]
+        },
+        {
+            "question_text": "Some methods to prevent soil erosion are plowing parallel with the slopes of hills, to plant trees on unproductive land, and rotating crops.",
+            "answer": "to plant",
+            "options_comp": [
+                [
+                    "Some"
+                ],
+                [
+                    "to prevent",
+                    "infinitives",
+                    "auxiliary_verbs",
+                    "prepositions"
+                ],
+                [
+                    "are"
+                ],
+                [
+                    "to plant",
+                    "infinitives",
+                    "auxiliary_verbs",
+                    "prepositions"
+                ]
+            ]
+        },
+        {
+            "question_text": "Mosquitoes will accepts the malaria parasite at only one stage of the parasite's complex life cycle.",
+            "answer": "accepts",
+            "options_comp": [
+                [
+                    "accepts",
+                    "main_verbs",
+                    "tense",
+                    "auxiliary_verbs"
+                ],
+                [
+                    "malaria"
+                ],
+                [
+                    "only one"
+                ],
+                [
+                    "complex",
+                    "subject_verb_agreement"
                 ]
             ]
         },
@@ -5732,6 +5501,27 @@
             ]
         },
         {
+            "question_text": "Born in Massachusetts in 1852, Albert Farbanks has begun making banjos in Boston in the late 1870s.",
+            "answer": "has begun",
+            "options_comp": [
+                [
+                    "Born"
+                ],
+                [
+                    "has begun",
+                    "main_verbs",
+                    "tense",
+                    "auxiliary_verbs"
+                ],
+                [
+                    "making"
+                ],
+                [
+                    "the late"
+                ]
+            ]
+        },
+        {
             "question_text": "Dwight David Eisenhower, military officer and thirty-fourth president of the United States, lived in the White House and of least thirty-seven other residences.",
             "answer": "of least",
             "options_comp": [
@@ -5752,6 +5542,27 @@
                 ],
                 [
                     "other"
+                ]
+            ]
+        },
+        {
+            "question_text": "Edward MacDowell remembers as the composer of such perennial favorites as \"To a Wild Rose\" and \"To a water Lily\".",
+            "answer": "remembers",
+            "options_comp": [
+                [
+                    "remembers",
+                    "main_verbs",
+                    "tense"
+                ],
+                [
+                    "composer"
+                ],
+                [
+                    "perennial"
+                ],
+                [
+                    "favorites",
+                    "subject_verb_agreement"
                 ]
             ]
         },
@@ -5793,6 +5604,52 @@
                 ],
                 [
                     "global conflicts over supply"
+                ]
+            ]
+        },
+        {
+            "question_text": "Space exploration has advanced significantly in the past few decades, allowing humans to send robots to explore distant planets and moons.",
+            "answer": "to send robots",
+            "options_comp": [
+                [
+                    "Space exploration has advanced"
+                ],
+                [
+                    "the past few decades"
+                ],
+                [
+                    "to send robots",
+                    "infinitives",
+                    "auxiliary_verbs",
+                    "nouns",
+                    "prepositions"
+                ],
+                [
+                    "planets and moons"
+                ]
+            ]
+        },
+        {
+            "question_text": "The teacher told the students to carefully to follow the instructions given on the board.",
+            "answer": "to carefully to follow",
+            "options_comp": [
+                [
+                    "The teacher told",
+                    "infinitives",
+                    "auxiliary_verbs",
+                    "prepositions"
+                ],
+                [
+                    "to carefully to follow",
+                    "infinitives",
+                    "auxiliary_verbs",
+                    "prepositions"
+                ],
+                [
+                    "the instructions given"
+                ],
+                [
+                    "on the board"
                 ]
             ]
         },
@@ -5862,110 +5719,6 @@
             ]
         },
         {
-            "question_text": "They have finish the project well before the deadline, surprising everyone with their efficiency.",
-            "answer": "They have finish the project",
-            "options_comp": [
-                [
-                    "They have finish the project",
-                    "main_verbs",
-                    "tense",
-                    "have_+_participle",
-                    "auxiliary_verbs",
-                    "pronouns",
-                    "nouns",
-                    "determiners"
-                ],
-                [
-                    "well before the deadline"
-                ],
-                [
-                    "surprising everyone with"
-                ],
-                [
-                    "their efficiency"
-                ]
-            ]
-        },
-        {
-            "question_text": "The team claimed they have completed the task, but no evidence was provided to prove it.",
-            "answer": "The team claimed they have",
-            "options_comp": [
-                [
-                    "The team claimed they have",
-                    "main_verbs",
-                    "tense",
-                    "passives",
-                    "auxiliary_verbs",
-                    "pronouns",
-                    "nouns",
-                    "determiners"
-                ],
-                [
-                    "completed the task"
-                ],
-                [
-                    "but no evidence"
-                ],
-                [
-                    "was provided to prove it"
-                ]
-            ]
-        },
-        {
-            "question_text": "If he has took the correct route, he would have reached his destination by now.",
-            "answer": "If he has took",
-            "options_comp": [
-                [
-                    "If he has took",
-                    "tense",
-                    "auxiliary_verbs",
-                    "pronouns",
-                    "determiners",
-                    "prepositions",
-                    "conjunctions"
-                ],
-                [
-                    "the correct route",
-                    "pronouns"
-                ],
-                [
-                    "he would have reached",
-                    "pronouns"
-                ],
-                [
-                    "his destination by now"
-                ]
-            ]
-        },
-        {
-            "question_text": "It's difficult to understand the concept without to discuss it with someone else.",
-            "answer": "without to discuss it",
-            "options_comp": [
-                [
-                    "It's difficult"
-                ],
-                [
-                    "to understand the concept",
-                    "infinitives",
-                    "auxiliary_verbs",
-                    "prepositions"
-                ],
-                [
-                    "without to discuss it",
-                    "infinitives",
-                    "auxiliary_verbs",
-                    "pronouns",
-                    "determiners",
-                    "prepositions",
-                    "conjunctions"
-                ],
-                [
-                    "with someone else",
-                    "pronouns"
-                ]
-            ]
-        },
-        {
             "question_text": "She has been preparing for months to ensures she passes the exam.",
             "answer": "for months to ensures",
             "options_comp": [
@@ -6014,30 +5767,6 @@
             ]
         },
         {
-            "question_text": "Her ambition is to becomes a renowned artist in the future.",
-            "answer": "to becomes a renowned artist",
-            "options_comp": [
-                [
-                    "Her"
-                ],
-                [
-                    "ambition is"
-                ],
-                [
-                    "to becomes a renowned artist",
-                    "tense",
-                    "infinitives",
-                    "auxiliary_verbs",
-                    "nouns",
-                    "determiners",
-                    "prepositions"
-                ],
-                [
-                    "in the future"
-                ]
-            ]
-        },
-        {
             "question_text": "He advised us to not taking shortcuts when learning complex topics.",
             "answer": "taking shortcuts",
             "options_comp": [
@@ -6061,33 +5790,6 @@
             ]
         },
         {
-            "question_text": "The government aims to reduce pollution and to promotes renewable energy sources.",
-            "answer": "to promotes renewable energy sources",
-            "options_comp": [
-                [
-                    "The government"
-                ],
-                [
-                    "aims"
-                ],
-                [
-                    "to reduce pollution",
-                    "infinitives",
-                    "auxiliary_verbs",
-                    "prepositions"
-                ],
-                [
-                    "to promotes renewable energy sources",
-                    "tense",
-                    "infinitives",
-                    "auxiliary_verbs",
-                    "nouns",
-                    "other_adjectives",
-                    "prepositions"
-                ]
-            ]
-        },
-        {
             "question_text": "She has not spoke to her friend since their argument last month.",
             "answer": "She has not spoke",
             "options_comp": [
@@ -6106,6 +5808,30 @@
                 ],
                 [
                     "last month"
+                ]
+            ]
+        },
+        {
+            "question_text": "By the time we arrived, the organizers have already left the venue.",
+            "answer": "the organizers have",
+            "options_comp": [
+                [
+                    "By the time",
+                    "determiners"
+                ],
+                [
+                    "we arrived"
+                ],
+                [
+                    "the organizers have",
+                    "tense",
+                    "auxiliary_verbs",
+                    "nouns",
+                    "determiners"
+                ],
+                [
+                    "already left the venue",
+                    "determiners"
                 ]
             ]
         },
@@ -6202,52 +5928,25 @@
             ]
         },
         {
-            "question_text": "Had you knew about the plan, you could have avoided the issue.",
-            "answer": "Had you knew about",
+            "question_text": "She has wrote many books, but only a few have been published.",
+            "answer": "She has wrote",
             "options_comp": [
                 [
-                    "Had you knew about",
+                    "She has wrote",
+                    "main_verbs",
                     "tense",
+                    "passives",
                     "auxiliary_verbs",
-                    "pronouns",
-                    "determiners",
-                    "prepositions",
-                    "conjunctions"
-                ],
-                [
-                    "the plan, you",
                     "pronouns"
                 ],
                 [
-                    "could have avoided"
+                    "many books"
                 ],
                 [
-                    "the issue"
-                ]
-            ]
-        },
-        {
-            "question_text": "If he has ate breakfast, he wouldn\u2019t be feeling hungry now.",
-            "answer": "If he has ate",
-            "options_comp": [
-                [
-                    "If he has ate",
-                    "tense",
-                    "auxiliary_verbs",
-                    "pronouns",
-                    "determiners",
-                    "prepositions",
-                    "conjunctions"
+                    "but only a few"
                 ],
                 [
-                    "breakfast, he",
-                    "pronouns"
-                ],
-                [
-                    "wouldn\u2019t be feeling"
-                ],
-                [
-                    "hungry now"
+                    "have been published"
                 ]
             ]
         },
@@ -6301,6 +6000,30 @@
             ]
         },
         {
+            "question_text": "The teacher told the students to carefully to follow the instructions given on the board.",
+            "answer": "to carefully to follow",
+            "options_comp": [
+                [
+                    "The teacher told",
+                    "infinitives",
+                    "auxiliary_verbs",
+                    "prepositions"
+                ],
+                [
+                    "to carefully to follow",
+                    "infinitives",
+                    "auxiliary_verbs",
+                    "prepositions"
+                ],
+                [
+                    "the instructions given"
+                ],
+                [
+                    "on the board"
+                ]
+            ]
+        },
+        {
             "question_text": "She has went to the market early in the morning to buy fresh vegetables.",
             "answer": "She has went",
             "options_comp": [
@@ -6323,51 +6046,24 @@
             ]
         },
         {
-            "question_text": "The students have finish their assignments before the deadline to earn extra points.",
-            "answer": "The students have finish",
+            "question_text": "By the time the teacher arrived, the class have already started their presentation.",
+            "answer": "the class have already",
             "options_comp": [
                 [
-                    "The students have finish",
-                    "main_verbs",
+                    "By the time"
+                ],
+                [
+                    "the teacher arrived"
+                ],
+                [
+                    "the class have already",
                     "tense",
-                    "have_+_participle",
                     "auxiliary_verbs",
                     "nouns",
                     "determiners"
                 ],
                 [
-                    "their assignments"
-                ],
-                [
-                    "before the deadline"
-                ],
-                [
-                    "to earn extra points"
-                ]
-            ]
-        },
-        {
-            "question_text": "If he has ate breakfast, he would not feel so hungry right now.",
-            "answer": "If he has ate",
-            "options_comp": [
-                [
-                    "If he has ate",
-                    "tense",
-                    "auxiliary_verbs",
-                    "pronouns",
-                    "determiners",
-                    "prepositions",
-                    "conjunctions"
-                ],
-                [
-                    "breakfast, he",
-                    "pronouns"
-                ],
-                [
-                    "would not feel so hungry"
-                ],
-                [
-                    "right now"
+                    "started their presentation"
                 ]
             ]
         },
@@ -6754,6 +6450,30 @@
             ]
         },
         {
+            "question_text": "After reviewing the curriculum, several significant changes were made by the faculty in traditional business programs at Harvard University.",
+            "answer": "After reviewing the curriculum",
+            "options_comp": [
+                [
+                    "After reviewing the curriculum",
+                    "tense",
+                    "passives",
+                    "nouns",
+                    "determiners",
+                    "prepositions",
+                    "conjunctions"
+                ],
+                [
+                    "several"
+                ],
+                [
+                    "were"
+                ],
+                [
+                    "in"
+                ]
+            ]
+        },
+        {
             "question_text": "Traditionally named for women, Bob was chosen as the first male name for a hurricane.",
             "answer": "named for women",
             "options_comp": [
@@ -6976,6 +6696,82 @@
             ]
         },
         {
+            "question_text": "They have finish the project well before the deadline, surprising everyone with their efficiency.",
+            "answer": "They have finish the project",
+            "options_comp": [
+                [
+                    "They have finish the project",
+                    "main_verbs",
+                    "tense",
+                    "have_+_participle",
+                    "auxiliary_verbs",
+                    "pronouns",
+                    "nouns",
+                    "determiners"
+                ],
+                [
+                    "well before the deadline"
+                ],
+                [
+                    "surprising everyone with"
+                ],
+                [
+                    "their efficiency"
+                ]
+            ]
+        },
+        {
+            "question_text": "The team claimed they have completed the task, but no evidence was provided to prove it.",
+            "answer": "The team claimed they have",
+            "options_comp": [
+                [
+                    "The team claimed they have",
+                    "main_verbs",
+                    "tense",
+                    "passives",
+                    "auxiliary_verbs",
+                    "pronouns",
+                    "nouns",
+                    "determiners"
+                ],
+                [
+                    "completed the task"
+                ],
+                [
+                    "but no evidence"
+                ],
+                [
+                    "was provided to prove it"
+                ]
+            ]
+        },
+        {
+            "question_text": "If he has took the correct route, he would have reached his destination by now.",
+            "answer": "If he has took",
+            "options_comp": [
+                [
+                    "If he has took",
+                    "tense",
+                    "auxiliary_verbs",
+                    "pronouns",
+                    "determiners",
+                    "prepositions",
+                    "conjunctions"
+                ],
+                [
+                    "the correct route",
+                    "pronouns"
+                ],
+                [
+                    "he would have reached",
+                    "pronouns"
+                ],
+                [
+                    "his destination by now"
+                ]
+            ]
+        },
+        {
             "question_text": "To be successful, it is important to always keep practicing and to improving your skills regularly.",
             "answer": "to improving your skills",
             "options_comp": [
@@ -7037,6 +6833,34 @@
             ]
         },
         {
+            "question_text": "It's difficult to understand the concept without to discuss it with someone else.",
+            "answer": "without to discuss it",
+            "options_comp": [
+                [
+                    "It's difficult"
+                ],
+                [
+                    "to understand the concept",
+                    "infinitives",
+                    "auxiliary_verbs",
+                    "prepositions"
+                ],
+                [
+                    "without to discuss it",
+                    "infinitives",
+                    "auxiliary_verbs",
+                    "pronouns",
+                    "determiners",
+                    "prepositions",
+                    "conjunctions"
+                ],
+                [
+                    "with someone else",
+                    "pronouns"
+                ]
+            ]
+        },
+        {
             "question_text": "The best way to stay healthy is to exercising daily and eat a balanced diet.",
             "answer": "to exercising daily",
             "options_comp": [
@@ -7066,6 +6890,57 @@
             ]
         },
         {
+            "question_text": "Her ambition is to becomes a renowned artist in the future.",
+            "answer": "to becomes a renowned artist",
+            "options_comp": [
+                [
+                    "Her"
+                ],
+                [
+                    "ambition is"
+                ],
+                [
+                    "to becomes a renowned artist",
+                    "tense",
+                    "infinitives",
+                    "auxiliary_verbs",
+                    "nouns",
+                    "determiners",
+                    "prepositions"
+                ],
+                [
+                    "in the future"
+                ]
+            ]
+        },
+        {
+            "question_text": "The government aims to reduce pollution and to promotes renewable energy sources.",
+            "answer": "to promotes renewable energy sources",
+            "options_comp": [
+                [
+                    "The government"
+                ],
+                [
+                    "aims"
+                ],
+                [
+                    "to reduce pollution",
+                    "infinitives",
+                    "auxiliary_verbs",
+                    "prepositions"
+                ],
+                [
+                    "to promotes renewable energy sources",
+                    "tense",
+                    "infinitives",
+                    "auxiliary_verbs",
+                    "nouns",
+                    "other_adjectives",
+                    "prepositions"
+                ]
+            ]
+        },
+        {
             "question_text": "You should always strive to achieve your goals and to helping others along the way.",
             "answer": "and to helping others",
             "options_comp": [
@@ -7091,6 +6966,131 @@
                 ],
                 [
                     "along the way"
+                ]
+            ]
+        },
+        {
+            "question_text": "He has went to the library several times but still cannot find the book he needs.",
+            "answer": "He has went to the library",
+            "options_comp": [
+                [
+                    "He has went to the library",
+                    "main_verbs",
+                    "tense",
+                    "auxiliary_verbs",
+                    "pronouns",
+                    "nouns",
+                    "determiners",
+                    "prepositions",
+                    "conjunctions"
+                ],
+                [
+                    "several times"
+                ],
+                [
+                    "but still cannot find"
+                ],
+                [
+                    "the book he needs"
+                ]
+            ]
+        },
+        {
+            "question_text": "Had you knew about the plan, you could have avoided the issue.",
+            "answer": "Had you knew about",
+            "options_comp": [
+                [
+                    "Had you knew about",
+                    "tense",
+                    "auxiliary_verbs",
+                    "pronouns",
+                    "determiners",
+                    "prepositions",
+                    "conjunctions"
+                ],
+                [
+                    "the plan, you",
+                    "pronouns"
+                ],
+                [
+                    "could have avoided"
+                ],
+                [
+                    "the issue"
+                ]
+            ]
+        },
+        {
+            "question_text": "If he has ate breakfast, he wouldn\u2019t be feeling hungry now.",
+            "answer": "If he has ate",
+            "options_comp": [
+                [
+                    "If he has ate",
+                    "tense",
+                    "auxiliary_verbs",
+                    "pronouns",
+                    "determiners",
+                    "prepositions",
+                    "conjunctions"
+                ],
+                [
+                    "breakfast, he",
+                    "pronouns"
+                ],
+                [
+                    "wouldn\u2019t be feeling"
+                ],
+                [
+                    "hungry now"
+                ]
+            ]
+        },
+        {
+            "question_text": "The students have finish their assignments before the deadline to earn extra points.",
+            "answer": "The students have finish",
+            "options_comp": [
+                [
+                    "The students have finish",
+                    "main_verbs",
+                    "tense",
+                    "have_+_participle",
+                    "auxiliary_verbs",
+                    "nouns",
+                    "determiners"
+                ],
+                [
+                    "their assignments"
+                ],
+                [
+                    "before the deadline"
+                ],
+                [
+                    "to earn extra points"
+                ]
+            ]
+        },
+        {
+            "question_text": "If he has ate breakfast, he would not feel so hungry right now.",
+            "answer": "If he has ate",
+            "options_comp": [
+                [
+                    "If he has ate",
+                    "tense",
+                    "auxiliary_verbs",
+                    "pronouns",
+                    "determiners",
+                    "prepositions",
+                    "conjunctions"
+                ],
+                [
+                    "breakfast, he",
+                    "pronouns"
+                ],
+                [
+                    "would not feel so hungry"
+                ],
+                [
+                    "right now"
                 ]
             ]
         },
