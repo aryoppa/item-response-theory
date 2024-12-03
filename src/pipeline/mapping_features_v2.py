@@ -17,6 +17,12 @@ def json_to_csv_with_level2(filename):
         if any(value is True for value in item.get("level2", {}).values()):
             row = {"question_text": item["question_text"]}
             row.update(item.get("level2", {}))  # Add all level2 features to the row
+            if item['levels']['Level_1']:
+                row.update({"Level": "Level 1"})
+            elif item['levels']['Level_2']:
+                row.update({"Level": "Level 2"})
+            else:
+                row.update({"Level": "Level 3"})
             csv_data.append(row)
 
     csv_data2 = []
