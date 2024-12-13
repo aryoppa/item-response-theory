@@ -131,58 +131,120 @@ def get_consequents_matrix(triggered_rules, competencies_list):
 @app.route('/generate_recommendations', methods=['POST'])
 def generate_recommendations():
     try:
+        # Parse incoming JSON data
         data = request.get_json()
+
+        # Validate input data
         validation_error = validate_input_data(data)
         if validation_error:
             return jsonify({"error": validation_error}), 400
 
+        # Extract question_ids from competencies data
         competencies = data.get("data")
         question_ids = [str(value['question_id']) for value in competencies]
 
+        # Load questions mapping
         df_questions = get_mapped_questions()
         df_questions['question_id'] = df_questions['question_id'].astype(str)
+
+        # Filter rows in DataFrame based on question IDs
         filtered_df = df_questions[df_questions['question_id'].isin(question_ids)]
+
+        # Combine columns from "main_verbs" to the last column into a dictionary format
         combined_dict = filtered_df.loc[:, 'main_verbs':].any().to_dict()
-        combined_dict = {k: bool(v) for k, v in combined_dict.items()}
-        rules_df = load_association_rules(os.path.join(APRIORI_DIR, 'association_rules.csv'))
+        combined_dict = {k: bool(v) for k, v in combined_dict.items()}  # Convert to native Python bool
+
+        # Load association rules
+        csv_filepath = os.path.join(APRIORI_DIR, 'association_rules.csv')
+        rules_df = load_association_rules(csv_filepath)
         if rules_df is None:
             return jsonify({"error": "Association rules file not found"}), 404
 
+        # Check triggered rules based on combined dictionary
         triggered_rules = check_triggered_rules(combined_dict, rules_df)
-        competencies_list = ["main_verbs", "tense", "infinitives", "passives", "have_+_participle",
-                             "auxiliary_verbs", "pronouns", "nouns", "determiners",
-                             "other_adjectives", "prepositions", "conjunctions", "subject_verb_agreement"]
-        consequents_matrix = get_consequents_matrix(triggered_rules, competencies_list)
-        rules1, rules2, rules3 = consequents_matrix[0], consequents_matrix[1], consequents_matrix[2]
 
+        print(triggered_rules)
+        # Define the list of competencies
+        competencies_list = [
+            "main_verbs", "tense", "infinitives", "passives", "have_+_participle",
+            "auxiliary_verbs", "pronouns", "nouns", "determiners",
+            "other_adjectives", "prepositions", "conjunctions", "subject_verb_agreement"
+        ]
+
+        # Create consequents matrix from triggered rules
+        consequents_matrix = get_consequents_matrix(triggered_rules, competencies_list)
+        rules1 = consequents_matrix[0]
+        rules2 = consequents_matrix[1]
+        rules3 = consequents_matrix[2]
+
+        # Filter for level 2 questions
         level_2_questions = df_questions[df_questions['Level'] == 'Level 2']
-        questions_matrix_df = level_2_questions[["question_id"]].join(level_2_questions[competencies_list].astype(int))
+
+        # Create a new DataFrame consisting only of question_id and competencies columns
+        questions_matrix_df = level_2_questions["question_id"].to_frame().join(level_2_questions[competencies_list].astype(int))
+
+        # Convert questions_matrix_df to a numpy matrix (excluding question_id)
         questions_matrix = questions_matrix_df[competencies_list].values
 
+        # Calculate cosine similarity between questions_matrix and each of the rules
         similarity_scores_1 = cosine_similarity(questions_matrix, [rules1])
         similarity_scores_2 = cosine_similarity(questions_matrix, [rules2])
         similarity_scores_3 = cosine_similarity(questions_matrix, [rules3])
 
+        # Get top 2 recommendations for each rule
         questions_matrix_df['similarity_score_1'] = similarity_scores_1.flatten()
         questions_matrix_df['similarity_score_2'] = similarity_scores_2.flatten()
         questions_matrix_df['similarity_score_3'] = similarity_scores_3.flatten()
 
-        top_recommendations = pd.concat([
-            questions_matrix_df.sort_values(by='similarity_score_1', ascending=False).head(1),
-            questions_matrix_df.sort_values(by='similarity_score_2', ascending=False).head(1),
-            questions_matrix_df.sort_values(by='similarity_score_3', ascending=False).head(1)
-        ]).drop_duplicates()
+        top_recommendations_1 = questions_matrix_df.sort_values(by='similarity_score_1', ascending=False).head(1)
+        top_recommendations_2 = questions_matrix_df.sort_values(by='similarity_score_2', ascending=False).head(1)
+        top_recommendations_3 = questions_matrix_df.sort_values(by='similarity_score_3', ascending=False).head(1)
 
+        # Combine the top recommendations from all rules
+        top_recommendations = pd.concat([top_recommendations_1, top_recommendations_2, top_recommendations_3]).drop_duplicates()
+
+        # Convert triggered rules DataFrame to JSON serializable format
         triggered_rules_dict = triggered_rules.to_dict(orient='records')
-        recommended_questions = top_recommendations.to_dict(orient='records')
-        level_2_questions_dict = df[(df['question_id'].isin([rec['question_id'] for rec in recommended_questions]))].to_dict(
-            orient='records')
 
-        return jsonify({"triggered_rules": triggered_rules_dict, "level_2_questions": level_2_questions_dict}), 200
+        # Convert top recommendations to JSON serializable format
+        recommended_questions = top_recommendations.to_dict(orient='records')
+
+        # Load clean questions CSV and filter for level 2 questions
+        csv_filepath = os.path.join(MAPPED_DIR, 'clean_questions.csv')
+        df = pd.read_csv(csv_filepath)
+        df['question_id'] = df['question_id'].astype(str)  # Ensure consistent data type for question_id
+
+        # Filter for level 2 questions that match recommended question_ids
+        recommended_question_ids = [rec['question_id'] for rec in recommended_questions]
+        level_2_questions = df[(df['question_id'].isin(recommended_question_ids))]
+
+        # Convert level_2 questions to JSON serializable format
+        level_2_questions_dict = level_2_questions.to_dict(orient='records')
+        # Return both triggered rules, recommended questions, and level 2 questions
+
+        return jsonify({
+            "triggered_rules": triggered_rules_dict,
+            "recommended_questions": recommended_questions,
+            "level_2_questions": level_2_questions_dict
+        }), 200
 
     except Exception as e:
         return jsonify({"error": str(e)}), 500
 
+
+@app.route('/get_random_level_1_questions', methods=['GET'])
+def get_random_level_1_questions():
+    try:
+        csv_filepath = os.path.join(MAPPED_DIR, 'clean_questions.csv')
+        df = pd.read_csv(csv_filepath)
+        random_questions = df[df['Level'] == 'Level 1'].sample(n=3).to_dict(orient='records')
+        return jsonify({"questions": random_questions}), 200
+    except FileNotFoundError:
+        return jsonify({"error": "clean_questions.csv file not found"}), 404
+    except ValueError:
+        return jsonify({"error": "Not enough level 1 questions available"}), 400
+    except Exception as e:
+        return jsonify({"error": str(e)}), 500
 
 @app.route('/get_random_level_2_questions', methods=['GET'])
 def get_random_level_2_questions():
@@ -198,6 +260,19 @@ def get_random_level_2_questions():
     except Exception as e:
         return jsonify({"error": str(e)}), 500
 
+@app.route('/get_random_level_3_questions', methods=['GET'])
+def get_random_level_3_questions():
+    try:
+        csv_filepath = os.path.join(MAPPED_DIR, 'clean_questions.csv')
+        df = pd.read_csv(csv_filepath)
+        random_questions = df[df['Level'] == 'Level 3'].sample(n=3).to_dict(orient='records')
+        return jsonify({"questions": random_questions}), 200
+    except FileNotFoundError:
+        return jsonify({"error": "clean_questions.csv file not found"}), 404
+    except ValueError:
+        return jsonify({"error": "Not enough level 3 questions available"}), 400
+    except Exception as e:
+        return jsonify({"error": str(e)}), 500
 
 @app.route('/item_response_theory', methods=['POST', 'GET'])
 def item_response_theory():

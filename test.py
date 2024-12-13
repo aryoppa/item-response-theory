@@ -1,74 +1,98 @@
-from flask import Flask, render_template, request, jsonify
+import numpy as np
 import pandas as pd
-import random
-import json
 import os
+DATA_DIR = os.path.join(os.getcwd(), 'data')
+RAW_DIR = os.path.join(DATA_DIR, 'raw')
+APRIORI_DIR = os.path.join(DATA_DIR, 'apriori')
+MAPPED_DIR = os.path.join(DATA_DIR, 'mapped')
+# Define the 3PL model function
+def calculate_probability(theta, a, b, c):
+    """
+    Calculate the probability of a correct response using the 3PL model.
+    """
+    exponent = -a * (theta - b)
+    probability = c + (1 - c) * (1 / (1 + np.exp(exponent)))
+    return probability
 
-app = Flask(__name__)
+# Define item information function
+def item_information(theta, a, b, c):
+    """
+    Calculate item information at a given theta.
+    """
+    P_theta = calculate_probability(theta, a, b, c)
+    return (a ** 2) * P_theta * (1 - P_theta)
 
-# Load questions data
-questions_df = pd.read_csv('data/mapped/clean_questions.csv')
-questions_df2 = pd.read_csv('data/mapped/mapped_questions_competencies.csv')
+# Update theta using gradient descent
+def update_theta(current_theta, responses, question_params, learning_rate=0.1):
+    """
+    Update the test-taker's ability (theta) using gradient descent.
+    """
+    gradient = 0
+    for response in responses:
+        question = question_params.loc[question_params['question_id'] == response['question_id']].iloc[0]
+        a, b, c = question['a'], question['b'], question['c']
+        prob = calculate_probability(current_theta, a, b, c)
+        gradient += (response['is_correct'] - prob) * a
 
-@app.route('/')
-def index():
-    return render_template('index.html')
+    return current_theta + learning_rate * gradient
 
-@app.route('/stage_one', methods=['GET'])
-def stage_one():
-    # Filter questions with level == 2
-    level_two_questions = questions_df[questions_df['Level'] == "Level 2"]
-    
-    # Select 3 random questions
-    stage_one_questions = level_two_questions.sample(n=3)
-    
-    # Convert questions to dictionary for rendering
-    questions = stage_one_questions.to_dict(orient='records')
-    return render_template('stage_one.html', questions=questions)
+# Select the next most informative question
+def select_next_question(theta, questions):
+    """
+    Select the most informative question for a given theta.
+    """
+    questions = questions.copy()  # Create a copy to avoid the SettingWithCopyWarning
+    questions['information'] = questions.apply(
+        lambda row: item_information(theta, row['a'], row['b'], row['c']), axis=1
+    )
+    return questions.loc[questions['information'].idxmax()]
 
-import traceback
 
-@app.route('/check_answers', methods=['POST'])
-def check_answers():
-    try:
-        user_answers = request.json.get('answers')
-        print("Debug: User answers received:", user_answers)  # Debugging line
+# Load the dataset
+csv_filepath = os.path.join(MAPPED_DIR, 'clean_questions.csv')
+questions_df = pd.read_csv(csv_filepath)
 
-        if not user_answers:
-            return jsonify({'error': 'No answers provided'}), 400
+# Add IRT parameters to the dataset
+def assign_irt_parameters(level):
+    if level == "Level 1":
+        return np.random.uniform(0.5, 1.0), np.random.uniform(-2.0, -1.0), 0.25
+    elif level == "Level 2":
+        return np.random.uniform(1.0, 1.5), np.random.uniform(-1.0, 1.0), 0.25
+    elif level == "Level 3":
+        return np.random.uniform(1.5, 2.0), np.random.uniform(1.0, 2.0), 0.25
+    else:
+        return 1.0, 0.0, 0.25  # Default parameters
 
-        wrong_answers = []
+questions_df[['a', 'b', 'c']] = questions_df['Level'].apply(
+    lambda level: pd.Series(assign_irt_parameters(level))
+)
+# Save questions_df to a CSV file in the MAPPED_DIR
+output_filepath = os.path.join(MAPPED_DIR, 'questions_with_parameters.csv')
+questions_df.to_csv(output_filepath, index=False)
+print(f"questions_df has been saved to {output_filepath}")
 
-        for answer in user_answers:
-            question_id = answer.get('question_id')
-            user_option = answer.get('selected_option')
-            print(f"Debug: Processing question ID {question_id} with user option {user_option}")  # Debugging line
+# Test simulation
+theta = 0.0  # Initial ability estimate
+asked_questions = []
+responses = []
 
-            if question_id is None or user_option is None:
-                continue
+for _ in range(10):  # Limit to 10 questions for this example
+    # Select the next question
+    next_question = select_next_question(theta, questions_df[~questions_df['question_id'].isin(asked_questions)])
+    print(f"Next question: {next_question['question_text']}")
 
-            correct_answer = questions_df.loc[questions_df['question_id'] == int(question_id), 'key_answer'].values
-            print(f"Debug: Correct answer for question ID {question_id} is {correct_answer}")  # Debugging line
+    # Simulate a response
+    prob_correct = calculate_probability(theta, next_question['a'], next_question['b'], next_question['c'])
+    is_correct = np.random.choice([0, 1], p=[1 - prob_correct, prob_correct])
+    print(is_correct)
 
-            if correct_answer.size > 0 and user_option != correct_answer[0]:
-                wrong_answers.append(question_id)
+    # Record the response
+    responses.append({"question_id": next_question['question_id'], "is_correct": is_correct})
+    asked_questions.append(next_question['question_id'])
 
-        # Save wrong question_ids to a JSON file in the specified location
-        output_dir = 'data/answers'
-        os.makedirs(output_dir, exist_ok=True)  # Create directory if it doesn't exist
-        output_path = os.path.join(output_dir, 'answers.json')
-        
-        json_data = {'wrong_questions': wrong_answers}
-        with open(output_path, 'w') as json_file:
-            json.dump(json_data, json_file, indent=4)
+    # Update theta
+    theta = update_theta(theta, responses, questions_df)
+    print(f"Updated theta: {theta}\n")
 
-        # Return the results
-        return jsonify({'wrong_answers': wrong_answers})
-
-    except Exception as e:
-        print(f"Debug Error: {e}")  # Debugging line
-        traceback.print_exc()
-        return jsonify({'error': 'Internal server error'}), 500
-
-if __name__ == '__main__':
-    app.run(debug=True)
+print("Test completed.")
+print(f"Final estimated ability (theta): {theta}")
