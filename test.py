@@ -80,6 +80,7 @@ for _ in range(10):  # Limit to 10 questions for this example
     # Select the next question
     next_question = select_next_question(theta, questions_df[~questions_df['question_id'].isin(asked_questions)])
     print(f"Next question: {next_question['question_text']}")
+    print(f"Next question: {next_question['information']}")
 
     # Simulate a response
     prob_correct = calculate_probability(theta, next_question['a'], next_question['b'], next_question['c'])

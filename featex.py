@@ -5,6 +5,7 @@ import spacy
 from wordfreq import word_frequency
 from src.pipeline.extract_features_v2 import extract_features_v2
 from src.pipeline.mapping_features_v2 import json_to_csv_with_level2
+from src.pipeline.mapping_features_clean import clean_question_data
 from src.utils.file_handling import csv_to_json
 from src.datas.preprocess import DataPreprocess
 
@@ -41,30 +42,33 @@ print('Extracted!')
 # Map features to CSV
 print('Mapping...')
 json_to_csv_with_level2('q_bank_features_v2')
+clean_question_data('q_bank_features_v2')
 print('Successfully Mapped Questions with Competencies!')
 
-# Load and process JSON data
-with open('data/raw/q_bank_features_v2.json', 'r') as f:
-    json_data = json.load(f)
 
-output = []
-questions_by_level = {"level_1": [], "level_2": [], "level_3": []}
+
+# Load and process JSON data
+# with open('data/raw/q_bank_features_v2.json', 'r') as f:
+#     json_data = json.load(f)
+
+# output = []
+# questions_by_level = {"level_1": [], "level_2": [], "level_3": []}
 
 # Process each item and organize by levels
-for item in json_data:
-    row_data = {'question_text': item['question_text'], 'answer': item['answer'], 'options_comp': item['options_comp']}
-    output.append(row_data)
-    if item['levels']['Level_1']:
-        questions_by_level['level_1'].append(row_data)
-    elif item['levels']['Level_2']:
-        questions_by_level['level_2'].append(row_data)
-    else:
-        questions_by_level['level_3'].append(row_data)
+# for item in json_data:
+#     row_data = {'question_text': item['question_text'], 'answer': item['answer'], 'options_comp': item['options_comp']}
+#     output.append(row_data)
+#     if item['levels']['Level_1']:
+#         questions_by_level['level_1'].append(row_data)
+#     elif item['levels']['Level_2']:
+#         questions_by_level['level_2'].append(row_data)
+#     else:
+#         questions_by_level['level_3'].append(row_data)
 
-# Write processed data to JSON
-with open('data/questions_by_level.json', 'w') as jsonfile:
-    json.dump(questions_by_level, jsonfile, indent=4)
-with open('data/output.json', 'w') as jsonfile:
-    json.dump(output, jsonfile, indent=4)
+# # Write processed data to JSON
+# with open('data/questions_by_level.json', 'w') as jsonfile:
+#     json.dump(questions_by_level, jsonfile, indent=4)
+# with open('data/output.json', 'w') as jsonfile:
+#     json.dump(output, jsonfile, indent=4)
 
-print("Data successfully written to output.json")
+# print("Data successfully written to output.json")

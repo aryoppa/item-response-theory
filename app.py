@@ -139,6 +139,7 @@ def generate_recommendations():
         if validation_error:
             return jsonify({"error": validation_error}), 400
 
+        print(data)
         # Extract question_ids from competencies data
         competencies = data.get("data")
         question_ids = [str(value['question_id']) for value in competencies]
