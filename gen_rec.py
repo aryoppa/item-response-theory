@@ -1,7 +1,6 @@
 import json
 import pandas as pd
 import numpy as np
-import gen_rec  # Import the generate_recommendations module
 from sklearn.metrics.pairwise import cosine_similarity
 
 def load_json_file(filepath):

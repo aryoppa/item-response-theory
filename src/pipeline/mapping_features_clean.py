@@ -15,10 +15,10 @@ def clean_question_data(filename):
 
     # Define mappings for parameter a and b
     competency_to_a = {
-        "main_verbs": 0.5, "tense": 0.6, "infinitives": 0.8, "passives": 1.0,
-        "have_+_participle": 1.2, "auxiliary_verbs": 1.4, "pronouns": 1.5,
-        "nouns": 1.4, "determiners": 1.2, "other_adjectives": 1.0,
-        "prepositions": 0.8, "conjunctions": 0.7, "subject_verb_agreement": 0.5
+        "main_verbs": 0.5, "tense": 0.75, "infinitives": 1.0, "passives": 1.25,
+        "have_+_participle": 1.5, "auxiliary_verbs": 1.75, "pronouns": 2.0,
+        "nouns": 1.75, "determiners": 1.5, "other_adjectives": 1.25,
+        "prepositions": 1.0, "conjunctions": 0.75, "subject_verb_agreement": 0.5
     }
     level_to_b = {"Level 1": -2, "Level 2": 0, "Level 3": 2}
 
@@ -41,8 +41,7 @@ def clean_question_data(filename):
             b_value = level_to_b[level]
 
             # Calculate parameter c: guessing likelihood
-            num_options = len(item.get("option_A", []))  # Assuming all options have equal length
-            c_value = 1 / num_options if num_options > 0 else 0
+            c_value = 0.25
 
             # Create a row for the question
             row = {
@@ -53,9 +52,9 @@ def clean_question_data(filename):
                 "option_D": item["option_D"][0],
                 "key_answer": item["answer"],
                 "Level": level,
-                "a_value": a_value,
-                "b_value": b_value,
-                "c_value": c_value
+                "a": a_value,
+                "b": b_value,
+                "c": c_value
             }
             # Add all level2 features to the row
             row.update(level2_features)

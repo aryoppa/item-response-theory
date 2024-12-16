@@ -49,27 +49,9 @@ def select_next_question(theta, questions):
 
 
 # Load the dataset
-csv_filepath = os.path.join(MAPPED_DIR, 'clean_questions.csv')
+csv_filepath = os.path.join(MAPPED_DIR, 'questions_database.csv')
 questions_df = pd.read_csv(csv_filepath)
 
-# Add IRT parameters to the dataset
-def assign_irt_parameters(level):
-    if level == "Level 1":
-        return np.random.uniform(0.5, 1.0), np.random.uniform(-2.0, -1.0), 0.25
-    elif level == "Level 2":
-        return np.random.uniform(1.0, 1.5), np.random.uniform(-1.0, 1.0), 0.25
-    elif level == "Level 3":
-        return np.random.uniform(1.5, 2.0), np.random.uniform(1.0, 2.0), 0.25
-    else:
-        return 1.0, 0.0, 0.25  # Default parameters
-
-questions_df[['a', 'b', 'c']] = questions_df['Level'].apply(
-    lambda level: pd.Series(assign_irt_parameters(level))
-)
-# Save questions_df to a CSV file in the MAPPED_DIR
-output_filepath = os.path.join(MAPPED_DIR, 'questions_with_parameters.csv')
-questions_df.to_csv(output_filepath, index=False)
-print(f"questions_df has been saved to {output_filepath}")
 
 # Test simulation
 theta = 0.0  # Initial ability estimate
