@@ -242,15 +242,30 @@ def analyze_incorrect_answers():
         incorrect_competencies_sums = incorrect_filtered_questions[competency_columns].sum().to_dict()
         correct_competencies_sum = correct_filtered_questions[competency_columns].sum().tolist()
         # Remove all competencies with a value of 1
+        
         adjusted_competencies_sum = {key: (0 if value == 1 else value) for key, value in incorrect_competencies_sums.items()}
         # cek = filtered_competencies_sum.to_dict()
-        # print(adjusted_competencies_sum)
-        # Get the top 3 sums while maintaining the original order of the competencies
-        top_3_competencies = {
-            key: value
-            for key, value in adjusted_competencies_sum.items()
-            if value in sorted(adjusted_competencies_sum.values(), reverse=True)[:3]
-        }
+        
+        # Check if all values are 0
+        if all(value == 0 for value in adjusted_competencies_sum.values()):
+            triggered_rules = [{
+                'antecedents': 'Tidak ada',
+                'consequents': 'Tidak ada',
+                'combined': 'Tidak ada',
+                'rule_id': 'Tidak ada'
+            }]
+            response = {
+            "triggered_rules": triggered_rules,
+            "recommendations": "Kamu berhasil menjawab semua soal dengan benar. Untuk mengecek kemampuanmu, silahkan lakukan tes ulang."
+            }
+            return jsonify(response)
+        else:
+            # Get the top 3 sums while maintaining the original order of the competencies
+            top_3_competencies = {
+                key: value
+                for key, value in adjusted_competencies_sum.items()
+                if value in sorted(adjusted_competencies_sum.values(), reverse=True)[:3]
+            }
 
         # Keep the order of the competencies in the original dictionary
         top_3_competencies_ordered = {
@@ -259,10 +274,7 @@ def analyze_incorrect_answers():
             if key in top_3_competencies
         }
         # Extract the competencies that need improvement
-        competencies_needing_improvement = [comp for comp, score in adjusted_competencies_sum.items() if score > 0]
-
-        if not competencies_needing_improvement:
-            return jsonify({"message": "No competencies identified for improvement."}), 200
+        # competencies_needing_improvement = [comp for comp, score in adjusted_competencies_sum.items() if score > 0]
 
         # Load association rules
         rules_df = load_association_rules(os.path.join(DATA_DIR, 'apriori', 'association_rules.csv'))
