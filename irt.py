@@ -244,7 +244,7 @@ def analyze_incorrect_answers():
         # Remove all competencies with a value of 1
         adjusted_competencies_sum = {key: (0 if value == 1 else value) for key, value in incorrect_competencies_sums.items()}
         # cek = filtered_competencies_sum.to_dict()
-        print(adjusted_competencies_sum)
+        # print(adjusted_competencies_sum)
         # Get the top 3 sums while maintaining the original order of the competencies
         top_3_competencies = {
             key: value

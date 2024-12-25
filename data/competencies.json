@@ -1,0 +1,15 @@
+{
+    "main_verbs": true,
+    "tense": false,
+    "infinitives": false,
+    "passives": false,
+    "have_+_participle": false,
+    "auxiliary_verbs": false,
+    "pronouns": true,
+    "nouns": false,
+    "determiners": true,
+    "other_adjectives": false,
+    "prepositions": false,
+    "conjunctions": false,
+    "subject_verb_agreement": false
+}

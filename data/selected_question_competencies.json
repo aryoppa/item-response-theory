@@ -1,0 +1,92 @@
+[
+    {
+        "question_id": 297,
+        "competencies": {
+            "main_verbs": false,
+            "tense": false,
+            "infinitives": true,
+            "passives": false,
+            "have_+_participle": false,
+            "auxiliary_verbs": true,
+            "pronouns": true,
+            "nouns": true,
+            "determiners": false,
+            "other_adjectives": false,
+            "prepositions": true,
+            "conjunctions": false,
+            "subject_verb_agreement": false
+        }
+    },
+    {
+        "question_id": 117,
+        "competencies": {
+            "main_verbs": false,
+            "tense": false,
+            "infinitives": false,
+            "passives": true,
+            "have_+_participle": false,
+            "auxiliary_verbs": false,
+            "pronouns": true,
+            "nouns": true,
+            "determiners": false,
+            "other_adjectives": false,
+            "prepositions": true,
+            "conjunctions": false,
+            "subject_verb_agreement": false
+        }
+    },
+    {
+        "question_id": 269,
+        "competencies": {
+            "main_verbs": false,
+            "tense": true,
+            "infinitives": false,
+            "passives": false,
+            "have_+_participle": false,
+            "auxiliary_verbs": false,
+            "pronouns": true,
+            "nouns": true,
+            "determiners": true,
+            "other_adjectives": false,
+            "prepositions": false,
+            "conjunctions": false,
+            "subject_verb_agreement": false
+        }
+    },
+    {
+        "question_id": 273,
+        "competencies": {
+            "main_verbs": true,
+            "tense": true,
+            "infinitives": false,
+            "passives": false,
+            "have_+_participle": true,
+            "auxiliary_verbs": true,
+            "pronouns": true,
+            "nouns": true,
+            "determiners": true,
+            "other_adjectives": false,
+            "prepositions": false,
+            "conjunctions": false,
+            "subject_verb_agreement": false
+        }
+    },
+    {
+        "question_id": 296,
+        "competencies": {
+            "main_verbs": false,
+            "tense": false,
+            "infinitives": true,
+            "passives": false,
+            "have_+_participle": false,
+            "auxiliary_verbs": true,
+            "pronouns": false,
+            "nouns": true,
+            "determiners": true,
+            "other_adjectives": false,
+            "prepositions": true,
+            "conjunctions": false,
+            "subject_verb_agreement": false
+        }
+    }
+]

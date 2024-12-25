@@ -1,7 +1,7 @@
 __pycache__/
 .ipynb_checkpoints/
-data/apriori
-data/datas
-data/raw
-data
-notebooks/
+# data/apriori
+# data/datas
+# data/raw
+# data
+# notebooks/
