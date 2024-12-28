@@ -97,14 +97,35 @@ def select_next_question(theta: float, questions: pd.DataFrame, target_competenc
     return questions.loc[questions['information'].idxmax()]
     
 def generate_recommendation(antecedents, consequents):
+    # Map antecedents to their formatted names
+    antecedent_mapping = {
+        "main_verbs": "Main Verbs",
+        "tense": "Tenses",
+        "infinitives": "Infinitives",
+        "passives": "Passives",
+        "have_+_participle": "Have + Participle",
+        "auxiliary_verbs": "Auxiliary Verbs",
+        "pronouns": "Pronouns",
+        "nouns": "Nouns",
+        "determiners": "Determiners",
+        "other_adjectives": "Other Adjectives",
+        "prepositions": "Prepositions",
+        "conjunctions": "Conjunctions",
+        "subject_verb_agreement": "Subject Verb Agreements"
+    }
+    
+    # Reassign antecedents with formatted names
+    formatted_antecedents = [antecedent_mapping.get(item, item) for item in antecedents]
+    formatted_consequents = [antecedent_mapping.get(item, item) for item in consequents]
+    
     # Create a recommendation sentence based on the competencies
-    prompt = f"Berdasarkan hasil tes Anda, Anda perlu mempelajari ulang bab berikut: {', '.join(antecedents)}. " \
-             f"Anda juga dihimbau untuk mempelajari bab {', '.join(consequents)} untuk meningkatkan kemampuan Anda."
+    prompt = "Berdasarkan hasil tes Anda, Anda sangat perlu mempelajari ulang bab berikut:\n" + \
+             "\n".join([f"{i+1}. {item}" for i, item in enumerate(formatted_antecedents)]) + \
+             "\nDikarenakan Anda menjawab salah pada soal dengan karakteristik yang sama\n\n" + \
+             "Anda juga dihimbau untuk mempelajari bab:\n" + \
+             "\n".join([f"{i+1}. {item}" for i, item in enumerate(formatted_consequents)]) + \
+             "\nUntuk meningkatkan kemampuan grammar Anda"
     
-    # inputs = tokenizer.encode(prompt, return_tensors='pt')
-    # outputs = model.generate(inputs, max_length=150, num_return_sequences=1, temperature=0.0)
-    
-    # recommendation = tokenizer.decode(outputs[0], skip_special_tokens=True)
     return prompt
 
 # API Endpoints
