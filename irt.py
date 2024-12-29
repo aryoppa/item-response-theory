@@ -84,6 +84,7 @@ def select_next_question(theta: float, questions: pd.DataFrame, target_competenc
         ValueError: If the input DataFrame is empty.
     """
     questions = questions.copy()
+    
     questions['similarity'] = questions.apply(
         lambda row: competency_similarity(target_competencies, row[competency_columns].values), axis=1
     )
@@ -137,9 +138,11 @@ def get_question():
         if not data:
             return jsonify({"error": "Request body must be JSON"}), 400
 
+        # print(data)
         asked_questions = data.get('asked_questions', [])
-        target_competencies = data.get('target_competencies', [1] * len(competency_columns))
-        
+        target_competencies1 = data.get('target_competencies', [1] * len(competency_columns))
+
+        print(target_competencies1, "ini target competencies")
         # Retrieve theta value (default to 0.0 if not found)
         theta = data.get('theta', 0.0)
 
@@ -154,8 +157,13 @@ def get_question():
         if not asked_questions:
             question = available_questions.sample(1).iloc[0]
         else:
-            question = select_next_question(theta, available_questions, target_competencies)
+            question = select_next_question(theta, available_questions, target_competencies1)
+        target_competencies = question[competency_columns].to_dict()
 
+        target_competencies_matrix = [
+            1 if target_competencies[col] else 0 for col in competency_columns
+        ]
+        # print(target_competencies_matrix, "ini next question")
         response = {
             "question_id": int(question['question_id']),
             "question_text": question['question_text'],
@@ -167,7 +175,8 @@ def get_question():
             "a_value": float(question['a']),
             "b_value": float(question['b']),
             "c_value": float(question['c']),
-            "theta": theta
+            "theta": theta,
+            "target_competencies": target_competencies_matrix
         }
         return jsonify(response)
 
@@ -189,7 +198,6 @@ def submit_answer():
         theta = float(data.get('theta', 0))  # Default to 0 if theta is missing
         question_id = int(data['question_id'])
         is_correct = int(data['is_correct'])
-
         # Validate the is_correct field
         if is_correct not in [0, 1]:
             return jsonify({"error": "'is_correct' must be 0 or 1"}), 400
@@ -200,6 +208,11 @@ def submit_answer():
             return jsonify({"error": "Invalid question_id"}), 400
         question = question.iloc[0]
 
+        target_competencies = question[competency_columns].to_dict()
+        target_competencies_matrix = [
+            1 if target_competencies[col] else 0 for col in competency_columns
+        ]
+        # print(target_competencies_matrix)
         # Update theta based on correctness
         a, b, c = question['a'], question['b'], question['c']
         prob = calculate_probability(theta, float(a), float(b), float(c))
@@ -210,12 +223,15 @@ def submit_answer():
         if 'incorrect_answers' not in session:
             session['incorrect_answers'] = []
 
+
+
         # Prepare response
         response = {
             "theta": theta,
             "question_id": question_id,
             "question_text": question['question_text'],
-            "correct_answer": question['key_answer']
+            "correct_answer": question['key_answer'],
+            "target_competencies": target_competencies_matrix
         }
         return jsonify(response)
 
